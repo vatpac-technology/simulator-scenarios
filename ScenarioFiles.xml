@@ -14,7 +14,7 @@
         <Squawk Code="4117" ModeC="true" />
         <Position Latitude="-37.202087" Longitude="146.119146" Speed="410" Altitude="24000" />
         <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="VHVOC SEL/MQDS PER/C NAV/RNP10 OPR/VIRGIN AUSTRALIA /v/">TESAT H65 WAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
-        <Route>LIZZI HORUS NEFER BELTA ML</Route>
+        <Route>TESAT H65 RAZZI Q29 LIZZI</Route>
       </Aircraft>
       <Aircraft Callsign="QFA455" Type="B763" Delay="0">
         <Squawk Code="3111" ModeC="true" />
