@@ -7,55 +7,55 @@
       <Aircraft Callsign="QFA6202" Type="B744" Delay="0">
         <Squawk Code="4213" ModeC="true" />
         <Position Latitude="-37.306667" Longitude="145.915" Speed="440" Altitude="22000" />
-        <FlightPlan Departure="YSSY" Destination="YMAV" Alternative="" Rules="1" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/OJS SEL/JKAR PER/D NAV/RNP2 OPR/QANTAS /v/">TESAT H65 RAZZI Q29 ML JAYBI5/18</FlightPlan>
+        <FlightPlan Active="true" Departure="YSSY" Destination="YMAV" Alternative="" Rules="1" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/OJS SEL/JKAR PER/D NAV/RNP2 OPR/QANTAS /v/">TESAT H65 RAZZI Q29 ML JAYBI5/18</FlightPlan>
         <Route>LIZZI ML JAYBI BEKKA TEMPL AV</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ876" Type="B738" Delay="0">
         <Squawk Code="4117" ModeC="true" />
         <Position Latitude="-37.202087" Longitude="146.119146" Speed="410" Altitude="24000" />
-        <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="VHVOC SEL/MQDS PER/C NAV/RNP10 OPR/VIRGIN AUSTRALIA /v/">TESAT H65 WAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
+        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="VHVOC SEL/MQDS PER/C NAV/RNP10 OPR/VIRGIN AUSTRALIA /v/">TESAT H65 WAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
         <Route>LIZZI HORUS NEFER BELTA ML</Route>
       </Aircraft>
       <Aircraft Callsign="QFA455" Type="B763" Delay="0">
         <Squawk Code="3111" ModeC="true" />
         <Position Latitude="-37.00189199999999" Longitude="146.500724" Speed="420" Altitude="26000" />
-        <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHZXA SEL/DEPQ PER/D NAV/RNP10 OPR/QANTAS /v/">TESAT H65 RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
+        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHZXA SEL/DEPQ PER/D NAV/RNP10 OPR/QANTAS /v/">TESAT H65 RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
         <Route>LIZZI HORUS NEFER BELTA ML</Route>
       </Aircraft>
       <Aircraft Callsign="QFA692" Type="B738" Delay="0">
         <Squawk Code="3002" ModeC="true" />
         <Position Latitude="-36.435914000000004" Longitude="142.589585" Speed="430" Altitude="33000" />
-        <FlightPlan Departure="YPAD" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="440" ETD="0001" ATD="0001" RFL="35000" EETHours="00" EETMins="10" FuelHours="0" FuelMins="0" Remarks="REG/VHVXQ SEL/GRDH PER/C NAV/RNP10 OPR/QANTAS /v/">BENDO Y12 ARBEY ARBE6A/16</FlightPlan>
+        <FlightPlan Active="true" Departure="YPAD" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="440" ETD="0001" ATD="0001" RFL="35000" EETHours="00" EETMins="10" FuelHours="0" FuelMins="0" Remarks="REG/VHVXQ SEL/GRDH PER/C NAV/RNP10 OPR/QANTAS /v/">BENDO Y12 ARBEY ARBE6A/16</FlightPlan>
         <Route>APPLE ARBEY BELTA ML</Route>
       </Aircraft>
       <Aircraft Callsign="TGG820" Type="A320" Delay="0">
         <Squawk Code="4112" ModeC="true" />
         <Position Latitude="-36.44023599999999" Longitude="147.330813" Speed="410" Altitude="38000" />
-        <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="VHVOC SEL/MQDS PER/C NAV/RNP2 CS/TIGGOZ /v/">RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
+        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="VHVOC SEL/MQDS PER/C NAV/RNP2 CS/TIGGOZ /v/">RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
         <Route>LIZZI HORUS NEFER BELTA ML</Route>
       </Aircraft>
       <Aircraft Callsign="QFA699" Type="B738" Delay="0">
         <Squawk Code="3001" ModeC="true" />
         <Position Latitude="-36.305962" Longitude="142.20600499999998" Speed="430" Altitude="35000" />
-        <FlightPlan Departure="YPAD" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="440" ETD="0001" ATD="0001" RFL="35000" EETHours="00" EETMins="10" FuelHours="0" FuelMins="0" Remarks="REG/VHVXQ SEL/GRDH PER/C NAV/RNP2 OPR/QANTAS /v/">BENDO Y12 ARBEY ARBE6A/16</FlightPlan>
+        <FlightPlanActive="true" Departure="YPAD" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="440" ETD="0001" ATD="0001" RFL="35000" EETHours="00" EETMins="10" FuelHours="0" FuelMins="0" Remarks="REG/VHVXQ SEL/GRDH PER/C NAV/RNP2 OPR/QANTAS /v/">BENDO Y12 ARBEY ARBE6A/16</FlightPlan>
         <Route>KEPPA APPLE ARBEY BELTA ML</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ1755" Type="B738" Delay="0">
         <Squawk Code="4337" ModeC="true" />
         <Position Latitude="-40.356549" Longitude="146.565559" Speed="420" Altitude="36000" />
-        <FlightPlan Departure="YMHB" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="420" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHVUG SEL/PRBF PER/C NAV/RNP2 OPR/VIRGIN AUSTRALIA /v/">KANLI H111 LT H215 WAREN WARE7A/16</FlightPlan>
+        <FlightPlan Active="true" Departure="YMHB" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="420" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHVUG SEL/PRBF PER/C NAV/RNP2 OPR/VIRGIN AUSTRALIA /v/">KANLI H111 LT H215 WAREN WARE7A/16</FlightPlan>
         <Route>FLIKI WAREN MICHM MONTY SANDR LAGUG NEFER BELTA ML</Route>
       </Aircraft>
       <Aircraft Callsign="JST811" Type="A320" Delay="0">
         <Squawk Code="4115" ModeC="true" />
         <Position Latitude="-36.004223" Longitude="148.301395" Speed="410" Altitude="38000" />
-        <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="VHVOC SEL/MQDS PER/C NAV/RNP2 OPR/JETSTAR /v/">DCT SY H65 RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
+        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="VHVOC SEL/MQDS PER/C NAV/RNP2 OPR/JETSTAR /v/">DCT SY H65 RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
         <Route>LIZZI HORUS NEFER BELTA ML</Route>
       </Aircraft>
       <Aircraft Callsign="YMF7000" Type="" Delay="0">
         <Squawk Code="3002" ModeC="true" />
         <Position Latitude="-35.104301" Longitude="145.318048" Speed="430" Altitude="30000" />
-        <FlightPlan Departure="YBBN" Destination="YMAV" Alternative="" Rules="1" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="30000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHFWI SEL/ACHP PER/C NAV/RNP10 OPR/COMPASS LOGISTICS /v/">PKS Q923 CANTY JAYBI5/18</FlightPlan>
+        <FlightPlan Active="true" Departure="YBBN" Destination="YMAV" Alternative="" Rules="1" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="30000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHFWI SEL/ACHP PER/C NAV/RNP10 OPR/COMPASS LOGISTICS /v/">PKS Q923 CANTY JAYBI5/18</FlightPlan>
         <Route>CANTY SOAPY JAYBI LLOYD AV</Route>
       </Aircraft>
       <Aircraft Callsign="JST626" Type="A320" Delay="0">
@@ -103,37 +103,37 @@
       <Aircraft Callsign="HUT" Type="PA31" Delay="0">
         <Squawk Code="2211" ModeC="true" />
         <Position Latitude="-37.143527" Longitude="145.905625" Speed="190" Altitude="8000" />
-        <FlightPlan Departure="YHOT" Destination="YMMB" Alternative="" Rules="1" CruiseSpeed="180" ETD="0000" ATD="0000" RFL="8000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">YHOT Z82 TEMIS W188 COLDS MB</FlightPlan>
+        <FlightPlan Active="true" Departure="YHOT" Destination="YMMB" Alternative="" Rules="1" CruiseSpeed="180" ETD="0000" ATD="0000" RFL="8000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">YHOT Z82 TEMIS W188 COLDS MB</FlightPlan>
         <Route>TEMIS LACEY COLDS MB</Route>
       </Aircraft>
       <Aircraft Callsign="WHB" Type="C172" Delay="0">
         <Squawk Code="1200" ModeC="false" />
         <Position Latitude="-38.015096" Longitude="144.586399" Speed="120" Altitude="1500" />
-        <FlightPlan Departure="YMAV" Destination="YHOT" Alternative="" Rules="1" CruiseSpeed="120" ETD="0000" ATD="0000" RFL="1500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WBER FGN YLIL</FlightPlan>
+        <FlightPlan Active="true" Departure="YMAV" Destination="YHOT" Alternative="" Rules="1" CruiseSpeed="120" ETD="0000" ATD="0000" RFL="1500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WBER FGN YLIL</FlightPlan>
         <Route>WBER FGN</Route>
       </Aircraft>
       <Aircraft Callsign="EXG" Type="C206" Delay="0">
         <Squawk Code="2213" ModeC="true" />
         <Position Latitude="-36.86389" Longitude="144.396741" Speed="140" Altitude="4000" />
-        <FlightPlan Departure="YBDG" Destination="YMMB" Alternative="" Rules="1" CruiseSpeed="140" ETD="0000" ATD="0000" RFL="4000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TELIP ML MB</FlightPlan>
+        <FlightPlan Active="true" Departure="YBDG" Destination="YMMB" Alternative="" Rules="1" CruiseSpeed="140" ETD="0000" ATD="0000" RFL="4000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TELIP ML MB</FlightPlan>
         <Route>ML MB</Route>
       </Aircraft>
       <Aircraft Callsign="LOI" Type="C172" Delay="0">
         <Squawk Code="1200" ModeC="false" />
         <Position Latitude="-37.308091" Longitude="144.924729" Speed="120" Altitude="3000" />
-        <FlightPlan Alternative="" Rules="1" CruiseSpeed="0" ETD="0000" ATD="0000" RFL="0" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT</FlightPlan>
+        <FlightPlan Active="true" Alternative="" Rules="1" CruiseSpeed="0" ETD="0000" ATD="0000" RFL="0" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT</FlightPlan>
         <Route>LCD IRVAK</Route>
       </Aircraft>
       <Aircraft Callsign="COW" Type="C206" Delay="0">
         <Squawk Code="1200" ModeC="false" />
         <Position Latitude="-37.205944" Longitude="144.42521699999998" Speed="130" Altitude="1578" />
-        <FlightPlan Alternative="" Rules="1" CruiseSpeed="0" ETD="0000" ATD="0000" RFL="0" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT</FlightPlan>
+        <FlightPlan Active="true" Alternative="" Rules="1" CruiseSpeed="0" ETD="0000" ATD="0000" RFL="0" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT</FlightPlan>
         <Route />
       </Aircraft>
       <Aircraft Callsign="MOO" Type="C172" Delay="0">
         <Squawk Code="1200" ModeC="false" />
         <Position Latitude="-37.977829" Longitude="145.12986" Speed="130" Altitude="2500" />
-        <FlightPlan Alternative="" Rules="1" CruiseSpeed="0" ETD="0000" ATD="0000" RFL="0" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT</FlightPlan>
+        <FlightPlan Active="true" Alternative="" Rules="1" CruiseSpeed="0" ETD="0000" ATD="0000" RFL="0" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT</FlightPlan>
         <Route>PORTS WBES</Route>
       </Aircraft>
     </Targets>
