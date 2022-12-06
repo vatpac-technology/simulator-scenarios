@@ -1,6 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ScenarioFiles xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ScenarioFile>
+    <Name>VFR Melbourne</Name>
+    <Type>Testing</Type>
+    <Targets>
+      <Aircraft Callsign="ABC" Type="C172" Delay="0">
+        <Squawk Code="1200" ModeC="true" />
+        <Position Latitude="-37.662335" Longitude="144.848475" Speed="0" Altitude="397" />
+        <FlightPlan Active="true" Departure="YSSY" Destination="YMAV" Alternative="" Rules="V" CruiseSpeed="110" ETD="0000" ATD="0000" RFL="5500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/OJS SEL/JKAR PER/D NAV/RNP2 OPR/QANTAS /v/">TESAT H65 RAZZI Q29 ML JAYBI5/18</FlightPlan>
+        <Route>LIZZI ML JAYBI BEKKA TEMPL AV</Route>
+      </Aircraft>
+      <Aircraft Callsign="DEF" Type="C172" Delay="0">
+        <Squawk Code="4117" ModeC="true" />
+        <Position Latitude="-37.662335" Longitude="144.848475" Speed="0" Altitude="397" />
+        <FlightPlan Active="true" Departure="YSSY" Destination="YMAV" Alternative="" Rules="2" CruiseSpeed="110" ETD="0000" ATD="0000" RFL="5500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/OJS SEL/JKAR PER/D NAV/RNP2 OPR/QANTAS /v/">TESAT H65 RAZZI Q29 ML JAYBI5/18</FlightPlan>
+        <Route>LIZZI HORUS NEFER BELTA ML</Route>
+      </Aircraft>
+      <Aircraft Callsign="DEF" Type="C172" Delay="0">
+        <Squawk Code="4117" ModeC="true" />
+        <Position Latitude="-37.662335" Longitude="144.848475" Speed="0" Altitude="397" />
+        <Route>LIZZI HORUS NEFER BELTA ML</Route>
+      </Aircraft>
+    </Targets>
+  </ScenarioFile>
+  <ScenarioFile>
     <Name>TMA Melbourne 16</Name>
     <Type>TMA</Type>
     <Targets>
@@ -37,7 +60,7 @@
       <Aircraft Callsign="QFA699" Type="B738" Delay="0">
         <Squawk Code="3001" ModeC="true" />
         <Position Latitude="-36.305962" Longitude="142.20600499999998" Speed="430" Altitude="35000" />
-        <FlightPlanActive="true" Departure="YPAD" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="440" ETD="0001" ATD="0001" RFL="35000" EETHours="00" EETMins="10" FuelHours="0" FuelMins="0" Remarks="REG/VHVXQ SEL/GRDH PER/C NAV/RNP2 OPR/QANTAS /v/">BENDO Y12 ARBEY ARBE6A/16</FlightPlan>
+        <FlightPlan Active="true" Departure="YPAD" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="440" ETD="0001" ATD="0001" RFL="35000" EETHours="00" EETMins="10" FuelHours="0" FuelMins="0" Remarks="REG/VHVXQ SEL/GRDH PER/C NAV/RNP2 OPR/QANTAS /v/">BENDO Y12 ARBEY ARBE6A/16</FlightPlan>
         <Route>KEPPA APPLE ARBEY BELTA ML</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ1755" Type="B738" Delay="0">
