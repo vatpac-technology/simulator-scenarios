@@ -8,12 +8,12 @@
         <Squawk Code="1200" ModeC="true" />
         <Position Latitude="-37.662335" Longitude="144.848475" Speed="0" Altitude="397" />
         <FlightPlan Departure="YMML" Destination="YPAD" Alternative="" Rules="V" CruiseSpeed="100" ETD="0000" ATD="0000" RFL="5500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="">NEVIS H345 DRINA DCT</FlightPlan>
-        <Route>ATNOL NEVIS BORTO</Route>
+        <Route>BORTO</Route>
       </Aircraft>
       <Aircraft Callsign="DEF" Type="C172" Delay="0">
         <Squawk Code="4117" ModeC="true" />
         <Position Latitude="-37.662335" Longitude="144.848475" Speed="0" Altitude="397" />
-        <Route>ATNOL NEVIS BORTO</Route>
+        <Route>BORTO AD</Route>
       </Aircraft>
     </Targets>
   </ScenarioFile>
