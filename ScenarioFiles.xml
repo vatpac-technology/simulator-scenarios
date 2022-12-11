@@ -411,7 +411,7 @@
         <Squawk Code="4213" ModeC="true" />
         <Position Latitude="-37.230737000000005" Longitude="146.05638" Speed="440" Altitude="9000" />
         <FlightPlan Active="true" Departure="YSSY" Destination="YMAV" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/OJS SEL/JKAR PER/D NAV/RNP2 OPR/QANTAS   /v/">TESAT H65 RAZZI Q29 ML JAYBI5/18</FlightPlan>
-        <Route>TAREX LIZZI ML JAYBI TEMPL</Route>
+        <Route>LIZZI ML JAYBI TEMPL</Route>
       </Aircraft>
       <Aircraft Callsign="AZJ" Type="PA31" Delay="0">
         <Squawk Code="3233" ModeC="true" />
