@@ -278,9 +278,9 @@
       </Aircraft>
       <Aircraft Callsign="SRP" Type="C182" Delay="0">
         <Squawk Code="1200" ModeC="true" />
-        <Position Latitude="-35.712697000000006" Longitude="139.236864" Speed="0" Altitude="3500" />
-        <FlightPlan Departure="YBOR" Destination="YPAD" Alternative="" Rules="1" CruiseSpeed="140" ETD="1720" ATD="1720" RFL="3500" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="/v/">SYN MBR YPAD</FlightPlan>
-        <Route>SYN MBR</Route>
+        <Position Latitude="-35.712697000000006" Longitude="139.236864" Speed="0" Altitude="2500" />
+        <FlightPlan Departure="YBOR" Destination="YPAD" Alternative="" Rules="1" CruiseSpeed="140" ETD="1720" ATD="1720" RFL="2500" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="/v/">SYN MBR YPAD</FlightPlan>
+        <Route>SYN MBR YPAD</Route>
       </Aircraft>
     </Targets>
   </ScenarioFile>
