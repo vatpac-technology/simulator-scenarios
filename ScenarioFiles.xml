@@ -232,7 +232,7 @@
       </Aircraft>
       <Aircraft Callsign="RXA3458" Type="SF34" Delay="0">
         <Squawk Code="4417" ModeC="true" />
-        <Cleared Level="9000" />
+        <Cleared Level="16000" />
         <Position Latitude="-34.64600299999999" Longitude="136.538958" Speed="0" Altitude="19000" />
         <FlightPlan Active="true" Departure="YPLC" Destination="YPAD" Alternative="YPPF" Rules="1" CruiseSpeed="270" ETD="1720" ATD="1720" RFL="19000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV REG/VHKDO PER/B /v/">DCT PLC V707 RIKAB RIKA8A/23</FlightPlan>
         <Route>PILBY RIKAB GULFS GLOBE ELIZA GULLY RWY23 AD</Route>
