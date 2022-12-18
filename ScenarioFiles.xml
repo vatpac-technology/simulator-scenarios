@@ -211,7 +211,7 @@
       </Aircraft>
       <Aircraft Callsign="JST224" Type="A320" Delay="0">
         <Squawk Code="3211" ModeC="true" />
-        <Cleared Level="5000" />
+        <Cleared Level="9000" />
         <Position Latitude="-35.484521" Longitude="139.331039" Speed="0" Altitude="14000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YPAD" Alternative="YMML" Rules="1" CruiseSpeed="440" ETD="1720" ATD="1720" RFL="34000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/AUSEP REG/VHHYA PER/C /v/">DCT ML H345 DRINA DRIN9A/23</FlightPlan>
         <Route>DRINA COMLY DISHA BRAKI GULLY RWY23 AD</Route>
@@ -268,7 +268,7 @@
         <Squawk Code="5112" ModeC="true" />
         <Position Latitude="-34.03069" Longitude="137.173483" Speed="0" Altitude="15000" />
         <FlightPlan Active="true" Departure="YCEE" Destination="YKSC" Alternative="YPAD" Rules="1" CruiseSpeed="230" ETD="1720" ATD="1720" RFL="15000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV OPR/RFDS PER/B /v/">DCT MUTHA A585 HAWKY EEMUE VAVPA DCT</FlightPlan>
-        <Route>HAWKY VAVPA</Route>
+        <Route>HAWKY eemue VAVPA</Route>
       </Aircraft>
       <Aircraft Callsign="FSC" Type="SR20" Delay="0">
         <Squawk Code="2000" ModeC="true" />
