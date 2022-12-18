@@ -268,11 +268,11 @@
         <Squawk Code="5112" ModeC="true" />
         <Position Latitude="-34.03069" Longitude="137.173483" Speed="0" Altitude="15000" />
         <FlightPlan Active="true" Departure="YCEE" Destination="YKSC" Alternative="YPAD" Rules="1" CruiseSpeed="230" ETD="1720" ATD="1720" RFL="15000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV OPR/RFDS PER/B /v/">DCT MUTHA A585 HAWKY EEMUE VAVPA DCT</FlightPlan>
-        <Route>HAWKY eemue VAVPA</Route>
+        <Route>HAWKY EEMUE VAVPA</Route>
       </Aircraft>
       <Aircraft Callsign="FSC" Type="SR20" Delay="0">
         <Squawk Code="2000" ModeC="true" />
-        <Position Latitude="-35.481667" Longitude="138.751667" Speed="0" Altitude="66" />
+        <Position Latitude="-35.709673" Longitude="137.528295" Speed="0" Altitude="66" />
         <FlightPlan Departure="YKSC" Destination="YMIA" Alternative="" Rules="1" CruiseSpeed="165" ETD="1720" ATD="1720" RFL="6000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="/v/">DCT VAVPA V175 AD V361 MIA DCT</FlightPlan>
         <Route>VAVPA GITOP ELROX AD SEDAN MIA</Route>
       </Aircraft>
