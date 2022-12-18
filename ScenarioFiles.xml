@@ -260,12 +260,14 @@
       </Aircraft>
       <Aircraft Callsign="WZA" Type="C172" Delay="0">
         <Squawk Code="5652" ModeC="true" />
+        <Cleared Level="4000" />
         <Position Latitude="-34.54367800000001" Longitude="139.474368" Speed="0" Altitude="4000" />
         <FlightPlan Active="true" Departure="YBHI" Destination="YKSC" Alternative="YPAD" Rules="1" CruiseSpeed="110" ETD="1720" ATD="1720" RFL="4000" EETHours="02" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV PER/B /v/">DCT ATPIP VAVPA DCT</FlightPlan>
         <Route>ATPIP VAVPA</Route>
       </Aircraft>
       <Aircraft Callsign="FD512" Type="PC12" Delay="0">
         <Squawk Code="5112" ModeC="true" />
+        <Cleared Level="15000" />
         <Position Latitude="-34.03069" Longitude="137.173483" Speed="0" Altitude="15000" />
         <FlightPlan Active="true" Departure="YCEE" Destination="YKSC" Alternative="YPAD" Rules="1" CruiseSpeed="230" ETD="1720" ATD="1720" RFL="15000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV OPR/RFDS PER/B /v/">DCT MUTHA A585 HAWKY EEMUE VAVPA DCT</FlightPlan>
         <Route>HAWKY EEMUE VAVPA</Route>
