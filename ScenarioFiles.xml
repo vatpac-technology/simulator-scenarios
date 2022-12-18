@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <ScenarioFiles xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ScenarioFile>
     <Name>Test</Name>
@@ -223,40 +223,12 @@
         <FlightPlan Active="true" Departure="YBBN" Destination="YPAD" Alternative="YMML" Rules="I" CruiseSpeed="430" ETD="1720" ATD="1720" RFL="36000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV REG/VHYFE PER/C /v/">TESAT H44 MAXEM Q60 BLACK BLAC3A/23</FlightPlan>
         <Route>BLACK PLEZN KERRS GULLY AD</Route>
       </Aircraft>
-      <Aircraft Callsign="TGG521" Type="A320" Delay="0">
-        <Squawk Code="4710" ModeC="true" />
-        <Cleared Level="9000" />
-        <Position Latitude="-37.267989" Longitude="143.50829599999997" Speed="0" Altitude="32000" />
-        <FlightPlan Active="true" Departure="YMML" Destination="YPAD" Alternative="YMML" Rules="I" CruiseSpeed="450" ETD="1720" ATD="1720" RFL="32000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/AUSEP PER/C /v/">DCT ML H345 DRINA DRIN9A/23</FlightPlan>
-        <Route>NEVIS DRINA COMLY DISHA BRAKI GULLY RWY23 AD</Route>
-      </Aircraft>
       <Aircraft Callsign="RXA3458" Type="SF34" Delay="0">
         <Squawk Code="4417" ModeC="true" />
         <Cleared Level="16000" />
         <Position Latitude="-34.64600299999999" Longitude="136.538958" Speed="0" Altitude="19000" />
         <FlightPlan Active="true" Departure="YPLC" Destination="YPAD" Alternative="YPPF" Rules="I" CruiseSpeed="270" ETD="1720" ATD="1720" RFL="19000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV REG/VHKDO PER/B /v/">DCT PLC V707 RIKAB RIKA8A/23</FlightPlan>
         <Route>PILBY RIKAB GULFS GLOBE ELIZA GULLY RWY23 AD</Route>
-      </Aircraft>
-      <Aircraft Callsign="VOZ733" Type="B737" Delay="0">
-        <Squawk Code="2621" ModeC="true" />
-        <Cleared Level="9000" />
-        <Position Latitude="-33.808059" Longitude="142.68437600000001" Speed="0" Altitude="38000" />
-        <FlightPlan Active="true" Departure="YBBN" Destination="YPAD" Alternative="YMML" Rules="I" CruiseSpeed="430" ETD="1720" ATD="1720" RFL="38000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV REG/VHVOR PER/C /v/">BN H62 WIZZA UQ440 HARDD Q295 NBR UH408 NYN T77 BLACK BLAC3A/23</FlightPlan>
-        <Route>UVUPU BLACK PLEZN KERRS GULLY RWY23 AD</Route>
-      </Aircraft>
-      <Aircraft Callsign="ZLE" Type="" Delay="0">
-        <Squawk Code="2121" ModeC="true" />
-        <Position Latitude="-34.551179000000005" Longitude="132.918293" Speed="0" Altitude="45000" />
-        <Cleared Level="9000" />
-        <FlightPlan Active="true" Departure="YPPH" Destination="YPAD" Alternative="YMML" Rules="I" CruiseSpeed="480" ETD="1720" ATD="1720" RFL="45000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV REG/VHZLE PER/C /v/">PH Y135 ROGAS RIKAB RIKA8A/23</FlightPlan>
-        <Route>HYDRA ROGAS RIKAB GULFS GLOBE ELIZA GULLY RWY23 AD</Route>
-      </Aircraft>
-      <Aircraft Callsign="JST682" Type="A320" Delay="0">
-        <Squawk Code="4121" ModeC="true" />
-        <Position Latitude="-33.020163" Longitude="144.350335" Speed="0" Altitude="32000" />
-        <Cleared Level="9000" />
-        <FlightPlan Active="true" Departure="YBBN" Destination="YPAD" Alternative="YMML" Rules="I" CruiseSpeed="450" ETD="1720" ATD="1720" RFL="32000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/AUSEP PER/C /v/">BN H62 WIZZA UQ440 HARDD Q295 NBR UH408 NYN T77 BLACK BLAC3A/23</FlightPlan>
-        <Route>VENEL UVUPU BLACK PLEZN KERRS GULLY RWY23 AD</Route>
       </Aircraft>
       <Aircraft Callsign="WZA" Type="C172" Delay="0">
         <Squawk Code="5652" ModeC="true" />
