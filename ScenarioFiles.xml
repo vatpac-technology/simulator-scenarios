@@ -212,7 +212,7 @@
       <Aircraft Callsign="JST224" Type="A320" Delay="0">
         <Squawk Code="3211" ModeC="true" />
         <Cleared Level="9000" />
-        <Position Latitude="-35.484521" Longitude="139.331039" Speed="0" Altitude="14000" />
+        <Position Latitude="-35.484521" Longitude="139.331039" Speed="0" Altitude="16000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YPAD" Alternative="YMML" Rules="1" CruiseSpeed="440" ETD="1720" ATD="1720" RFL="34000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/AUSEP REG/VHHYA PER/C /v/">DCT ML H345 DRINA DRIN9A/23</FlightPlan>
         <Route>DRINA COMLY DISHA BRAKI GULLY RWY23 AD</Route>
       </Aircraft>
