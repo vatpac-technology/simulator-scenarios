@@ -15,7 +15,7 @@
     <Prototypes>
       <Prototype Name="Depture YSSY" Callsign="[VOZ|QFA|BNZ][3][0]" Type="[B738|A320]">
         <Cleared Level="5000" />
-        <Position atitude="-34.940456" Longitude="138.542781" Speed="1" Altitude="36" />
+        <Position Latitude="-34.940449" Longitude="138.542794" Speed="1" Altitude="36" />
         <FlightPlan Departure="YPAD" Destination="YSSY" Alternative="YSCB" Rules="I" CruiseSpeed="460" ETD="1720" ATD="1720" RFL="330" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV PER/C /v/">PANKI3/23 PANKI H247 CULIN Y59 TESAT</FlightPlan>
         <Route>COLPY SULLY MORPH CLARY BARKA MURRY PANKI</Route>
       </Prototype>
