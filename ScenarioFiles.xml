@@ -79,7 +79,7 @@
         <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="VHVOC SEL/MQDS PER/C NAV/RNP2 OPR/JETSTAR /v/">DCT SY H65 RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
         <Route>LIZZI HORUS NEFER BELTA ML</Route>
       </Aircraft>
-      <Aircraft Callsign="YMF7000" Type="" Delay="0">
+      <Aircraft Callsign="YMF7000" Type="F100" Delay="0">
         <Squawk Code="3002" ModeC="true" />
         <Position Latitude="-35.104301" Longitude="145.318048" Speed="430" Altitude="30000" />
         <FlightPlan Active="true" Departure="YBBN" Destination="YMAV" Alternative="" Rules="1" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="30000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHFWI SEL/ACHP PER/C NAV/RNP10 OPR/COMPASS LOGISTICS /v/">PKS Q923 CANTY JAYBI5/18</FlightPlan>
