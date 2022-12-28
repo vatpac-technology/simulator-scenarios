@@ -170,6 +170,7 @@
   <ScenarioFile>
     <Name>TMA Adelaide</Name>
     <Type>TMA</Type>
+    <StudentBriefing>For the purposes of this scenario Kingscote Airport is treated as being inside the Adelaide TCU.</StudentBriefing>
     <Targets>
       <Aircraft Callsign="VOZ455" Type="B738" Delay="0">
         <Squawk Code="2421" ModeC="false" />
