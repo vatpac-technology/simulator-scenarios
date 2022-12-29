@@ -39,20 +39,21 @@
 
     Melbourne Tower, Eildon Weir, and Yarrowee are online. Avalon Tower is closed.  
 
-    There is no significant weather within the TMA, although thunderstorms to the north of Melbourne have made sequencing difficult.  As a result, you may need to conduct last minute sequencing within your airspace.</StudentBriefing>
+    There is no significant weather within the TMA, although thunderstorms to the north of Melbourne have made enroute sequencing difficult.  As a result, you may need to conduct last minute sequencing within your airspace.</StudentBriefing>
     <InstructorNotes>All departures from YMML are already activated (assumes ML TWR online).  Departures from YMAV are not activated.  
 
-    LOI is tracking to Bendigo and will generally request flight following from ML APP.  No FDR exists for this aircraft, so student can either quick tag or create an FDR.  
+    **LOI** is tracking to Bendigo and will generally request flight following from ML APP.  No FDR exists for this aircraft, so student can either quick tag or create an FDR.  
 
-    EXG is intended to pass overhead YMML at an awkward level, requiring action from student.  Student is expected to intervene prior to issuing airways clearance, by offering climb or amended route.  
-    If reroute is offered, student should advise aircraft to: *"Expect clearance tracking via XXXXX, no reported IFR traffic"*.  Instructor should direct aircraft to track direct to that point at that time.  When clearance is available, student should indicate that the aircraft is: *"Cleared to YMMB via amended XXXXX, YYYYY, MB, enter controlled airspace at A035"*.
+    **EXG** is intended to pass overhead YMML at an awkward level, requiring action from student.  Student is expected to intervene prior to issuing airways clearance, by offering climb or amended route.  
+    If reroute is offered, student should advise aircraft to: *"Expect clearance tracking via XXXXX, no reported IFR traffic"*.  Instructor should direct aircraft to track direct to that point at that time.  When clearance is available, student should indicate that the aircraft is: *"Cleared to YMMB via amended XXXXX, YYYYY, MB, enter controlled airspace at A035"*.  
+    Tracking `DCT DARLY MB DCT` generally keeps EXG clear, but any other suitable route is acceptable.
 
-    WHB has planned a transit of the ML CTA at A015 and will require the student to identify them, issue clearance (if available), and cancel identification/control services once clear of CTA.  
+    **WHB** has planned a transit of the ML CTA at A015 and will require the student to identify them, issue clearance (if available), and cancel identification/control services once clear of CTA.  
     Initial call from WHB generally takes the form of: *"Melbourne Approach, WHB, C172, 5nm SW of FGN, A015, received November, for YHOT via FGN, request clearance"*.  
 
-    QFA6202 should be instructed to descend no lower than A060 until laterally clear of the YMML departure track, due autorelease in operation.  
+    **QFA6202** should be instructed to descend no lower than A060 until laterally clear of the YMML departure track, due autorelease in operation.  Their descent profile will put them at roughly FL190 crossing the Runway 27 DOSEL SID, so consider vertical separation assurance requirements with departures from YMML.  
 
-    VOZ1755 will generally conflict with aircraft on the LIZZI STAR and require aggressive speed control on first contact and/or vectors to the east to slot in behind.</InstructorNotes>
+    **VOZ1755** will generally conflict with aircraft on the LIZZI STAR and require aggressive speed control on first contact and/or vectors to the east to slot in behind.</InstructorNotes>
     <Targets>
       <Aircraft Callsign="QFA6202" Type="B744" Delay="0">
         <Squawk Code="4213" ModeC="true" />
