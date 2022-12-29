@@ -3,7 +3,7 @@
   <ScenarioFile>
     <Name>Test</Name>
     <Type>Test</Type>
-    <StudentBriefing>This is the description of the scenario to be given to the student.</StudentBriefing>
+    <StudentBriefing>This is the description of the scenario to be given to the student.<br><strong>Bold</strong><ul><li>List 1</li><li>List 2</li></ul></StudentBriefing>
     <InstructorNotes>These are the notes for the instructor on how to run the scenario.</InstructorNotes>
     <Targets>
       <Aircraft Callsign="QFA723" Type="B738" Delay="0">
