@@ -332,18 +332,36 @@
   <ScenarioFile>
     <Name>Enroute BIK</Name>
     <Type>Enroute</Type>
+    <StudentBriefing>You are operating Bindook, extending Yarrowee.  Eildon Weir has released the Canberra TMA to you.    
+
+    Sydney is running Runways 34 Left and Right.  Canberra is running Runway 35.  Instrument approaches are in use at all locations.  
+
+    Sydney Approach, Canberra Tower, Eildon Weir, and Armidale are online.    
+
+    There is no significant weather within your airspace.</StudentBriefing>
+    <InstructorNotes>Due to their positions, **YMA03** and **GR516** should be handed off to student when session begins.  
+
+    **SIA221** naturally estimates RIVET at similar time to **QFA501**.  If track shortening is given to SIA221, vertical separation assurance may be required with YMA03. Student should assume SIA221 at scenario start (even though they are slightly outside jurisdiction).  
+
+    **AM253** (departure from YSDU) should be departed early for best effect.  Student is expected to issue STAR clearance (but no runway assignment) with airways clearance after departure report (see YWE SOPs page).  Once aircraft is established in the sequence, runway assignment should be given (see BIK SOPs page).  
+
+    **QFA501** and **JST795** have built-in conflict, requiring speed control, track shortening to QFA501, or vectors. Can also be used to demonstrate a hold.  
+
+    **WFE** (departure from YBTH) should be departed early.  **REW** (departure from YGLB) is best utilised by departing when WFE is within 10 min of GLB, creating the need to pass IFR traffic to both aircraft.</InstructorNotes>
     <Targets>
       <Aircraft Callsign="QFA494" Type="B744" Delay="0">
         <Squawk Code="3125" ModeC="true" />
         <Position Latitude="-35.438611" Longitude="148.286111" Speed="390" Altitude="37000" />
+        <Cleared Level="37000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 TESAT DCT</FlightPlan>
-        <Route>TARAL RIVET</Route>
+        <Route>TARAL RIVET TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="SIA221" Type="A332" Delay="0">
         <Squawk Code="4157" ModeC="true" />
-        <Position Latitude="-32.707222" Longitude="147.965278" Speed="480" Altitude="39000" />
-        <FlightPlan Active="true" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TI A576 SIPUT W13 BLI A576 PKS H319 TARAL Y59 TESAT DCT</FlightPlan>
-        <Route>MAKKA TARAL RIVET</Route>
+        <Position Latitude="-33.05111111" Longitude="147.41944444" Speed="480" Altitude="39000" />
+        <Cleared Level="39000" />
+        <FlightPlan Active="true" Departure="WSSS" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TPG M635 ATMAP A576 APOMA Y52 VELGI Y105 TARAL Y59 TESAT</FlightPlan>
+        <Route>VELGI MAKKA TARAL RIVET TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="WFE" Type="BE58" Delay="0">
         <Squawk Code="1200" ModeC="false" />
@@ -354,56 +372,63 @@
       <Aircraft Callsign="VOZ634" Type="B738" Delay="0">
         <Squawk Code="4121" ModeC="true" />
         <Position Latitude="-34.28694" Longitude="151.096398" Speed="340" Altitude="20000" />
+        <Cleared Level="20000" />
         <FlightPlan Active="true" Departure="YSSY" Destination="YSCB" Alternative="" Rules="I" CruiseSpeed="0" ETD="0000" ATD="0000" RFL="20000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHVHF PER/C OPR/VOZ VIRTUAL NAV/RNP10 GPSRNAV RMK/TCAS EQUIPPED /v/">DCT TESAT H65 CB DCT</FlightPlan>
         <Route>WOL RAZZI</Route>
       </Aircraft>
       <Aircraft Callsign="YMA03" Type="B738" Delay="0">
         <Squawk Code="4122" ModeC="true" />
-        <Position Latitude="-33.881894" Longitude="150.947916" Speed="370" Altitude="28000" />
+        <Position Latitude="-33.881894" Longitude="150.947916" Speed="370" Altitude="14000" />
+        <Cleared Level="28000" />
         <FlightPlan Active="true" Departure="YSSY" Destination="YPAD" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KADOM H44 MAXEM Q60 BLACK V454 AD DCT</FlightPlan>
         <Route>KADOM CWR BORLI</Route>
       </Aircraft>
       <Aircraft Callsign="QFA692" Type="A333" Delay="0">
         <Squawk Code="3265" ModeC="true" />
         <Position Latitude="-35.8075" Longitude="147.705" Speed="479" Altitude="37000" />
+        <Cleared Level="37000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="15" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 TESAT DCT</FlightPlan>
-        <Route>NONUP CULIN TARAL RIVET</Route>
+        <Route>NONUP CULIN TARAL RIVET TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="GR516" Type="B738" Delay="0">
         <Squawk Code="3177" ModeC="true" />
         <Position Latitude="-34.391667" Longitude="150.959722" Speed="370" Altitude="24500" />
+        <Cleared Level="28000" />
         <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="18" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H65 RAZZI Q29 ML DCT</FlightPlan>
         <Route>RAZZI TANTA RUMIE NABBA BULLA LIZZI</Route>
       </Aircraft>
       <Aircraft Callsign="EVY701" Type="B737" Delay="0">
-        <Squawk Code="3000" ModeC="true" />
+        <Squawk Code="4452" ModeC="true" />
         <Position Latitude="-35.31977500000001" Longitude="149.19447600000004" Speed="0" Altitude="1877" />
+        <Cleared Level="10000" />
         <FlightPlan Active="true" Departure="YSCB" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="448" ETD="0010" ATD="0010" RFL="21000" EETHours="00" EETMins="50" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CB W423 CULIN Y59 TESAT DCT</FlightPlan>
-        <Route>CULIN TARAL RIVET</Route>
+        <Route>CULIN TARAL RIVET TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="JST795" Type="A321" Delay="0">
         <Squawk Code="3254" ModeC="true" />
         <Position Latitude="-36.189722" Longitude="147.04722199999998" Speed="451" Altitude="35000" />
+        <Cleared Level="35000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="445" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 TESAT DCT</FlightPlan>
-        <Route>NONUP CULIN TARAL RIVET</Route>
+        <Route>NONUP CULIN TARAL RIVET TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="QFA501" Type="B744" Delay="0">
         <Squawk Code="3361" ModeC="true" />
         <Position Latitude="-36.25277799999999" Longitude="146.93694399999998" Speed="488" Altitude="37000" />
+        <Cleared Level="37000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="10" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 TESAT DCT</FlightPlan>
-        <Route>NONUP CULIN TARAL RIVET</Route>
+        <Route>NONUP CULIN TARAL RIVET TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="REW" Type="PA31" Delay="0">
-        <Squawk Code="3000" ModeC="true" />
+        <Squawk Code="2000" ModeC="true" />
         <Position Latitude="-34.806111" Longitude="149.724722" Speed="0" Altitude="2159" />
         <FlightPlan Active="false" Departure="YGLB" Destination="YMER" Alternative="" Rules="I" CruiseSpeed="220" ETD="0000" ATD="0000" RFL="190" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1 REG/VHREW PER/B RMK/2POB   /v/">DCT GLB NERIG W40 URBOB W436 MER DCT</FlightPlan>
         <Route>NERIG URBOB MER</Route>
       </Aircraft>
       <Aircraft Callsign="AM253" Type="BE20" Delay="0">
-        <Squawk Code="3000" ModeC="true" />
+        <Squawk Code="2000" ModeC="true" />
         <Position Latitude="-32.213889" Longitude="148.576944" Speed="0" Altitude="899" />
         <FlightPlan Active="false" Departure="YSDU" Destination="YSSY" Alternative="YSRI" Rules="I" CruiseSpeed="180" ETD="0000" ATD="0000" RFL="19000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1 REG/VHAMQ PER/B RMK/4POB   /v/">DCT DU V138 AKMIR W113 TESAT DCT</FlightPlan>
-        <Route>AKMIR ODALE</Route>
+        <Route>AKMIR ODALE TESAT</Route>
       </Aircraft>
     </Targets>
   </ScenarioFile>
