@@ -1643,8 +1643,8 @@
   </ScenarioFile>
 
   <ScenarioFile>
-    <Name>PIY</Name>
-    <Type>ENR</Type>
+    <Name>Enroute PIY</Name>
+    <Type>Enroute</Type>
     <InstructorNotes>TBI</InstructorNotes>
     <Targets>
         <Aircraft Callsign="NWK1843" Type="F100" Delay="0">
