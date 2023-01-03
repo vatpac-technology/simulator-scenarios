@@ -1884,5 +1884,184 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <Route>BORVI TOPIR AVPAL HINDS CALIG JULIM</Route>
         </Aircraft>
     </Targets>
+  </ScenarioFile>
+
+  <ScenarioFile>
+    <Name>Enroute ARL</Name>
+    <Type>ENR</Type>
+    <InstructorNotes>TBI</InstructorNotes>
+    <Targets>
+        <Aircraft Callsign="ASY1091" Type="C17" Delay="0">
+            <Squawk Code="2000" ModeC="true" />
+            <Cleared Level="36000" />
+            <Position Latitude="-29.232222" Longitude="157.960833" Speed="450" Altitude="36000" />
+            <FlightPlan Departure="YAMB" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">MEPEM PADDY TABAL MISLY ABARB RIKNI N774 MARLN</FlightPlan>
+            <Route>MISLY ABARB RIKNI MARLN</Route>
+        </Aircraft>
+        <Aircraft Callsign="UAL842" Type="B773" Delay="0">
+            <Squawk Code="4001" ModeC="true" />
+            <Cleared Level="28000" />
+            <Position Latitude="-33.963558" Longitude="151.180469" Speed="0" Altitude="7" />
+            <FlightPlan Departure="YSSY" Destination="KLAX" Alternative="" Active="true" Rules="I" CruiseSpeed="490" ETD="0000" ATD="0000" RFL="31000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">SY2/34L DIPSO G595 GUTIV DCT ABARB/M084F330 B450 DUNAK/M085F350 B450 TUT DCT 05S165W DCT 00N161W DCT WOSLU DCT 10N154W/M085F370 DCT 15N150W DCT 22N140W DCT 25N135W DCT 28N130W/M085F390 DCT WEDES B581 FICKY GOATZ1</FlightPlan>
+            <Route>DIPSO GUTIV ABARB BISAB MISLY</Route>
+        </Aircraft>
+        <Aircraft Callsign="STT" Type="BE20" Delay="0">
+            <Squawk Code="3201" ModeC="false" />
+            <Position Latitude="-31.084111000000004" Longitude="150.853322" Speed="0" Altitude="1329" />
+            <FlightPlan Departure="YSTW" Destination="YGTH" Alternative="" Active="false" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="22000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT TW LOVGO MOVBU PKS BORLI DCT</FlightPlan>
+            <Route>LOVGO MOVBU PKS BORLI</Route>
+        </Aircraft>
+        <Aircraft Callsign="QLK2002" Type="DH8D" Delay="0">
+            <Squawk Code="4002" ModeC="true" />
+            <Cleared Level="22000" />
+            <Position Latitude="-32.540277" Longitude="151.438333" Speed="300" Altitude="22000" />
+            <FlightPlan Departure="YSSY" Destination="YSTW" Alternative="" Active="true" Rules="I" CruiseSpeed="310" ETD="0000" ATD="0000" RFL="22000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">SY2/34R TESAT V140 KAMBA W220 TW DCT</FlightPlan>
+            <Route>TW</Route>
+        </Aircraft>
+        <Aircraft Callsign="MWE" Type="BE58" Delay="0">
+            <Squawk Code="2000" ModeC="false" />
+            <Position Latitude="-29.505820000000003" Longitude="149.84319700000003" Speed="0" Altitude="696" />
+            <FlightPlan Departure="YMOR" Destination="YCFS" Alternative="" Active="false" Rules="I" CruiseSpeed="170" ETD="0000" ATD="0000" RFL="9000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT IVL CFS DCT</FlightPlan>
+            <Route>IVL CFS</Route>
+        </Aircraft>
+        <Aircraft Callsign="REI" Type="C182" Delay="0">
+            <Squawk Code="4510" ModeC="true" />
+            <Cleared Level="8000" />
+            <Position Latitude="-27.9" Longitude="151.83" Speed="140" Altitude="8000" />
+            <FlightPlan Departure="YBWW" Destination="YGDH" Alternative="" Active="true" Rules="I" CruiseSpeed="140" ETD="0000" ATD="0000" RFL="8000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT UPMOG IVL W207 GDH DCT</FlightPlan>
+            <Route>IVL CFS</Route>
+        </Aircraft>
+        <Aircraft Callsign="SJD" Type="C182" Delay="0">
+            <Squawk Code="2000" ModeC="false" />
+            <Position Latitude="-29.505820000000003" Longitude="149.84319700000003" Speed="0" Altitude="696" />
+            <FlightPlan Departure="YMOR" Destination="YROM" Alternative="" Active="false" Rules="I" CruiseSpeed="140" ETD="0000" ATD="0000" RFL="8000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT MOR W298 SGE W499 ROM DCT</FlightPlan>
+            <Route>SGE ROM</Route>
+        </Aircraft>
+        <Aircraft Callsign="AM223" Type="B350" Delay="0">
+            <Squawk Code="2000" ModeC="false" />
+            <Position Latitude="-31.442474000000004" Longitude="152.85749199999998" Speed="0" Altitude="23" />
+            <FlightPlan Departure="YPMQ" Destination="YMOR" Alternative="" Active="false" Rules="I" CruiseSpeed="290" ETD="0000" ATD="0000" RFL="18000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT PMQ W381 ARM W674 IVL MOR DCT</FlightPlan>
+            <Route>ARM IVL MOR</Route>
+        </Aircraft>
+        <Aircraft Callsign="EWI" Type="BE58" Delay="0">
+            <Squawk Code="4003" ModeC="true" />
+            <Cleared Level="10000" />
+            <Position Latitude="-32.1" Longitude="150.6333" Speed="150" Altitude="10000" />
+            <FlightPlan Departure="YSBK" Destination="YMOR" Alternative="" Active="true" Rules="I" CruiseSpeed="140" ETD="0000" ATD="0000" RFL="10000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT BK DUUKE BOSUN QDI HARIZ NBR MOR</FlightPlan>
+            <Route>QDI HARIZ NBR MOR</Route>
+        </Aircraft>
+        <Aircraft Callsign="JST457" Type="A320" Delay="0">
+            <Squawk Code="4004" ModeC="true" />
+            <Cleared Level="34000" />
+            <Position Latitude="-28.830919" Longitude="153.570321" Speed="0" Altitude="13" />
+            <FlightPlan Departure="YBNA" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="34000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT BNA W494 IDNER H98 SANAD H91 CORKY H12 BOREE DCT</FlightPlan>
+            <Route>IDNER SANAD MESIM CORKY SADLO BOREE</Route>
+        </Aircraft>
+        <Aircraft Callsign="QFA513" Type="B738" Delay="0">
+            <Squawk Code="4005" ModeC="true" />
+            <Cleared Level="38000" />
+            <Position Latitude="-27.64" Longitude="153.095" Speed="350" Altitude="20000" />
+            <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">SANEG1/19L H91 CORKY H12 BOREE DCT</FlightPlan>
+            <Route>SANEG HUUGO APAGI TESSI ADMAR SANAD MESIM CORKY SADLO BOREE</Route>
+        </Aircraft>
+        <Aircraft Callsign="VOZ932" Type="B738" Delay="0">
+            <Squawk Code="4006" ModeC="true" />
+            <Cleared Level="40000" />
+            <Position Latitude="-27.494999999999997" Longitude="153.1505" Speed="450" Altitude="12000" />
+            <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="40000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">SANEG1/19L H91 CORKY H12 BOREE DCT</FlightPlan>
+            <Route>DENIS LILEE SANEG HUUGO APAGI TESSI ADMAR SANAD MESIM CORKY SADLO BOREE</Route>
+        </Aircraft>
+        <Aircraft Callsign="VOZ928" Type="B738" Delay="0">
+            <Squawk Code="4016" ModeC="true" />
+            <Cleared Level="36000" />
+            <Position Latitude="-30.85" Longitude="151.67000000000002" Speed="450" Altitude="36000" />
+            <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">SANAD H91 CORKY H12 BOREE DCT</FlightPlan>
+            <Route>SANAD MESIM CORKY SADLO BOREE</Route>
+        </Aircraft>
+        <Aircraft Callsign="VOZ936" Type="B738" Delay="0">
+            <Squawk Code="4031" ModeC="true" />
+            <Cleared Level="40000" />
+            <Position Latitude="-27.374417" Longitude="153.134526" Speed="0" Altitude="3" />
+            <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="40000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">SANEG1/19L H91 CORKY H12 BOREE DCT</FlightPlan>
+            <Route>BOSVU DADAN DENIS LILEE SANEG HUUGO APAGI TESSI ADMAR SANAD MESIM CORKY SADLO BOREE</Route>
+        </Aircraft>
+        <Aircraft Callsign="QFA517" Type="B738" Delay="0">
+            <Squawk Code="4044" ModeC="true" />
+            <Cleared Level="38000" />
+            <Position Latitude="-27.374417" Longitude="153.134526" Speed="0" Altitude="3" />
+            <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">SANEG1/19L H91 CORKY H12 BOREE DCT</FlightPlan>
+            <Route>BOSVU DADAN DENIS LILEE SANEG HUUGO APAGI TESSI ADMAR SANAD MESIM CORKY SADLO BOREE</Route>
+        </Aircraft>
+        <Aircraft Callsign="JST529" Type="B738" Delay="0">
+            <Squawk Code="4045" ModeC="true" />
+            <Cleared Level="36000" />
+            <Position Latitude="-27.374417" Longitude="153.134526" Speed="0" Altitude="3" />
+            <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">SANEG1/19L H91 CORKY H12 BOREE DCT</FlightPlan>
+            <Route>BOSVU DADAN DENIS LILEE SANEG HUUGO APAGI TESSI ADMAR SANAD MESIM CORKY SADLO BOREE</Route>
+        </Aircraft>
+        <Aircraft Callsign="QFA923" Type="A332" Delay="0">
+            <Squawk Code="4037" ModeC="true" />
+            <Cleared Level="41000" />
+            <Position Latitude="-24.750000000000004" Longitude="148.5" Speed="450" Altitude="41000" />
+            <FlightPlan Departure="YBCS" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="41000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT SWIFT Y153 ROKUU H12 BOREE DCT  </FlightPlan>
+            <Route>KANKO ROKUU PEXUM EMTEL VIREN SCO CORKY SADLO BOREE</Route>
+        </Aircraft>
+        <Aircraft Callsign="VOZ1392" Type="B738" Delay="0">
+            <Squawk Code="4021" ModeC="true" />
+            <Cleared Level="40000" />
+            <Position Latitude="-29.05" Longitude="151.6" Speed="450" Altitude="40000" />
+            <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="40000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">SANEG Q210 NBR Q53 WOONA Q60 BLACK DCT</FlightPlan>
+            <Route>VIGUT UPSIX NBR DOXIE VENEL MIA</Route>
+        </Aircraft>
+        <Aircraft Callsign="VOZ1447" Type="B738" Delay="0">
+            <Squawk Code="4036" ModeC="true" />
+            <Cleared Level="35000" />
+            <Position Latitude="-33.66" Longitude="142.93" Speed="450" Altitude="35000" />
+            <FlightPlan Departure="YPAD" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT SEDAN Y465 UBDIB Y23 BERNI DCT</FlightPlan>
+            <Route>VENEL OKAPI TW OLRIP BERNI</Route>
+        </Aircraft>
+        <Aircraft Callsign="SIA241" Type="B773" Delay="0">
+            <Squawk Code="4007" ModeC="true" />
+            <Cleared Level="37000" />
+            <Position Latitude="-29.480276999999997" Longitude="147.515277" Speed="450" Altitude="37000" />
+            <FlightPlan Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="490" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">OCEAN V4 NOMAN A461 AVMUP W16 MIA/N0499F330 DCT LIGPA B472 COT R590 BUTPA DCT RUSKA DCT BARON DCT 1943S13658E 23S140E 25S142E 2746S14526E DCT BAZZA DCT AGETA UH201 SCO H12 BOREE DCT</FlightPlan>
+            <Route>AGETA AGTOR EXOTU LOVGO SCO CORKY SADLO BOREE</Route>
+        </Aircraft>
+        <Aircraft Callsign="JAL51" Type="B773" Delay="0">
+            <Squawk Code="4010" ModeC="true" />
+            <Cleared Level="41000" />
+            <Position Latitude="-28.495554999999996" Longitude="149.769444" Speed="450" Altitude="41000" />
+            <FlightPlan Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="490" ETD="0000" ATD="0000" RFL="41000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT VAMOS DCT XAC B586 UKATA DCT 25N141E/N0483F400 DCT 20N141E/M084F400 DCT 15N141E/M084F410 DCT 10N142E DCT 05N143E DCT FACED/N0482F410 A216 CS Y177 SWIFT Y153 ROKUU H12 BOREE/M082F410 DCT</FlightPlan>
+            <Route>AKOGO PEXUM EMTEL VIREN SCO CORKY SADLO BOREE</Route>
+        </Aircraft>
+        <Aircraft Callsign="QFA840" Type="B738" Delay="0">
+            <Squawk Code="4011" ModeC="true" />
+            <Cleared Level="28000" />
+            <Position Latitude="-33.397777" Longitude="150.547222" Speed="350" Altitude="18000" />
+            <FlightPlan Departure="YSSY" Destination="YPDN" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="40000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT RIC BOYSY H202 AGETA R340 RILVO A464 MIGAX DCT BEYNO DCT KARSI DCT BUNDY DCT ALLEE DCT VEGPU DCT</FlightPlan>
+            <Route>EMROT MUDGI DAMAG AGETA LUNPI ONIVI MIMIB</Route>
+        </Aircraft>
+        <Aircraft Callsign="QFA516" Type="B738" Delay="0">
+            <Squawk Code="4013" ModeC="true" />
+            <Cleared Level="28000" />
+            <Position Latitude="-33.963558" Longitude="151.180469" Speed="0" Altitude="7" />
+            <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">ENTRA5/34R Y245 BANDA H185 GOMOL DCT</FlightPlan>
+            <Route>ENTRA BANDA OMKAX GOMOL</Route>
+        </Aircraft>
+        <Aircraft Callsign="VOZ931" Type="B738" Delay="0">
+            <Squawk Code="4014" ModeC="true" />
+            <Cleared Level="37000" />
+            <Position Latitude="-33.970935999999995" Longitude="151.193817" Speed="0" Altitude="3" />
+            <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">ENTRA5/34R Y245 BANDA H185 GOMOL DCT</FlightPlan>
+            <Route>ENTRA BANDA OMKAX GOMOL</Route>
+        </Aircraft>
+        <Aircraft Callsign="RXA328" Type="B738" Delay="0">
+            <Squawk Code="4015" ModeC="true" />
+            <Cleared Level="28000" />
+            <Position Latitude="-33.963558" Longitude="151.180469" Speed="0" Altitude="7" />
+            <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">ENTRA5/34R Y245 BANDA H185 GOMOL DCT</FlightPlan>
+            <Route>ENTRA BANDA OMKAX GOMOL</Route>
+        </Aircraft>
+    </Targets>
 </ScenarioFile>
 </ScenarioFiles>
