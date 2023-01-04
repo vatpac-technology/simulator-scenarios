@@ -654,117 +654,135 @@ There is no significant weather within the TMA, although thunderstorms to the no
   <ScenarioFile>
     <Name>TMA Melbourne 34 Visual</Name>
     <Type>TMA</Type>
+    <InstructorNotes>TBI</InstructorNotes>
     <Targets>
       <Aircraft Callsign="VOZ678" Type="B738" Delay="0">
         <Squawk Code="2430" ModeC="true" />
-        <Position Latitude="-38.010000000000005" Longitude="142.533333" Speed="0" Altitude="24000" />
+        <Cleared Level="9000" />
+        <Position Latitude="-37.78" Longitude="141.375" Speed="450" Altitude="37000" />
         <FlightPlan Active="true" Departure="YPPH" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT MEMUP Y53 WENDY WEND9A/34</FlightPlan>
-        <Route>STONE WENDY NIXEN TEENA MEMEG LAVER OBGAL AKDEL MMLSM</Route>
+        <Route>TYNDI WENDY NIXEN TEENA MEMEG LAVER OBGAL AKDEL RWY34</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ1030" Type="B738" Delay="0">
         <Squawk Code="1340" ModeC="true" />
-        <Position Latitude="-37.025166" Longitude="144.698333" Speed="0" Altitude="13000" />
+        <Cleared Level="9000" />
+        <Position Latitude="-37.025166" Longitude="144.698333" Speed="250" Altitude="13000" />
         <FlightPlan Active="true" Departure="YBSU" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT SU Q923 CANTY H119 ARBEY ARBE6A/34</FlightPlan>
-        <Route>ARBEY TUNKA BELTA OVNER RENER GOSKO OBGAL AKDEL MMLSM</Route>
+        <Route>ARBEY TUNKA BELTA OVNER RENER GOSKO OBGAL AKDEL BOGSI MMLSM RWY34</Route>
       </Aircraft>
       <Aircraft Callsign="QFA405" Type="B738" Delay="0">
         <Squawk Code="2742" ModeC="true" />
-        <Position Latitude="-37.226665999999994" Longitude="146.245" Speed="0" Altitude="13000" />
+        <Cleared Level="9000" />
+        <Position Latitude="-37.19" Longitude="146.14" Speed="350" Altitude="18000" />
         <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT WOL H65 RAZZI Q29 LIZZI LIZI8V/34V</FlightPlan>
-        <Route>TAREX LIZZI MAITE IGPON MONTY EGEKA SHEED ASUKI MMLSM</Route>
+        <Route>TAREX LIZZI MAITE IGPON MONTY EGEKA SHEED RWY34</Route>
       </Aircraft>
       <Aircraft Callsign="TFX15" Type="AT43" Delay="0">
         <Squawk Code="2611" ModeC="true" />
-        <Position Latitude="-37.259166" Longitude="146.629666" Speed="0" Altitude="16000" />
-        <FlightPlan Active="true" Departure="YSBK" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="241" ETD="0000" ATD="0000" RFL="16000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/B NAV/RNP2 /v/">DCT BK DCT CORDO V169 BOYSE BOYS7V/34V</FlightPlan>
-        <Route>TEMIS BOYSE MAXAL ARTHA EMRIG MONTY EGEKA SHEED ASUKI MMLSM</Route>
+        <Cleared Level="9000" />
+        <Position Latitude="-36.86" Longitude="146.54" Speed="250" Altitude="16000" />
+        <FlightPlan Active="true" Departure="YSBK" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="241" ETD="0000" ATD="0000" RFL="16000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/B NAV/RNP2 /v/">DCT BK DCT PEGSU V169 BOYSE BOYS7V/34V</FlightPlan>
+        <Route>TEMIS BOYSE MAXAL ARTHA EMRIG MONTY EGEKA SHEED RWY34</Route>
       </Aircraft>
       <Aircraft Callsign="QLK2058" Type="DH8C" Delay="0">
         <Squawk Code="2511" ModeC="true" />
-        <Position Latitude="-38.851166" Longitude="145.6235" Speed="0" Altitude="14000" />
+        <Cleared Level="9000" />
+        <Position Latitude="-39.04" Longitude="145.785" Speed="300" Altitude="22000" />
         <FlightPlan Active="true" Departure="YDPO" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="277" ETD="0000" ATD="0000" RFL="22000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/B NAV/RNP2 /v/">DCT IRSOM V246 ONAGI H215 WAREN WARE7V/34V</FlightPlan>
-        <Route>ONAGI WAREN MICHM MONTY EGEKA SHEED ASUKI MMLSM</Route>
+        <Route>ONAGI WAREN MICHM MONTY EGEKA SHEED RWY34</Route>
       </Aircraft>
       <Aircraft Callsign="CPA3710" Type="B748" Delay="0">
         <Squawk Code="2411" ModeC="true" />
-        <Position Latitude="-35.88" Longitude="148.531666" Speed="0" Altitude="43000" />
+        <Cleared Level="9000" />
+        <Position Latitude="-35.035" Longitude="150.0" Speed="480" Altitude="43000" />
         <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="489" ETD="0000" ATD="0000" RFL="43000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/D NAV/RNP2 /v/">DCT WOL H65 RAZZI Q29 LIZZI LIZI8A/34</FlightPlan>
-        <Route>RUMIE NABBA BULLA TAREX LIZZI VEPUD AKSID GOOLA BOLTY AKDEL MMLSM</Route>
+        <Route>TANTA RUMIE NABBA BULLA TAREX LIZZI VEPUD AKSID GOOLA BOLTY AKDEL BOGSI MMLSM</Route>
       </Aircraft>
       <Aircraft Callsign="JST513" Type="A320" Delay="0">
         <Squawk Code="2746" ModeC="true" />
-        <Position Latitude="-36.329666" Longitude="147.72866599999998" Speed="0" Altitude="38000" />
+        <Cleared Level="9000" />
+        <Position Latitude="-35.88" Longitude="148.565" Speed="450" Altitude="38000" />
         <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT WOL H65 RAZZI Q29 LIZZI LIZI8V/34V</FlightPlan>
-        <Route>NABBA BULLA TAREX LIZZI MAITE IGPON MONTY EGEKA SHEED ASUKI MMLSM</Route>
+        <Route>NABBA BULLA TAREX LIZZI MAITE IGPON MONTY EGEKA SHEED RWY34</Route>
       </Aircraft>
       <Aircraft Callsign="ETS" Type="BE58" Delay="0">
         <Squawk Code="3020" ModeC="true" />
-        <Position Latitude="-37.996333" Longitude="146.70666000000003" Speed="0" Altitude="6000" />
+        <Cleared Level="6000" />
+        <Position Latitude="-38.06" Longitude="146.82" Speed="150" Altitude="6000" />
         <FlightPlan Active="true" Departure="YWSL" Destination="YNHL" Alternative="" Rules="1" CruiseSpeed="150" ETD="0000" ATD="0000" RFL="6000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/A NAV/RNP2 /v/">DCT DUNNE V434 MONTY ESDAN W382 WENDY W291 PUBAP DCT</FlightPlan>
         <Route>DUNNE MONTY ESDAN LLOYD WENDY ESDIG UBGUT PUBAP</Route>
       </Aircraft>
       <Aircraft Callsign="FJS" Type="C182" Delay="0">
-        <Squawk Code="2000" ModeC="true" />
-        <Position Latitude="-38.314677" Longitude="145.52316400000004" Speed="0" Altitude="1500" />
-        <FlightPlan Active="true" Departure="YTDN" Destination="YBDG" Alternative="" Rules="1" CruiseSpeed="130" ETD="0000" ATD="0000" RFL="2500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/A /v/">DCT ACE DSN WAN DCT</FlightPlan>
+        <Squawk Code="1200" ModeC="true" />
+        <Position Latitude="-38.433" Longitude="145.59" Speed="110" Altitude="2500" />
+        <FlightPlan Active="false" Departure="YTDN" Destination="YBDG" Alternative="" Rules="2" CruiseSpeed="130" ETD="0000" ATD="0000" RFL="2500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/A /v/">DCT ACE DSN WAN DCT</FlightPlan>
         <Route>ACE DSN WAN</Route>
       </Aircraft>
       <Aircraft Callsign="CYA" Type="BE20" Delay="0">
         <Squawk Code="3106" ModeC="true" />
-        <Position Latitude="-37.3" Longitude="142.98" Speed="0" Altitude="9000" />
-        <FlightPlan Active="true" Departure="YARA" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="9000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/B NAV/RNP2/v/">DCT YARA DCT IRVAK DCT ML DCT</FlightPlan>
+        <Cleared Level="9000" />
+        <Position Latitude="-36.5" Longitude="141.99" Speed="0" Altitude="9000" />
+        <FlightPlan Active="true" Departure="YNHL" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="9000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/B NAV/RNP2/v/">DCT IRVAK DCT ML DCT</FlightPlan>
         <Route>IRVAK ML</Route>
       </Aircraft>
-      <Aircraft Callsign="QFA35" Type="A333" Delay="0">
+      <Aircraft Callsign="QFA35" Type="A333" Delay="120">
         <Squawk Code="3122" ModeC="true" />
-        <Position Latitude="-37.68429299999999" Longitude="144.840701" Speed="0" Altitude="312" />
+        <Cleared Level="5000" />
+        <Position Latitude="-37.68429299999999" Longitude="144.840701" Speed="1" Altitude="312" />
         <FlightPlan Active="true" Departure="YMML" Destination="WSSS" Alternative="" Rules="1" CruiseSpeed="473" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/D NAV/RNP2/v/">KEPPA2/34 KEPPA Q168 WR/M082F340 T29 AYE/M082F360 T29 CIN A576 ATMAP M635 UDONO/M081F380 M635 SURGA DCT</FlightPlan>
         <Route>OKMEL KEPPA</Route>
       </Aircraft>
-      <Aircraft Callsign="ANZ124" Type="B788" Delay="0">
+      <Aircraft Callsign="ANZ124" Type="B788" Delay="1140">
         <Squawk Code="4213" ModeC="true" />
-        <Position Latitude="-37.68429299999999" Longitude="144.840701" Speed="0" Altitude="312" />
+        <Cleared Level="5000" />
+        <Position Latitude="-37.68429299999999" Longitude="144.840701" Speed="1" Altitude="312" />
         <FlightPlan Active="true" Departure="YMML" Destination="NZAA" Alternative="" Rules="1" CruiseSpeed="478" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/D NAV/RNP2/v/">CORRS9/34 CORRS Y81 GEMAC/M085F390 DCT 38S163E DCT LUNBI DCT AA DCT </FlightPlan>
-        <Route>ROKDL POREM GEDEN CORRS</Route>
+        <Route>ROKDL POREM GEDEN CORRS GEMAC</Route>
       </Aircraft>
-      <Aircraft Callsign="JST510" Type="A320" Delay="0">
+      <Aircraft Callsign="JST510" Type="A320" Delay="1320">
         <Squawk Code="4103" ModeC="true" />
-        <Position Latitude="-37.68429299999999" Longitude="144.840701" Speed="0" Altitude="312" />
+        <Cleared Level="5000" />
+        <Position Latitude="-37.68429299999999" Longitude="144.840701" Speed="1" Altitude="312" />
         <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="1" CruiseSpeed="451" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2/v/">DOSEL1/34 DOSEL Y59 TESAT DCT</FlightPlan>
         <Route>ROKDL SALLY DOSEL EBONY</Route>
       </Aircraft>
-      <Aircraft Callsign="QFA610" Type="B738" Delay="0">
+      <Aircraft Callsign="QFA610" Type="B738" Delay="480">
         <Squawk Code="3470" ModeC="true" />
-        <Position Latitude="-37.68429299999999" Longitude="144.840701" Speed="0" Altitude="312" />
+        <Cleared Level="5000" />
+        <Position Latitude="-37.68429299999999" Longitude="144.840701" Speed="1" Altitude="312" />
         <FlightPlan Active="true" Departure="YMML" Destination="YBCG" Alternative="" Rules="1" CruiseSpeed="457" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2/v/">NONIX3/34 NONIX H66 BLAKA DCT</FlightPlan>
         <Route>ROKDL SALLY NONIX</Route>
       </Aircraft>
-      <Aircraft Callsign="VOZ219" Type="B738" Delay="0">
+      <Aircraft Callsign="VOZ219" Type="B738" Delay="1800">
         <Squawk Code="4360" ModeC="true" />
-        <Position Latitude="-37.68429299999999" Longitude="144.840701" Speed="0" Altitude="312" />
+        <Cleared Level="5000" />
+        <Position Latitude="-37.68429299999999" Longitude="144.840701" Speed="1" Altitude="312" />
         <FlightPlan Active="true" Departure="YMML" Destination="YPAD" Alternative="" Rules="1" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2/v/">NEVIS7/34 NEVIS H345 DRINA DCT</FlightPlan>
         <Route>OKMEL NEVIS</Route>
       </Aircraft>
-      <Aircraft Callsign="QLK2279" Type="DH8C" Delay="0">
+      <Aircraft Callsign="QLK2279" Type="DH8C" Delay="660">
         <Squawk Code="4330" ModeC="true" />
+        <Cleared Level="5000" />
         <Position Latitude="-37.68429299999999" Longitude="144.840701" Speed="0" Altitude="312" />
         <FlightPlan Active="true" Departure="YMML" Destination="YMLT" Alternative="" Rules="1" CruiseSpeed="304" ETD="0000" ATD="0000" RFL="23000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2/v/">ML6/34 ML H169 IRSOM W105 LT DCT</FlightPlan>
-        <Route>OKMEL SUNTI BENZO</Route>
+        <Route>SUNTI BENZO</Route>
       </Aircraft>
-      <Aircraft Callsign="JST900" Type="A320" Delay="0">
+      <Aircraft Callsign="JST900" Type="A320" Delay="1620">
         <Squawk Code="3101" ModeC="true" />
-        <Position Latitude="-37.68429299999999" Longitude="144.840701" Speed="0" Altitude="312" />
+        <Cleared Level="5000" />
+        <Position Latitude="-37.68429299999999" Longitude="144.840701" Speed="1" Altitude="312" />
         <FlightPlan Active="true" Departure="YMML" Destination="YBLN" Alternative="" Rules="1" CruiseSpeed="454" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2/v/">CRENA1/34 CRENA Q158 COBEL DCT RERON DCT REDEL DCT NOVIN DCT BLN DCT</FlightPlan>
         <Route>MMLSH HOPLA CRENA</Route>
       </Aircraft>
-      <Aircraft Callsign="YUP" Type="C182" Delay="0">
+      <Aircraft Callsign="YUP" Type="C182" Delay="240">
         <Squawk Code="3105" ModeC="true" />
+        <Cleared Level="4000" />
         <Position Latitude="-37.68429299999999" Longitude="144.840701" Speed="0" Altitude="312" />
         <FlightPlan Active="true" Departure="YMML" Destination="YMAV" Alternative="" Rules="1" CruiseSpeed="130" ETD="0000" ATD="0000" RFL="4000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/A NAV/RNP2/v/">ML6/34 ML W190 AV DCT</FlightPlan>
         <Route>OKMEL AV</Route>
       </Aircraft>
       <Aircraft Callsign="JST630" Type="A320" Delay="0">
-        <Squawk Code="2000" ModeC="true" />
+        <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-38.054299" Longitude="144.464859" Speed="0" Altitude="36" />
         <FlightPlan Active="false" Departure="YMAV" Destination="YBCG" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT ML H66 TW Y23 BERNI DCT</FlightPlan>
         <Route>JUSTY ML NONIX KACEY</Route>
