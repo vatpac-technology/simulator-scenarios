@@ -1688,7 +1688,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
 
   <ScenarioFile>
     <Name>Enroute PIY</Name>
-    <Type>ENR</Type>
+    <Type>Enroute</Type>
     <InstructorNotes>TBI</InstructorNotes>
     <Targets>
         <Aircraft Callsign="NWK1843" Type="F100" Delay="0">
@@ -1888,7 +1888,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
 
   <ScenarioFile>
     <Name>Enroute ARL</Name>
-    <Type>ENR</Type>
+    <Type>Enroute</Type>
     <InstructorNotes>TBI</InstructorNotes>
     <Targets>
         <Aircraft Callsign="ASY1091" Type="C17" Delay="0">
