@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Airspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Airports>
-        <Airport ICAO="YGWA" FullName="Goolwa" Position="-352855.000+1384505.000" />
+        <Airport ICAO="YGWA" FullName="Goolwa" Position="-352855.000+1384505.000">
             <Runway Name="01" Position="-352907.900+1384432.700" />
             <Runway Name="19" Position="-352827.400+1384447.000" />
         </Airport>
