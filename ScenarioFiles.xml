@@ -2325,7 +2325,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <Squawk Code="5152" ModeC="true" />
             <Cleared Level="4000" />
             <Position Latitude="-34.940451" Longitude="138.54278" Speed="0" Altitude="36" />
-            <FlightPlan Departure="YPAD" Destination="YKSC" Alternative="YPAD" Active="true" Rules="I" CruiseSpeed="190" ETD="0000" ATD="0000" RFL="8000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV PER/B RMK/6POB /v/">AD4/23 AD EEMUE VARPA DCT</FlightPlan>
+            <FlightPlan Departure="YPAD" Destination="YKSC" Alternative="YPAD" Active="true" Rules="I" CruiseSpeed="190" ETD="0000" ATD="0000" RFL="8000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV PER/B RMK/6POB /v/">AD4/23 AD EEMUE VAVPA DCT</FlightPlan>
             <Route>COLPY EEMUE</Route>
             <TimedMessages>
                 <TimedMessage Time="1190" Message="Coord TWR to TCU. Next, URT, Runway 23." />
@@ -2346,7 +2346,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <Squawk Code="1200" ModeC="true" />
             <Position Latitude="-35.70000000000001" Longitude="139.345523" Speed="120" Altitude="2500" />
             <FlightPlan Departure="YMTG" Destination="YLYK" Alternative="" Active="false" Rules="V" CruiseSpeed="100" ETD="0000" ATD="0000" RFL="2500" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="/v/">HGTE MPT</FlightPlan>
-            <Route>HGTE MPT</Route>
+            <Route>YKIG HGTE MPT</Route>
             <TimedMessages>
                 <TimedMessage Time="960" Message="Request flight following" />
             </TimedMessages>
@@ -2369,8 +2369,8 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <Squawk Code="4710" ModeC="true" />
             <Cleared Level="9000" />
             <Position Latitude="-37.267989" Longitude="143.50829599999997" Speed="450" Altitude="32000" />
-            <FlightPlan Departure="YMML" Destination="YPAD" Alternative="YMML" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="32000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/AUSEP PER/C /v/">DCT ML H345 DRINA DRIN9A/23</FlightPlan>
-            <Route>NEVIS DRINA COMLY DISHA BRAKI GULLY</Route>
+            <FlightPlan Departure="YMML" Destination="YPAD" Alternative="YMML" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="32000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/AUSEP PER/C /v/">DCT NEVIS H345 DRINA DRIN9A/23</FlightPlan>
+            <Route>NEVIS BORTO DUKES DRINA COMLY DISHA BRAKI GULLY</Route>
         </Aircraft>
         <Aircraft Callsign="RXA3458" Type="SF34" Delay="0">
             <Squawk Code="4417" ModeC="true" />
@@ -2383,21 +2383,21 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <Squawk Code="2621" ModeC="true" />
             <Cleared Level="9000" />
             <Position Latitude="-33.808059" Longitude="142.68437600000001" Speed="450" Altitude="38000" />
-            <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="YMML" Active="true" Rules="I" CruiseSpeed="430" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV REG/VHVOR PER/C /v/">BN H62 WIZZA UQ440 HARDD Q295 NBR UH408 NYN T77 BLACK BLAC3A/23</FlightPlan>
+            <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="YMML" Active="true" Rules="I" CruiseSpeed="430" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV REG/VHVOR PER/C /v/">BN UVUPU BLACK BLAC3A/23</FlightPlan>
             <Route>UVUPU BLACK PLEZN KERRS GULLY</Route>
         </Aircraft>
         <Aircraft Callsign="ZLE" Type="C700" Delay="0">
             <Squawk Code="2121" ModeC="true" />
             <Cleared Level="9000" />
             <Position Latitude="-34.551179000000005" Longitude="132.918293" Speed="450" Altitude="45000" />
-            <FlightPlan Departure="YPPH" Destination="YPAD" Alternative="YMML" Active="true" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="45000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV REG/VHZLE PER/C /v/">PH Y135 ROGAS RIKAB RIKA8A/23</FlightPlan>
+            <FlightPlan Departure="YPPH" Destination="YPAD" Alternative="YMML" Active="true" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="45000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV REG/VHZLE PER/C /v/">HUSKY HYDRA ROGAS RIKAB RIKA8A/23</FlightPlan>
             <Route>HYDRA ROGAS RIKAB GULFS GLOBE ELIZA GULLY</Route>
         </Aircraft>
         <Aircraft Callsign="JST682" Type="A320" Delay="0">
             <Squawk Code="4121" ModeC="true" />
             <Cleared Level="9000" />
-            <Position Latitude="-33.020163" Longitude="144.350335" Speed="450" Altitude="32000" />
-            <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="YMML" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="32000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/AUSEP PER/C /v/">BN H62 WIZZA UQ440 HARDD Q295 NBR UH408 NYN T77 BLACK BLAC3A/23</FlightPlan>
+            <Position Latitude="-33.15" Longitude="144.433" Speed="450" Altitude="32000" />
+            <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="YMML" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="32000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/AUSEP PER/C /v/">BN DAMAG VENEL UVUPU BLACK BLAC3A/23</FlightPlan>
             <Route>VENEL UVUPU BLACK PLEZN KERRS GULLY</Route>
         </Aircraft>
         <Aircraft Callsign="WZA" Type="C172" Delay="0">
@@ -2413,7 +2413,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Aircraft Callsign="FDG" Type="PC12" Delay="0">
             <Squawk Code="5112" ModeC="true" />
             <Cleared Level="15000" />
-            <Position Latitude="-34.03069" Longitude="137.173483" Speed="300" Altitude="15000" />
+            <Position Latitude="-34.15" Longitude="137.08" Speed="300" Altitude="15000" />
             <FlightPlan Departure="YCEE" Destination="YGWA" Alternative="YPAD" Active="true" Rules="I" CruiseSpeed="230" ETD="0000" ATD="0000" RFL="15000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV OPR/RFDS PER/B /v/">DCT MUTHA A585 HAWKY DCT</FlightPlan>
             <Route>HAWKY</Route>
             <TimedMessages>
