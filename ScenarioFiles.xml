@@ -2250,29 +2250,27 @@ There is no significant weather within the TMA, although thunderstorms to the no
 <ScenarioFile>
     <Name>AD TMA Advanced with YGWA</Name>
     <Type>TMA</Type>
-    <InstructorNotes>Timing data TBC. Below data to be updated.
-
-    Ensure the student disables GRIB winds. 
+    <InstructorNotes>Ensure the student disables GRIB winds. 
 
     YPAD Information A. EXP INST APCH. RWY23. OVC038. QNH 1010. 
 
-    This scenario extends on the introduction scenario for Adelaide. It includes a more complex arrival sequence, and added IFR OCTA traffic.
+    This scenario extends on the introduction scenario for Adelaide. It includes a more complex traffic scenario. Intent is to see additional conflicts, more IFR OCTA traffic, and develop the students ability to scan and predict upcoming issues. This scenario includes prompts on when to depart aircraft, conduct coordination, or request specific events.
 
-    **WZA** will enter at 4000ft. Talk through with student what being at this altitude means in terms of identification and control services. What if they wanted to climb to 5000ft. Leave them at 4000ft to conflict with VFR traffic **SRP** who spawns later. Approaching YGWA, assign the aircraft YGWA Runway 19. Cancel SARWATCH upon landing.
+    **LOU** should be set to 110 knots.
+    **WZA** should be set to 110 knots.
+    **SRP** should be set to 130 knots when they enter the scenario.
 
-    **URT** should depart at approximately 7 minutes.
+    **WZA** will enter at 4000ft. **LOU** is a VFR aircraft at 3500ft. LOU can be used for VFR flight following, or provide WZA traffic on unidentified and unverified traffic.
 
-    **QFA723** departs at 12 minutes to conflict with **RXA3458** on arrival.
+    **AYZ** departs YGWA for YMLD, planned via the AD VOR at 6000ft. Either discuss with student prior what you can do e.g. get them higher, vector them around, don't let them enter CTA etc. or let them work it themselves.
 
-    **SRP** is a VFR Cessna 182, POB, overhead Strathalbyn, tracking Mount Bold Reservoir, 3500ft, received A, request clearance. Discuss what options you have for sequencing VFR traffic against the arrival flow.
+    **QFA590** departs to increase clutter with **FDG** and **RXA3458**. Shortly after, **QFA723** departs to conflict with **RXA3458**. 
 
-    **AYZ** will need to be coordinated prior to boundary, and handed off early to allow student to provide an airways clearance.
-
-    **URT** control services must be terminated when handed off to ML CTR.
-
-    **ZLE**, **JST682** and **TGG521** arrive within a 3 minute window and allow an introduction to basic sequencing using speed, vectors or both.
-
-    **AYZ** requests vectors for ILS Runway 23.</InstructorNotes>
+    **SRP** is a VFR C182. May require sequencing depending on how the scenario is flowing.
+    
+    **ZLE**, **JST682** and **VOZ9932** arrive to force sequencing.
+    
+    The remainder of traffic is relatively straight forward and prompted for departures.</InstructorNotes>
     <Targets>
         <Aircraft Callsign="VOZ455" Type="B738" Delay="0">
             <Squawk Code="2421" ModeC="true" />
@@ -2288,7 +2286,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <FlightPlan Departure="YPAD" Destination="YBAS" Alternative="YAYE" Active="true" Rules="I" CruiseSpeed="435" ETD="0000" ATD="0000" RFL="340" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV PER/C /v/">HAWKY5/23 HAWKY J58 WHA J251 AS</FlightPlan>
             <Route>CORNS KEEFO BIGAL HAWKY SPOTA WHA OJJAY WR</Route>
             <TimedMessages>
-                <TimedMessage Time="715" Message="Takeoff" />
+                <TimedMessage Time="660" Message="Takeoff" />
             </TimedMessages>
         </Aircraft>
         <Aircraft Callsign="QFA525" Type="B738" Delay="0">
@@ -2344,7 +2342,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         </Aircraft>
         <Aircraft Callsign="LOU" Type="P28A" Delay="0">
             <Squawk Code="1200" ModeC="true" />
-            <Position Latitude="-35.70000000000001" Longitude="139.345523" Speed="120" Altitude="2500" />
+            <Position Latitude="-35.70000000000001" Longitude="139.345523" Speed="110" Altitude="3500" />
             <FlightPlan Departure="YMTG" Destination="YLYK" Alternative="" Active="false" Rules="V" CruiseSpeed="100" ETD="0000" ATD="0000" RFL="2500" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="/v/">HGTE MPT</FlightPlan>
             <Route>YKIG HGTE MPT</Route>
             <TimedMessages>
@@ -2355,26 +2353,26 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <Squawk Code="3211" ModeC="true" />
             <Cleared Level="9000" />
             <Position Latitude="-35.484521" Longitude="139.331039" Speed="350" Altitude="16000" />
-            <FlightPlan Departure="YMML" Destination="YPAD" Alternative="YMML" Active="true" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="34000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/AUSEP REG/VHHYA PER/C /v/">DCT ML H345 DRINA DRIN9A/23</FlightPlan>
+            <FlightPlan Departure="YMML" Destination="YPAD" Alternative="YMML" Active="true" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="34000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="PER/C /v/">DCT ML H345 DRINA DRIN9A/23</FlightPlan>
             <Route>DRINA COMLY DISHA BRAKI GULLY</Route>
         </Aircraft>
         <Aircraft Callsign="VOZ621" Type="B737" Delay="0">
             <Squawk Code="3621" ModeC="true" />
             <Cleared Level="9000" />
             <Position Latitude="-34.736503000000006" Longitude="140.383812" Speed="400" Altitude="26000" />
-            <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="YMML" Active="true" Rules="I" CruiseSpeed="430" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV REG/VHYFE PER/C /v/">TESAT H44 MAXEM Q60 BLACK BLAC3A/23</FlightPlan>
+            <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="YMML" Active="true" Rules="I" CruiseSpeed="430" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV PER/C /v/">TESAT H44 MAXEM Q60 BLACK BLAC3A/23</FlightPlan>
             <Route>BLACK PLEZN KERRS GULLY AD</Route>
         </Aircraft>
-        <Aircraft Callsign="TGG521" Type="A320" Delay="0">
+        <Aircraft Callsign="VOZ9932" Type="B738" Delay="0">
             <Squawk Code="4710" ModeC="true" />
             <Cleared Level="9000" />
             <Position Latitude="-37.267989" Longitude="143.50829599999997" Speed="450" Altitude="32000" />
-            <FlightPlan Departure="YMML" Destination="YPAD" Alternative="YMML" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="32000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/AUSEP PER/C /v/">DCT NEVIS H345 DRINA DRIN9A/23</FlightPlan>
+            <FlightPlan Departure="YMML" Destination="YPAD" Alternative="YMML" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="32000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="PER/C /v/">DCT NEVIS H345 DRINA DRIN9A/23</FlightPlan>
             <Route>NEVIS BORTO DUKES DRINA COMLY DISHA BRAKI GULLY</Route>
         </Aircraft>
         <Aircraft Callsign="RXA3458" Type="SF34" Delay="0">
             <Squawk Code="4417" ModeC="true" />
-            <Cleared Level="9000" />
+            <Cleared Level="16000" />
             <Position Latitude="-34.64600299999999" Longitude="136.538958" Speed="300" Altitude="19000" />
             <FlightPlan Departure="YPLC" Destination="YPAD" Alternative="YPPF" Active="true" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="19000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV REG/VHKDO PER/B /v/">DCT PLC V707 RIKAB RIKA8A/23</FlightPlan>
             <Route>PILBY RIKAB GULFS GLOBE ELIZA GULLY</Route>
@@ -2415,16 +2413,16 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <Cleared Level="15000" />
             <Position Latitude="-34.15" Longitude="137.08" Speed="300" Altitude="15000" />
             <FlightPlan Departure="YCEE" Destination="YGWA" Alternative="YPAD" Active="true" Rules="I" CruiseSpeed="230" ETD="0000" ATD="0000" RFL="15000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV OPR/RFDS PER/B /v/">DCT MUTHA A585 HAWKY DCT</FlightPlan>
-            <Route>HAWKY</Route>
+            <Route>HAWKY YGWA</Route>
             <TimedMessages>
-                <TimedMessage Time="420" Message="ENR to TCU Coord. West, FDG, via HAWKY" />
+                <TimedMessage Time="420" Message="ENR to TCU Coord. West, FDG, via HAWKY. Additionally, RXA3458, for separation, assigned FL160" />
             </TimedMessages>
         </Aircraft>
         <Aircraft Callsign="AYZ" Type="PC12" Delay="0">
             <Squawk Code="2000" ModeC="false" />
             <Position Latitude="-35.481667" Longitude="138.751667" Speed="0" Altitude="66" />
             <FlightPlan Departure="YGWA" Destination="YMLD" Alternative="" Active="false" Rules="I" CruiseSpeed="200" ETD="0000" ATD="0000" RFL="6000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AD DCT</FlightPlan>
-            <Route>AD</Route>
+            <Route>AD YMLD</Route>
             <TimedMessages>
                 <TimedMessage Time="240" Message="AYZ IFR PC12, taxi Goolwa for Maitland, runway 19" />
                 <TimedMessage Time="420" Message="Takeoff" />
