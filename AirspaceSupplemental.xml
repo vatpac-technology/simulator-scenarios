@@ -5,5 +5,9 @@
             <Runway Name="01" Position="-352907.900+1384432.700" />
             <Runway Name="19" Position="-352827.400+1384447.000" />
         </Airport>
+        <Airport ICAO="YLYK" FullName="Lyndoch" Position="-343718.000+1385451.000">
+            <Runway Name="18" Position="-343653.300+1385442.500" />
+            <Runway Name="36" Position="-343715.100+1385439.600" />
+        </Airport>
     </Airports>
 </Airspace>
