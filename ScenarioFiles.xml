@@ -2421,7 +2421,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             </TimedMessages>
         </Aircraft>
         <Aircraft Callsign="AYZ" Type="PC12" Delay="0">
-            <Squawk Code="3000" ModeC="false" />
+            <Squawk Code="2000" ModeC="false" />
             <Position Latitude="-35.481667" Longitude="138.751667" Speed="0" Altitude="66" />
             <FlightPlan Departure="YGWA" Destination="YMLD" Alternative="" Active="false" Rules="I" CruiseSpeed="200" ETD="0000" ATD="0000" RFL="6000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AD DCT</FlightPlan>
             <Route>AD</Route>
