@@ -291,14 +291,14 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Cleared Level="9000" />
         <Position Latitude="-34.736503000000006" Longitude="140.383812" Speed="0" Altitude="26000" />
         <FlightPlan Active="true" Departure="YBBN" Destination="YPAD" Alternative="YMML" Rules="I" CruiseSpeed="430" ETD="1720" ATD="1720" RFL="36000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV REG/VHYFE PER/C /v/">TESAT H44 MAXEM Q60 BLACK BLAC3A/23</FlightPlan>
-        <Route>BLACK PLEZN KERRS GULLY AD</Route>
+        <Route>BLACK PLEZN KERRS GULLY</Route>
       </Aircraft>
       <Aircraft Callsign="RXA4383" Type="SF34" Delay="0">
         <Squawk Code="4417" ModeC="true" />
         <Cleared Level="16000" />
         <Position Latitude="-34.64600299999999" Longitude="136.538958" Speed="0" Altitude="19000" />
         <FlightPlan Active="true" Departure="YPLC" Destination="YPAD" Alternative="YPPF" Rules="I" CruiseSpeed="270" ETD="1720" ATD="1720" RFL="19000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV REG/VHKDO PER/B /v/">DCT PLC V707 RIKAB RIKA8A/23</FlightPlan>
-        <Route>PILBY RIKAB GULFS GLOBE ELIZA GULLY RWY23 AD</Route>
+        <Route>PILBY RIKAB GULFS GLOBE ELIZA GULLY RWY23</Route>
       </Aircraft>
       <Aircraft Callsign="WZA" Type="C182" Delay="0">
         <Squawk Code="5652" ModeC="true" />
@@ -2196,14 +2196,14 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <Cleared Level="9000" />
             <Position Latitude="-34.64600299999999" Longitude="136.538958" Speed="300" Altitude="17000" />
             <FlightPlan Departure="YPLC" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="17000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV REG/VHKDO PER/B /v/">DCT PLC V707 RIKAB RIKA8A/23</FlightPlan>
-            <Route>PILBY RIKAB GULFS GLOBE ELIZA GULLY AD</Route>
+            <Route>PILBY RIKAB GULFS GLOBE ELIZA GULLY</Route>
         </Aircraft>
         <Aircraft Callsign="VOZ733" Type="B737" Delay="0">
             <Squawk Code="2621" ModeC="true" />
             <Cleared Level="9000" />
             <Position Latitude="-33.808059" Longitude="142.68437600000001" Speed="450" Altitude="38000" />
             <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="430" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV REG/VHVOR PER/C /v/">UVUPU BLACK BLAC3A/23</FlightPlan>
-            <Route>UVUPU BLACK PLEZN KERRS GULLY AD</Route>
+            <Route>UVUPU BLACK PLEZN KERRS GULLY</Route>
         </Aircraft>
         <Aircraft Callsign="ZLE" Type="C700" Delay="120">
             <Squawk Code="2121" ModeC="true" />
@@ -2361,7 +2361,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <Cleared Level="9000" />
             <Position Latitude="-34.736503000000006" Longitude="140.383812" Speed="400" Altitude="26000" />
             <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="YMML" Active="true" Rules="I" CruiseSpeed="430" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV PER/C /v/">TESAT H44 MAXEM Q60 BLACK BLAC3A/23</FlightPlan>
-            <Route>BLACK PLEZN KERRS GULLY AD</Route>
+            <Route>BLACK PLEZN KERRS GULLY</Route>
         </Aircraft>
         <Aircraft Callsign="VOZ9932" Type="B738" Delay="0">
             <Squawk Code="4710" ModeC="true" />
