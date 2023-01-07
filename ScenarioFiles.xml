@@ -57,10 +57,10 @@ There is no significant weather within the TMA, although thunderstorms to the no
     <Targets>
       <Aircraft Callsign="QFA6202" Type="B744" Delay="0">
         <Squawk Code="4213" ModeC="true" />
-        <Position Latitude="-37.306667" Longitude="145.915" Speed="440" Altitude="32000" />
+        <Position Latitude="-37.306667" Longitude="145.915" Speed="440" Altitude="24000" />
         <Cleared Level="9000" />
         <FlightPlan Active="true" Departure="YSSY" Destination="YMAV" Alternative="" Rules="1" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/OJS SEL/JKAR PER/D NAV/RNP2 OPR/QANTAS /v/">TESAT H65 RAZZI Q29 ML JAYBI5/18</FlightPlan>
-        <Route>LIZZI ML JAYBI BEKKA TEMPL AV</Route>
+        <Route>LIZZI ML JAYBI BEKKA TEMPL</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ876" Type="B738" Delay="0">
         <Squawk Code="4117" ModeC="true" />
@@ -90,7 +90,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="VHVOC SEL/MQDS PER/C NAV/RNP2 CS/TIGGOZ /v/">TESAT H65 RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
         <Route>NABBA BULLA LIZZI HORUS NEFER BELTA ML</Route>
       </Aircraft>
-      <Aircraft Callsign="QFA699" Type="B738" Delay="0">
+      <Aircraft Callsign="QFA699" Type="B738" Delay="30">
         <Squawk Code="3001" ModeC="true" />
         <Position Latitude="-36.22722222" Longitude="142.26583333" Speed="430" Altitude="35000" />
         <Cleared Level="9000" />
@@ -111,22 +111,26 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="VHVOC SEL/MQDS PER/C NAV/RNP2 OPR/JETSTAR /v/">DCT TESAT H65 RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
         <Route>RUMIE NABBA BULLA LIZZI HORUS NEFER BELTA ML</Route>
       </Aircraft>
-      <Aircraft Callsign="YMF7000" Type="F100" Delay="0">
+      <Aircraft Callsign="YMF7000" Type="F100" Delay="300">
         <Squawk Code="3002" ModeC="true" />
         <Position Latitude="-35.44027778" Longitude="146.03527778" Speed="430" Altitude="30000" />
         <Cleared Level="9000" />
         <FlightPlan Active="true" Departure="YBBN" Destination="YMAV" Alternative="" Rules="1" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="30000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHFWI SEL/ACHP PER/C NAV/RNP10 OPR/COMPASS LOGISTICS /v/">PKS Q923 CANTY JAYBI5/18</FlightPlan>
-        <Route>CANTY SOAPY JAYBI LLOYD AV</Route>
+        <Route>CANTY SOAPY JAYBI LLOYD</Route>
       </Aircraft>
       <Aircraft Callsign="JST626" Type="A320" Delay="0">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-38.02732" Longitude="144.469407" Speed="0" Altitude="33" />
         <FlightPlan Active="false" Departure="YMAV" Destination="YSSY" Alternative="" Rules="1" CruiseSpeed="420" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="GPS/RNP2 /v/">ML DOSEL Y59 TESAT DCT</FlightPlan>
         <Route>JUSTY ML DOSEL EBONY</Route>
+        <TimedMessages>
+          <TimedMessage Time="15" Message="JST626, IFR A320, POB 154, Taxis Avalon for Sydney, Runway 18" />
+          <TimedMessage Time="300" Message="Ready holding point runway 18" />
+        </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="VOZ877" Type="B738" Delay="0">
         <Squawk Code="3121" ModeC="true" />
-        <Position Latitude="-37.662288" Longitude="144.848483" Speed="0" Altitude="397" />
+        <Position Latitude="-37.662288" Longitude="144.848483" Speed="1" Altitude="397" />
         <Cleared Level="5000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="1" CruiseSpeed="420" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHVOT SEL/JSHQ PER/C NAV/RNP2 OPR/VIRGIN AUSTRALIA /v/">DOSEL1/27 DOSEL Y59 TESAT DCT</FlightPlan>
         <Route>ATNOL PARSI PEBTO PEART DOSEL EBONY</Route>
@@ -137,13 +141,19 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Cleared Level="5000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="1" CruiseSpeed="220" ETD="0000" ATD="0000" RFL="41000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="GPS/RNP2 /v/">DOSEL1/27 DOSEL Y59 TESAT DCT</FlightPlan>
         <Route>ATNOL PARSI PEBTO PEART DOSEL EBONY</Route>
+        <TimedMessages>
+          <TimedMessage Time="1260" Message="Takeoff" />
+        </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="AZJ" Type="PA31" Delay="0">
         <Squawk Code="3233" ModeC="true" />
         <Position Latitude="-37.66232800000001" Longitude="144.848532" Speed="0" Altitude="397" />
         <Cleared Level="4000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YKII" Alternative="" Rules="1" CruiseSpeed="210" ETD="0000" ATD="0000" RFL="4000" CFL="4000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="GPS/RNAV /v/">ML6/27 MENOG W405 DCT KII DCT</FlightPlan>
-        <Route>ATNOL TAITE ROHAN</Route>
+        <Route>MENOG TAITE TURVA</Route>
+        <TimedMessages>
+          <TimedMessage Time="180" Message="ML TWR to ML APP. Next, AZJ, Runway 27" />
+        </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="ANZ191" Type="B77W" Delay="0">
         <Squawk Code="1726" ModeC="true" />
@@ -151,6 +161,9 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Cleared Level="5000" />
         <FlightPlan Active="true" Departure="YMML" Destination="NZCH" Alternative="" Rules="1" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="GPS/RNP2 /v/">CORRS9/27 CORRS Y66 LEPAR</FlightPlan>
         <Route>HOPLA DARLY STEVO CORRS LEPAR</Route>
+        <TimedMessages>
+          <TimedMessage Time="420" Message="Takeoff." />
+        </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="VOZ404" Type="B738" Delay="0">
         <Squawk Code="3121" ModeC="true" />
@@ -158,20 +171,26 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Cleared Level="5000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YPAD" Alternative="" Rules="1" CruiseSpeed="420" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHVOT SEL/JSHQ PER/C NAV/GPSRNAV OPR/VIRGIN AUSTRALIA /v/">NEVIS7/27 NEVIS H345 DRINA DCT</FlightPlan>
         <Route>ATNOL NEVIS BORTO</Route>
+        <TimedMessages>
+          <TimedMessage Time="840" Message="Takeoff" />
+        </TimedMessages>
       </Aircraft>
-      <Aircraft Callsign="QLK420D" Type="DH8D" Delay="0">
+      <Aircraft Callsign="QLK2080" Type="DH8D" Delay="0">
         <Squawk Code="1726" ModeC="true" />
         <Position Latitude="-37.662335999999996" Longitude="144.848448" Speed="0" Altitude="397" />
         <Cleared Level="5000" />
-        <FlightPlan Active="true" Departure="YMML" Destination="YMIA" Alternative="" Rules="1" CruiseSpeed="340" ETD="0000" ATD="0000" RFL="18000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="GPS/RNAV /v/">ML6/27 OWENS V376 MIA</FlightPlan>
-        <Route>ATNOL OWENS MIA</Route>
+        <FlightPlan Active="true" Departure="YMML" Destination="YMIA" Alternative="" Rules="1" CruiseSpeed="340" ETD="0000" ATD="0000" RFL="18000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="GPS/RNAV /v/">ML6/27 DOTPA V376 MIA</FlightPlan>
+        <Route>DOTPA DOVUT CHITT MIA</Route>
       </Aircraft>
-      <Aircraft Callsign="HUT" Type="PA31" Delay="0">
+      <Aircraft Callsign="HUT" Type="PA31" Delay="480">
         <Squawk Code="2211" ModeC="true" />
         <Position Latitude="-37.143527" Longitude="145.905625" Speed="190" Altitude="8000" />
         <Cleared Level="8000" />
         <FlightPlan Active="true" Departure="YHOT" Destination="YMMB" Alternative="" Rules="1" CruiseSpeed="180" ETD="0000" ATD="0000" RFL="8000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">YHOT Z82 TEMIS W188 COLDS MB</FlightPlan>
         <Route>TEMIS LACEY COLDS MB</Route>
+        <TimedMessages>
+          <TimedMessage Time="860" Message="ELW to ML APP. Via LACEY, HUT." />
+        </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="WHB" Type="C172" Delay="0">
         <Squawk Code="1200" ModeC="true" />
@@ -185,17 +204,23 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Cleared Level="4000" />
         <FlightPlan Active="true" Departure="YBDG" Destination="YMMB" Alternative="" Rules="1" CruiseSpeed="140" ETD="0000" ATD="0000" RFL="4000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TELIP ML MB</FlightPlan>
         <Route>ML MB</Route>
+        <TimedMessages>
+          <TimedMessage Time="360" Message="YWE to ML APP. Via ML, EXG." />
+        </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="LOI" Type="C172" Delay="0">
         <Squawk Code="1200" ModeC="true" />
         <Position Latitude="-37.308091" Longitude="144.924729" Speed="120" Altitude="3000" />
         <Route>LCD IRVAK</Route>
+        <TimedMessages>
+          <TimedMessage Time="150" Message="LOI, request flight following." />
+        </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="MOO" Type="C172" Delay="0">
         <Squawk Code="1200" ModeC="true" />
         <Position Latitude="-37.977829" Longitude="145.12986" Speed="130" Altitude="2500" />
         <FlightPlan Active="false" Departure="YMMB" Destination="YMAV" Alternative="" Rules="V" CruiseSpeed="110" ETD="0000" ATD="0000" RFL="4500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">PORTS WBES</FlightPlan>
-        <Route>PORTS WBES</Route>
+        <Route>PORTS WBES YMAV</Route>
       </Aircraft>
     </Targets>
   </ScenarioFile>
