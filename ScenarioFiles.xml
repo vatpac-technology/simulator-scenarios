@@ -2465,4 +2465,225 @@ There is no significant weather within the TMA, although thunderstorms to the no
         </Aircraft>
     </Targets>
 </ScenarioFile>
+
+<ScenarioFile>
+    <Name>BN TMA 19 under construction</Name>
+    <Type>TMA</Type>
+    <StudentBriefing>TBI</StudentBriefing>
+    <InstructorNotes>TBI.</InstructorNotes>
+    <Targets>
+    <Aircraft Callsign="QFA537" Type="B738" Delay="0">
+      <Squawk Code="2201" ModeC="true" />
+      <Position Latitude="-27.374982" Longitude="153.134136" Speed="0" Altitude="20" />
+      <Cleared Level="6000" />
+      <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="1" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="40000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG1/19L SANEG H91 CORKY H12 BOREE DCT</FlightPlan>
+      <Route>BOSVU DADAN DENIS LILEE SANEG HUUGO APAGI</Route>
+      <TimedMessages>
+        <TimedMessage Time="360" Message="TBI." />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="VET" Type="SW4" Delay="0">
+      <Squawk Code="2203" ModeC="true" />
+      <Position Latitude="-27.374982" Longitude="153.134136" Speed="0" Altitude="20" />
+      <Cleared Level="4000" />
+      <FlightPlan Active="true" Departure="YBBN" Destination="YARM" Alternative="" Rules="1" CruiseSpeed="264" ETD="0000" ATD="0000" RFL="12000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">BN4/19L BN H91 HUUGO W128 ALDAR W180 ARM DCT</FlightPlan>
+      <Route>SANEG HUUGO ALDAR</Route>
+    </Aircraft>
+    <Aircraft Callsign="QFA621" Type="B738" Delay="0">
+      <Squawk Code="2205" ModeC="true" />
+      <Position Latitude="-27.374982" Longitude="153.134136" Speed="0" Altitude="20" />
+      <Cleared Level="6000" />
+      <FlightPlan Active="true" Departure="YBBN" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG1/19L SANEG Q923 CANTY H119 ARBEY DCT</FlightPlan>
+      <Route>BOSVU DADAN DENIS LILEE SANEG NODDY ISKIM</Route>
+    </Aircraft>
+    <Aircraft Callsign="VOZ950" Type="B738" Delay="0">
+      <Squawk Code="2206" ModeC="true" />
+      <Position Latitude="-27.374982" Longitude="153.134136" Speed="0" Altitude="20" />
+      <Cleared Level="6000" />
+      <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG1/19L SANEG H91 CORKY H12 SADLO/N0380F230 H12 BOREE DCT</FlightPlan>
+      <Route>BOSVU DADAN DENIS LILEE SANEG HUUGO APAGI</Route>
+    </Aircraft>
+    <Aircraft Callsign="CAL53" Type="A359" Delay="0">
+      <Squawk Code="2207" ModeC="true" />
+      <Position Latitude="-27.374982" Longitude="153.134136" Speed="0" Altitude="20" />
+      <Cleared Level="6000" />
+      <FlightPlan Active="true" Departure="YBBN" Destination="NZAA" Alternative="" Rules="1" CruiseSpeed="494" ETD="0000" ATD="0000" RFL="41000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="RMK/CALLSIGN DYNASTY /v/">SCOTT3/19L SCOTT A464 RIGMI/M085F410 A464 UPLAR DCT</FlightPlan>
+      <Route>BOSVU DADAN DENIS LILEE IDPAT DUGAL SCOTT DUBUD</Route>
+    </Aircraft>
+    <Aircraft Callsign="QFA941" Type="B738" Delay="0">
+      <Squawk Code="2210" ModeC="true" />
+      <Position Latitude="-27.374982" Longitude="153.134136" Speed="0" Altitude="20" />
+      <Cleared Level="6000" />
+      <FlightPlan Active="true" Departure="YBBN" Destination="YPPH" Alternative="" Rules="1" CruiseSpeed="445" ETD="0000" ATD="0000" RFL="34000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG1/19L SANEG Q210 VIGUT T33 SAMMY/M079F360 T33 LEC DCT BANAM DCT OLRUX/M078F340 J21 MUBID Q10 HAMTN Q158 BEVLY DCT</FlightPlan>
+      <Route>BOSVU DADAN DENIS LILEE SANEG OSTAM</Route>
+    </Aircraft>
+    <Aircraft Callsign="JST817" Type="A320" Delay="0">
+      <Squawk Code="2211" ModeC="true" />
+      <Position Latitude="-27.374982" Longitude="153.134136" Speed="0" Altitude="20" />
+      <Cleared Level="6000" />
+      <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="1" CruiseSpeed="457" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG1/19L SANEG H91 CORKY H12 BOREE DCT</FlightPlan>
+      <Route>BOSVU DADAN DENIS LILEE SANEG HUUGO APAGI</Route>
+    </Aircraft>
+    <Aircraft Callsign="JST485" Type="A320" Delay="0">
+      <Squawk Code="2213" ModeC="true" />
+      <Position Latitude="-27.374982" Longitude="153.134136" Speed="0" Altitude="20" />
+      <Cleared Level="6000" />
+      <FlightPlan Active="true" Departure="YBBN" Destination="YWLM" Alternative="" Rules="1" CruiseSpeed="451" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG1/19L SANEG H91 SANAD W606 WLM DCT</FlightPlan>
+      <Route>BOSVU DADAN DENIS LILEE SANEG HUUGO APAGI</Route>
+    </Aircraft>
+    <Aircraft Callsign="VOZ1117" Type="B738" Delay="0">
+      <Squawk Code="2202" ModeC="true" />
+      <Position Latitude="-27.358423" Longitude="153.120866" Speed="0" Altitude="20" />
+      <Cleared Level="6000" />
+      <FlightPlan Active="true" Departure="YBBN" Destination="YBPN" Alternative="" Rules="1" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">BIXAD1/19R BIXAD Q67 CAPRI UQ493 EMSUP V308 MK DCT PN DCT</FlightPlan>
+      <Route>DAMDA TOGIN ALBUB AMBLE DEBAY BUKBU BIXAD GUDSO</Route>
+    </Aircraft>
+    <Aircraft Callsign="QLK2528" Type="DH8D" Delay="0">
+      <Squawk Code="2204" ModeC="true" />
+      <Position Latitude="-27.358423" Longitude="153.120866" Speed="0" Altitude="20" />
+      <Cleared Level="4000" />
+      <FlightPlan Active="true" Departure="YBBN" Destination="YBPN" Alternative="" Rules="1" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="24000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">BN4/19R BN V308 MK W387 PN DCT </FlightPlan>
+      <Route>AKOBA SAGLI</Route>
+    </Aircraft>
+    <Aircraft Callsign="QLK2406" Type="DH8D" Delay="0">
+      <Squawk Code="2212" ModeC="true" />
+      <Position Latitude="-27.358423" Longitude="153.120866" Speed="0" Altitude="20" />
+      <Cleared Level="4000" />
+      <FlightPlan Active="true" Departure="YBBN" Destination="YEML" Alternative="" Rules="1" CruiseSpeed="337" ETD="0000" ATD="0000" RFL="18000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">BN4/19R BN Q484 MESED DCT LIKTO DCT UNVAT DCT EML DCT</FlightPlan>
+      <Route>SAMVI RUDEY</Route>
+    </Aircraft>
+    <Aircraft Callsign="QLK2542" Type="DH8D" Delay="0">
+      <Squawk Code="2214" ModeC="true" />
+      <Position Latitude="-27.358423" Longitude="153.120866" Speed="0" Altitude="20" />
+      <Cleared Level="4000" />
+      <FlightPlan Active="true" Departure="YBBN" Destination="YLRE" Alternative="" Rules="1" CruiseSpeed="337" ETD="0000" ATD="0000" RFL="24000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">BN4/19R BN Q484 LIKTO Q421 UNVAT W152 MOVBA W240 LRE DCT</FlightPlan>
+      <Route>SAMVI RUDEY</Route>
+    </Aircraft>
+    <Aircraft Callsign="VOZ1497" Type="B737" Delay="0">
+      <Squawk Code="2215" ModeC="true" />
+      <Position Latitude="-27.358423" Longitude="153.120866" Speed="0" Altitude="20" />
+      <Cleared Level="6000" />
+      <FlightPlan Active="true" Departure="YBBN" Destination="YBHM" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="40000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">BIXAD1/19R BIXAD Q67 OVRON DCT</FlightPlan>
+      <Route>DAMDA TOGIN ALBUB AMBLE DEBAY BUKBU BIXAD GUDSO</Route>
+    </Aircraft>
+    <Aircraft Callsign="VOZ943" Type="B738" Delay="0">
+      <Squawk Code="4101" ModeC="true" />
+      <Position Latitude="-28.16" Longitude="153.5" Speed="400" Altitude="24000" />
+      <Cleared Level="9000" />
+      <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19L</FlightPlan>
+      <Route>MEKUG SALEL SALGA ISPON OMGUV BETSO</Route>
+    </Aircraft>
+    <Aircraft Callsign="VOZ705" Type="B738" Delay="0">
+      <Squawk Code="4103" ModeC="true" />
+      <Position Latitude="-28.2" Longitude="153.22" Speed="400" Altitude="24000" />
+      <Cleared Level="9000" />
+      <FlightPlan Active="true" Departure="YMHB" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT LATUM H111 LT W218 NOLAN/N0454F370 UY327 MAKRL/N0454F380 J163 CB W137 AVBEG W184 MUDGI/N0455F390 H66 BLAKA BLAK4A/19L</FlightPlan>
+      <Route>BLAKA DOGMU LAGEV PUBIV ISPON OMGUV BETSO</Route>
+    </Aircraft>
+    <Aircraft Callsign="QFA1930" Type="E190" Delay="0">
+      <Squawk Code="4105" ModeC="true" />
+      <Position Latitude="-28.22" Longitude="152.275" Speed="400" Altitude="29000" />
+      <Cleared Level="9000" />
+      <FlightPlan Active="true" Departure="YPAD" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SEDAN Y465 RACHL/M078F370 Y465 ENLIP ENLI1A/19L</FlightPlan>
+      <Route>ENLIP ODUTO ANSOR PULEX SORVA RUTAT PUBIV ISPON OMGUV BETSO</Route>
+    </Aircraft>
+    <Aircraft Callsign="QLK2522" Type="DH8D" Delay="0">
+      <Squawk Code="4107" ModeC="true" />
+      <Position Latitude="-28.16" Longitude="153.5" Speed="340" Altitude="24000" />
+      <Cleared Level="9000" />
+      <FlightPlan Active="true" Departure="YCFS" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="340" ETD="0000" ATD="0000" RFL="24000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CFS W214 GOMOL GOMO2A/19L</FlightPlan>
+      <Route>GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO</Route>
+    </Aircraft>
+    <Aircraft Callsign="JST7803" Type="A321" Delay="0">
+      <Squawk Code="4112" ModeC="true" />
+      <Position Latitude="-28.725" Longitude="151.71" Speed="450" Altitude="39000" />
+      <Cleared Level="9000" />
+      <FlightPlan Active="true" Departure="YPAD" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SEDAN Y465 ENLIP ENLI1A/19L</FlightPlan>
+      <Route>ENLIP ODUTO ANSOR PULEX SORVA RUTAT PUBIV ISPON OMGUV BETSO</Route>
+    </Aircraft>
+    <Aircraft Callsign="QFA616" Type="B738" Delay="0">
+      <Squawk Code="4114" ModeC="true" />
+      <Position Latitude="-29.18" Longitude="152.75" Speed="450" Altitude="39000" />
+      <Cleared Level="9000" />
+      <FlightPlan Active="true" Departure="YMML" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT NONIX H66 BLAKA BLAK4A/19L</FlightPlan>
+      <Route>IDNER BLAKA DOGMU LAGEV PUBIV ISPON OMGUV BETSO</Route>
+    </Aircraft>
+    <Aircraft Callsign="EVY48" Type="B737" Delay="0">
+      <Squawk Code="4116" ModeC="true" />
+      <Position Latitude="-29.3" Longitude="152.62" Speed="450" Altitude="41000" />
+      <Cleared Level="9000" />
+      <FlightPlan Active="true" Departure="YSCB" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="41000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AVBEG W184 MUDGI H66 BLAKA BLAK4A/19L</FlightPlan>
+      <Route>WHITI IDNER BLAKA DOGMU LAGEV PUBIV ISPON OMGUV BETSO</Route>
+    </Aircraft>
+    <Aircraft Callsign="RXA258" Type="B738" Delay="0">
+      <Squawk Code="4117" ModeC="true" />
+      <Position Latitude="-29.8" Longitude="152.12" Speed="450" Altitude="37000" />
+      <Cleared Level="9000" />
+      <FlightPlan Active="true" Departure="YMML" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT NONIX H66 BLAKA BLAK4A/19L</FlightPlan>
+      <Route>WHITI IDNER BLAKA DOGMU LAGEV PUBIV ISPON OMGUV BETSO</Route>
+    </Aircraft>
+    <Aircraft Callsign="QLK2405" Type="DH8D" Delay="0">
+      <Squawk Code="4102" ModeC="true" />
+      <Position Latitude="-26.88" Longitude="152.77" Speed="300" Altitude="13000" />
+      <Cleared Level="9000" />
+      <FlightPlan Active="true" Departure="YEML" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="340" ETD="0000" ATD="0000" RFL="25000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT EML W186 SUSGI V307 MORBI MORB1A/19R</FlightPlan>
+      <Route>MORBI REMOR GAYLA LUTKO IGBON PAMBU ATRAX LAVIN OSOKO</Route>
+    </Aircraft>
+    <Aircraft Callsign="QLK2455" Type="DH8D" Delay="0">
+      <Squawk Code="4106" ModeC="true" />
+      <Position Latitude="-26.185" Longitude="152.22" Speed="300" Altitude="23000" />
+      <Cleared Level="9000" />
+      <FlightPlan Active="true" Departure="YMRB" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="344" ETD="0000" ATD="0000" RFL="23000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT NIPOM W727 SUSGI V307 MORBI MORB1A/19R</FlightPlan>
+      <Route>OTLEB MORBI REMOR GAYLA LUTKO IGBON PAMBU ATRAX LAVIN OSOKO</Route>
+    </Aircraft>
+    <Aircraft Callsign="VOZ448" Type="B738" Delay="0">
+      <Squawk Code="4115" ModeC="true" />
+      <Position Latitude="-25.916" Longitude="151.666" Speed="450" Altitude="33000" />
+      <Cleared Level="9000" />
+      <FlightPlan Active="true" Departure="YPDN" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PALGA DCT NERTI J138 SURVO/N0458F370 J138 NTN T13 DOLIB/N0453F390 T13 EML UY409 BESBO Y177 SMOKA SMOK9A/19R</FlightPlan>
+      <Route>LAMUG SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO</Route>
+    </Aircraft>
+        <Aircraft Callsign="QFA787" Type="B738" Delay="0">
+      <Squawk Code="4113" ModeC="true" />
+      <Position Latitude="-26.06" Longitude="151.805" Speed="450" Altitude="29000" />
+      <Cleared Level="9000" />
+      <FlightPlan Active="true" Departure="YBAS" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PULOL T11 ROM Y166 ROWLO V327 HAWKE Y340 LAMUG Y177 SMOKA SMOK9A/19R</FlightPlan>
+      <Route>LAMUG SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO</Route>
+    </Aircraft>
+    <Aircraft Callsign="QFA987" Type="B738" Delay="0">
+      <Squawk Code="4110" ModeC="true" />
+      <Position Latitude="-26.2666" Longitude="152.0" Speed="450" Altitude="25000" />
+      <Cleared Level="9000" />
+      <FlightPlan Active="true" Departure="YBMK" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT POONA Y61 RUROX Y177 SMOKA SMOK9A/19R</FlightPlan>
+      <Route>LAMUG SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO</Route>
+    </Aircraft>
+    <Aircraft Callsign="VOZ465" Type="B738" Delay="0">
+      <Squawk Code="4111" ModeC="true" />
+      <Position Latitude="-26.88" Longitude="152.77" Speed="300" Altitude="18000" />
+      <Cleared Level="9000" />
+      <FlightPlan Active="true" Departure="YPPH" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT MUBID J21 OLRUX DCT CDU DCT TILLI DCT SAPED DCT VAGPO DCT PASTA DCT AGETA DCT RACHL Y465 ENLIP ENLI1A/19R</FlightPlan>
+      <Route>ENLIP DULIN ALBUB RITVU APUKU DRAIN PAMBU ATRAX LAVIN OSOKO</Route>
+    </Aircraft>
+    <Aircraft Callsign="VOZ448" Type="B738" Delay="0">
+      <Squawk Code="4115" ModeC="true" />
+      <Position Latitude="-25.916" Longitude="151.666" Speed="450" Altitude="33000" />
+      <Cleared Level="9000" />
+      <FlightPlan Active="true" Departure="YPDN" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PALGA DCT NERTI J138 SURVO/N0458F370 J138 NTN T13 DOLIB/N0453F390 T13 EML UY409 BESBO Y177 SMOKA SMOK9A/19R</FlightPlan>
+      <Route>LAMUG SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO</Route>
+    </Aircraft>
+    <Aircraft Callsign="ANG3" Type="B763" Delay="0">
+      <Squawk Code="4104" ModeC="true" />
+      <Position Latitude="-26.415" Longitude="152.16" Speed="400" Altitude="25000" />
+      <Cleared Level="9000" />
+      <FlightPlan Active="true" Departure="" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="471" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PY/M080F370 B462 MK/N0472F370 V153 POONA Y61 RUROX Y177 SMOKA SMOK9A/19R</FlightPlan>
+      <Route>LAMUG SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO</Route>
+    <Aircraft Callsign="QLK2455" Type="DH8D" Delay="0">
+      <Squawk Code="4126" ModeC="true" />
+      <Position Latitude="-26.185" Longitude="152.22" Speed="300" Altitude="23000" />
+      <Cleared Level="9000" />
+      <FlightPlan Active="true" Departure="YMRB" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="344" ETD="0000" ATD="0000" RFL="23000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT NIPOM W727 SUSGI V307 MORBI MORB1A/19R</FlightPlan>
+      <Route>OTLEB MORBI REMOR GAYLA LUTKO IGBON PAMBU ATRAX LAVIN OSOKO</Route>
+    </Aircraft>
+  </Targets>
+</ScenarioFile>
 </ScenarioFiles>
