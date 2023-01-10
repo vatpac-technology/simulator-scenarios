@@ -2545,21 +2545,21 @@ There is no significant weather within the TMA, although thunderstorms to the no
           <FlightPlan Active="true" Departure="YBBN" Destination="YBPN" Alternative="" Rules="1" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">BIXAD1/19R BIXAD Q67 CAPRI UQ493 EMSUP V308 MK DCT PN DCT</FlightPlan>
           <Route>DAMDA TOGIN ALBUB AMBLE DEBAY BUKBU BIXAD GUDSO</Route>
         </Aircraft>
-        <Aircraft Callsign="QLK2528" Type="DH8D" Delay="0">
+        <Aircraft Callsign="QLK2528" Type="DH8C" Delay="0">
           <Squawk Code="2204" ModeC="true" />
           <Position Latitude="-27.358423" Longitude="153.120866" Speed="0" Altitude="20" />
           <Cleared Level="4000" />
           <FlightPlan Active="true" Departure="YBBN" Destination="YBPN" Alternative="" Rules="1" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="24000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">BN4/19R BN V308 MK W387 PN DCT </FlightPlan>
           <Route>AKOBA SAGLI</Route>
         </Aircraft>
-        <Aircraft Callsign="QLK2406" Type="DH8D" Delay="0">
+        <Aircraft Callsign="QLK2406" Type="DH8C" Delay="0">
           <Squawk Code="2212" ModeC="true" />
           <Position Latitude="-27.358423" Longitude="153.120866" Speed="0" Altitude="20" />
           <Cleared Level="4000" />
           <FlightPlan Active="true" Departure="YBBN" Destination="YEML" Alternative="" Rules="1" CruiseSpeed="337" ETD="0000" ATD="0000" RFL="18000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">BN4/19R BN Q484 MESED DCT LIKTO DCT UNVAT DCT EML DCT</FlightPlan>
           <Route>SAMVI RUDEY</Route>
         </Aircraft>
-        <Aircraft Callsign="QLK2542" Type="DH8D" Delay="0">
+        <Aircraft Callsign="QLK2542" Type="DH8C" Delay="0">
           <Squawk Code="2214" ModeC="true" />
           <Position Latitude="-27.358423" Longitude="153.120866" Speed="0" Altitude="20" />
           <Cleared Level="4000" />
@@ -2580,14 +2580,14 @@ There is no significant weather within the TMA, although thunderstorms to the no
           <FlightPlan Active="true" Departure="YMML" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT NONIX H66 BLAKA BLAK4A/19L</FlightPlan>
           <Route>WHITI IDNER BLAKA DOGMU LAGEV PUBIV ISPON OMGUV BETSO</Route>
         </Aircraft>
-        <Aircraft Callsign="QLK2405" Type="DH8D" Delay="0">
+        <Aircraft Callsign="QLK2405" Type="DH8C" Delay="0">
           <Squawk Code="4102" ModeC="true" />
-          <Position Latitude="-26.78" Longitude="152.77" Speed="300" Altitude="25000" />
+          <Position Latitude="-26.78" Longitude="152.77" Speed="300" Altitude="13000" />
           <Cleared Level="3000" />
           <FlightPlan Active="true" Departure="YEML" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="340" ETD="0000" ATD="0000" RFL="25000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT EML W186 SUSGI V307 MORBI MORB1A/19R</FlightPlan>
-          <Route>MORBI REMOR GAYLA LUTKO IGBON PAMBU ATRAX LAVIN OSOKO</Route>
+          <Route>REMOR GAYLA LUTKO IGBON PAMBU ATRAX LAVIN OSOKO</Route>
         </Aircraft>
-        <Aircraft Callsign="QLK2455" Type="DH8D" Delay="0">
+        <Aircraft Callsign="QLK2455" Type="DH8C" Delay="0">
           <Squawk Code="4106" ModeC="true" />
           <Position Latitude="-26.185" Longitude="152.22" Speed="300" Altitude="23000" />
           <Cleared Level="3000" />
@@ -2657,7 +2657,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
           <FlightPlan Active="true" Departure="YPAD" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SEDAN Y465 RACHL/M078F370 Y465 ENLIP ENLI1A/19L</FlightPlan>
           <Route>ENLIP ODUTO ANSOR PULEX SORVA RUTAT PUBIV ISPON OMGUV BETSO</Route>
         </Aircraft>
-        <Aircraft Callsign="QLK2522" Type="DH8D" Delay="0">
+        <Aircraft Callsign="QLK2522" Type="DH8C" Delay="0">
           <Squawk Code="4107" ModeC="true" />
           <Position Latitude="-29.06" Longitude="153.06" Speed="340" Altitude="24000" />
           <Cleared Level="3000" />
