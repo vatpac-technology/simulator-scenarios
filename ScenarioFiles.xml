@@ -2582,7 +2582,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         </Aircraft>
         <Aircraft Callsign="QLK2405" Type="DH8D" Delay="0">
           <Squawk Code="4102" ModeC="true" />
-          <Position Latitude="-29.06" Longitude="153.06" Speed="300" Altitude="25000" />
+          <Position Latitude="-26.78" Longitude="152.77" Speed="300" Altitude="25000" />
           <Cleared Level="3000" />
           <FlightPlan Active="true" Departure="YEML" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="340" ETD="0000" ATD="0000" RFL="25000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT EML W186 SUSGI V307 MORBI MORB1A/19R</FlightPlan>
           <Route>MORBI REMOR GAYLA LUTKO IGBON PAMBU ATRAX LAVIN OSOKO</Route>
@@ -2593,13 +2593,6 @@ There is no significant weather within the TMA, although thunderstorms to the no
           <Cleared Level="3000" />
           <FlightPlan Active="true" Departure="YMRB" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="344" ETD="0000" ATD="0000" RFL="23000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT NIPOM W727 SUSGI V307 MORBI MORB1A/19R</FlightPlan>
           <Route>OTLEB MORBI REMOR GAYLA LUTKO IGBON PAMBU ATRAX LAVIN OSOKO</Route>
-        </Aircraft>
-        <Aircraft Callsign="VOZ448" Type="B738" Delay="0">
-          <Squawk Code="4115" ModeC="true" />
-          <Position Latitude="-25.916" Longitude="151.666" Speed="450" Altitude="33000" />
-          <Cleared Level="3000" />
-          <FlightPlan Active="true" Departure="YPDN" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PALGA DCT NERTI J138 SURVO/N0458F370 J138 NTN T13 DOLIB/N0453F390 T13 EML UY409 BESBO Y177 SMOKA SMOK9A/19R</FlightPlan>
-          <Route>LAMUG SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO</Route>
         </Aircraft>
         <Aircraft Callsign="QFA787" Type="B738" Delay="0">
           <Squawk Code="4113" ModeC="true" />
@@ -2626,7 +2619,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
           <Squawk Code="4134" ModeC="true" />
           <Position Latitude="-25.916" Longitude="151.666" Speed="450" Altitude="33000" />
           <Cleared Level="3000" />
-          <FlightPlan Active="true" Departure="YPDN" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PALGA DCT NERTI J138 SURVO/N0458F370 J138 NTN T13 DOLIB/N0453F390 T13 EML UY409 BESBO Y177 SMOKA SMOK9A/19R</FlightPlan>
+          <FlightPlan Active="true" Departure="YPDN" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PALGA DCT NERTI J138 SURVO/N0458F370 J138 NTN T13 DOLIB/N0453F390 T13 EML UY409 NIROK Y177 SMOKA SMOK9A/19R</FlightPlan>
           <Route>LAMUG SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO</Route>
         </Aircraft>
         <Aircraft Callsign="ANG3" Type="B763" Delay="0">
@@ -2635,13 +2628,6 @@ There is no significant weather within the TMA, although thunderstorms to the no
           <Cleared Level="3000" />
           <FlightPlan Active="true" Departure="AYPY" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="471" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PY/M080F370 B462 MK/N0472F370 V153 POONA Y61 RUROX Y177 SMOKA SMOK9A/19R</FlightPlan>
           <Route>LAMUG SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO</Route>
-        </Aircraft>
-        <Aircraft Callsign="QLK2455" Type="DH8D" Delay="0">
-          <Squawk Code="4126" ModeC="true" />
-          <Position Latitude="-26.185" Longitude="152.22" Speed="300" Altitude="23000" />
-          <Cleared Level="3000" />
-          <FlightPlan Active="true" Departure="YMRB" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="344" ETD="0000" ATD="0000" RFL="23000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT NIPOM W727 SUSGI V307 MORBI MORB1A/19R</FlightPlan>
-          <Route>OTLEB MORBI REMOR GAYLA LUTKO IGBON PAMBU ATRAX LAVIN OSOKO</Route>
         </Aircraft>
         <Aircraft Callsign="VOZ1497" Type="B737" Delay="0">
           <Squawk Code="2215" ModeC="true" />
@@ -2673,7 +2659,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         </Aircraft>
         <Aircraft Callsign="QLK2522" Type="DH8D" Delay="0">
           <Squawk Code="4107" ModeC="true" />
-          <Position Latitude="-28.16" Longitude="153.5" Speed="340" Altitude="24000" />
+          <Position Latitude="-29.06" Longitude="153.06" Speed="340" Altitude="24000" />
           <Cleared Level="3000" />
           <FlightPlan Active="true" Departure="YCFS" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="340" ETD="0000" ATD="0000" RFL="24000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CFS W214 GOMOL GOMO2A/19L</FlightPlan>
           <Route>GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO</Route>
