@@ -67,51 +67,51 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Position Latitude="-37.202087" Longitude="146.119146" Speed="410" Altitude="24000" />
         <Cleared Level="9000" />
         <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="VHVOC SEL/MQDS PER/C NAV/RNP10 OPR/VIRGIN AUSTRALIA /v/">TESAT H65 RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
-        <Route>LIZZI HORUS NEFER BELTA ML</Route>
+        <Route>LIZZI HORUS NEFER BELTA</Route>
       </Aircraft>
       <Aircraft Callsign="QFA455" Type="A332" Delay="0">
         <Squawk Code="3111" ModeC="true" />
         <Position Latitude="-37.00189199999999" Longitude="146.500724" Speed="420" Altitude="26000" />
         <Cleared Level="9000" />
         <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHZXA SEL/DEPQ PER/D NAV/RNP10 OPR/QANTAS /v/">TESAT H65 RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
-        <Route>LIZZI HORUS NEFER BELTA ML</Route>
+        <Route>LIZZI HORUS NEFER BELTA</Route>
       </Aircraft>
       <Aircraft Callsign="QFA692" Type="B738" Delay="0">
         <Squawk Code="3002" ModeC="true" />
         <Position Latitude="-36.35500000" Longitude="142.63972222" Speed="430" Altitude="33000" />
         <Cleared Level="9000" />
         <FlightPlan Active="true" Departure="YPAD" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="440" ETD="0001" ATD="0001" RFL="35000" EETHours="00" EETMins="10" FuelHours="0" FuelMins="0" Remarks="REG/VHVXQ SEL/GRDH PER/C NAV/RNP10 OPR/QANTAS /v/">BENDO Y12 ARBEY ARBE6A/16</FlightPlan>
-        <Route>APPLE ARBEY BELTA ML</Route>
+        <Route>APPLE ARBEY BELTA</Route>
       </Aircraft>
       <Aircraft Callsign="TGG820" Type="A320" Delay="0">
         <Squawk Code="4112" ModeC="true" />
         <Position Latitude="-36.51083333" Longitude="147.39500000" Speed="410" Altitude="38000" />
         <Cleared Level="9000" />
         <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="VHVOC SEL/MQDS PER/C NAV/RNP2 CS/TIGGOZ /v/">TESAT H65 RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
-        <Route>NABBA BULLA LIZZI HORUS NEFER BELTA ML</Route>
+        <Route>NABBA BULLA LIZZI HORUS NEFER BELTA</Route>
       </Aircraft>
       <Aircraft Callsign="QFA699" Type="B738" Delay="30">
         <Squawk Code="3001" ModeC="true" />
         <Position Latitude="-36.22722222" Longitude="142.26583333" Speed="430" Altitude="35000" />
         <Cleared Level="9000" />
         <FlightPlan Active="true" Departure="YPAD" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="440" ETD="0001" ATD="0001" RFL="35000" EETHours="00" EETMins="10" FuelHours="0" FuelMins="0" Remarks="REG/VHVXQ SEL/GRDH PER/C NAV/RNP2 OPR/QANTAS /v/">BENDO Y12 ARBEY ARBE6A/16</FlightPlan>
-        <Route>KEPPA APPLE ARBEY BELTA ML</Route>
+        <Route>KEPPA APPLE ARBEY BELTA</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ1755" Type="B738" Delay="0">
         <Squawk Code="4337" ModeC="true" />
         <Position Latitude="-40.356549" Longitude="146.565559" Speed="420" Altitude="36000" />
         <Cleared Level="9000" />
         <FlightPlan Active="true" Departure="YMHB" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="420" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHVUG SEL/PRBF PER/C NAV/RNP2 OPR/VIRGIN AUSTRALIA /v/">KANLI H111 LT H215 WAREN WARE7A/16</FlightPlan>
-        <Route>FLIKI WAREN MICHM MONTY SANDR LAGUG NEFER BELTA ML</Route>
+        <Route>FLIKI WAREN MICHM MONTY SANDR LAGUG NEFER BELTA</Route>
       </Aircraft>
       <Aircraft Callsign="JST811" Type="A320" Delay="0">
         <Squawk Code="4115" ModeC="true" />
         <Position Latitude="-36.004223" Longitude="148.301395" Speed="410" Altitude="38000" />
         <Cleared Level="9000" />
         <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="VHVOC SEL/MQDS PER/C NAV/RNP2 OPR/JETSTAR /v/">DCT TESAT H65 RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
-        <Route>RUMIE NABBA BULLA LIZZI HORUS NEFER BELTA ML</Route>
+        <Route>RUMIE NABBA BULLA LIZZI HORUS NEFER BELTA</Route>
       </Aircraft>
-      <Aircraft Callsign="YMF7000" Type="F100" Delay="300">
+      <Aircraft Callsign="YMF7000" Type="F100" Delay="240">
         <Squawk Code="3002" ModeC="true" />
         <Position Latitude="-35.44027778" Longitude="146.03527778" Speed="430" Altitude="30000" />
         <Cleared Level="9000" />
@@ -142,7 +142,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="1" CruiseSpeed="220" ETD="0000" ATD="0000" RFL="41000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="GPS/RNP2 /v/">DOSEL1/27 DOSEL Y59 TESAT DCT</FlightPlan>
         <Route>ATNOL PARSI PEBTO PEART DOSEL EBONY</Route>
         <TimedMessages>
-          <TimedMessage Time="1260" Message="Takeoff" />
+          <TimedMessage Time="1380" Message="Takeoff" />
         </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="AZJ" Type="PA31" Delay="0">
@@ -152,7 +152,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YMML" Destination="YKII" Alternative="" Rules="1" CruiseSpeed="210" ETD="0000" ATD="0000" RFL="4000" CFL="4000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="GPS/RNAV /v/">ML6/27 MENOG W405 DCT KII DCT</FlightPlan>
         <Route>MENOG TAITE TURVA</Route>
         <TimedMessages>
-          <TimedMessage Time="180" Message="ML TWR to ML APP. Next, AZJ, Runway 27" />
+          <TimedMessage Time="180" Message="Coord ML TWR to ML APP. Next, AZJ, Runway 27" />
         </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="ANZ191" Type="B77W" Delay="0">
@@ -181,6 +181,9 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Cleared Level="5000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YMIA" Alternative="" Rules="1" CruiseSpeed="340" ETD="0000" ATD="0000" RFL="18000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="GPS/RNAV /v/">ML6/27 DOTPA V376 MIA</FlightPlan>
         <Route>DOTPA DOVUT CHITT MIA</Route>
+        <TimedMessages>
+          <TimedMessage Time="1500" Message="Coord ML TWR to APP. Next, QLK2080, Runway 27" />
+        </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="HUT" Type="PA31" Delay="480">
         <Squawk Code="2211" ModeC="true" />
@@ -189,14 +192,17 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YHOT" Destination="YMMB" Alternative="" Rules="1" CruiseSpeed="180" ETD="0000" ATD="0000" RFL="8000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">YHOT Z82 TEMIS W188 COLDS MB</FlightPlan>
         <Route>TEMIS LACEY COLDS MB</Route>
         <TimedMessages>
-          <TimedMessage Time="860" Message="ELW to ML APP. Via LACEY, HUT." />
+          <TimedMessage Time="800" Message="Coord ELW to ML APP. Via LACEY, HUT." />
         </TimedMessages>
       </Aircraft>
-      <Aircraft Callsign="WHB" Type="C172" Delay="0">
+      <Aircraft Callsign="WHB" Type="C172" Delay="660">
         <Squawk Code="1200" ModeC="true" />
         <Position Latitude="-38.015096" Longitude="144.586399" Speed="120" Altitude="1500" />
         <FlightPlan Active="false" Departure="YMAV" Destination="YHOT" Alternative="" Rules="1" CruiseSpeed="120" ETD="0000" ATD="0000" RFL="1500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WBER FGN YLIL</FlightPlan>
         <Route>WBER FGN</Route>
+        <TimedMessages>
+          <TimedMessage Time="1020" Message="Req clearance. WHB, Cessna 172, POB1, tracking Werribee Racecourse, Flemington, 1500ft, receive Alpha, request clearance." />
+        </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="EXG" Type="C206" Delay="0">
         <Squawk Code="2213" ModeC="true" />
@@ -214,6 +220,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Route>LCD IRVAK</Route>
         <TimedMessages>
           <TimedMessage Time="150" Message="LOI, request flight following." />
+          <TimedMessage Time="660" Message="LOI, cancel flight following." />
         </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="MOO" Type="C172" Delay="0">
@@ -2635,6 +2642,55 @@ There is no significant weather within the TMA, although thunderstorms to the no
           <Cleared Level="9000" />
           <FlightPlan Active="true" Departure="YMRB" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="344" ETD="0000" ATD="0000" RFL="23000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT NIPOM W727 SUSGI V307 MORBI MORB1A/19R</FlightPlan>
           <Route>OTLEB MORBI REMOR GAYLA LUTKO IGBON PAMBU ATRAX LAVIN OSOKO</Route>
+        </Aircraft>
+        <Aircraft Callsign="VOZ1497" Type="B737" Delay="0">
+          <Squawk Code="2215" ModeC="true" />
+          <Position Latitude="-27.358423" Longitude="153.120866" Speed="0" Altitude="20" />
+          <Cleared Level="6000" />
+          <FlightPlan Active="true" Departure="YBBN" Destination="YBHM" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="40000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">BIXAD1/19R BIXAD Q67 OVRON DCT</FlightPlan>
+          <Route>DAMDA TOGIN ALBUB AMBLE DEBAY BUKBU BIXAD GUDSO</Route>
+        </Aircraft>
+        <Aircraft Callsign="VOZ943" Type="B738" Delay="0">
+          <Squawk Code="4101" ModeC="true" />
+          <Position Latitude="-28.16" Longitude="153.5" Speed="400" Altitude="24000" />
+          <Cleared Level="9000" />
+          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19L</FlightPlan>
+          <Route>MEKUG SALEL SALGA ISPON OMGUV BETSO</Route>
+        </Aircraft>
+        <Aircraft Callsign="VOZ705" Type="B738" Delay="0">
+          <Squawk Code="4103" ModeC="true" />
+          <Position Latitude="-28.2" Longitude="153.22" Speed="400" Altitude="24000" />
+          <Cleared Level="9000" />
+          <FlightPlan Active="true" Departure="YMHB" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT LATUM H111 LT W218 NOLAN/N0454F370 UY327 MAKRL/N0454F380 J163 CB W137 AVBEG W184 MUDGI/N0455F390 H66 BLAKA BLAK4A/19L</FlightPlan>
+          <Route>BLAKA DOGMU LAGEV PUBIV ISPON OMGUV BETSO</Route>
+        </Aircraft>
+        <Aircraft Callsign="QFA1930" Type="E190" Delay="0">
+          <Squawk Code="4105" ModeC="true" />
+          <Position Latitude="-28.22" Longitude="152.275" Speed="400" Altitude="29000" />
+          <Cleared Level="9000" />
+          <FlightPlan Active="true" Departure="YPAD" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SEDAN Y465 RACHL/M078F370 Y465 ENLIP ENLI1A/19L</FlightPlan>
+          <Route>ENLIP ODUTO ANSOR PULEX SORVA RUTAT PUBIV ISPON OMGUV BETSO</Route>
+        </Aircraft>
+        <Aircraft Callsign="QLK2522" Type="DH8D" Delay="0">
+          <Squawk Code="4107" ModeC="true" />
+          <Position Latitude="-28.16" Longitude="153.5" Speed="340" Altitude="24000" />
+          <Cleared Level="9000" />
+          <FlightPlan Active="true" Departure="YCFS" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="340" ETD="0000" ATD="0000" RFL="24000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CFS W214 GOMOL GOMO2A/19L</FlightPlan>
+          <Route>GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO</Route>
+        </Aircraft>
+        <Aircraft Callsign="JST7803" Type="A321" Delay="0">
+          <Squawk Code="4112" ModeC="true" />
+          <Position Latitude="-28.725" Longitude="151.71" Speed="450" Altitude="39000" />
+          <Cleared Level="9000" />
+          <FlightPlan Active="true" Departure="YPAD" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SEDAN Y465 ENLIP ENLI1A/19L</FlightPlan>
+          <Route>ENLIP ODUTO ANSOR PULEX SORVA RUTAT PUBIV ISPON OMGUV BETSO</Route>
+        </Aircraft>
+        <Aircraft Callsign="QFA616" Type="B738" Delay="0">
+          <Squawk Code="4114" ModeC="true" />
+          <Position Latitude="-29.18" Longitude="152.75" Speed="450" Altitude="39000" />
+          <Cleared Level="9000" />
+          <FlightPlan Active="true" Departure="YMML" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT NONIX H66 BLAKA BLAK4A/19L</FlightPlan>
+          <Route>IDNER BLAKA DOGMU LAGEV PUBIV ISPON OMGUV BETSO</Route>
         </Aircraft>
     </Targets>
 </ScenarioFile>
