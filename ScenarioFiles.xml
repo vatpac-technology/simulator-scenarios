@@ -2509,7 +2509,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
     <StudentBriefing>TBI</StudentBriefing>
     <InstructorNotes>TBI</InstructorNotes>
     <Targets>
-        <Aircraft Callsign="QFA537" Type="B738" Delay="0">
+        <Aircraft Callsign="QFA537" Type="B738" Delay="1910" StartAuto="true">
           <Squawk Code="2201" ModeC="true" />
           <Position Latitude="-27.374982" Longitude="153.134136" Speed="0" Altitude="20" />
           <Cleared Level="6000" />
@@ -2519,7 +2519,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <TimedMessage Time="1910" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="VET" Type="SW4" Delay="0">
+        <Aircraft Callsign="VET" Type="SW4" Delay="50" StartAuto="true">
           <Squawk Code="2203" ModeC="true" />
           <Position Latitude="-27.374982" Longitude="153.134136" Speed="0" Altitude="20" />
           <Cleared Level="4000" />
@@ -2536,7 +2536,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
           <FlightPlan Active="true" Departure="YBBN" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG1/19L SANEG Q923 CANTY H119 ARBEY DCT</FlightPlan>
           <Route>BOSVU DADAN DENIS LILEE SANEG NODDY ISKIM</Route>
         </Aircraft>
-        <Aircraft Callsign="VOZ950" Type="B738" Delay="0">
+        <Aircraft Callsign="VOZ950" Type="B738" Delay="1670" StartAuto="true">
           <Squawk Code="2206" ModeC="true" />
           <Position Latitude="-27.374982" Longitude="153.134136" Speed="0" Altitude="20" />
           <Cleared Level="6000" />
@@ -2546,7 +2546,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <TimedMessage Time="1670" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="CAL53" Type="A359" Delay="0">
+        <Aircraft Callsign="CAL53" Type="A359" Delay="350" StartAuto="true">
           <Squawk Code="2207" ModeC="true" />
           <Position Latitude="-27.374982" Longitude="153.134136" Speed="0" Altitude="20" />
           <Cleared Level="6000" />
@@ -2556,7 +2556,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <TimedMessage Time="350" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="QFA941" Type="B738" Delay="0">
+        <Aircraft Callsign="QFA941" Type="B738" Delay="1370" StartAuto="true">
           <Squawk Code="2210" ModeC="true" />
           <Position Latitude="-27.374982" Longitude="153.134136" Speed="0" Altitude="20" />
           <Cleared Level="6000" />
@@ -2566,7 +2566,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <TimedMessage Time="1370" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="JST817" Type="A320" Delay="0">
+        <Aircraft Callsign="JST817" Type="A320" Delay="590" StartAuto="true">
           <Squawk Code="2211" ModeC="true" />
           <Position Latitude="-27.374982" Longitude="153.134136" Speed="0" Altitude="20" />
           <Cleared Level="6000" />
@@ -2576,7 +2576,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <TimedMessage Time="590" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="JST485" Type="A320" Delay="0">
+        <Aircraft Callsign="JST485" Type="A320" Delay="770" StartAuto="true">
           <Squawk Code="2213" ModeC="true" />
           <Position Latitude="-27.374982" Longitude="153.134136" Speed="0" Altitude="20" />
           <Cleared Level="6000" />
@@ -2586,7 +2586,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <TimedMessage Time="770" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="VOZ1117" Type="B738" Delay="0">
+        <Aircraft Callsign="VOZ1117" Type="B738" Delay="2390" StartAuto="true">
           <Squawk Code="2202" ModeC="true" />
           <Position Latitude="-27.358423" Longitude="153.120866" Speed="0" Altitude="20" />
           <Cleared Level="6000" />
@@ -2596,7 +2596,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <TimedMessage Time="2390" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="QLK2528" Type="DH8C" Delay="0">
+        <Aircraft Callsign="QLK2528" Type="DH8C" Delay="110" StartAuto="true">
           <Squawk Code="2204" ModeC="true" />
           <Position Latitude="-27.358423" Longitude="153.120866" Speed="0" Altitude="20" />
           <Cleared Level="4000" />
@@ -2606,7 +2606,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <TimedMessage Time="110" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="QLK2406" Type="DH8C" Delay="0">
+        <Aircraft Callsign="QLK2406" Type="DH8C" Delay="1490" StartAuto="true">
           <Squawk Code="2212" ModeC="true" />
           <Position Latitude="-27.358423" Longitude="153.120866" Speed="0" Altitude="20" />
           <Cleared Level="4000" />
@@ -2616,7 +2616,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <TimedMessage Time="1490" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="QLK2542" Type="DH8C" Delay="0">
+        <Aircraft Callsign="QLK2542" Type="DH8C" Delay="1010" StartAuto="true">
           <Squawk Code="2214" ModeC="true" />
           <Position Latitude="-27.358423" Longitude="153.120866" Speed="0" Altitude="20" />
           <Cleared Level="4000" />
@@ -2626,7 +2626,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <TimedMessage Time="1010" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="VOZ1497" Type="B737" Delay="0">
+        <Aircraft Callsign="VOZ1497" Type="B737" Delay="356" StartAuto="true">
           <Squawk Code="2215" ModeC="true" />
           <Position Latitude="-27.358423" Longitude="153.120866" Speed="0" Altitude="20" />
           <Cleared Level="6000" />
