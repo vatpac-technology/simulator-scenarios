@@ -1994,6 +1994,9 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <Position Latitude="-29.232222" Longitude="157.960833" Speed="450" Altitude="36000" />
             <FlightPlan Departure="YAMB" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">MEPEM PADDY LENRI MISLY ABARB RIKNI N774 MARLN</FlightPlan>
             <Route>MISLY ABARB RIKNI MARLN</Route>
+            <TimedMessages>
+              <TimedMessage Time="1140" Message="TSN to ARL Coord. Via ABARB, ASY1091." />
+          </TimedMessages> 
         </Aircraft>
         <Aircraft Callsign="UAL842" Type="B773" Delay="0">
             <Squawk Code="4001" ModeC="true" />
@@ -2007,6 +2010,10 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <Position Latitude="-31.084111000000004" Longitude="150.853322" Speed="0" Altitude="1329" />
             <FlightPlan Departure="YSTW" Destination="YGTH" Alternative="" Active="false" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="22000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT TW LOVGO MOVBU PKS BORLI DCT</FlightPlan>
             <Route>LOVGO MOVBU PKS BORLI</Route>
+            <TimedMessages>
+              <TimedMessage Time="2520" Message="Coord TW TWR to ARL. STT, Next, Runway 30R." />
+              <TimedMessage Time="2580" Message="Takeoff." />
+            </TimedMessages> 
         </Aircraft>
         <Aircraft Callsign="QLK2002" Type="DH8D" Delay="0">
             <Squawk Code="4002" ModeC="true" />
@@ -2020,6 +2027,10 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <Position Latitude="-29.505820000000003" Longitude="149.84319700000003" Speed="0" Altitude="696" />
             <FlightPlan Departure="YMOR" Destination="YCFS" Alternative="" Active="false" Rules="I" CruiseSpeed="170" ETD="0000" ATD="0000" RFL="9000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT IVL CFS DCT</FlightPlan>
             <Route>IVL CFS</Route>
+            <TimedMessages>
+            <TimedMessage Time="5" Message="MWE, IFR Baron, Taxis Moree for Port Macquarie, Runway 01." />
+            <TimedMessage Time="240" Message="MWE Takeoff." />
+          </TimedMessages> 
         </Aircraft>
         <Aircraft Callsign="REI" Type="C182" Delay="0">
             <Squawk Code="4510" ModeC="true" />
@@ -2033,12 +2044,20 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <Position Latitude="-29.505820000000003" Longitude="149.84319700000003" Speed="0" Altitude="696" />
             <FlightPlan Departure="YMOR" Destination="YROM" Alternative="" Active="false" Rules="I" CruiseSpeed="140" ETD="0000" ATD="0000" RFL="8000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT MOR W298 SGE W499 ROM DCT</FlightPlan>
             <Route>SGE ROM</Route>
+            <TimedMessages>
+              <TimedMessage Time="2580" Message="SJD, IFR Cessna 182, Taxis Moree for Roma, Runway 01." />
+            </TimedMessages> 
         </Aircraft>
         <Aircraft Callsign="AM223" Type="B350" Delay="0">
             <Squawk Code="2000" ModeC="false" />
             <Position Latitude="-31.442474000000004" Longitude="152.85749199999998" Speed="0" Altitude="23" />
             <FlightPlan Departure="YPMQ" Destination="YMOR" Alternative="" Active="false" Rules="I" CruiseSpeed="290" ETD="0000" ATD="0000" RFL="18000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT PMQ W381 ARM W674 IVL MOR DCT</FlightPlan>
             <Route>ARM IVL MOR</Route>
+            <TimedMessages>
+              <TimedMessage Time="720" Message="AM223, IFR King Air, Taxis Port Macquarie for MOree, Runway 03." />
+              <TimedMessage Time="960" Message="MWE Takeoff." />
+              <TimedMessage Time="1920" Message="Request DCT MRZSE Moree Sierra Echo for the RNP Runway 01." />
+            </TimedMessages> 
         </Aircraft>
         <Aircraft Callsign="EWI" Type="BE58" Delay="0">
             <Squawk Code="4003" ModeC="true" />
@@ -2046,6 +2065,9 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <Position Latitude="-32.1" Longitude="150.6333" Speed="150" Altitude="10000" />
             <FlightPlan Departure="YSBK" Destination="YMOR" Alternative="" Active="true" Rules="I" CruiseSpeed="140" ETD="0000" ATD="0000" RFL="10000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT BK DUUKE BOSUN QDI HARIZ NBR MOR</FlightPlan>
             <Route>QDI HARIZ NBR MOR</Route>
+            <TimedMessages>
+              <TimedMessage Time="2220" Message="Request traffic for DCT MRZSG Moree Sierra Golf for the RNP Runway 01." />
+            </TimedMessages> 
         </Aircraft>
         <Aircraft Callsign="JST457" Type="A320" Delay="240" StartAuto="true">
             <Squawk Code="4004" ModeC="true" />
