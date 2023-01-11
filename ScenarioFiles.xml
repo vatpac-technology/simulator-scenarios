@@ -568,19 +568,13 @@ There is no significant weather within the TMA, although thunderstorms to the no
     </Targets>
   </ScenarioFile>
 
-    <ScenarioFile>
+  <ScenarioFile>
     <Name>Enroute ELW</Name>
     <Type>Enroute</Type>
     <InstructorNotes>Ensure the student disables GRIB winds. 
     
     There are some inbuilt conflict/sequencing issues for the student to resolve. 
     </InstructorNotes>
-
-
-
-<ScenarioFile>
-    <Name>Enroute ELW</Name>
-    <Type>Enroute</Type>
     <Targets>
       <Aircraft Callsign="VOZ443" Type="B738" Delay="0">
         <Squawk Code="4111" ModeC="true" />
