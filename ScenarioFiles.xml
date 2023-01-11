@@ -627,12 +627,6 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <TimedMessage Time="300" Message="Takeoff" />
           </TimedMessages>  
       </Aircraft>
-      <Aircraft Callsign="HRP" Type="AEST" Delay="0">
-        <Squawk Code="1200" ModeC="true" />
-        <Position Latitude="-38.028037999999995" Longitude="144.099906" Speed="200" Altitude="1000" />
-        <FlightPlan Alternative="" Rules="V" CruiseSpeed="0" ETD="0000" ATD="0000" RFL="0" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/"> YHOT </FlightPlan>
-        <Route>YHOT</Route>
-      </Aircraft>
       <Aircraft Callsign="QLK2039" Type="DH8C" Delay="0">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-36.065455" Longitude="146.96967" Speed="0" Altitude="538" />
