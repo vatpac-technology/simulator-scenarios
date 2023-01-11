@@ -571,10 +571,37 @@ There is no significant weather within the TMA, although thunderstorms to the no
   <ScenarioFile>
     <Name>Enroute ELW</Name>
     <Type>Enroute</Type>
-    <InstructorNotes>Ensure the student disables GRIB winds. 
+
+    <StudentBriefing>You are operating Eildon Weir.  
+
+    Melbourne is running Runway 16. Canberra is running Runway 17. Instrument approaches are in use at all locations.  
+
+    Melbourne Approach, Canberra Approach, Bindook, and Yarrowee are online.    
+
+    There is no significant weather within your airspace.</StudentBriefing>
+
+    <InstructorNotes>
     
-    There are some inbuilt conflict/sequencing issues for the student to resolve. 
+    Ensure the student disables GRIB winds.  
+    
+    Initial cluster of traffic inbound from YSSY starts. Student will need to initate sequencing quickly.  
+
+    **EVY30** is going to YMAV but see if your student leaves them on the same track as the others.  
+
+    **ASY10** cuts straight through the YSSY/YMML airway at BULLA, just to add more mayhem.  
+
+    **AM213** and **QLK2039D** should be taken off around the same time (You will be prompted). This will cause an enroute conflict at TEMIS.  
+
+    **QLK2039D** arrives around the same time as the cluster from YSSY, up to your student whether to sequence it in the middle or the end. 
+
+    A steady flow of aircraft will be departing YMML for YSSY/YSBK. The first and second departures (**TFX11** and **TFR44**) are both slower so some sequencing will be required on their way to YSSY.  
+
+    **QFA64** flies straight over ML which causes pain in the already cooked scenario for your student.  
+
+    Have Fun  
+    
     </InstructorNotes>
+
     <Targets>
       <Aircraft Callsign="VOZ443" Type="B738" Delay="0">
         <Squawk Code="4111" ModeC="true" />
@@ -647,14 +674,14 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Squawk Code="1672" ModeC="true" />
         <Cleared Level="24000" />
         <Position Latitude="-37.654771" Longitude="144.835207" Speed="1" Altitude="427" />
-        <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DOSEL1/16 DOSEL Y59 TESAT</FlightPlan>
+        <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="41000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DOSEL1/16 DOSEL Y59 TESAT</FlightPlan>
         <Route>HORSH ALBAK CHIMU SALLY DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET</Route>
       </Aircraft>
       <Aircraft Callsign="QFA372" Type="B738" Delay="660" StartAuto="true">
         <Squawk Code="7464" ModeC="true" />
         <Cleared Level="24000" />
         <Position Latitude="-37.654379" Longitude="144.835137" Speed="1" Altitude="427" />
-        <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DOSEL1/16 DOSEL Y59 TESAT</FlightPlan>
+        <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DOSEL1/16 DOSEL Y59 TESAT</FlightPlan>
         <Route>HORSH ALBAK CHIMU SALLY DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET</Route>
       </Aircraft>
       <Aircraft Callsign="BNZ24" Type="B38M" Delay="570" StartAuto="true">
@@ -689,9 +716,17 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Squawk Code="7213" ModeC="true" />
         <Cleared Level="36000" />
         <Position Latitude="-39.111324" Longitude="142.690153" Speed="480" Altitude="36000" />
-        <FlightPlan Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="36000" EETHours="11" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">4700S11500E/M084F410 4600S12000E 4500S12500E/M085F390 4400S13000E 4200S13500E 4000S14000E DCT KAYTU DCT ML H129 DOSEL Y59 RIVET DCT</FlightPlan>
+        <FlightPlan Active="true" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="36000" EETHours="11" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">4700S11500E/M084F410 4600S12000E 4500S12500E/M085F390 4400S13000E 4200S13500E 4000S14000E DCT KAYTU DCT ML H129 DOSEL Y59 RIVET DCT</FlightPlan>
         <Route>KAYTU ML DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET</Route>
       </Aircraft>
+      <Aircraft Callsign="ASY10" Type="C17" Delay="0">
+        <Squawk Code="2341" ModeC="true" />
+        <Cleared Level="25000" />
+        <Position Latitude="-34.08166667" Longitude="145.95555556" Speed="420" Altitude="25000" />
+        <FlightPlan Active="true" Destination="YMES" Alternative="" Rules="I" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="25000" EETHours="11" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/"> BORLI AY NABBA YMES</FlightPlan>
+        <Route>BORLI AY NABBA YMES</Route>
+      </Aircraft>
+
     </Targets>
   </ScenarioFile>
 
