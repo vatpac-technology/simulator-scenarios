@@ -9,5 +9,11 @@
             <Runway Name="18" Position="-343653.300+1385442.500" />
             <Runway Name="36" Position="-343715.100+1385439.600" />
         </Airport>
+        <Airport ICAO="YMML" FullName="Melbourne" Position="-374024.000+1445036.000" Elevation="434">
+            <Runway Name="09" Position="-373938.700+1444920.110" />
+            <Runway Name="27" Position="-373944.120+1445053.130" />
+            <Runway Name="16" Position="-373911.450+1445005.690" />
+            <Runway Name="34" Position="-374108.800+1445027.600" />
+        </Airport>
     </Airports>
 </Airspace>
