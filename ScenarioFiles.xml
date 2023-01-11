@@ -90,7 +90,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="VHVOC SEL/MQDS PER/C NAV/RNP2 CS/TIGGOZ /v/">TESAT H65 RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
         <Route>NABBA BULLA LIZZI HORUS NEFER BELTA</Route>
       </Aircraft>
-      <Aircraft Callsign="QFA699" Type="B738" Delay="30">
+      <Aircraft Callsign="QFA699" Type="B738" Delay="30" StartAuto="true">
         <Squawk Code="3001" ModeC="true" />
         <Position Latitude="-36.22722222" Longitude="142.26583333" Speed="430" Altitude="35000" />
         <Cleared Level="9000" />
@@ -111,7 +111,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="VHVOC SEL/MQDS PER/C NAV/RNP2 OPR/JETSTAR /v/">DCT TESAT H65 RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
         <Route>RUMIE NABBA BULLA LIZZI HORUS NEFER BELTA</Route>
       </Aircraft>
-      <Aircraft Callsign="YMF7000" Type="F100" Delay="240">
+      <Aircraft Callsign="YMF7000" Type="F100" Delay="240" StartAuto="true">
         <Squawk Code="3002" ModeC="true" />
         <Position Latitude="-35.44027778" Longitude="146.03527778" Speed="430" Altitude="30000" />
         <Cleared Level="9000" />
@@ -185,7 +185,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
           <TimedMessage Time="1500" Message="Coord ML TWR to APP. Next, QLK2080, Runway 27" />
         </TimedMessages>
       </Aircraft>
-      <Aircraft Callsign="HUT" Type="PA31" Delay="480">
+      <Aircraft Callsign="HUT" Type="PA31" Delay="480" StartAuto="true">
         <Squawk Code="2211" ModeC="true" />
         <Position Latitude="-37.143527" Longitude="145.905625" Speed="190" Altitude="8000" />
         <Cleared Level="8000" />
@@ -195,7 +195,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
           <TimedMessage Time="800" Message="Coord ELW to ML APP. Via LACEY, HUT." />
         </TimedMessages>
       </Aircraft>
-      <Aircraft Callsign="WHB" Type="C172" Delay="660">
+      <Aircraft Callsign="WHB" Type="C172" Delay="660" StartAuto="true">
         <Squawk Code="1200" ModeC="true" />
         <Position Latitude="-38.015096" Longitude="144.586399" Speed="120" Altitude="1500" />
         <FlightPlan Active="false" Departure="YMAV" Destination="YHOT" Alternative="" Rules="1" CruiseSpeed="120" ETD="0000" ATD="0000" RFL="1500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WBER FGN YLIL</FlightPlan>
@@ -2506,10 +2506,11 @@ There is no significant weather within the TMA, although thunderstorms to the no
 <ScenarioFile>
     <Name>BN TMA 19 under construction</Name>
     <Type>TMA</Type>
-    <StudentBriefing>TBI</StudentBriefing>
-    <InstructorNotes>TBI</InstructorNotes>
+    <InstructorNotes>This is a scenario primarily for practicing sequencing arrivals and organising separation with departing aircraft.
+    
+    It utilises both Runway 19 L and R at Brisbane. More TBI.</InstructorNotes>
     <Targets>
-        <Aircraft Callsign="QFA537" Type="B738" Delay="1910" StartAuto="true">
+        <Aircraft Callsign="QFA537" Type="B738" Delay="0">
           <Squawk Code="2201" ModeC="true" />
           <Position Latitude="-27.374982" Longitude="153.134136" Speed="1" Altitude="20" />
           <Cleared Level="6000" />
@@ -2519,13 +2520,14 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <TimedMessage Time="1910" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="VET" Type="SW4" Delay="50" StartAuto="true">
+        <Aircraft Callsign="VET" Type="SW4" Delay="0">
           <Squawk Code="2203" ModeC="true" />
           <Position Latitude="-27.374982" Longitude="153.134136" Speed="1" Altitude="20" />
           <Cleared Level="4000" />
           <FlightPlan Active="true" Departure="YBBN" Destination="YARM" Alternative="" Rules="1" CruiseSpeed="264" ETD="0000" ATD="0000" RFL="12000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">BN4/19L BN H91 HUUGO W128 ALDAR W180 ARM DCT</FlightPlan>
           <Route>SANEG HUUGO ALDAR</Route>
           <TimedMessages>
+            <TimedMessage Time="0" Message="Coord. VET, Next, Runway 19L" />
             <TimedMessage Time="50" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
@@ -2535,8 +2537,11 @@ There is no significant weather within the TMA, although thunderstorms to the no
           <Cleared Level="6000" />
           <FlightPlan Active="true" Departure="YBBN" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG1/19L SANEG Q923 CANTY H119 ARBEY DCT</FlightPlan>
           <Route>BOSVU DADAN DENIS LILEE SANEG NODDY ISKIM</Route>
+          <TimedMessages>
+            <TimedMessage Time="950" Message="Takeoff" />
+          </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="VOZ950" Type="B738" Delay="1670" StartAuto="true">
+        <Aircraft Callsign="VOZ950" Type="B738" Delay="0">
           <Squawk Code="2206" ModeC="true" />
           <Position Latitude="-27.374982" Longitude="153.134136" Speed="1" Altitude="20" />
           <Cleared Level="6000" />
@@ -2546,7 +2551,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <TimedMessage Time="1670" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="CAL53" Type="A359" Delay="350" StartAuto="true">
+        <Aircraft Callsign="CAL53" Type="A359" Delay="0">
           <Squawk Code="2207" ModeC="true" />
           <Position Latitude="-27.374982" Longitude="153.134136" Speed="1" Altitude="20" />
           <Cleared Level="6000" />
@@ -2556,7 +2561,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <TimedMessage Time="350" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="QFA941" Type="B738" Delay="1370" StartAuto="true">
+        <Aircraft Callsign="QFA941" Type="B738" Delay="0">
           <Squawk Code="2210" ModeC="true" />
           <Position Latitude="-27.374982" Longitude="153.134136" Speed="1" Altitude="20" />
           <Cleared Level="6000" />
@@ -2566,7 +2571,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <TimedMessage Time="1370" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="JST817" Type="A320" Delay="590" StartAuto="true">
+        <Aircraft Callsign="JST817" Type="A320" Delay="0">
           <Squawk Code="2211" ModeC="true" />
           <Position Latitude="-27.374982" Longitude="153.134136" Speed="1" Altitude="20" />
           <Cleared Level="6000" />
@@ -2576,7 +2581,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <TimedMessage Time="590" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="JST485" Type="A320" Delay="770" StartAuto="true">
+        <Aircraft Callsign="JST485" Type="A320" Delay="0">
           <Squawk Code="2213" ModeC="true" />
           <Position Latitude="-27.374982" Longitude="153.134136" Speed="1" Altitude="20" />
           <Cleared Level="6000" />
@@ -2586,7 +2591,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <TimedMessage Time="770" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="VOZ1117" Type="B738" Delay="2390" StartAuto="true">
+        <Aircraft Callsign="VOZ1117" Type="B738" Delay="0">
           <Squawk Code="2202" ModeC="true" />
           <Position Latitude="-27.358423" Longitude="153.120866" Speed="1" Altitude="20" />
           <Cleared Level="6000" />
@@ -2596,37 +2601,40 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <TimedMessage Time="2390" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="QLK2528" Type="DH8C" Delay="110" StartAuto="true">
+        <Aircraft Callsign="QLK2528" Type="DH8C" Delay="0">
           <Squawk Code="2204" ModeC="true" />
           <Position Latitude="-27.358423" Longitude="153.120866" Speed="1" Altitude="20" />
           <Cleared Level="4000" />
           <FlightPlan Active="true" Departure="YBBN" Destination="YBPN" Alternative="" Rules="1" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="24000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">BN4/19R BN V308 MK W387 PN DCT </FlightPlan>
           <Route>AKOBA SAGLI</Route>
           <TimedMessages>
+            <TimedMessage Time="20" Message="Coord. QLK2528, Next, 19R" />
             <TimedMessage Time="110" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="QLK2406" Type="DH8C" Delay="1490" StartAuto="true">
+        <Aircraft Callsign="QLK2406" Type="DH8C" Delay="0">
           <Squawk Code="2212" ModeC="true" />
           <Position Latitude="-27.358423" Longitude="153.120866" Speed="1" Altitude="20" />
           <Cleared Level="4000" />
           <FlightPlan Active="true" Departure="YBBN" Destination="YEML" Alternative="" Rules="1" CruiseSpeed="337" ETD="0000" ATD="0000" RFL="18000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">BN4/19R BN Q484 MESED DCT LIKTO DCT UNVAT DCT EML DCT</FlightPlan>
           <Route>SAMVI RUDEY</Route>
           <TimedMessages>
+            <TimedMessage Time="1400" Message="Coord. QLK2406, next, 19R" />
             <TimedMessage Time="1490" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="QLK2542" Type="DH8C" Delay="1010" StartAuto="true">
+        <Aircraft Callsign="QLK2542" Type="DH8C" Delay="0">
           <Squawk Code="2214" ModeC="true" />
           <Position Latitude="-27.358423" Longitude="153.120866" Speed="1" Altitude="20" />
           <Cleared Level="4000" />
           <FlightPlan Active="true" Departure="YBBN" Destination="YLRE" Alternative="" Rules="1" CruiseSpeed="337" ETD="0000" ATD="0000" RFL="24000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">BN4/19R BN Q484 LIKTO Q421 UNVAT W152 MOVBA W240 LRE DCT</FlightPlan>
           <Route>SAMVI RUDEY</Route>
           <TimedMessages>
+            <TimedMessage Time="920" Message="Coord. QLK2542, next Runway 19R" />
             <TimedMessage Time="1010" Message="Takeoff" />
           </TimedMessages>
         </Aircraft>
-        <Aircraft Callsign="VOZ1497" Type="B737" Delay="356" StartAuto="true">
+        <Aircraft Callsign="VOZ1497" Type="B737" Delay="0">
           <Squawk Code="2215" ModeC="true" />
           <Position Latitude="-27.358423" Longitude="153.120866" Speed="1" Altitude="20" />
           <Cleared Level="6000" />
@@ -2720,7 +2728,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
           <FlightPlan Active="true" Departure="YPAD" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SEDAN Y465 RACHL/M078F370 Y465 ENLIP ENLI1A/19L</FlightPlan>
           <Route>ENLIP ODUTO ANSOR PULEX SORVA RUTAT PUBIV ISPON OMGUV BETSO</Route>
         </Aircraft>
-        <Aircraft Callsign="QLK2522" Type="DH8C" Delay="780" StartAuto="true">
+        <Aircraft Callsign="QLK2522" Type="DH8C" Delay="840" StartAuto="true">
           <Squawk Code="4107" ModeC="true" />
           <Position Latitude="-29.06" Longitude="153.06" Speed="340" Altitude="24000" />
           <Cleared Level="3000" />
