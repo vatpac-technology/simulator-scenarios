@@ -1711,7 +1711,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
 
       <Aircraft Callsign="JFO" Type="C441" Delay="0">
         <Squawk Code="2000" ModeC="true" />
-        <Position Latitude="-12.357306" Longitude="130.895323" Speed="0" Altitude="200" />
+        <Position Latitude="-12.357286" Longitude="134.898367" Speed="0" Altitude="200" />
         <FlightPlan Active="false" Departure="YRNG" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="24000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TUSTU J151 RAGER VEGPU DN</FlightPlan>
         <Route>TUSTU RAGER VEGPU DN</Route>
       </Aircraft>
