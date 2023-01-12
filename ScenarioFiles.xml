@@ -581,6 +581,8 @@ There is no significant weather within the TMA, although thunderstorms to the no
     There is no significant weather within your airspace.</StudentBriefing>
 
     <InstructorNotes>
+
+    **ALL YMML/YSCB DEPARTURES ARE AUTOMATIC**  
     
     Ensure the student disables GRIB winds.  
     
@@ -1235,6 +1237,9 @@ There is no significant weather within the TMA, although thunderstorms to the no
     <Name>TMA Tasmania</Name>
     <Type>TMA</Type>
     <InstructorNotes>
+
+  **ALL DEPARTURES ARE AUTOMATIC**
+
     HB ILS RWY 12  
 
     LT RNAV-Z RWY 14R  
@@ -1242,23 +1247,24 @@ There is no significant weather within the TMA, although thunderstorms to the no
     CBDG RWY 12  
 
 
-    All jets have been given a STAR for Hobart by CEN. Jets into LT have been cleared direct to the IAF for the RNAV-Z.
+    All jets have been given a STAR for Hobart by CEN. Jets into LT have been cleared direct to the IAF for the RNAV-Z.  
 
-    Suggested Running:
-
-    - Start with **PCV** from HB to LT First, this will cause some conflict with arriving jet traffic. **PCV** is coming
+    **YJG** from HB to LT First, this will cause some conflict with arriving jet traffic. **YJG** is coming
     in from an angle that can't be given a straight in approach without a sector entry or vectors. It's up to the 
     student to recognise this and see what he can do. (Conduct the DME/GNSS Arrival into a visual circling is prefered)
 
-    - **SND1** enters approaches airspace tracking for the IAF for the RNAV-Z 12, Bit of a weird angle to be joining from.
+    **SND1** enters approaches airspace tracking for the IAF for the RNAV-Z 12, Bit of a weird angle to be joining from. **START HIS DESCENT ASAP**  
 
-    - **CUY** Requires tracking for the RNAV-Z by the student on first contact for airways clearance.
+    **CUY** Requires tracking for the RNAV-Z by the student on first contact for airways clearance.  
 
-    - **FWC** for a VFR Transit overhead LT, This conflicts with **VOZ1090** on the approach.
+    **FWC** for a VFR Transit overhead LT, This conflicts with **VOZ1090** on the approach.  
 
-    - Launch **AM214** when UJA is just north of LT to cause conflict requiring vectors/sequencing.
+    **AM214** causes conflict with **UJA** which will require vectoring.  
 
-    - **UJA** is for Cambridge via the MORGO1A then ILS into HB, then once visual join final for 12 at Cambridge.
+    **UJA** is for Cambridge via the MORGO1A then ILS into HB (This needs coordination), then once visual join final for 12 at Cambridge.    
+
+
+**Be careful using the cleared when ready descent mode into YMHB, aircraft seem to go missed so be ready to delete them**
 
 
     METARs
@@ -1272,19 +1278,19 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Cleared Level="9000" />
         <Position Latitude="-40.853136" Longitude="146.331588" Speed="250" Altitude="9000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YMLT" Alternative="" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="10000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SUNTI H169 IRSOM MLTNE MLTNI MLTNF</FlightPlan>
-        <Route>IRSOM MLTNE MLTNI MLTNF</Route>
+        <Route>IRSOM MLTNE MLTNI MLTNF RWY14R</Route>
       </Aircraft>
       <Aircraft Callsign="JST739" Type="A320" Delay="0">
         <Squawk Code="4455" ModeC="true" />
         <Cleared Level="9000" />
         <Position Latitude="-39.644225" Longitude="146.507099" Speed="250" Altitude="9000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YMLT" Alternative="" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="18000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SUNTI H169 IRSOM MLTNE MLTNI MLTNF</FlightPlan>
-        <Route>IRSOM MLTNE MLTNI MLTNF</Route>
+        <Route>IRSOM MLTNG MLTNI MLTNF RWY14R</Route>
       </Aircraft>
-      <Aircraft Callsign="QJE1562" Type="B712" Delay="0">
+      <Aircraft Callsign="QJE1562" Type="B712" Delay="660" StartAuto="true">
         <Squawk Code="3122" ModeC="true" />
         <Cleared Level="8000" />
-        <Position Latitude="-41.537372999999995" Longitude="147.204273" Speed="0" Altitude="558" />
+        <Position Latitude="-41.537372999999995" Longitude="147.204273" Speed="1" Altitude="558" />
         <FlightPlan Active="true" Departure="YMLT" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="430" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">NOLA5B/14R NOLAN UY327 MAKRL J163 CB W423 CULIN Y59 TESAT DCT</FlightPlan>
         <Route>NOLAN NIFTI</Route>
       </Aircraft>
@@ -1293,26 +1299,26 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Cleared Level="9000" />
         <Position Latitude="-40.255308" Longitude="147.97779" Speed="250" Altitude="9000" />
         <FlightPlan Active="true" Departure="YSSY" Destination="YMLT" Alternative="" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="10000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT WOL H20 OTKED J22 LT DCT MLTNG MLTNI MLTNF</FlightPlan>
-        <Route>MLTNG MLTNI MLTNF</Route>
+        <Route>MLTNG MLTNI MLTNF RWY14R</Route>
       </Aircraft>
-      <Aircraft Callsign="QLK2282" Type="DH8C" Delay="0">
+      <Aircraft Callsign="QLK2282" Type="DH8C" Delay="220" StartAuto="true">
         <Squawk Code="3124" ModeC="true" />
         <Cleared Level="4500" />
-        <Position Latitude="-41.53736" Longitude="147.204257" Speed="0" Altitude="558" />
+        <Position Latitude="-41.53736" Longitude="147.204257" Speed="1" Altitude="558" />
         <FlightPlan Active="true" Departure="YMLT" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="275" ETD="0000" ATD="0000" RFL="20000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">ONAG1B/14R ONAGI H215 WAREN W687 ML DCT</FlightPlan>
         <Route>LT FLIKI ONAGI</Route>
       </Aircraft>
-      <Aircraft Callsign="AM214" Type="BE20" Delay="0">
+      <Aircraft Callsign="AM214" Type="BE20" Delay="840" StartAuto="true">
         <Squawk Code="7532" ModeC="true" />
         <Cleared Level="4500" />
-        <Position Latitude="-41.537342" Longitude="147.20424499999996" Speed="0" Altitude="558" />
+        <Position Latitude="-41.537342" Longitude="147.20424499999996" Speed="1" Altitude="558" />
         <FlightPlan Active="true" Departure="YMLT" Destination="YMHB" Alternative="" Rules="I" CruiseSpeed="240" ETD="0000" ATD="0000" RFL="13000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">MORGO1/14R MORGO V33 TASUM DCT</FlightPlan>
         <Route>MORGO VAVMO IKOBI BUSKA BURNA TASUM</Route>
       </Aircraft>
-      <Aircraft Callsign="YJG" Type="AC90" Delay="0">
+      <Aircraft Callsign="YJG" Type="AC90" Delay="0" StartAuto="true">
         <Squawk Code="1422" ModeC="true" />
-        <Cleared Level="8000" />
-        <Position Latitude="-42.82940299999999" Longitude="147.50247399999998" Speed="0" Altitude="20" />
+        <Cleared Level="4500" />
+        <Position Latitude="-42.82940299999999" Longitude="147.50247399999998" Speed="1" Altitude="20" />
         <FlightPlan Active="true" Departure="YMHB" Destination="YMLT" Alternative="" Rules="I" CruiseSpeed="240" ETD="0000" ATD="0000" RFL="10000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">KANLI3/12 KANLI H111 LT DCT</FlightPlan>
         <Route>OREBA ISTIG OMKUL GIVOT SORVI TOSUG VILAL MIBAL KANLI LATUM LT</Route>
       </Aircraft>
@@ -1329,10 +1335,10 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YKII" Destination="YMHB" Alternative="" Rules="I" CruiseSpeed="260" ETD="0000" ATD="0000" RFL="17000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KII W519 DOTVU T234 SALEM Y557 MORGO MORG1A/12</FlightPlan>
         <Route>SALEM MORGO VAVMO IKOBI BUSKA BURNA TASUM</Route>
       </Aircraft>
-      <Aircraft Callsign="WFE" Type="BE58" Delay="0">
+      <Aircraft Callsign="WFE" Type="BE58" Delay="60" StartAuto="true">
         <Squawk Code="3515" ModeC="true" />
         <Cleared Level="4500" />
-        <Position Latitude="-41.537329" Longitude="147.204238" Speed="0" Altitude="558" />
+        <Position Latitude="-41.537329" Longitude="147.204238" Speed="1" Altitude="558" />
         <FlightPlan Active="true" Departure="YMLT" Destination="YMHB" Alternative="" Rules="I" CruiseSpeed="160" ETD="0000" ATD="0000" RFL="9000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">MORGO1/14R MORGO V33 TASUM DCT</FlightPlan>
         <Route>MORGO VAVMO IKOBI BUSKA BURNA TASUM</Route>
       </Aircraft>
@@ -1341,7 +1347,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Cleared Level="13000" />
         <Position Latitude="-43.3344" Longitude="147.012143" Speed="250" Altitude="13000" />
         <FlightPlan Active="true" Departure="YWKS" Destination="YMHB" Alternative="" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="13000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">6500S11721E 6000S12855E 5500S13621E 5000S14145E 4500S14558E HBZWD HBZWI</FlightPlan>
-        <Route>HBZWD HBZWI HBZWF</Route>
+        <Route>HBZWD HBZWI HBZWF RWY12</Route>
       </Aircraft>
       <Aircraft Callsign="JST723" Type="A320" Delay="0">
         <Squawk Code="4452" ModeC="true" />
@@ -1350,17 +1356,17 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YSSY" Destination="YMHB" Alternative="" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="18000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H20 MOTRA W407 IPLET IPLE5A/12</FlightPlan>
         <Route>IPLET SUNEK BEBEK UNTAP BUSKA TASUM</Route>
       </Aircraft>
-      <Aircraft Callsign="VEF" Type="SF34" Delay="0">
-        <Squawk Code="1231" ModeC="true" />
+      <Aircraft Callsign="VEF" Type="SF34" Delay="520" StartAuto="true">
+        <Squawk Code="1231" ModeC="true" /> 
         <Cleared Level="4500" />
-        <Position Latitude="-42.829504" Longitude="147.502539" Speed="0" Altitude="20" />
+        <Position Latitude="-42.829504" Longitude="147.502539" Speed="1" Altitude="20" />
         <FlightPlan Active="true" Departure="YMHB" Destination="YSCB" Alternative="" Rules="I" CruiseSpeed="275" ETD="0000" ATD="0000" RFL="18000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">KANLI3/12 KANLI H111 LT W218 NOLAN UY327 MAKRL POLLI CB DCT</FlightPlan>
         <Route>OREBA ISTIG OMKUL GIVOT SORVI TOSUG VILAL MIBAL KANLI LT NOLAN</Route>
       </Aircraft>
-      <Aircraft Callsign="QJE1554" Type="B712" Delay="0">
+      <Aircraft Callsign="QJE1554" Type="B712" Delay="400" StartAuto="true">
         <Squawk Code="1311" ModeC="true" />
         <Cleared Level="8000" />
-        <Position Latitude="-42.829601" Longitude="147.50258" Speed="0" Altitude="20" />
+        <Position Latitude="-42.829601" Longitude="147.50258" Speed="1" Altitude="20" />
         <FlightPlan Active="true" Departure="YMHB" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="430" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">LATUM2/12 LATUM H111 LT H215 WAREN W687 ML DCT</FlightPlan>
         <Route>KADON BIVED IDRUG DUMIT NUVTA TASED LATUM LT ONAGI</Route>
       </Aircraft>
@@ -1369,7 +1375,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Cleared Level="8000" />
         <Position Latitude="-40.245115" Longitude="147.27032599999998" Speed="160" Altitude="8000" />
         <FlightPlan Active="true" Departure="YMEN" Destination="YMLT" Alternative="" Rules="I" CruiseSpeed="160" ETD="0000" ATD="0000" RFL="8000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">ESDAN NOLAN MLTNG MLTNI MLTNF</FlightPlan>
-        <Route>NOLAN MLTNG MLTNI MLTNF</Route>
+        <Route>NOLAN MLTNG MLTNI MLTNF RWY14R</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ704" Type="B738" Delay="0">
         <Squawk Code="7635" ModeC="true" />
@@ -1383,7 +1389,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Cleared Level="9000" />
         <Position Latitude="-40.707521" Longitude="146.33496" Speed="180" Altitude="9000" />
         <FlightPlan Active="true" Departure="YMEN" Destination="YCBG" Alternative="" Rules="I" CruiseSpeed="180" ETD="0000" ATD="0000" RFL="9000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ESDAN W382 MB W468 SUNTI H169 IRSOM V33 MORGO VAVMO IKOBI BUSKA BURNA YCBG</FlightPlan>
-        <Route>IRSOM LIFFY MORGO VAVMO IKOBI BUSKA BURNA</Route>
+        <Route>IRSOM LIFFY MORGO VAVMO IKOBI BUSKA BURNA RWY12</Route>
       </Aircraft>
     </Targets>
   </ScenarioFile>
@@ -1491,6 +1497,8 @@ There is no significant weather within the TMA, although thunderstorms to the no
     There is no significant weather within your airspace.</StudentBriefing>
 
     <InstructorNotes>
+
+    **ALL YPDN DEPARTURES ARE AUTOMATIC**
     
     Ensure the student disables GRIB winds.  
 
@@ -1502,7 +1510,9 @@ There is no significant weather within the TMA, although thunderstorms to the no
 
     **RNG** is a VFR who needs to request either flight following or an upgrade to IFR. He will drop out of radar coverage eventually so make sure the student deals with it accordinly.  
 
-    Depart **HVH** and **TYV** as soon as practical. These provide departure OCTA procedures for the student. 
+    Depart **HVH** and **JFO** as soon as practical. These provide departure OCTA procedures for the student and won't become identified until around A100.  
+    
+    **JFO** and **JVN** will be opposite direction in the cruise.
 
     Have Fun</InstructorNotes>
     <Targets>
@@ -1548,7 +1558,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
 
       <Aircraft Callsign="JST81" Type="A320" Delay="0">
         <Squawk Code="721" ModeC="true" />
-        <Cleared Level="18000" />
+        <Cleared Level="38000" />
         <Position Latitude="-17.530463" Longitude="132.83088" Speed="450" Altitude="38000" />
         <FlightPlan Active="true" Departure="YPAD" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">AD J58 WHA J251 TN Q23 DN</FlightPlan>
         <Route>GREGA BONES TN FERGI STOES ALLEE VEGPU ITTSA LAPAR DN</Route>
@@ -1700,7 +1710,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
       <Aircraft Callsign="QJE1937" Type="" Delay="880" StartAuto="true">
         <Squawk Code="5747" ModeC="true" />
         <Cleared Level="18000" />
-        <Position Latitude="-12.419272" Longitude="134.898413" Speed="1" Altitude="89" />
+        <Position Latitude="-12.419272" Longitude="130.895322" Speed="1" Altitude="89" />
         <FlightPlan Active="true" Departure="YPDN" Destination="YBAS" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">PALGA7/29 PALGA Y25 BEBUX UY83 GREGA J251 AS</FlightPlan>
         <Route>NASUX UBGUX LEMUX BAXIB SNICK PALGA ADKIV OPEKO BEBUX GREGA SCOTI AS</Route>
       </Aircraft>    
