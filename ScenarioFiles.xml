@@ -1479,7 +1479,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
     </Targets>
   </ScenarioFile>
 
-  <ScenarioFile>
+<ScenarioFile>
     <Name>Enroute TRT</Name>
     <Type>Enroute</Type>
     <StudentBriefing>You are operating Territory.  
@@ -1504,10 +1504,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
 
     Depart **HVH** and **TYV** as soon as practical. These provide departure OCTA procedures for the student. 
 
-    Have Fun  
-    
-    </InstructorNotes>
-
+    Have Fun</InstructorNotes>
     <Targets>
       <Aircraft Callsign="ANO510" Type="E170" Delay="0">
         <Squawk Code="6735" ModeC="true" />
@@ -1568,7 +1565,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
       <Aircraft Callsign="RNG" Type="PA31" Delay="0">
         <Squawk Code="1200" ModeC="true" />
         <Position Latitude="-12.450616" Longitude="131.160816" Speed="130" Altitude="3500" />
-        <FlightPlan Active="flase" Departure="YPDN" Destination="YGTE" Alternative="" Rules="V" CruiseSpeed="160" ETD="0000" ATD="0000" RFL="3500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">GTE</FlightPlan>
+        <FlightPlan Active="false" Departure="YPDN" Destination="YGTE" Alternative="" Rules="V" CruiseSpeed="160" ETD="0000" ATD="0000" RFL="3500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">GTE</FlightPlan>
         <Route>GTE</Route>
       </Aircraft>
       <Aircraft Callsign="ANO511" Type="E170" Delay="0">
@@ -1586,7 +1583,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Route>DUMAV NERTI BUNDY ALLEE VEGPU ITTSA SARRE LAPAR DN</Route>
       </Aircraft>
       <Aircraft Callsign="JST9901" Type="A320" Delay="0">
-        <Squawk Code="722" ModeC="true" />
+        <Squawk Code="7122" ModeC="true" />
         <Cleared Level="36000" />
         <Position Latitude="-20.049582" Longitude="133.241823" Speed="450" Altitude="36000" />
         <FlightPlan Active="true" Departure="YPAD" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">AD J58 WHA J251 TN Q23 DN</FlightPlan>
@@ -1620,7 +1617,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YBBN" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">BN DCT GULOP J61 DUMAV Q91 ALLEE Q23 DN</FlightPlan>
         <Route>DUMAV NERTI BUNDY ALLEE VEGPU ITTSA SARRE LAPAR DN</Route>
       </Aircraft>
-            <Aircraft Callsign="JVE" Type="C441" Delay="90" StartAuto="true">
+        <Aircraft Callsign="JVE" Type="C441" Delay="90" StartAuto="true">
         <Squawk Code="4534" ModeC="true" />
         <Cleared Level="18000" />
         <Position Latitude="-12.419272" Longitude="130.895322" Speed="1" Altitude="89" />
@@ -1683,18 +1680,18 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YPDN" Destination="YBAS" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">PALGA7/29 PALGA Y25 BEBUX UY83 GREGA J251 AS</FlightPlan>
         <Route>NASUX UBGUX LEMUX BAXIB SNICK PALGA ADKIV OPEKO BEBUX GREGA SCOTI AS</Route>
       </Aircraft>    
-        <Aircraft Callsign="JFO" Type="C441" Delay="0">
+      <Aircraft Callsign="JFO" Type="C441" Delay="0">
         <Squawk Code="2000" ModeC="true" />
         <Position Latitude="-12.357306" Longitude="130.895323" Speed="0" Altitude="200" />
         <FlightPlan Active="false" Departure="YRNG" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="24000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TUSTU J151 RAGER VEGPU DN</FlightPlan>
         <Route>TUSTU RAGER VEGPU DN</Route>
-        </Aircraft>
-        <Aircraft Callsign="HVH" Type="SW4" Delay="0">
+      </Aircraft>
+      <Aircraft Callsign="HVH" Type="SW4" Delay="0">
         <Squawk Code="2000" ModeC="true" />
         <Position Latitude="-14.255602" Longitude="129.531525" Speed="0" Altitude="100" />
         <FlightPlan Active="false" Departure="YPKT" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="21000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">JULUP J72 DN</FlightPlan>
         <Route>JULUP WANGI DN</Route>
-        </Aircraft>
+      </Aircraft>
     </Targets>
   </ScenarioFile>
 
