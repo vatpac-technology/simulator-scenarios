@@ -9,5 +9,13 @@
             <Runway Name="18" Position="-343653.300+1385442.500" />
             <Runway Name="36" Position="-343715.100+1385439.600" />
         </Airport>
+        <Airport ICAO="YCBG" FullName="Hobart/Cambridge" Position="-424936.000+1472829.000">
+            <Runway Name="09" Position="-42.828186+147.475978" />
+            <Runway Name="27" Position="-42.829527+147.482878" />
+            <Runway Name="12" Position="-42.822574+147.473764" />
+            <Runway Name="30" Position="-42.828744+147.481708" />
+            <Runway Name="14" Position="-42.822008+147.473678" />
+            <Runway Name="32" Position="-42.827946+147.477488" />
+        </Airport>
     </Airports>
 </Airspace>
