@@ -1607,8 +1607,8 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Squawk Code="4534" ModeC="true" />
         <Cleared Level="18000" />
         <Position Latitude="-12.419272" Longitude="130.895322" Speed="1" Altitude="89" />
-        <FlightPlan Active="true" Departure="YPDN" Destination="YLEV" Alternative="" Rules="I" CruiseSpeed="190" ETD="0000" ATD="0000" RFL="25000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">VANDI6/29 VANDI DCT YLEV</FlightPlan>
-        <Route>BELUN MIGIP LEGUL OTGAX TEGIT DUGAM BURBA VANDI YLEV</Route>
+        <FlightPlan Active="true" Departure="YPDN" Destination="YLEV" Alternative="" Rules="I" CruiseSpeed="190" ETD="0000" ATD="0000" RFL="23000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">VANDI6/29 VANDI DCT RAGER J151 TUSTU DCT YLEV</FlightPlan>
+        <Route>BELUN MIGIP LEGUL OTGAX TEGIT DUGAM BURBA VANDI RAGER TUSTU YLEV</Route>
       </Aircraft>
       <Aircraft Callsign="ANO250" Type="E120" Delay="180" StartAuto="true">
         <Squawk Code="6346" ModeC="true" />
@@ -1666,11 +1666,11 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YPDN" Destination="YBAS" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">PALGA7/29 PALGA Y25 BEBUX UY83 GREGA J251 AS</FlightPlan>
         <Route>NASUX UBGUX LEMUX BAXIB SNICK PALGA ADKIV OPEKO BEBUX GREGA SCOTI AS</Route>
       </Aircraft>    
-        <Aircraft Callsign="TYV" Type="C208" Delay="0">
+        <Aircraft Callsign="JFO" Type="C441" Delay="0">
         <Squawk Code="2000" ModeC="true" />
         <Position Latitude="-12.357306" Longitude="130.895323" Speed="0" Altitude="200" />
-        <FlightPlan Active="false" Departure="YRNG" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="180" ETD="0000" ATD="0000" RFL="10000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TUSTU J151 RAGER VEGPU DN</FlightPlan>
-        <Route>TUSTU RAGER VEGPU</Route>
+        <FlightPlan Active="false" Departure="YRNG" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="24000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TUSTU J151 RAGER VEGPU DN</FlightPlan>
+        <Route>TUSTU RAGER VEGPU DN</Route>
         </Aircraft>
         <Aircraft Callsign="HVH" Type="SW4" Delay="0">
         <Squawk Code="2000" ModeC="true" />
