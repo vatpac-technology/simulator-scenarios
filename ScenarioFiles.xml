@@ -2836,6 +2836,8 @@ There is no significant weather within the TMA, although thunderstorms to the no
         </Aircraft>
     </Targets>
 </ScenarioFile>
+
+<ScenarioFile>
     <Name>TBD Intro</Name>
     <Type>Enroute</Type>
     <Targets>
