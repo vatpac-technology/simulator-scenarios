@@ -871,22 +871,43 @@ There is no significant weather within the TMA, although thunderstorms to the no
   </ScenarioFile>
 
   <ScenarioFile>
-    <Name>Enroute INL-EXAM</Name>
+    <Name>Enroute INL</Name>
     <Type>Enroute</Type>
+    <StudentBriefing>You are operating Inverell.    
+
+    Brisbane Approach and all surrounding ENR's are online. 
+
+    YBRK is Class G  
+
+    There is no significant weather within your airspace.</StudentBriefing>
+
+    <InstructorNotes>  
+    
+    Ensure the student disables GRIB winds.  
+
+    **EOV** to request flight following down to YHBA. Try and time the departure of **QLK381D** with the arrival of **EOV**  
+
+    You will be prompted for the departure of **VOZ1238** and **BNZ45**  
+
+    Have Fun  
+    
+    </InstructorNotes>
     <Targets>
       <Aircraft Callsign="VOZ778" Type="B738" Delay="0">
         <Squawk Code="235" ModeC="true" />
+        <Cleared Level="37000" />
         <Position Latitude="-21.796724" Longitude="148.87873" Speed="400" Altitude="37000" />
         <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="YBCG" Rules="I" CruiseSpeed="400" ETD="0000" ATD="0000" RFL="37000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="CALL/VELOCITY    /v/">DCT SWIFT Y177 SMOKA</FlightPlan>
-        <Route>COCKA RUROX EAGLE SMOKA OTGAT GARTH BURPA IGBON EMSIT IRVUL BETSO</Route>
+        <Route>COCKA RUROX NIROK LAMUG SMOKA YBBN</Route>
       </Aircraft>
       <Aircraft Callsign="CPA103" Type="A333" Delay="0">
         <Squawk Code="236" ModeC="true" />
+        <Cleared Level="37000" />
         <Position Latitude="-20.087021000000004" Longitude="147.832536" Speed="438" Altitude="37000" />
         <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="YBCG" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="CALL/CATHAY    /v/">DCT SWIFT Y177 SMOKA</FlightPlan>
-        <Route>COCKA RUROX EAGLE SMOKA OTGAT GARTH BURPA IGBON EMSIT IRVUL BETSO BN</Route>
+        <Route>COCKA RUROX NIROK LAMUG SMOKA YBBN</Route>
       </Aircraft>
-      <Aircraft Callsign="QLK381" Type="DH8C" Delay="0">
+      <Aircraft Callsign="QLK381D" Type="DH8D" Delay="0">
         <Squawk Code="2000" ModeC="true" />
         <Position Latitude="-25.318925999999998" Longitude="152.880254" Speed="0" Altitude="46" />
         <FlightPlan Active="false" Departure="YHBA" Destination="YBBN" Alternative="YBSU" Rules="I" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="21000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="CALL/QLINK    /v/">HAAVI W699 SOSTU V372 OTLEB V307 BN</FlightPlan>
@@ -896,55 +917,67 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Squawk Code="2000" ModeC="true" />
         <Position Latitude="-23.390524" Longitude="150.48000399999998" Speed="0" Altitude="23" />
         <FlightPlan Active="false" Departure="YBRK" Destination="YBBN" Alternative="YBCG" Rules="I" CruiseSpeed="400" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="CALL/VELOCITY    /v/">DCT BUDGI V111 RUROX Y177 SMOKA</FlightPlan>
-        <Route>BUDGI RUROX EAGLE LAMUG SMOKA OTGAT GARTH BURPA IGBON EMSIT IRVUL BETSO BN</Route>
+        <Route>BUDGI RUROX NIROK LAMUG SMOKA YBBN</Route>
+        <TimedMessages>
+          <TimedMessage Time="1080" Message="Takeoff" />
+        </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="FD436" Type="BE20" Delay="0">
         <Squawk Code="237" ModeC="true" />
+        <Cleared Level="14000" />
         <Position Latitude="-24.488363" Longitude="151.348501" Speed="300" Altitude="14000" />
-        <FlightPlan Active="true" Departure="YBBN" Destination="YBRK" Alternative="" Rules="I" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="14000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="CALL/FLYDOC                /v/">DCT BN V134 RK DCT</FlightPlan>
-        <Route>GEESE BRKSI RK</Route>
+        <FlightPlan Active="true" Departure="YBBN" Destination="YBRK" Alternative="" Rules="I" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="14000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="CALL/FLYDOC                /v/">DCT SAGLI V308 RK DCT</FlightPlan>
+        <Route>OLDIB DADBO YBRK</Route>
       </Aircraft>
       <Aircraft Callsign="XAX206" Type="A333" Delay="0">
         <Squawk Code="4453" ModeC="true" />
+        <Cleared Level="37000" />
         <Position Latitude="-24.223415" Longitude="148.987721" Speed="480" Altitude="37000" />
-        <FlightPlan Active="true" Departure="WMKK" Destination="YBCG" Alternative="YBBN" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="15" EETMins="00" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/XANADO    /v/">MITOS M630 TPG M635 BLI G326 GUNAM/N0469F390  MA J89 LRE  OMUBI Y684 COOLA  HAWKE  BN  J208 SCOTT DCT CG</FlightPlan>
-        <Route>COOLA HAWKE BN ESTER SCOTT CG</Route>
+        <FlightPlan Active="true" Departure="WMKK" Destination="YBCG" Alternative="YBBN" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="15" EETMins="00" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/XANADO    /v/">DOSNO DCT VENPA DCT VENIX DCT SURGA M635 BLI EML V129 BN Y177 GOMOL DCT</FlightPlan>
+        <Route>COOLA HAWKE BN DUNNI IDRIL YBCG</Route>
       </Aircraft>
       <Aircraft Callsign="QFA7474" Type="B744" Delay="0">
         <Squawk Code="244" ModeC="true" />
+        <Cleared Level="37000" />
         <Position Latitude="-19.7233" Longitude="147.60908999999998" Speed="459" Altitude="37000" />
         <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="YBCG" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="37000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="CALL/QANTAS    /v/">DCT SWIFT Y177 SMOKA</FlightPlan>
-        <Route>COCKA RUROX EAGLE SMOKA OTGAT GARTH BURPA IGBON EMSIT IRVUL BETSO BN</Route>
+        <Route>COCKA RUROX NIROK LAMUG SMOKA YBBN</Route>
       </Aircraft>
       <Aircraft Callsign="TGG518" Type="A320" Delay="0">
         <Squawk Code="663" ModeC="true" />
+        <Cleared Level="37000" />
         <Position Latitude="-32.236661" Longitude="149.86598000000004" Speed="430" Altitude="37000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YBBN" Alternative="YBCG" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="37000" EETHours="02" EETMins="10" FuelHours="0" FuelMins="0" Remarks="CALLSIGN TIGGOZ    /v/">NONIX H66 BLAKA</FlightPlan>
-        <Route>TW PEBDO WHITI GAMBL BLAKA DOGMU LAGEV PUBIV ISPON OMGUV BETSO BN</Route>
+        <Route>TW PEBDO WHITI IDNER BLAKA YBBN</Route>
       </Aircraft>
-      <Aircraft Callsign="QLK117" Type="DH8C" Delay="0">
-        <Squawk Code="7437" ModeC="true" />
+      <Aircraft Callsign="BNZ45" Type="B38M" Delay="0">
+        <Squawk Code="2000" ModeC="true" />
         <Position Latitude="-30.324635999999998" Longitude="153.120065" Speed="0" Altitude="10" />
-        <FlightPlan Active="false" Departure="YCFS" Destination="YSSY" Alternative="YWLM" Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="18000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="CALLSIGN QLINK            /v/">DCT CFS W214 OLTIN W180 TESAT DCT</FlightPlan>
-        <Route>SORTI OLTIN MONDO LOWEP YAKKA MEPIL TESAT</Route>
+        <FlightPlan Active="false" Departure="YCFS" Destination="YBSU" Alternative="YBBN" Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="20000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="CALLSIGN QLINK            /v/">CFS W192 GOMOL Q69 ITIDE</FlightPlan>
+        <Route>TUCAB TUCKI GOMOL MAKRU RULUN ITIDE YBSU</Route>
+        <TimedMessages>
+          <TimedMessage Time="1200" Message="Takeoff" />
+        </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="JST814" Type="A320" Delay="0">
         <Squawk Code="6236" ModeC="true" />
+        <Cleared Level="37000" />
         <Position Latitude="-33.059491" Longitude="151.859766" Speed="433" Altitude="37000" />
         <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="YBCG" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="CALLSIGN JETSTAR    /v/">DCT ENTRA Y245 BANDA H185 GOMOL</FlightPlan>
-        <Route>BANDA TOJAM GOMOL ABVET SALEL SALGA ISPON OMGUV BETSO BN</Route>
+        <Route>BANDA OMKAX GOMOL YBBN</Route>
       </Aircraft>
-      <Aircraft Callsign="GKB" Type="B461" Delay="0">
+      <Aircraft Callsign="EOV" Type="C172" Delay="0">
         <Squawk Code="1200" ModeC="true" />
-        <Position Latitude="-23.842227" Longitude="151.163861" Speed="190" Altitude="5552" />
-        <FlightPlan Active="false" Departure="YBRK" Destination="YBRK" Alternative="" Rules="V" CruiseSpeed="0" ETD="0000" ATD="0000" RFL="0" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RK GLA YMIM YAWT YBRK DCT</FlightPlan>
-        <Route>GLA MRH AMOCO</Route>
+        <Position Latitude="-23.842227" Longitude="151.163861" Speed="110" Altitude="3500" />
+        <FlightPlan Active="false" Departure"YEML" Destination="YHBA" Alternative="" Rules="V" CruiseSpeed="0" ETD="0000" ATD="0000" RFL="0" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT YEML DCT YFLD DCT YBUD DCT YHBA</FlightPlan>
+        <Route>YFLD YBUD YHBA</Route>
       </Aircraft>
       <Aircraft Callsign="ZBF" Type="C208" Delay="0">
         <Squawk Code="2451" ModeC="true" />
+        <Cleared Level="6000" />
         <Position Latitude="-24.288411000000004" Longitude="150.034536" Speed="210" Altitude="6000" />
         <FlightPlan Active="true" Departure="YEML" Destination="YBUD" Alternative="" Rules="I" CruiseSpeed="220" ETD="0000" ATD="0000" RFL="6000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT EML DCT RUROX DCT BUD DCT</FlightPlan>
-        <Route>RUROX BUD</Route>
+        <Route>RUROX YBUD</Route>
       </Aircraft>
     </Targets>
   </ScenarioFile>
