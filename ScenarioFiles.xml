@@ -889,9 +889,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
 
     You will be prompted for the departure of **VOZ1238** and **BNZ45**  
 
-    Have Fun  
-    
-    </InstructorNotes>
+    Have Fun</InstructorNotes>
     <Targets>
       <Aircraft Callsign="VOZ778" Type="B738" Delay="0">
         <Squawk Code="235" ModeC="true" />
