@@ -2908,7 +2908,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
       <FlightPlan Departure="YPPH" Destination="YGRM" Alternative="" Active="true" Rules="I" CruiseSpeed="453" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">AMANA2/03 AMANA Y31 LAKIR Y69 LEO DCT</FlightPlan>
       <Route>MIDLA ALWYN AMANA LAKIR BOSLI YOKRA LEO</Route>
     </Aircraft>
-    <Aircraft Callsign="AEP" Type="DH8A" Delay="420" StartAuto="True">
+    <Aircraft Callsign="AEP" Type="DH8A" Delay="420" StartAuto="true">
       <Squawk Code="2004" ModeC="true" />
       <Cleared Level="16000" />
       <Position Latitude="-31.957319" Longitude="115.96009399999998" Speed="0" Altitude="69" />
@@ -3018,7 +3018,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <TimedMessage Time="1320" Message="Takeoff" />
       </TimedMessages>
     </Aircraft>
-    <Aircraft Callsign="RXA2113" Type="SF34" Delay="180" StartAuto="True">
+    <Aircraft Callsign="RXA2113" Type="SF34" Delay="180" StartAuto="true">
       <Squawk Code="6457" ModeC="true" />
       <Cleared Level="18000" />
       <Position Latitude="-31.957319" Longitude="115.96009399999998" Speed="0" Altitude="69" />
