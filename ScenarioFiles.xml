@@ -2850,10 +2850,10 @@ There is no significant weather within the TMA, although thunderstorms to the no
 </ScenarioFile>
 
 <ScenarioFile>
-    <Name>TBD Intro</Name>
+    <Name>TBD ENR Intro</Name>
     <Type>Enroute</Type>
     <Targets>
-        <Aircraft Callsign="FD252" Type="PC12" Delay="0" StartAuto="true">
+        <Aircraft Callsign="FD252" Type="PC12" Delay="0">
           <Squawk Code="2422" ModeC="true" />
           <Cleared Level="15000" />
           <Position Latitude="-34.940449" Longitude="138.542794" Speed="1" Altitude="36" />
@@ -2877,7 +2877,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Aircraft Callsign="QFA723" Type="B738" Delay="120" StartAuto="true">
           <Squawk Code="4123" ModeC="true" />
           <Position Latitude="-34.940456" Longitude="138.542781" Speed="1" Altitude="36" />
-          <FlightPlan Departure="YPAD" Destination="YBAS" Alternative="YAYE" Active="true" Rules="I" CruiseSpeed="435" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV PER/C /v/">DCT HAWKY J58 WHA J251 AS</FlightPlan>
+          <FlightPlan Departure="YPAD" Destination="YBAS" Alternative="YAYE" Active="true" Rules="I" CruiseSpeed="435" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV PER/C /v/">HAWKY5/23 HAWKY J58 WHA J251 AS</FlightPlan>
           <Route>CORNS KEEFO BIGAL HAWKY SPOTA WHA OJJAY WR CARTS GOMUL SARAH SADEL AS</Route>
         </Aircraft>
         <Aircraft Callsign="VOZ455" Type="B738" Delay="1380" StartAuto="true">
