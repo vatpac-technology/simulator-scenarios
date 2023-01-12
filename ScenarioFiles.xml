@@ -716,15 +716,15 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Squawk Code="7213" ModeC="true" />
         <Cleared Level="36000" />
         <Position Latitude="-39.111324" Longitude="142.690153" Speed="480" Altitude="36000" />
-        <FlightPlan Active="true" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="36000" EETHours="11" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">4700S11500E/M084F410 4600S12000E 4500S12500E/M085F390 4400S13000E 4200S13500E 4000S14000E DCT KAYTU DCT ML H129 DOSEL Y59 RIVET DCT</FlightPlan>
+        <FlightPlan Active="true" Departure="FAOR" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="36000" EETHours="11" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">4700S11500E/M084F410 4600S12000E 4500S12500E/M085F390 4400S13000E 4200S13500E 4000S14000E DCT KAYTU DCT ML H129 DOSEL Y59 RIVET DCT</FlightPlan>
         <Route>KAYTU ML DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET</Route>
       </Aircraft>
       <Aircraft Callsign="ASY10" Type="C17" Delay="0">
         <Squawk Code="2341" ModeC="true" />
-        <Cleared Level="25000" />
-        <Position Latitude="-34.08166667" Longitude="145.95555556" Speed="420" Altitude="25000" />
-        <FlightPlan Active="true" Destination="YMES" Alternative="" Rules="I" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="25000" EETHours="11" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/"> BORLI AY NABBA YMES</FlightPlan>
-        <Route>BORLI AY NABBA YMES</Route>
+        <Cleared Level="19000" />
+        <Position Latitude="-34.08166667" Longitude="145.95555556" Speed="420" Altitude="19000" />
+        <FlightPlan Active="true" Departure="YAMB" Destination="YMES" Alternative="" Rules="I" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="19000" EETHours="11" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/"> BORLI BULLA YMES</FlightPlan>
+        <Route>BORLI BULLA YMES</Route> 
       </Aircraft>
 
     </Targets>
@@ -1362,7 +1362,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YBBN" Destination="YMHB" Alternative="" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="18000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H20 MOTRA W407 IPLET IPLE5A/12</FlightPlan>
         <Route>IPLET SUNEK BEBEK UNTAP BUSKA TASUM</Route>
       </Aircraft>
-      <Aircraft Callsign="UJA" Type="" Delay="0">
+      <Aircraft Callsign="UJA" Type="AC50" Delay="0">
         <Squawk Code="1541" ModeC="true" />
         <Position Latitude="-40.707521" Longitude="146.33496" Speed="180" Altitude="9000" />
         <FlightPlan Active="true" Departure="YMEN" Destination="YCBG" Alternative="" Rules="I" CruiseSpeed="180" ETD="0000" ATD="0000" RFL="9000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ESDAN W382 MB W468 SUNTI H169 IRSOM V33 MORGO VAVMO IKOBI BUSKA BURNA YCBG</FlightPlan>
