@@ -1513,6 +1513,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YPDN" Destination="WPDL" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="CALLSIGN TOPEND     /v/">JULIE J61 IKUMA/M078F340 Z86 ISMUD/N0464F340 Z86 DIL</FlightPlan>
         <Route>JULIE CURLY IKUMA ISMUD</Route>
       </Aircraft>
+
       <Aircraft Callsign="JVN" Type="C441" Delay="0">
         <Squawk Code="7563" ModeC="true" />
         <Cleared Level="27000" />
@@ -1520,6 +1521,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YPDN" Destination="YNGU" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="27000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT DN W473 RUSKA V71 TRUKA DCT</FlightPlan>
         <Route>RUSKA TRUKA YNGU</Route>
       </Aircraft>
+
       <Aircraft Callsign="ANO182" Type="E170" Delay="0">
         <Squawk Code="6764" ModeC="true" />
         <Cleared Level="18000" />
@@ -1527,6 +1529,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YPDN" Destination="YBTL" Alternative="" Rules="I" CruiseSpeed="330" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">PALGA DCT NERTI J138 EGORE/N0458F370 J138 BIDAG DCT PELIS DCT TL</FlightPlan>
         <Route>PALGA NERTI EGORE NTN BIDAG PELIS TL</Route>
       </Aircraft>
+
       <Aircraft Callsign="VOZ9901" Type="B738" Delay="0">
         <Squawk Code="1433" ModeC="true" />
         <Cleared Level="38000" />
@@ -1534,6 +1537,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YPAD" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">AD J58 WHA J251 TN Q23 DN</FlightPlan>
         <Route>GREGA BONES TN FERGI STOES ALLEE VEGPU ITTSA LAPAR</Route>
       </Aircraft>
+
       <Aircraft Callsign="JST881" Type="A320" Delay="0">
         <Squawk Code="7231" ModeC="true" />
         <Cleared Level="36000" />
@@ -1541,6 +1545,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YPAD" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">AD J58 WHA J251 TN Q23 DN</FlightPlan>
         <Route>GREGA BONES TN FERGI STOES ALLEE VEGPU ITTSA LAPAR DN</Route>
       </Aircraft>
+
       <Aircraft Callsign="JST81" Type="A320" Delay="0">
         <Squawk Code="721" ModeC="true" />
         <Cleared Level="18000" />
@@ -1548,6 +1553,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YPAD" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">AD J58 WHA J251 TN Q23 DN</FlightPlan>
         <Route>GREGA BONES TN FERGI STOES ALLEE VEGPU ITTSA LAPAR DN</Route>
       </Aircraft>
+
       <Aircraft Callsign="TFR53" Type="B733" Delay="0">
         <Squawk Code="4626" ModeC="true" />
         <Cleared Level="34000" />
@@ -1555,6 +1561,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YBCS" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CS J61 DUMAV Q91 ALLEE Q23 DN</FlightPlan>
         <Route>GUGUK DUMAV NERTI BUNDY ALLEE VEGPU ITTSA SARRE LAPAR DN</Route>
       </Aircraft>
+
       <Aircraft Callsign="ANO711" Type="E170" Delay="0">
         <Squawk Code="5321" ModeC="true" />
         <Cleared Level="37000" />
@@ -1562,12 +1569,14 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="WPDL" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="430" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">0811S12637E ELBIS M768 SHEPP M768 DN</FlightPlan>
         <Route>ELBIS SHEPP DONYA SUDAG WOKKI DAKTI NEILO LAPAR DN</Route>
       </Aircraft>
+
       <Aircraft Callsign="RNG" Type="PA31" Delay="0">
         <Squawk Code="1200" ModeC="true" />
         <Position Latitude="-12.450616" Longitude="131.160816" Speed="130" Altitude="3500" />
         <FlightPlan Active="false" Departure="YPDN" Destination="YGTE" Alternative="" Rules="V" CruiseSpeed="160" ETD="0000" ATD="0000" RFL="3500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">GTE</FlightPlan>
         <Route>GTE</Route>
       </Aircraft>
+
       <Aircraft Callsign="ANO511" Type="E170" Delay="0">
         <Squawk Code="5732" ModeC="true" />
         <Cleared Level="37000" />
@@ -1575,6 +1584,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="WPDL" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="430" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">0811S12637E ELBIS M768 SHEPP M768 DN</FlightPlan>
         <Route>ELBIS SHEPP DONYA SUDAG WOKKI DAKTI NEILO LAPAR DN</Route>
       </Aircraft>
+
       <Aircraft Callsign="TGG473" Type="A320" Delay="0">
         <Squawk Code="3156" ModeC="true" />
         <Cleared Level="38000" />
@@ -1582,6 +1592,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YBBN" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">BN DCT GULOP J61 DUMAV Q91 ALLEE Q23 DN</FlightPlan>
         <Route>DUMAV NERTI BUNDY ALLEE VEGPU ITTSA SARRE LAPAR DN</Route>
       </Aircraft>
+
       <Aircraft Callsign="JST9901" Type="A320" Delay="0">
         <Squawk Code="7122" ModeC="true" />
         <Cleared Level="36000" />
@@ -1589,6 +1600,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YPAD" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">AD J58 WHA J251 TN Q23 DN</FlightPlan>
         <Route>GREGA BONES TN FERGI STOES ALLEE VEGPU ITTSA LAPAR DN</Route>
       </Aircraft>
+
       <Aircraft Callsign="EVY432" Type="B737" Delay="0">
         <Squawk Code="4627" ModeC="true" />
         <Cleared Level="38000" />
@@ -1596,6 +1608,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YAMB" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">BN DCT GULOP J61 DUMAV Q91 ALLEE Q23 DN</FlightPlan>
         <Route>DUMAV NERTI BUNDY ALLEE VEGPU ITTSA SARRE LAPAR DN</Route>
       </Aircraft>
+
       <Aircraft Callsign="QFA71" Type="B738" Delay="0">
         <Squawk Code="5623" ModeC="true" />
         <Cleared Level="38000" />
@@ -1603,6 +1616,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YPAD" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">AD J58 WHA J251 TN Q23 DN</FlightPlan>
         <Route>GREGA BONES TN FERGI STOES ALLEE VEGPU ITTSA LAPAR DN</Route>
       </Aircraft>
+
       <Aircraft Callsign="VOZ123" Type="B738" Delay="0">
         <Squawk Code="5233" ModeC="true" />
         <Cleared Level="34000" />
@@ -1610,6 +1624,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YBCS" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CS J61 DUMAV Q91 ALLEE Q23 DN</FlightPlan>
         <Route>DUMAV NERTI BUNDY ALLEE VEGPU ITTSA SARRE LAPAR DN</Route>
       </Aircraft>
+
       <Aircraft Callsign="JST563" Type="A320" Delay="0">
         <Squawk Code="3532" ModeC="true" />
         <Cleared Level="38000" />
@@ -1624,6 +1639,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YPDN" Destination="YLEV" Alternative="" Rules="I" CruiseSpeed="190" ETD="0000" ATD="0000" RFL="23000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">VANDI6/29 VANDI DCT RAGER J151 TUSTU DCT YLEV</FlightPlan>
         <Route>BELUN MIGIP LEGUL OTGAX TEGIT DUGAM BURBA VANDI RAGER TUSTU YLEV</Route>
       </Aircraft>
+
       <Aircraft Callsign="ANO250" Type="E120" Delay="180" StartAuto="true">
         <Squawk Code="6346" ModeC="true" />
         <Cleared Level="18000" />
@@ -1631,13 +1647,16 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YPDN" Destination="YPTN" Alternative="" Rules="I" CruiseSpeed="240" ETD="0000" ATD="0000" RFL="23000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">LAKUP5/29 LAKUP J251 TN DCT</FlightPlan>
         <Route>BELUN MIGIP OMUNI LAKUP ANGED TN</Route>
       </Aircraft>
-            <Aircraft Callsign="CF23" Type="BE20" Delay="0" StartAuto="true">
+
+      <Aircraft Callsign="CF23" Type="BE20" Delay="0" StartAuto="true">
+
         <Squawk Code="6536" ModeC="true" />
         <Cleared Level="18000" />
         <Position Latitude="-12.419272" Longitude="130.895323" Speed="1" Altitude="89" />
         <FlightPlan Active="true" Departure="YPDN" Destination="YPTN" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="21000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">LAKUP5/29 LAKUP J251 TN DCT</FlightPlan>
         <Route>BELUN MIGIP OMUNI LAKUP ANGED TN</Route>
         </Aircraft>
+
       <Aircraft Callsign="ANO404" Type="E120" Delay="270" StartAuto="true">
         <Squawk Code="3525" ModeC="true" />
         <Cleared Level="18000" />
@@ -1645,6 +1664,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YPDN" Destination="YGTE" Alternative="" Rules="I" CruiseSpeed="240" ETD="0000" ATD="0000" RFL="23000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">RUSKA6/29 RUSKA W473 GTE</FlightPlan>
         <Route>BELUN MIGIP LEGUL OTGAX TEGIT ITTSA VABLI RUSKA DUMPA GTE</Route>
       </Aircraft>
+
         <Aircraft Callsign="VOZ1756" Type="B738" Delay="360" StartAuto="true">
         <Squawk Code="6464" ModeC="true" />
         <Cleared Level="18000" />
@@ -1652,6 +1672,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YPDN" Destination="YBAS" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="41000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">PALGA7/29 PALGA Y25 BEBUX UY83 GREGA J251 AS</FlightPlan>
         <Route>NASUX UBGUX LEMUX BAXIB SNICK PALGA ADKIV BEBUX GREGA SCOTI AS</Route>
       </Aircraft>
+
       <Aircraft Callsign="ANO160" Type="E170" Delay="500" StartAuto="true">
         <Squawk Code="6423" ModeC="true" />
         <Cleared Level="18000" />
@@ -1659,6 +1680,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YPDN" Destination="YPGV" Alternative="" Rules="I" CruiseSpeed="360" ETD="0000" ATD="0000" RFL="31000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">PALGA7/29 PALGA DCT COLLA J151 GV</FlightPlan>
         <Route>NASUX UBGUX LEMUX BAXIB SNICK PALGA COLLA GV</Route>
       </Aircraft>
+
       <Aircraft Callsign="JST84" Type="A320" Delay="700" StartAuto="true">
         <Squawk Code="6222" ModeC="true" />
         <Cleared Level="18000" />
@@ -1666,6 +1688,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YPDN" Destination="YPAD" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">PALGA7/29 PALGA Y25 BEBUX UY83 GREGA J251 SADEL/N0453F370 J251 WHA H84 AD</FlightPlan>
         <Route>NASUX UBGUX LEMUX BAXIB SNICK PALGA ADKIV OPEKO BEBUX GREGA SCOTI AS</Route>
       </Aircraft>
+
       <Aircraft Callsign="ANO112" Type="E170" Delay="790" StartAuto="true">
         <Squawk Code="7563" ModeC="true" />
         <Cleared Level="18000" />
@@ -1673,6 +1696,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YPDN" Destination="YMHU" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">PALGA7/29 PALGA Y25 OPEKO A464 MIGAX DCT ENRES</FlightPlan>
         <Route>NASUX UBGUX LEMUX BAXIB PALGA ADKIV OPEKO MIGAX ENRES</Route>
       </Aircraft>
+
       <Aircraft Callsign="QJE1937" Type="" Delay="880" StartAuto="true">
         <Squawk Code="5747" ModeC="true" />
         <Cleared Level="18000" />
@@ -1680,17 +1704,24 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YPDN" Destination="YBAS" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">PALGA7/29 PALGA Y25 BEBUX UY83 GREGA J251 AS</FlightPlan>
         <Route>NASUX UBGUX LEMUX BAXIB SNICK PALGA ADKIV OPEKO BEBUX GREGA SCOTI AS</Route>
       </Aircraft>    
+
       <Aircraft Callsign="JFO" Type="C441" Delay="0">
+
         <Squawk Code="2000" ModeC="true" />
-        <Position Latitude="-12.357306" Longitude="130.895323" Speed="0" Altitude="200" />
+        <Position Latitude="-12.357286" Longitude="134.898367" Speed="0" Altitude="200" />
         <FlightPlan Active="false" Departure="YRNG" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="24000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TUSTU J151 RAGER VEGPU DN</FlightPlan>
         <Route>TUSTU RAGER VEGPU DN</Route>
       </Aircraft>
+
       <Aircraft Callsign="HVH" Type="SW4" Delay="0">
+
+
         <Squawk Code="2000" ModeC="true" />
         <Position Latitude="-14.255602" Longitude="129.531525" Speed="0" Altitude="100" />
         <FlightPlan Active="false" Departure="YPKT" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="21000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">JULUP J72 DN</FlightPlan>
         <Route>JULUP WANGI DN</Route>
+
+
       </Aircraft>
     </Targets>
   </ScenarioFile>
