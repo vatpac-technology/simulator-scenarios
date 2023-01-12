@@ -885,7 +885,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
     
     Ensure the student disables GRIB winds.  
 
-    **EOV** to request flight following down to YHBA. Try and time the departure of **QLK381D** with the arrival of **EOV**  
+    **ZSY** to request flight following down to YHBA. Try and time the departure of **QLK381D** with the arrival of **ZSY**  
 
     You will be prompted for the departure of **VOZ1238** and **BNZ45**  
 
@@ -956,7 +956,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="false" Departure="YCFS" Destination="YBSU" Alternative="YBBN" Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="20000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="CALLSIGN QLINK            /v/">CFS W192 GOMOL Q69 ITIDE</FlightPlan>
         <Route>TUCAB TUCKI GOMOL MAKRU RULUN ITIDE YBSU</Route>
         <TimedMessages>
-          <TimedMessage Time="1200" Message="Takeoff" />
+          <TimedMessage Time="900" Message="Takeoff" />
         </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="JST814" Type="A320" Delay="0">
@@ -966,9 +966,9 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="YBCG" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="CALLSIGN JETSTAR    /v/">DCT ENTRA Y245 BANDA H185 GOMOL</FlightPlan>
         <Route>BANDA OMKAX GOMOL YBBN</Route>
       </Aircraft>
-      <Aircraft Callsign="EOV" Type="C172" Delay="0">
+      <Aircraft Callsign="ZSY" Type="BE20" Delay="0">
         <Squawk Code="1200" ModeC="true" />
-        <Position Latitude="-23.842227" Longitude="151.163861" Speed="110" Altitude="3500" />
+        <Position Latitude="-23.842227" Longitude="151.163861" Speed="200" Altitude="3500" />
         <FlightPlan Active="false" Departure="YEML" Destination="YHBA" Alternative="" Rules="V" CruiseSpeed="0" ETD="0000" ATD="0000" RFL="0" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT YEML DCT YFLD DCT YBUD DCT YHBA</FlightPlan>
         <Route>YFLD YBUD YHBA</Route>
       </Aircraft>
