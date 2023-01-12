@@ -1914,130 +1914,6 @@ There is no significant weather within the TMA, although thunderstorms to the no
             <FlightPlan Departure="YPPH" Destination="YGRM" Alternative="" Active="true" Rules="I" CruiseSpeed="453" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">AMANA2/03 AMANA Y31 LAKIR Y69 LEO DCT</FlightPlan>
             <Route>MIDLA ALWYN AMANA LAKIR BOSLI YOKRA LEO</Route>
         </Aircraft>
-        <Aircraft Callsign="AEP" Type="DH8A" Delay="420" StartAuto="True">
-            <Squawk Code="2004" ModeC="true" />
-            <Cleared Level="16000" />
-            <Position Latitude="-31.957319" Longitude="115.96009399999998" Speed="0" Altitude="69" />
-            <FlightPlan Departure="YPPH" Destination="YGEL" Alternative="" Active="true" Rules="I" CruiseSpeed="245" ETD="0000" ATD="0000" RFL="16000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">OTLED3/03 OTLED Q17 ONGAR W14 GEL DCT</FlightPlan>
-            <Route>MIDLA ANCOR ENSUR LIDGI ORATI OSADA POSAS IRNOD LEVKA OTLED ONGAR GEL</Route>
-        </Aircraft>
-        <Aircraft Callsign="QFA776" Type="B738" Delay="0">
-            <Squawk Code="2005" ModeC="true" />
-            <Cleared Level="37000" />
-            <Position Latitude="-32.05" Longitude="118.31" Speed="450" Altitude="37000" />
-            <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Active="true" Rules="I" CruiseSpeed="453" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">BIRER MEMUP Y53 WENDY DCT</FlightPlan>
-            <Route>BIRER MEMUP RERON RIDLE</Route>
-        </Aircraft>
-        <Aircraft Callsign="NWK1606" Type="A320" Delay="0">
-            <Squawk Code="2006" ModeC="true" />
-            <Cleared Level="18000" />
-            <Position Latitude="-31.76" Longitude="116.37000000000002" Speed="250" Altitude="11000" />
-            <FlightPlan Departure="YPPH" Destination="YPKG" Alternative="" Active="true" Rules="I" CruiseSpeed="453" ETD="0000" ATD="0000" RFL="31000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">AMANA2/03 AMANA Y31 LAKIR Y69 BOSLI Y67 KG DCT</FlightPlan>
-            <Route>AMANA LAKIR BOSLI YAHMO KINTO KG</Route>
-        </Aircraft>
-        <Aircraft Callsign="JST901" Type="A320" Delay="0">
-            <Squawk Code="2000" ModeC="false" />
-            <Position Latitude="-33.693901" Longitude="115.39834900000001" Speed="0" Altitude="56" />
-            <FlightPlan Departure="YBLN" Destination="YMML" Alternative="" Active="false" Rules="I" CruiseSpeed="453" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BLN DCT PAVSO DCT REDEL DCT RERON Y53 WENDY</FlightPlan>
-            <Route>PAVSO REDEL RERON</Route>
-            <TimedMessages>
-              <TimedMessage Time="1560" Message="JST901, IFR A320, Taxis Busselton for Melbourne, Runway 03" />
-              <TimedMessage Time="1920" Message="Takeoff" />
-            </TimedMessages>
-        </Aircraft>
-        <Aircraft Callsign="NTE" Type="BE20" Delay="1800" StartAuto="true">
-            <Squawk Code="4340" ModeC="true" />
-            <Cleared Level="18000" />
-            <Position Latitude="-30.7894" Longitude="121.46159999999999" Speed="1" Altitude="1184" />
-            <FlightPlan Departure="YPKG" Destination="YPPH" Alternative="" Active="true" Rules="I" CruiseSpeed="265" ETD="0000" ATD="0000" RFL="18000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">YPKG/11 DCT KG V242 KELLA Z38 GRENE DCT</FlightPlan>
-            <Route>GIVEB KELLA GRENE BOOKA MESAM</Route>
-        </Aircraft>
-        <Aircraft Callsign="MOO" Type="PC12" Delay="0">
-            <Squawk Code="3102" ModeC="true" />
-            <Cleared Level="14000" />
-            <Position Latitude="-33.72" Longitude="121.65000000000002" Speed="0" Altitude="14000" />
-            <FlightPlan Departure="YESP" Destination="YABA" Alternative="" Active="true" Rules="I" CruiseSpeed="265" ETD="0000" ATD="0000" RFL="14000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HOODY YABA DCT</FlightPlan>
-            <Route>HOODY</Route>
-        </Aircraft>
-        <Aircraft Callsign="FD672" Type="PC12" Delay="0">
-            <Squawk Code="2000" ModeC="true" />
-            <Position Latitude="-34.943299999999994" Longitude="117.8088" Speed="0" Altitude="223" />
-            <FlightPlan Departure="YABA" Destination="YESP" Alternative="" Active="false" Rules="I" CruiseSpeed="260" ETD="0000" ATD="0000" RFL="17000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HOODY DCT</FlightPlan>
-            <Route>HOODY</Route>
-            <TimedMessages>
-              <TimedMessage Time="60" Message="FD672, IFR PC12, Taxis Albany for Esperence, Runway 14." />
-              <TimedMessage Time="480" Message="Takeoff." />
-            </TimedMessages>
-        </Aircraft>
-        <Aircraft Callsign="PIG" Type="C210" Delay="0">
-            <Squawk Code="2000" ModeC="true" />
-            <Position Latitude="-34.943299999999994" Longitude="117.8088" Speed="0" Altitude="223" />
-            <FlightPlan Departure="YABA" Destination="YBLN" Alternative="" Active="false" Rules="I" CruiseSpeed="150" ETD="0000" ATD="0000" RFL="10000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT YBLN DCT</FlightPlan>
-            <Route>YBLN</Route>
-            <TimedMessages>
-              <TimedMessage Time="5" Message="PIG, IFR Cessna 210, Taxis Albany for Busselton, Runway 14." />
-              <TimedMessage Time="180" Message="Takeoff." />
-            </TimedMessages>
-        </Aircraft>
-        <Aircraft Callsign="UAE420" Type="A388" Delay="0">
-            <Squawk Code="2000" ModeC="true" />
-            <Cleared Level="41000" />
-            <Position Latitude="-27.33" Longitude="108.46599999999998" Speed="450" Altitude="41000" />
-            <FlightPlan Destination="YPPH" Alternative="" Active="true" Rules="I" CruiseSpeed="481" ETD="0000" ATD="0000" RFL="41000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT NINOB MERIB T12 WAVES DCT</FlightPlan>
-            <Route>MERIB KEELS BRIGG SAILS WAVES</Route>
-        </Aircraft>
-        <Aircraft Callsign="QTR901" Type="A388" Delay="1860" StartAuto="true">
-            <Squawk Code="6456" ModeC="true" />
-            <Cleared Level="18000" />
-            <Position Latitude="-31.957319" Longitude="115.96009399999998" Speed="1" Altitude="69" />
-            <FlightPlan Departure="YPPH" Alternative="" Active="true" Rules="I" CruiseSpeed="484" ETD="0000" ATD="0000" RFL="34000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">KEELS5/03 KEELS DCT BONGS/N0498F360 DCT 20S105E 13S100E 07S095E 06S094E/N0490F380 04S092E DCT ELATI N640 CL/N0484F400 N640 KAT P570 BASUR/M084F400 P570 KITAL/N0481F380 P570 EMURU N563 UMIBU P899 MEKRI/N0470F320 P899 MEKMA </FlightPlan>
-            <Route>MIDLA KETCH WAVES SAILS BRIGG KEELS BONGS</Route>
-        </Aircraft>
-        <Aircraft Callsign="VOZ1334" Type="B738" Delay="0">
-            <Squawk Code="3542" ModeC="true" />
-            <Cleared Level="36000" />
-            <Position Latitude="-29.600000000000005" Longitude="123.66599999999998" Speed="450" Altitude="36000" />
-            <FlightPlan Departure="YBBN" Destination="YPPH" Alternative="" Active="true" Rules="I" CruiseSpeed="451" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CS J64 AS DCT AYE Q41 HAMTN Q158 BEVLY DCT </FlightPlan>
-            <Route>KG NALAR BIRER HAMTN BEVLY</Route>
-        </Aircraft>
-        <Aircraft Callsign="QFA771" Type="B738" Delay="0">
-            <Squawk Code="3544" ModeC="true" />
-            <Cleared Level="38000" />
-            <Position Latitude="-35.599999999999994" Longitude="123.37000000000002" Speed="450" Altitude="38000" />
-            <FlightPlan Departure="YMML" Destination="YPPH" Alternative="" Active="true" Rules="I" CruiseSpeed="451" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ESDIG V126 NOGIP T65 TEKUP L513 TAPAX Q27 HAMTN Q158 BEVLY DCT</FlightPlan>
-            <Route>MOLGA TAMOD HAMTN BEVLY</Route>
-        </Aircraft>
-        <Aircraft Callsign="JST106" Type="A320" Delay="1200" StartAuto="true">
-            <Squawk Code="6457" ModeC="true" />
-            <Cleared Level="18000" />
-            <Position Latitude="-31.957319" Longitude="115.96009399999998" Speed="1" Altitude="69" />
-            <FlightPlan Departure="YPPH" Alternative="" Active="true" Rules="I" CruiseSpeed="484" ETD="0000" ATD="0000" RFL="33000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">AVNEX3/03 AVNEX Y15 ESDEG/N0456F340 Q587 SURFF/M077F340 Q587 METUM R592 PUPIT/N0456F340 R592 GIWOT DCT JALAK/N0454F330 DCT</FlightPlan>
-            <Route>MIDLA ANCOR BUDMA AVPES HARBY SAKOM VENUP AVNEX ESDEG WOLGO PADRY</Route>
-        </Aircraft>
-        <Aircraft Callsign="NWK1613" Type="A320" Delay="0">
-            <Squawk Code="2000" ModeC="false" />
-            <Position Latitude="-28.796" Longitude="114.70750000000001" Speed="0" Altitude="115" />
-            <FlightPlan Departure="YGEL" Destination="YPPH" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="27000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT GEL DCT HINDS Q38 JULIM </FlightPlan>
-            <Route>HINDS CALIG JULIM</Route>
-            <TimedMessages>
-              <TimedMessage Time="840" Message="NWK1613, IFR A320, Taxis Geraldton for Perth, Runway 03" />
-              <TimedMessage Time="1320" Message="Takeoff" />
-            </TimedMessages>
-        </Aircraft>
-        <Aircraft Callsign="RXA2113" Type="SF34" Delay="180" StartAuto="True">
-            <Squawk Code="6457" ModeC="true" />
-            <Cleared Level="18000" />
-            <Position Latitude="-31.957319" Longitude="115.96009399999998" Speed="0" Altitude="69" />
-            <FlightPlan Departure="YPPH" Destination="YABA" Alternative="" Active="true" Rules="I" CruiseSpeed="310" ETD="0000" ATD="0000" RFL="19000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SOLUS3/03 SOLUS W172 ABA DCT </FlightPlan>
-            <Route>MIDLA GALLI SWANN JANDO MOCUR SOLUS JOSBU ABA</Route>
-        </Aircraft>
-        <Aircraft Callsign="NWK1601" Type="A320" Delay="0">
-            <Squawk Code="3064" ModeC="true" />
-            <Cleared Level="39000" />
-            <Position Latitude="-22.235" Longitude="114.08860000000001" Speed="1" Altitude="20" />
-            <FlightPlan Departure="YPLM" Destination="YPPH" Alternative="" Active="true" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">YPLM/18 LM Y207 BORVI B469 TOPIR/N0454F380 L514 AVPAL Q38 JULIM </FlightPlan>
-            <Route>BORVI TOPIR AVPAL HINDS CALIG JULIM</Route>
-        </Aircraft>
     </Targets>
   </ScenarioFile>
 
@@ -2876,6 +2752,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         </Aircraft>
         <Aircraft Callsign="QFA723" Type="B738" Delay="120" StartAuto="true">
           <Squawk Code="4123" ModeC="true" />
+          <Cleared Level="24000" />
           <Position Latitude="-34.940456" Longitude="138.542781" Speed="1" Altitude="36" />
           <FlightPlan Departure="YPAD" Destination="YBAS" Alternative="YAYE" Active="true" Rules="I" CruiseSpeed="435" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV PER/C /v/">HAWKY5/23 HAWKY J58 WHA J251 AS</FlightPlan>
           <Route>CORNS KEEFO BIGAL HAWKY SPOTA WHA OJJAY WR CARTS GOMUL SARAH SADEL AS</Route>
