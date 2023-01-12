@@ -726,7 +726,6 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Active="true" Departure="YAMB" Destination="YMES" Alternative="" Rules="I" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="19000" EETHours="11" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/"> BORLI BULLA YMES</FlightPlan>
         <Route>BORLI BULLA YMES</Route> 
       </Aircraft>
-
     </Targets>
   </ScenarioFile>
 
@@ -1695,9 +1694,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Position Latitude="-14.255602" Longitude="129.531525" Speed="0" Altitude="100" />
         <FlightPlan Active="false" Departure="YPKT" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="21000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">JULUP J72 DN</FlightPlan>
         <Route>JULUP WANGI DN</Route>
-
         </Aircraft>
-
     </Targets>
   </ScenarioFile>
 
@@ -1882,7 +1879,6 @@ There is no significant weather within the TMA, although thunderstorms to the no
       </Aircraft>
     </Targets>
   </ScenarioFile>
-
 
   <ScenarioFile>
     <Name>Enroute ARL</Name>
@@ -2101,6 +2097,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         </Aircraft>
     </Targets>
 </ScenarioFile>
+
 <ScenarioFile>
     <Name>AD TMA Intro with YGWA</Name>
     <Type>TMA</Type>
@@ -2249,6 +2246,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         </Aircraft>
     </Targets>
 </ScenarioFile>
+
 <ScenarioFile>
     <Name>AD TMA Advanced with YGWA</Name>
     <Type>TMA</Type>
