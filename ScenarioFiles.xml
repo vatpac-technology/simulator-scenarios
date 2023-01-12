@@ -969,7 +969,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
       <Aircraft Callsign="EOV" Type="C172" Delay="0">
         <Squawk Code="1200" ModeC="true" />
         <Position Latitude="-23.842227" Longitude="151.163861" Speed="110" Altitude="3500" />
-        <FlightPlan Active="false" Departure"YEML" Destination="YHBA" Alternative="" Rules="V" CruiseSpeed="0" ETD="0000" ATD="0000" RFL="0" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT YEML DCT YFLD DCT YBUD DCT YHBA</FlightPlan>
+        <FlightPlan Active="false" Departure="YEML" Destination="YHBA" Alternative="" Rules="V" CruiseSpeed="0" ETD="0000" ATD="0000" RFL="0" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT YEML DCT YFLD DCT YBUD DCT YHBA</FlightPlan>
         <Route>YFLD YBUD YHBA</Route>
       </Aircraft>
       <Aircraft Callsign="ZBF" Type="C208" Delay="0">
