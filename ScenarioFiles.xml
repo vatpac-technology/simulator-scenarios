@@ -3244,13 +3244,134 @@ There is no significant weather within the TMA, although thunderstorms to the no
       <Route>LAVIN OSOKO RWY19R</Route>
     </Aircraft>
 
-      <Aircraft Callsign="NWK1601" Type="A320" Delay="0">
-      <Squawk Code="2000" ModeC="false" />
-      <Position Latitude="-27.388081" Longitude="153.120088" Speed="0" Altitude="20" />
-      <FlightPlan Departure="YBBN" Destination="YPPH" Alternative="" Active="true" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">YPLM/18 LM Y207 BORVI B469 TOPIR/N0454F380 L514 AVPAL Q38 JULIM</FlightPlan>
-      <Route>BORVI TOPIR AVPAL HINDS CALIG JULIM</Route>
+    <Aircraft Callsign="VOZ50" Type="B738" Delay="180" StartAuto="true">
+      <Squawk Code="1003" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-26.945289" Longitude="153.414487" Speed="250" Altitude="3000" />
+      <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19L</FlightPlan>
+      <Route>BETSO RWY19L</Route>
     </Aircraft>
-    
+
+    <Aircraft Callsign="QLK2420D" Type="DH8D" Delay="250" StartAuto="true">
+      <Squawk Code="1004" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-26.945289" Longitude="153.414487" Speed="250" Altitude="3000" />
+      <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19R</FlightPlan>
+      <Route>LAVIN OSOKO RWY19R</Route>
+    </Aircraft>
+
+    <Aircraft Callsign="UAE430" Type="A388" Delay="350" StartAuto="true">
+      <Squawk Code="1005" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-26.945289" Longitude="153.414487" Speed="250" Altitude="3000" />
+      <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19L</FlightPlan>
+      <Route>BETSO RWY19L</Route>
+    </Aircraft>
+
+    <Aircraft Callsign="SH133" Type="SW4" Delay="370" StartAuto="true">
+      <Squawk Code="1006" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-26.945289" Longitude="153.414487" Speed="250" Altitude="3000" />
+      <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19R</FlightPlan>
+      <Route>LAVIN OSOKO RWY19R</Route>
+    </Aircraft>
+
+    <Aircraft Callsign="QFA1938" Type="E190" Delay="480" StartAuto="true">
+      <Squawk Code="1007" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-26.945289" Longitude="153.414487" Speed="250" Altitude="3000" />
+      <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19L</FlightPlan>
+      <Route>BETSO RWY19L</Route>
+    </Aircraft>
+
+    <Aircraft Callsign="UTY1720" Type="F70" Delay="500" StartAuto="true">
+      <Squawk Code="1008" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-26.945289" Longitude="153.414487" Speed="250" Altitude="3000" />
+      <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19R</FlightPlan>
+      <Route>LAVIN OSOKO RWY19R</Route>
+    </Aircraft>
+
+    <Aircraft Callsign="AVN20" Type="B738" Delay="600" StartAuto="true">
+      <Squawk Code="1009" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-26.945289" Longitude="153.414487" Speed="250" Altitude="3000" />
+      <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19L</FlightPlan>
+      <Route>BETSO RWY19L</Route>
+    </Aircraft>
+
+    <Aircraft Callsign="QLK2339D" Type="DH8D" Delay="700" StartAuto="true">
+      <Squawk Code="1010" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-26.945289" Longitude="153.414487" Speed="250" Altitude="3000" />
+      <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19R</FlightPlan>
+      <Route>LAVIN OSOKO RWY19R</Route>
+    </Aircraft>
+
+    <Aircraft Callsign="VEP" Type="SF34" Delay="750" StartAuto="true">
+      <Squawk Code="1011" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-26.945289" Longitude="153.414487" Speed="250" Altitude="3000" />
+      <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19L</FlightPlan>
+      <Route>BETSO RWY19L</Route>
+    </Aircraft>
+
+    <Aircraft Callsign="RXA5661" Type="SF34" Delay="820" StartAuto="true">
+      <Squawk Code="1012" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-26.945289" Longitude="153.414487" Speed="250" Altitude="3000" />
+      <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19R</FlightPlan>
+      <Route>LAVIN OSOKO RWY19R</Route>
+    </Aircraft>
+
+    <Aircraft Callsign="JST877" Type="A320" Delay="900" StartAuto="true">
+      <Squawk Code="1013" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-26.945289" Longitude="153.414487" Speed="250" Altitude="3000" />
+      <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19L</FlightPlan>
+      <Route>BETSO RWY19L</Route>
+    </Aircraft>
+
+    <Aircraft Callsign="SOL700" Type="A320" Delay="960" StartAuto="true">
+      <Squawk Code="1014" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-26.945289" Longitude="153.414487" Speed="250" Altitude="3000" />
+      <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19R</FlightPlan>
+      <Route>LAVIN OSOKO RWY19R</Route>
+    </Aircraft>
+
+    <Aircraft Callsign="FD427" Type="B350" Delay="1050" StartAuto="true">
+      <Squawk Code="1015" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-26.945289" Longitude="153.414487" Speed="250" Altitude="3000" />
+      <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19L</FlightPlan>
+      <Route>BETSO RWY19L</Route>
+    </Aircraft>
+
+    <Aircraft Callsign="TFX902" Type="B733" Delay="1100" StartAuto="true">
+      <Squawk Code="1016" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-26.945289" Longitude="153.414487" Speed="250" Altitude="3000" />
+      <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19R</FlightPlan>
+      <Route>LAVIN OSOKO RWY19R</Route>
+    </Aircraft>
+
+    <Aircraft Callsign="QTR898" Type="B77W" Delay="1200" StartAuto="true">
+      <Squawk Code="1017" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-26.945289" Longitude="153.414487" Speed="250" Altitude="3000" />
+      <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19L</FlightPlan>
+      <Route>BETSO RWY19L</Route>
+    </Aircraft>
+
+    <Aircraft Callsign="RXA258" Type="B738" Delay="1250" StartAuto="true">
+      <Squawk Code="1018" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-26.945289" Longitude="153.414487" Speed="250" Altitude="3000" />
+      <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19R</FlightPlan>
+      <Route>LAVIN OSOKO RWY19R</Route>
+    </Aircraft>
+
   </Targets>
 </ScenarioFile>
 
