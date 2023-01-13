@@ -3244,7 +3244,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
     <Aircraft Callsign="LMD" Type="C208" Delay="0">
       <Squawk Code="4765" ModeC="true" />
       <Cleared Level="500"/>
-      <Position Latitude="-26.945289" Longitude="153.414487" Speed="150" Altitude="500" />
+      <Position Latitude="-27.662547" Longitude="153.321320" Speed="150" Altitude="500" />
       <FlightPlan Departure="YBCG" Destination="YRED" Alternative="" Active="true" Rules="V" CruiseSpeed="155" ETD="0000" ATD="0000" RFL="500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">YBCG REDB WELL YBBN HBVT YRED</FlightPlan>
       <Route>REDB WELL YBBN HBVT YRED</Route>
     </Aircraft>
