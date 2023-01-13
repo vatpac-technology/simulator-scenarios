@@ -1791,7 +1791,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Departure="YMML" Destination="YMAV" Alternative="" Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="6000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2      /v/">ML LLOYD RPY AV</FlightPlan>
         <Route>BOSGI LLOYD AV</Route>
       </Aircraft>
-      <Aircraft Callsign="VHHUT" Type="" Delay="0">
+      <Aircraft Callsign="VHHUT" Type="C172" Delay="0">
         <Squawk Code="1200" ModeC="false" />
         <Position Latitude="-37.67651" Longitude="144.84828" Speed="0" Altitude="358" />
         <FlightPlan Departure="YMML" Destination="YMMB" Alternative="" Rules="V" CruiseSpeed="110" ETD="0000" ATD="0000" RFL="3000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">MCTY BTO</FlightPlan>
@@ -1812,7 +1812,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
       <Aircraft Callsign="BAW15" Type="B77W" Delay="0">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-37.667898" Longitude="144.846939" Speed="0" Altitude="384" />
-        <FlightPlan Departure="YMML" Alternative="" Rules="I" CruiseSpeed="490" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2    CALLSIGN &quot;SPEEDBIRD&quot;  /v/">KEPPA H164 LEC A461 AS TIMMI CIN</FlightPlan>
+        <FlightPlan Departure="YMML" Destination="WSSS" Alternative="" Rules="I" CruiseSpeed="490" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2    CALLSIGN &quot;SPEEDBIRD&quot;  /v/">KEPPA H164 LEC A461 AS TIMMI CIN</FlightPlan>
         <Route>HORSH KEPPA LEC</Route>
       </Aircraft>
       <Aircraft Callsign="QFA400" Type="B738" Delay="0">
@@ -1887,7 +1887,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Departure="YMML" Destination="YMAV" Alternative="" Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="6000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2      /v/">ML LLOYD RPY AV</FlightPlan>
         <Route>ATNOL LLOYD AV</Route>
       </Aircraft>
-      <Aircraft Callsign="VHHUT" Type="" Delay="0">
+      <Aircraft Callsign="VHHUT" Type="C172" Delay="0">
         <Squawk Code="1200" ModeC="false" />
         <Position Latitude="-37.67651" Longitude="144.84828" Speed="0" Altitude="358" />
         <FlightPlan Departure="YMML" Destination="YMMB" Alternative="" Rules="V" CruiseSpeed="110" ETD="0000" ATD="0000" RFL="3000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">MCTY BTO</FlightPlan>
@@ -1908,7 +1908,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
       <Aircraft Callsign="BAW15" Type="B77W" Delay="0">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-37.667898" Longitude="144.846939" Speed="0" Altitude="384" />
-        <FlightPlan Departure="YMML" Alternative="" Rules="I" CruiseSpeed="490" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2    CALLSIGN &quot;SPEEDBIRD&quot;  /v/">KEPPA H164 LEC A461 AS TIMMI CIN</FlightPlan>
+        <FlightPlan Departure="YMML" Destination="WSSS" Alternative="" Rules="I" CruiseSpeed="490" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2    CALLSIGN &quot;SPEEDBIRD&quot;  /v/">KEPPA H164 LEC A461 AS TIMMI CIN</FlightPlan>
         <Route>ATNOL HORSH KEPPA LEC</Route>
       </Aircraft>
       <Aircraft Callsign="QFA400" Type="B738" Delay="0">
