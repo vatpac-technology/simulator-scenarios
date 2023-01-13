@@ -3228,19 +3228,29 @@ There is no significant weather within the TMA, although thunderstorms to the no
   <Type>Tower</Type>
   <InstructorNotes>TBI</InstructorNotes>
   <Targets>
-    <Aircraft Callsign="NWK1843" Type="F100" Delay="0" StartAuto="true">
-      <Squawk Code="1002" ModeC="true" />
-      <Cleared Level="32000" />
-      <Position Latitude="-27.17" Longitude="117.33000000000001" Speed="450" Altitude="32000" />
-      <FlightPlan Departure="YPBO" Destination="YPPH" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PBO Q7 HALEM Q9 AVPAL Q38 JULIM DCT</FlightPlan>
-      <Route>AVPAL HINDS CALIG JULIM</Route>
+    <Aircraft Callsign="JST673" Type="A320" Delay="0" StartAuto="true">
+      <Squawk Code="1001" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-26.945289" Longitude="153.414487" Speed="250" Altitude="3000" />
+      <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19L</FlightPlan>
+      <Route>BETSO RWY19L</Route>
     </Aircraft>
-    <Aircraft Callsign="NWK1601" Type="A320" Delay="0">
+
+    <Aircraft Callsign="RON42" Type="B733" Delay="30" StartAuto="true">
+      <Squawk Code="1002" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-26.945289" Longitude="153.414487" Speed="250" Altitude="3000" />
+      <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="true" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ENTRA Y245 BANDA H185 GOMOL GOMO2A/19R</FlightPlan>
+      <Route>LAVIN OSOKO RWY19R</Route>
+    </Aircraft>
+
+      <Aircraft Callsign="NWK1601" Type="A320" Delay="0">
       <Squawk Code="2000" ModeC="false" />
       <Position Latitude="-27.388081" Longitude="153.120088" Speed="0" Altitude="20" />
       <FlightPlan Departure="YBBN" Destination="YPPH" Alternative="" Active="true" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">YPLM/18 LM Y207 BORVI B469 TOPIR/N0454F380 L514 AVPAL Q38 JULIM</FlightPlan>
       <Route>BORVI TOPIR AVPAL HINDS CALIG JULIM</Route>
     </Aircraft>
+    
   </Targets>
 </ScenarioFile>
 
