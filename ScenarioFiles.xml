@@ -1839,7 +1839,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Departure="YMML" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="310" ETD="0000" ATD="0000" RFL="21000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP5    CALLSIGN &quot;Q-LINK&quot; /v/">ML AY TW BN</FlightPlan>
         <Route>BOSGI AY TW BN</Route>
       </Aircraft>
-      <Aircraft Callsign="JST625" Type="A321" Delay="0" StartAuto="true">
+      <Aircraft Callsign="JST625" Type="A321" Delay="0">
         <Squawk Code="1234" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-37.314369" Longitude="144.763115" Speed="180" Altitude="3000" />
