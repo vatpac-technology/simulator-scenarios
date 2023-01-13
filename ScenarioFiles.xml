@@ -3377,34 +3377,83 @@ There is no significant weather within the TMA, although thunderstorms to the no
 
 
 
+
+
+
+
+
     <Aircraft Callsign="JST811" Type="A320" Delay="0">
       <Squawk Code="2000" ModeC="false" />
       <Position Latitude="-27.388081" Longitude="153.120088" Speed="0" Altitude="20" />
-      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG H91 CORKY H12 BOREE</FlightPlan>
+      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG H91 CORKY H12 BOREE</FlightPlan>
       <Route>SANEG</Route>
     </Aircraft>
-
+    <Aircraft Callsign="QJE1790" Type="B712" Delay="0">
+      <Squawk Code="2000" ModeC="false" />
+      <Position Latitude="-27.382651" Longitude="153.122520" Speed="0" Altitude="20" />
+      <FlightPlan Departure="YBBN" Destination="YBMA" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="32000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN V250 UNVAT J89 PUDUR/N0453F340 J89 MA DCT</FlightPlan>
+      <Route>UNVAT</Route>
+    </Aircraft>
+    <Aircraft Callsign="ACI151" Type="A20N" Delay="0">
+      <Squawk Code="2000" ModeC="false" />
+      <Position Latitude="-27.404012" Longitude="153.110797" Speed="0" Altitude="20" />
+      <FlightPlan Departure="YBBN" Destination="NWWW" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">GUMKI B578 ISTEM/M078F390 B578 NISAS NISAS2A</FlightPlan>
+      <Route>GUMKI</Route>
+    </Aircraft>
+    <Aircraft Callsign="UAE431" Type="A388" Delay="0">
+      <Squawk Code="2000" ModeC="false" />
+      <Position Latitude="-27.400454" Longitude="153.113424" Speed="0" Altitude="20" />
+      <FlightPlan Departure="YBBN" Destination="OMDB" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="40000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN V250 LEBIT V412 ROM T11 VILOL DCT MENIG</FlightPlan>
+      <Route>LEBIT</Route>
+    </Aircraft>
+    <Aircraft Callsign="CAL54" Type="A359" Delay="0">
+      <Squawk Code="2000" ModeC="false" />
+      <Position Latitude="-27.402823" Longitude="153.111532" Speed="0" Altitude="20" />
+      <FlightPlan Departure="YBBN" Destination="RCTP" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BIXAD Q67 SWALO</FlightPlan>
+      <Route>BIXAD</Route>
+    </Aircraft>
+    <Aircraft Callsign="QLK2372D" Type="DH8D" Delay="0">
+      <Squawk Code="2000" ModeC="false" />
+      <Position Latitude="-27.381784" Longitude="153.121278" Speed="0" Altitude="20" />
+      <FlightPlan Departure="YBBN" Destination="YSWG" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="24000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN DCT SANEG Q923 PKS W638 WG DCT</FlightPlan>
+      <Route>SANEG</Route>
+    </Aircraft>
+    <Aircraft Callsign="QFA509" Type="B738" Delay="0">
+      <Squawk Code="2000" ModeC="false" />
+      <Position Latitude="-27.384301" Longitude="153.121490" Speed="0" Altitude="20" />
+      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SANEG H91 CORKY H12 BOREE DCT</FlightPlan>
+      <Route>SANEG</Route>
+    </Aircraft>
+    <Aircraft Callsign="VOZ1113" Type="B738" Delay="0">
+      <Squawk Code="2000" ModeC="false" />
+      <Position Latitude="-27.386573" Longitude="153.120434" Speed="0" Altitude="20" />
+      <FlightPlan Departure="YBBN" Destination="YBPN" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="34000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BIXAD Q67 CAPRI UQ493 EMSUP V308 MK DCT PN DCT</FlightPlan>
+      <Route>BIXAD</Route>
+    </Aircraft>
+    <Aircraft Callsign="VOZ308" Type="B738" Delay="0">
+      <Squawk Code="2000" ModeC="false" />
+      <Position Latitude="-27.388361" Longitude="153.118489" Speed="0" Altitude="20" />
+      <FlightPlan Departure="YBBN" Destination="YMML" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SANEG Q923 CANTY H119 ARBEY DCT</FlightPlan>
+      <Route>SANEG</Route>
+    </Aircraft>
     <Aircraft Callsign="VJE" Type="D228" Delay="0">
       <Squawk Code="2000" ModeC="false" />
       <Position Latitude="-27.373657" Longitude="153.124640" Speed="0" Altitude="20" />
-      <FlightPlan Departure="YBBN" Destination="YTNG" Alternative="" Active="true" Rules="I" CruiseSpeed="225" ETD="0000" ATD="0000" RFL="8000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN V308 SAGLI W228 SUSGI DCT</FlightPlan>
+      <FlightPlan Departure="YBBN" Destination="YTNG" Alternative="" Active="false" Rules="I" CruiseSpeed="225" ETD="0000" ATD="0000" RFL="8000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN V308 SAGLI W228 SUSGI DCT</FlightPlan>
       <Route>SAGLI</Route>
     </Aircraft>
     <Aircraft Callsign="PSK" Type="B190" Delay="0">
       <Squawk Code="2000" ModeC="false" />
       <Position Latitude="-27.373657" Longitude="153.124640" Speed="0" Altitude="20" />
-      <FlightPlan Departure="YBBN" Destination="YBTL" Alternative="" Active="true" Rules="I" CruiseSpeed="265" ETD="0000" ATD="0000" RFL="22000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN V308 RK DCT EMSUP DCT WELKE V308 POROB DCT</FlightPlan>
+      <FlightPlan Departure="YBBN" Destination="YBTL" Alternative="" Active="false" Rules="I" CruiseSpeed="265" ETD="0000" ATD="0000" RFL="22000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN V308 RK DCT EMSUP DCT WELKE V308 POROB DCT</FlightPlan>
       <Route>RK</Route>
     </Aircraft>
-
     <Aircraft Callsign="YJR" Type="AC50" Delay="0">
       <Squawk Code="2000" ModeC="false" />
       <Position Latitude="-27.373865" Longitude="153.125231" Speed="0" Altitude="20" />
-      <FlightPlan Departure="YBBN" Destination="YDAY" Alternative="" Active="true" Rules="I" CruiseSpeed="165" ETD="0000" ATD="0000" RFL="6000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN Q484 RUDEY W369 OK DCT</FlightPlan>
+      <FlightPlan Departure="YBBN" Destination="YDAY" Alternative="" Active="false" Rules="I" CruiseSpeed="165" ETD="0000" ATD="0000" RFL="6000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN Q484 RUDEY W369 OK DCT</FlightPlan>
       <Route>RUDEY</Route>
     </Aircraft>
-
-
   </Targets>
 </ScenarioFile>
 
