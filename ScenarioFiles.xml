@@ -3247,6 +3247,10 @@ There is no significant weather within the TMA, although thunderstorms to the no
       <Position Latitude="-27.662547" Longitude="153.321320" Speed="150" Altitude="500" />
       <FlightPlan Departure="YBCG" Destination="YRED" Alternative="" Active="true" Rules="V" CruiseSpeed="155" ETD="0000" ATD="0000" RFL="500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">YBCG REDB WELL YBBN HBVT YRED</FlightPlan>
       <Route>REDB WELL YBBN HBVT YRED</Route>
+      <TimedMessages>
+        <TimedMessage Time="120" Message="Coordination with TWR: **LMD, to overfly via Redland Bay, ETA the boundary time XX**" />
+        <TimedMessage Time="240" Message="Handoff" />
+      </TimedMessages>
     </Aircraft>
 
     <Aircraft Callsign="JST673" Type="A320" Delay="0" StartAuto="true">
