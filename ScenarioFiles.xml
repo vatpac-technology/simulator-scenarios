@@ -1846,28 +1846,28 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Departure="YPAD" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2  &quot;JETSTAR&quot;  /v/">AD DANKS ARBEY ARBEY6A/16</FlightPlan>
         <Route>BELTA RWY16 YMML</Route>
       </Aircraft>
-      <Aircraft Callsign="RXA3251" Type="SF34" Delay="60" >
+      <Aircraft Callsign="RXA3251" Type="SF34" Delay="60" StartAuto="true">
         <Squawk Code="1235" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-37.154299" Longitude="144.736212" Speed="180" Altitude="3000" />
         <FlightPlan Departure="YMIA" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="19000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP5  CALLSIGN &quot;REX&quot;  /v/">MIA W293 BDG W720 ARBEY ARBEY6A/16</FlightPlan>
         <Route>BELTA RWY16 YMML</Route>
       </Aircraft>
-      <Aircraft Callsign="VOZ289" Type="B738" Delay="120">
+      <Aircraft Callsign="VOZ289" Type="B738" Delay="120" StartAuto="true">
         <Squawk Code="1232" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.967777" Longitude="144.70498" Speed="180" Altitude="3000" />
         <FlightPlan Departure="YBBN" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="0" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2   CALLSIGN &quot;VELOCITY&quot;  /v/">BN H62 LAV Q94 CANTY H119 ARBEY ARBEY6A/16</FlightPlan>
         <Route>BELTA RWY16 YMML</Route>
       </Aircraft>
-      <Aircraft Callsign="QFA536" Type="A332" Delay="180">
+      <Aircraft Callsign="QFA536" Type="A332" Delay="180" StartAuto="true">
         <Squawk Code="1222" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.750074" Longitude="144.61028" Speed="180" Altitude="3000" />
         <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2   CALLSIGN &quot;QANTAS&quot;  /v/">PH B469 AD DANKS ARBEY ARBEY6A/16</FlightPlan>
         <Route>CANTY ARBEY BELTA RWY16 YMML</Route>
       </Aircraft>
-      <Aircraft Callsign="QFA776" Type="A332" Delay="240" >
+      <Aircraft Callsign="QFA776" Type="A332" Delay="240" StartAuto="true">
         <Squawk Code="1211" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.51042999999999" Longitude="144.422953" Speed="180" Altitude="3000" />
@@ -1942,28 +1942,28 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Departure="YPAD" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2  &quot;JETSTAR&quot;  /v/">AD DANKS ARBEY ARBEY6A/16</FlightPlan>
         <Route>BELTA RWY16 YMML</Route>
       </Aircraft>
-      <Aircraft Callsign="RXA3251" Type="SF34" Delay="60" >
+      <Aircraft Callsign="RXA3251" Type="SF34" Delay="60" StartAuto="true">
         <Squawk Code="1235" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-37.154299" Longitude="144.736212" Speed="180" Altitude="3000" />
         <FlightPlan Departure="YMIA" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="19000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP5  CALLSIGN &quot;REX&quot;  /v/">MIA W293 BDG W720 ARBEY ARBEY6A/16</FlightPlan>
         <Route>BELTA RWY16 YMML</Route>
       </Aircraft>
-      <Aircraft Callsign="VOZ289" Type="B738" Delay="120" >
+      <Aircraft Callsign="VOZ289" Type="B738" Delay="120" StartAuto="true">
         <Squawk Code="1232" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.967777" Longitude="144.70498" Speed="180" Altitude="3000" />
         <FlightPlan Departure="YBBN" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="0" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2   CALLSIGN &quot;VELOCITY&quot;  /v/">BN H62 LAV Q94 CANTY H119 ARBEY ARBEY6A/16</FlightPlan>
         <Route>BELTA RWY16 YMML</Route>
       </Aircraft>
-      <Aircraft Callsign="QFA536" Type="A332" Delay="180" >
+      <Aircraft Callsign="QFA536" Type="A332" Delay="180" StartAuto="true">
         <Squawk Code="1222" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.750074" Longitude="144.61028" Speed="180" Altitude="3000" />
         <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2   CALLSIGN &quot;QANTAS&quot;  /v/">PH B469 AD DANKS ARBEY6A/16</FlightPlan>
         <Route>CANTY ARBEY BELTA RWY16 YMML</Route>
       </Aircraft>
-      <Aircraft Callsign="QFA776" Type="A332" Delay="240" >
+      <Aircraft Callsign="QFA776" Type="A332" Delay="240" StartAuto="true">
         <Squawk Code="1211" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.51042999999999" Longitude="144.422953" Speed="180" Altitude="3000" />
