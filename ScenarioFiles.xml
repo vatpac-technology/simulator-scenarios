@@ -3241,7 +3241,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
 
     Have Fun</InstructorNotes>
   <Targets>
-    <Aircraft Callsign="LMD" Type="C208" Delay="0" StartAuto="true">
+    <Aircraft Callsign="LMD" Type="C208" Delay="0">
       <Squawk Code="4765" ModeC="true" />
       <Cleared Level="500"/>
       <Position Latitude="-26.945289" Longitude="153.414487" Speed="150" Altitude="500" />
