@@ -1789,6 +1789,18 @@ There is no significant weather within the TMA, although thunderstorms to the no
   <ScenarioFile>
     <Name>Tower Melboure Intro 16AD</Name>
     <Type>Tower</Type>
+        <InstructorNotes>
+
+    **ALL ARRIVALS ARE AUTOMATIC**  
+
+    Have student use Runway 16 for Departures  
+
+    **QFA400** incorrect level  
+
+    **QLK148D** needs new route  
+  
+    Have Fun
+    </InstructorNotes>
     <Targets>
       <Aircraft Callsign="VHJCR" Type="LJ45" Delay="0">
         <Squawk Code="2000" ModeC="false" />
@@ -1885,6 +1897,18 @@ There is no significant weather within the TMA, although thunderstorms to the no
   <ScenarioFile>
     <Name>Tower Melbourne Advanced 16A27D</Name>
     <Type>Tower</Type>
+    <InstructorNotes>
+
+    **ALL ARRIVALS ARE AUTOMATIC**  
+
+    Have student use Runway 27 for Departures  
+
+    **QFA400** incorrect level  
+
+    **QLK148D** needs new route  
+  
+    Have Fun
+    </InstructorNotes>
     <Targets>
       <Aircraft Callsign="VHJCR" Type="LJ45" Delay="0">
         <Squawk Code="2000" ModeC="false" />
@@ -1996,7 +2020,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470Y" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2     CALLSIGN &quot;QANTAS&quot;  /v/">PH Y53 WENDY ARBEY ARBEY6A/16</FlightPlan>
         <Route>CANTY ARBEY BELTA RWY16 YMML</Route>
       </Aircraft>
-            <Aircraft Callsign="RECH4EC" Type="C17" Delay="480" StartAuto="true">
+            <Aircraft Callsign="GR516" Type="B738" Delay="480" StartAuto="true">
         <Squawk Code="1005" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.51042999999999" Longitude="144.422953" Speed="250" Altitude="3000" />
@@ -2024,14 +2048,14 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470Y" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2     CALLSIGN &quot;QANTAS&quot;  /v/">PH Y53 WENDY ARBEY ARBEY6A/16</FlightPlan>
         <Route>CANTY ARBEY BELTA RWY16 YMML</Route>
       </Aircraft>
-            <Aircraft Callsign="ETD460" Type="B77W" Delay="960" StartAuto="true">
+            <Aircraft Callsign="ETD460" Type="B77W" Delay="1000" StartAuto="true">
         <Squawk Code="1009" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.51042999999999" Longitude="144.422953" Speed="250" Altitude="3000" />
         <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470Y" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2     CALLSIGN &quot;QANTAS&quot;  /v/">PH Y53 WENDY ARBEY ARBEY6A/16</FlightPlan>
         <Route>CANTY ARBEY BELTA RWY16 YMML</Route>
       </Aircraft>
-            <Aircraft Callsign="SIA207" Type="A359" Delay="1080" StartAuto="true">
+            <Aircraft Callsign="SIA207" Type="A359" Delay="1120" StartAuto="true">
         <Squawk Code="1010" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.51042999999999" Longitude="144.422953" Speed="250" Altitude="3000" />
