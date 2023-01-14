@@ -1695,6 +1695,10 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Position Latitude="-38.433" Longitude="145.59" Speed="110" Altitude="2500" />
         <FlightPlan Active="false" Departure="YTDN" Destination="YBDG" Alternative="" Rules="2" CruiseSpeed="130" ETD="0000" ATD="0000" RFL="2500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/A /v/">DCT ACE DSN WAN DCT</FlightPlan>
         <Route>ACE DSN WAN</Route>
+        <TimedMessages>
+          <TimedMessage Time="570" Message="Request Clearance to Aldinga" />
+          <TimedMessage Time="720" Message="Request Taxi (GA)" />
+        </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="CYA" Type="BE20" Delay="0">
         <Squawk Code="3106" ModeC="true" />
@@ -3326,18 +3330,33 @@ There is no significant weather within the TMA, although thunderstorms to the no
       <Position Latitude="-34.939807" Longitude="138.537748" Speed="0" Altitude="33" />
       <FlightPlan Departure="YPAD" Destination="YPPH" Alternative="" Active="false" Rules="I" CruiseSpeed="447" ETD="0000" ATD="0000" RFL="36000" EETHours="3" EETMins="15" FuelHours="4" FuelMins="50" Remarks="NAV/RNP2 RTF/QANTAS /v/">DCT GILES Q33 ESP Q158 BEVLY DCT</FlightPlan>
       <Route>COLPY</Route>
+      <TimedMessages>
+        <TimedMessage Time="180" Message="Request Clearance to Sydney (Bay 21)" />
+        <TimedMessage Time="390" Message="Request Push (Bay 21)" />
+        <TimedMessage Time="540" Message="Request Taxi" />
+      </TimedMessages>
     </Aircraft>
     <Aircraft Callsign="VOZ441" Type="B738" Delay="0" StartAuto="false">
       <Squawk Code="0" ModeC="false" />
       <Position Latitude="-34.93780799999999" Longitude="138.54068300000003" Speed="0" Altitude="33" />
       <FlightPlan Departure="YPAD" Destination="YSSY" Alternative="" Active="false" Rules="I" CruiseSpeed="452" ETD="0000" ATD="0000" RFL="39000" EETHours="1" EETMins="57" FuelHours="3" FuelMins="07" Remarks="NAV/RNP2 RTF/VELOCITY /v/">DCT PANKI H247 CULIN Y59 RIVET DCT</FlightPlan>
       <Route>COLPY</Route>
+      <TimedMessages>
+        <TimedMessage Time="360" Message="Request Clearance to Melbourne (Bay 13)" />
+        <TimedMessage Time="600" Message="Request Push (Bay 13)" />
+        <TimedMessage Time="780" Message="Request Taxi" />
+      </TimedMessages>
     </Aircraft>
     <Aircraft Callsign="JST779" Type="A320" Delay="0" StartAuto="false">
       <Squawk Code="0" ModeC="false" />
       <Position Latitude="-34.940805" Longitude="138.536216" Speed="0" Altitude="33" />
       <FlightPlan Departure="YPAD" Destination="YMML" Alternative="" Active="false" Rules="I" CruiseSpeed="455" ETD="0000" ATD="0000" RFL="37000" EETHours="0" EETMins="59" FuelHours="1" FuelMins="59" Remarks="NAV/RNP2 RTF/JETSTAR /v/">DCT BENDO Y12 ARBEY DCT</FlightPlan>
       <Route>COLPY</Route>
+      <TimedMessages>
+        <TimedMessage Time="360" Message="Request Clearance to Melbourne (Bay 25)" />
+        <TimedMessage Time="600" Message="Request Push (Bay 25)" />
+        <TimedMessage Time="780" Message="Request Taxi" />
+      </TimedMessages>
     </Aircraft>
     <Aircraft Callsign="FJS" Type="B738" Delay="0" StartAuto="false">
       <Squawk Code="0" ModeC="false" />
@@ -3350,36 +3369,64 @@ There is no significant weather within the TMA, although thunderstorms to the no
       <Position Latitude="-34.950071" Longitude="138.522121" Speed="0" Altitude="23" />
       <FlightPlan Departure="YPAD" Destination="YWHA" Alternative="" Active="false" Rules="I" CruiseSpeed="284" ETD="0000" ATD="0000" RFL="16000" EETHours="00" EETMins="34" FuelHours="3" FuelMins="00" Remarks="NAV/RNP2 RTF/FLYDOC /v/">DCT AD W238 WAKEN W142 COMAC DCT </FlightPlan>
       <Route>COLPY</Route>
+      <TimedMessages>
+        <TimedMessage Time="750" Message="Request Clearance to Whyalla" />
+        <TimedMessage Time="930" Message="Request Taxi (RFDS)" />
+      </TimedMessages>
     </Aircraft>
     <Aircraft Callsign="QFA1950" Type="E190" Delay="240" StartAuto="true">
       <Squawk Code="0" ModeC="false" />
       <Position Latitude="-34.941057" Longitude="138.535877" Speed="0" Altitude="33" />
       <FlightPlan Departure="YPAD" Destination="YPDN" Alternative="" Active="false" Rules="I" CruiseSpeed="447" ETD="0000" ATD="0000" RFL="34000" EETHours="4" EETMins="02" FuelHours="6" FuelMins="02" Remarks="NAV/RNP2 RTF/QANTAS /v/">DCT HAWKY J58 WHA J251 GREGA/M078F360 J251 TN Q23 VEGPU DCT </FlightPlan>
       <Route>COLPY</Route>
+      <TimedMessages>
+        <TimedMessage Time="810" Message="Request Clearance to Darwin (Bay 26)" />
+        <TimedMessage Time="1080" Message="Request Push (Bay 26)" />
+        <TimedMessage Time="1290" Message="Request Taxi" />
+      </TimedMessages>
     </Aircraft>
     <Aircraft Callsign="FD578" Type="PC12" Delay="660" StartAuto="true">
       <Squawk Code="0" ModeC="false" />
       <Position Latitude="-34.95057" Longitude="138.52138700000003" Speed="0" Altitude="23" />
       <FlightPlan Departure="YPAD" Destination="YLOX" Alternative="" Active="false" Rules="I" CruiseSpeed="268" ETD="0000" ATD="0000" RFL="15000" EETHours="00" EETMins="34" FuelHours="3" FuelMins="00" Remarks="NAV/RNP2 RTF/FLYDOC /v/">DCT AD V361 SEDAN DCT </FlightPlan>
       <Route>COLPY</Route>
+      <TimedMessages>
+        <TimedMessage Time="1230" Message="Request Clearance to Loxton" />
+        <TimedMessage Time="1410" Message="Request Taxi (RFDS)" />
+      </TimedMessages>
     </Aircraft>
     <Aircraft Callsign="QFA734" Type="B738" Delay="840" StartAuto="true">
       <Squawk Code="0" ModeC="false" />
       <Position Latitude="-34.940313" Longitude="138.536973" Speed="0" Altitude="33" />
       <FlightPlan Departure="YPAD" Destination="YSSY" Alternative="" Active="false" Rules="I" CruiseSpeed="452" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="48" FuelHours="2" FuelMins="59" Remarks="NAV/RNP2 RTF/QANTAS /v/">DCT PANKI H247 CULIN Y59 RIVET DCT</FlightPlan>
       <Route>COLPY</Route>
+      <TimedMessages>
+        <TimedMessage Time="1440" Message="Request Clearance to Sydney (Bay 23)" />
+        <TimedMessage Time="1650" Message="Request Push (Bay 23)" />
+        <TimedMessage Time="1830" Message="Request Taxi" />
+      </TimedMessages>
     </Aircraft>
     <Aircraft Callsign="QLK2277" Type="DH8C" Delay="1080" StartAuto="true">
       <Squawk Code="0" ModeC="false" />
       <Position Latitude="-34.940631" Longitude="138.534835" Speed="0" Altitude="33" />
       <FlightPlan Departure="YPAD" Destination="YPLC" Alternative="" Active="false" Rules="I" CruiseSpeed="284" ETD="0000" ATD="0000" RFL="16000" EETHours="00" EETMins="36" FuelHours="3" FuelMins="02" Remarks="NAV/RNP2 RTF/QLINK /v/">DCT AD J15 YORKE V538 PLC DCT</FlightPlan>
       <Route>COLPY</Route>
+      <TimedMessages>
+        <TimedMessage Time="1680" Message="Request Clearance to Port Lincoln (Bay 50E)" />
+        <TimedMessage Time="1860" Message="Request Push (Bay 50E)" />
+        <TimedMessage Time="2040" Message="Request Taxi" />
+      </TimedMessages>
     </Aircraft>
     <Aircraft Callsign="QTR914" Type="B77W" Delay="1380" StartAuto="true">
       <Squawk Code="0" ModeC="false" />
       <Position Latitude="-34.939256" Longitude="138.538447" Speed="0" Altitude="33" />
       <FlightPlan Departure="YPAD" Alternative="" Active="false" Rules="I" CruiseSpeed="485" ETD="0000" ATD="0000" RFL="35000" EETHours="3" EETMins="59" FuelHours="5" FuelMins="16" Remarks="NAV/RNP2 RTF/QATARI /v/">DCT BENDO Y12 APPLE Y108 GEMAC N759 SASRO/M083F370 N759 PEBLU DCT</FlightPlan>
       <Route>COLPY</Route>
+      <TimedMessages>
+        <TimedMessage Time="1950" Message="Request Clearance to Auckland (Bay 20)" />
+        <TimedMessage Time="2190" Message="Request Push (Bay 20)" />
+        <TimedMessage Time="2430" Message="Request Taxi" />
+      </TimedMessages>
     </Aircraft>
     <Aircraft Callsign="RXA4136" Type="SF34" Delay="1500" StartAuto="true">
       <Squawk Code="0" ModeC="false" />
@@ -3392,12 +3439,22 @@ There is no significant weather within the TMA, although thunderstorms to the no
       <Position Latitude="-34.938591" Longitude="138.5396" Speed="0" Altitude="33" />
       <FlightPlan Departure="YPAD" Destination="YBBN" Alternative="" Active="false" Rules="I" CruiseSpeed="432" ETD="0000" ATD="0000" RFL="39000" EETHours="2" EETMins="10" FuelHours="3" FuelMins="37" Remarks="NAV/RNP2 RTF/VELOCITY /v/">DCT SEDAN Y465 ENLIP DCT </FlightPlan>
       <Route>COLPY</Route>
+      <TimedMessages>
+        <TimedMessage Time="2580" Message="Request Clearance to Brisbane (Bay 16)" />
+        <TimedMessage Time="2760" Message="Request Push (Bay 16)" />
+        <TimedMessage Time="2910" Message="Request Taxi" />
+      </TimedMessages>
     </Aircraft>
     <Aircraft Callsign="VOZ238" Type="B738" Delay="2340" StartAuto="true">
       <Squawk Code="0" ModeC="false" />
       <Position Latitude="-34.938321" Longitude="138.539942" Speed="0" Altitude="33" />
       <FlightPlan Departure="YPAD" Destination="YMML" Alternative="" Active="false" Rules="I" CruiseSpeed="455" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="02" FuelHours="2" FuelMins="43" Remarks="NAV/RNP2 RTF/VELOCITY /v/">DCT BENDO Y12 ARBEY DCT</FlightPlan>
       <Route>COLPY</Route>
+      <TimedMessages>
+        <TimedMessage Time="2940" Message="Request Clearance to Melbourne (Bay 15)" />
+        <TimedMessage Time="3120" Message="Request Push (Bay 15)" />
+        <TimedMessage Time="3300" Message="Request Taxi" />
+      </TimedMessages>
     </Aircraft>
     <Aircraft Callsign="JST800" Type="A320" Delay="0" StartAuto="true">
       <Squawk Code="4004" ModeC="true" />
