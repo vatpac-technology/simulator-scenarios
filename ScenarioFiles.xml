@@ -1771,6 +1771,11 @@ There is no significant weather within the TMA, although thunderstorms to the no
   <ScenarioFile>
     <Name>TMA Sydney 34L/R AD</Name>
     <Type>TMA</Type>
+    <InstructorNotes>
+
+    Have Fun
+    
+    </InstructorNotes>
     <Targets>
       <Aircraft Callsign="QFA494" Type="B744" Delay="0">
         <Squawk Code="3125" ModeC="true" />
