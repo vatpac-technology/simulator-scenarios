@@ -1775,7 +1775,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
       <Aircraft Callsign="QFA494" Type="B744" Delay="0">
         <Squawk Code="3125" ModeC="true" />
         <Cleared Level="10000" />
-        <Position Latitude="-34.82143800000001" Longitude="149.25946800000003" Speed="460" Altitude="20000" />
+        <Position Latitude="-34.82143800000001" Longitude="149.25946800000003" Speed="460" Altitude="22000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="10000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET RIVET3/34L</FlightPlan>
         <Route>TARAL RIVET BOOGI DUDOK NASHO</Route>
       </Aircraft>
@@ -1795,28 +1795,28 @@ There is no significant weather within the TMA, although thunderstorms to the no
       <Aircraft Callsign="VOZ877" Type="B738" Delay="0">
         <Squawk Code="4121" ModeC="true" />
         <Cleared Level="10000" />
-        <Position Latitude="-34.69548799999999" Longitude="149.492329" Speed="435" Altitude="18000" />
+        <Position Latitude="-34.69548799999999" Longitude="149.492329" Speed="435" Altitude="220000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="10000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHVHF PER/C OPR/VIRGIN AUSTRALIA NAV/RNP10 GPSRNAV RMK/TCAS EQUIPPED     /v/">DCT DOSEL Y59 RIVET RIVET3/34L</FlightPlan>
         <Route>TARAL RIVET TAMMI BOOGI DUDOK NASHO</Route>
       </Aircraft>
       <Aircraft Callsign="JST763" Type="A321" Delay="0">
         <Squawk Code="4122" ModeC="true" />
         <Cleared Level="10000" />
-        <Position Latitude="-34.583427" Longitude="149.756614" Speed="435" Altitude="15000" />
+        <Position Latitude="-34.583427" Longitude="149.756614" Speed="435" Altitude="20000" />
         <FlightPlan Active="true" Departure="YPAD" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="10000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHJST  PER/D NAV/RNP2 OPR/JETSTAR     /v/">PANKI H247 CULIN Y59 RIVET RIVET3/34L</FlightPlan>
         <Route>TARAL RIVET BIGEM TAMMI BOOGI DUDOK NASHO</Route>
       </Aircraft>
       <Aircraft Callsign="QFA509" Type="B738" Delay="0">
         <Squawk Code="3265" ModeC="true" />
         <Cleared Level="10000" />
-        <Position Latitude="-32.536238" Longitude="150.9128" Speed="435" Altitude="18000" />
+        <Position Latitude="-32.536238" Longitude="150.9128" Speed="435" Altitude="20000" />
         <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="10000" EETHours="01" EETMins="15" FuelHours="0" FuelMins="0" Remarks="REG/VHQFA PER/B     /v/">DCT SANEG H91 CORKY H12 BOREE BORE3A/34R</FlightPlan>
         <Route>BOREE BEROW OVILS MAJAR JAKLN</Route>
       </Aircraft>
       <Aircraft Callsign="GR516" Type="B738" Delay="0">
         <Squawk Code="3177" ModeC="true" />
         <Cleared Level="10000" />
-        <Position Latitude="-32.969718" Longitude="150.99906099999998" Speed="435" Altitude="14000" />
+        <Position Latitude="-32.969718" Longitude="150.99906099999998" Speed="435" Altitude="18000" />
         <FlightPlan Active="true" Departure="YCFS" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="10000" EETHours="01" EETMins="18" FuelHours="0" FuelMins="0" Remarks="REG/VHCFS PER/C     /v/">CFS J70 CORKY H12 BOREE BORE3A/34R</FlightPlan>
         <Route>BOREE BEROW OVILS MAJAR DIPPA JAKLN</Route>
       </Aircraft>
@@ -1851,13 +1851,13 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Squawk Code="3075" ModeC="true" />
         <Cleared Level="9000" />
         <Position Latitude="-33.204039" Longitude="149.469204" Speed="220" Altitude="15000" />
-        <FlightPlan Active="true" Departure="YSDU" Destination="YSBK" Alternative="YSRI" Rules="I" CruiseSpeed="180" ETD="0000" ATD="0000" RFL="9000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1 REG/VHAMQ PER/B RMK/4POB     /v/">DCT DU W540 BTH W575 REVKI V599 DARGI Y20 BK DCT</FlightPlan>
+        <FlightPlan Active="true" Departure="YSDU" Destination="YSBK" Alternative="YSRI" Rules="I" CruiseSpeed="180" ETD="0000" ATD="0000" RFL="15000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1 REG/VHAMQ PER/B RMK/4POB     /v/">DCT DU W540 BTH W575 REVKI V599 DARGI Y20 BK DCT</FlightPlan>
         <Route>BTH REVKI DARGI ANPEN GOMUB NOLEM BK</Route>
       </Aircraft>
       <Aircraft Callsign="ANZ1103" Type="A321" Delay="0">
         <Squawk Code="3122" ModeC="true" />
         <Cleared Level="10000" />
-        <Position Latitude="-34.06428" Longitude="152.36233899999996" Speed="350" Altitude="14000" />
+        <Position Latitude="-34.06428" Longitude="152.36233899999996" Speed="350" Altitude="18000" />
         <FlightPlan Active="true" Departure="NZAA" Destination="YSSY" Alternative="YSCB" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="10000" EETHours="03" EETMins="50" FuelHours="0" FuelMins="0" Remarks="REG/ZKANZ PER/C RMK/KIWI     /v/">DCT MADEP N774 OLREL/M080F360 N774 MARLN MARLN5/34R</FlightPlan>
         <Route>MARLN PRAWN JAKLN</Route>
       </Aircraft>
