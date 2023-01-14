@@ -1795,7 +1795,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
       <Aircraft Callsign="VOZ877" Type="B738" Delay="0">
         <Squawk Code="4121" ModeC="true" />
         <Cleared Level="10000" />
-        <Position Latitude="-34.69548799999999" Longitude="149.492329" Speed="435" Altitude="220000" />
+        <Position Latitude="-34.69548799999999" Longitude="149.492329" Speed="435" Altitude="22000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="10000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHVHF PER/C OPR/VIRGIN AUSTRALIA NAV/RNP10 GPSRNAV RMK/TCAS EQUIPPED     /v/">DCT DOSEL Y59 RIVET RIVET3/34L</FlightPlan>
         <Route>TARAL RIVET TAMMI BOOGI DUDOK NASHO</Route>
       </Aircraft>
