@@ -753,6 +753,8 @@
         <Position Latitude="-17.946364" Longitude="122.227131" Speed="0" Altitude="0" />
         <FlightPlan Departure="YBRM" Destination="YHLC" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="23000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">BRM W404 UNSOV W213 HLC</FlightPlan>
         <Route>ALIRA UNSOV</Route>
+      </Aircraft>
+
 
 
       <Aircraft Callsign="NWK1652" Type="F100" Delay="0">
@@ -761,9 +763,6 @@
         <Position Latitude="-17.946364" Longitude="122.227131" Speed="450" Altitude="33000" />
         <FlightPlan Departure="YPPH" Destination="YBRM" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="33000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">AMANA Y31 KAPNI BRMEC BRMEI BRMEF YBRM/28</FlightPlan>
         <Route>KAPNI BRMEC BRMEI BRMEF YBRM/28</Route>
-      </Aircraft>
-
-
       </Aircraft>
     </Targets>
   </ScenarioFile>
