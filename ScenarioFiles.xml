@@ -724,18 +724,6 @@
         <FlightPlan Departure="YBRM" Destination="YHLC" Alternative="" Rules="V" CruiseSpeed="150" ETD="0000" ATD="0000" RFL="3500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">YHLC</FlightPlan>
         <Route>YHLC</Route>
       </Aircraft>
-      <Aircraft Callsign="HXH" Type="C210" Delay="0">
-        <Squawk Code="1200" ModeC="false" />
-        <Position Latitude="-17.947991" Longitude="122.230254" Speed="0" Altitude="0" />
-        <FlightPlan Departure="YBRM" Destination="YDBY" Alternative="" Rules="V" CruiseSpeed="150" ETD="0000" ATD="0000" RFL="3500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">YDBY</FlightPlan>
-        <Route>YDBY</Route>
-      </Aircraft>
-      <Aircraft Callsign="VOZ1486" Type="B737" Delay="0">
-        <Squawk Code="2000" ModeC="false" />
-        <Position Latitude="-17.952615" Longitude="122.233386" Speed="0" Altitude="0" />
-        <FlightPlan Departure="YBRM" Destination="YPPH" Alternative="" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">BRM Q38 JULIM</FlightPlan>
-        <Route>BUDLO DONDI</Route>
-      </Aircraft>
       <Aircraft Callsign="AEP" Type="DH8A" Delay="0">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-17.952188" Longitude="122.235259" Speed="0" Altitude="0" />
@@ -760,9 +748,30 @@
       <Aircraft Callsign="NWK1652" Type="F100" Delay="0">
         <Squawk Code="5536" ModeC="true" />
         <Cleared Level="6000" />
-        <Position Latitude="-17.946364" Longitude="122.227131" Speed="450" Altitude="33000" />
+        <Position Latitude="-20.09527778" Longitude="121.82722222" Speed="450" Altitude="33000" />
         <FlightPlan Departure="YPPH" Destination="YBRM" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="33000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">AMANA Y31 KAPNI BRMEC BRMEI BRMEF YBRM/28</FlightPlan>
         <Route>KAPNI BRMEC BRMEI BRMEF YBRM/28</Route>
+      </Aircraft>
+      <Aircraft Callsign="MLB" Type="BE58" Delay="0">
+        <Squawk Code="2342" ModeC="true" />
+        <Cleared Level="6000" />
+        <Position Latitude="-17.42750000" Longitude="123.52361111" Speed="190" Altitude="8000" />
+        <FlightPlan Departure="YDBY" Destination="YBRM" Alternative="" Rules="I" CruiseSpeed="180" ETD="0000" ATD="0000" RFL="8000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">DBY DCT BRM</FlightPlan>
+        <Route>BRM</Route>
+      </Aircraft>
+      <Aircraft Callsign="NCK" Type="C208" Delay="0">
+        <Squawk Code="6542" ModeC="true" />
+        <Cleared Level="6000" />
+        <Position Latitude="-16.69555556" Longitude="122.83611111" Speed="150" Altitude="10000" />
+        <FlightPlan Departure="YKLC" Destination="YBRM" Alternative="" Rules="I" CruiseSpeed="150" ETD="0000" ATD="0000" RFL="10000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">DCT YLBD DCT BRM</FlightPlan>
+        <Route>BRM</Route>
+      </Aircraft>
+      <Aircraft Callsign="ANO332" Type="E190" Delay="0">
+        <Squawk Code="6234" ModeC="true" />
+        <Cleared Level="6000" />
+        <Position Latitude="-17.26722222" Longitude="124.58250000" Speed="450" Altitude="32000" />
+        <FlightPlan Departure="YPKU" Destination="YBRM" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">DCT KU J93 CIN BRMEB BRMEI BRMEF YBRM/28</FlightPlan>
+        <Route>CIN BRMEB BRMEI BRMEF YBRM/28</Route>
       </Aircraft>
     </Targets>
   </ScenarioFile>
