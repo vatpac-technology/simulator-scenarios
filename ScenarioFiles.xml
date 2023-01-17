@@ -704,6 +704,27 @@
 
 
 
+<ScenarioFile>
+  <Name>Tower Broome</Name>
+    <Type>Procedural Tower</Type>
+      <InstructorNotes>
+
+      Have Fun
+      </InstructorNotes>
+    <Targets>
+      <Aircraft Callsign="NWK1657" Type="F100" Delay="0" >
+        <Squawk Code="2000" ModeC="false" />
+        <Position Latitude="-17.951331" Longitude="122.237013" Speed="0" Altitude="0" />
+        <FlightPlan Departure="YBRM" Destination="YPPH" Alternative="" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">DCT BRM Q38 JULIM</FlightPlan>
+        <Route>BUDLO DONDI</Route>
+      </Aircraft>
+    </Targets>
+  </ScenarioFile>
+
+
+-17.951331, 122.237013
+
+
 
 
 
