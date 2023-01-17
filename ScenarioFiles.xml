@@ -736,7 +736,7 @@
         <FlightPlan Departure="YBRM" Destination="YPPH" Alternative="" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">BRM Q38 JULIM</FlightPlan>
         <Route>BUDLO DONDI</Route>
       </Aircraft>
-      <Aircraft Callsign="AEP" Type="DH8B" Delay="0">
+      <Aircraft Callsign="AEP" Type="DH8A" Delay="0">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-17.952188" Longitude="122.235259" Speed="0" Altitude="0" />
         <FlightPlan Departure="YBRM" Destination="YDBY" Alternative="" Rules="I" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="13000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">BRM W287 DBY</FlightPlan>
@@ -750,9 +750,20 @@
       </Aircraft>
       <Aircraft Callsign="FD627" Type="PC12" Delay="0">
         <Squawk Code="2000" ModeC="false" />
-        <Position Latitude="-17.951331" Longitude="122.237013" Speed="0" Altitude="0" />
+        <Position Latitude="-17.946364" Longitude="122.227131" Speed="0" Altitude="0" />
         <FlightPlan Departure="YBRM" Destination="YHLC" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="23000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">BRM W404 UNSOV W213 HLC</FlightPlan>
         <Route>ALIRA UNSOV</Route>
+
+
+      <Aircraft Callsign="NWK1652" Type="F100" Delay="0">
+        <Squawk Code="5536" ModeC="true" />
+        <Cleared Level="6000" />
+        <Position Latitude="-17.946364" Longitude="122.227131" Speed="450" Altitude="33000" />
+        <FlightPlan Departure="YPPH" Destination="YBRM" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="33000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">AMANA Y31 KAPNI BRMEC BRMEI BRMEF YBRM/28</FlightPlan>
+        <Route>KAPNI BRMEC BRMEI BRMEF YBRM/28</Route>
+      </Aircraft>
+
+
       </Aircraft>
     </Targets>
   </ScenarioFile>
