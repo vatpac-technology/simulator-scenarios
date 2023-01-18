@@ -775,7 +775,7 @@
         <FlightPlan Departure="YKLC" Destination="YBRM" Alternative="" Active="true" Rules="I" CruiseSpeed="150" ETD="0000" ATD="0000" RFL="10000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">DCT YLBD DCT BRM</FlightPlan>
         <Route>BRM</Route>
         <TimedMessages>
-        <TimedMessage Time="800" Message="Coordination with TWR: **Via DBY, MLB**" />
+        <TimedMessage Time="800" Message="Coordination with TWR: **Via YLBD, NCK**" />
       </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="ANO332" Type="E190" Delay="0">
