@@ -755,7 +755,7 @@
         <FlightPlan Departure="YPPH" Destination="YBRM" Alternative="" Active="true" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="33000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">AMANA Y31 KAPNI BRMEC BRMEI BRMEF YBRM/28</FlightPlan>
         <Route>KAPNI BRMEC BRMEI BRMEF YBRM/28</Route>
         <TimedMessages>
-        <TimedMessage Time="660" Message="Coordination with TWR: **New Sequence of 2. Via CIN, ANO332, Number 1. Via KAPNI, NWK1652, Number 2**" />
+        <TimedMessage Time="660" Message="Coordination with TWR: New Sequence of 2. Via CIN, ANO332, Number 1. Via KAPNI, NWK1652, Number 2" />
       </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="MLB" Type="BE58" Delay="0">
@@ -765,7 +765,7 @@
         <FlightPlan Departure="YDBY" Destination="YBRM" Alternative="" Active="true" Rules="I" CruiseSpeed="180" ETD="0000" ATD="0000" RFL="8000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">DBY DCT BRM</FlightPlan>
         <Route>BRM</Route>
         <TimedMessages>
-        <TimedMessage Time="720" Message="Coordination with TWR: **Via DBY, MLB**" />
+        <TimedMessage Time="720" Message="Coordination with TWR: Via DBY, MLB" />
       </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="NCK" Type="C208" Delay="0">
@@ -775,7 +775,7 @@
         <FlightPlan Departure="YKLC" Destination="YBRM" Alternative="" Active="true" Rules="I" CruiseSpeed="150" ETD="0000" ATD="0000" RFL="10000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">DCT YLBD DCT BRM</FlightPlan>
         <Route>BRM</Route>
         <TimedMessages>
-        <TimedMessage Time="800" Message="Coordination with TWR: **Via YLBD, NCK**" />
+        <TimedMessage Time="800" Message="Coordination with TWR: Via YLBD, NCK" />
       </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="ANO332" Type="E190" Delay="0">
