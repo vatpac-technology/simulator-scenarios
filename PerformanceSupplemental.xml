@@ -1,13 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Performance xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <PerformanceData PerfCat="H" TakeoffSpeed="140" MaxSpeed="360" MaxAlt="450" Mach1="false" IsJet="true">
-    <Types>A19N/M,A20N/M,A21N/M,A319/M,A320/M,A321/M,B752/M,B753/M,B762/H,B763/H,B764/H</Types>
-    <Values Levels="30,50,100,140,200,250,270,310,370,410">
-      <ClimbRates>2400,2400,2400,2300,2300,2150,2150,1670,1540,0990</ClimbRates>
-      <DescentRates>0900,1100,1500,2000,2200,2400,3000,3250,3000,2500</DescentRates>
-      <CruiseSpeeds>N0250,N0250,N0250,N0300,N0300,N0300,M080,M080,M080,M080</CruiseSpeeds>
-      <ClimbSpeeds>N0220,N0220,N0220,N0220,N0220,N0220,N0220,N0220,N0220,N0220</ClimbSpeeds>
-      <DescentSpeeds>N0210,N0220,N0250,N0300,N0300,N0300,M078,M078,M078,M078</DescentSpeeds>
-    </Values>
-  </PerformanceData>
+
 </Performance>
