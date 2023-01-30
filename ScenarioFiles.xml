@@ -3840,19 +3840,57 @@ There is no significant weather within the TMA, although thunderstorms to the no
   <Name>Oceanic TSN</Name>
     <Type>Oceanic</Type>
     <StudentBriefing>
+    **DISABLE GRIB WINDS**
 
     </StudentBriefing>
     <InstructorNotes>  
+    **DISABLE GRIB WINDS**
+
+    **QFA142**: Set his Departure time to 1 Hour and 13 Minutes Prior. His Set his ETA for OLREL 15 Minutes in the future.
+
     Have Fun
     </InstructorNotes>
     <Targets>
       <Aircraft Callsign="QFA142" Type="B738" Delay="0">
-        <Squawk Code="235" ModeC="true" />
+        <Squawk Code="2000" ModeC="true" />
         <Cleared Level="38000" />
         <Position Latitude="-35.89555556" Longitude="165.06361111" Speed="400" Altitude="38000" />
-        <FlightPlan Active="true" Departure="NZAA" Destination="YSSY" Alternative="YSSY" Rules="I" CruiseSpeed="400" ETD="0000" ATD="0000" RFL="37000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">MADEP N774 MARLN DCT</FlightPlan>
-        <Route>OLREL SAKBI AKALU NONID MARLN TESAT</Route>
+        <FlightPlan Active="true" Departure="NZAA" Destination="YSSY" Alternative="YSSY" Rules="I" CruiseSpeed="400" ETD="0000" ATD="0000" RFL="38000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">MADEP N774 MARLN DCT</FlightPlan>
+        <Route>OLREL AKALU NONID MARLN TESAT</Route>
+        <TimedMessages>
+              <TimedMessage Time="15" Message="Coordination: Estimate QFA142, OLREL TIME XXXX, FL380" />
+          </TimedMessages>
       </Aircraft>
+      <Aircraft Callsign="QFA149" Type="B738" Delay="0">
+        <Squawk Code="2000" ModeC="true" />
+        <Cleared Level="37000" />
+        <Position Latitude="-34.47444444" Longitude="153.01361111" Speed="460" Altitude="37000" />
+        <FlightPlan Active="true" Departure="YSSY" Destination="NZAA" Alternative="YSSY" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="37000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">DCT EVONN L521 LUNBI DCT</FlightPlan>
+        <Route>GEROS ERVON LEGAN NZAA</Route>
+        <TimedMessages>
+              <TimedMessage Time="120" Message="Coordination: Estimate QFA149, GEROS TIME XXXX, FL370" />
+          </TimedMessages>
+      </Aircraft>      
+      <Aircraft Callsign="AAL72" Type="B789" Delay="0">
+        <Squawk Code="2000" ModeC="true" />
+        <Cleared Level="36000" />
+        <Position Latitude="-33.56027778" Longitude="152.56416667" Speed="500" Altitude="36000" />
+        <FlightPlan Active="true" Departure="YSSY" Destination="KLAX" Alternative="YSSY" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="36000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT NOBAR B450 LHI DCT UBLIN A579 NN B581 FICKY </FlightPlan>
+        <Route>ABARB LHI TEKEP NF KLAX</Route>
+        <TimedMessages>
+              <TimedMessage Time="240" Message="Coordination: Estimate AAL72, ABARB TIME XXXX, FL360" />
+          </TimedMessages>
+      </Aircraft>    
+      <Aircraft Callsign="ANZ272" Type="A20N" Delay="0">
+        <Squawk Code="2000" ModeC="true" />
+        <Cleared Level="36000" />
+        <Position Latitude="-27.66000000" Longitude="154.18444444" Speed="500" Altitude="36000" />
+        <FlightPlan Active="true" Departure="YBBN" Destination="NZWN" Alternative="YSSY" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="36000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SCOTT J208 LHI M639 GULUT</FlightPlan>
+        <Route>CHEWY LHI VEPAS NZWN</Route>
+        <TimedMessages>
+              <TimedMessage Time="260" Message="Coordination: Estimate ANZ272, CHEWY TIME XXXX, FL360" />
+          </TimedMessages>
+      </Aircraft>    
     </Targets>
 </ScenarioFile>
 
