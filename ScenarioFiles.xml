@@ -3651,7 +3651,38 @@ There is no significant weather within the TMA, although thunderstorms to the no
 </ScenarioFile>
 
 
-  <ScenarioFile>
+
+
+
+
+
+<ScenarioFile>
+  <Name>Oceanic TSN</Name>
+    <Type>Oceanic</Type>
+    <StudentBriefing>
+
+    </StudentBriefing>
+    <InstructorNotes>  
+    Have Fun
+    </InstructorNotes>
+    <Targets>
+      <Aircraft Callsign="QFA142" Type="B738" Delay="0">
+        <Squawk Code="235" ModeC="true" />
+        <Cleared Level="38000" />
+        <Position Latitude="-35.89555556" Longitude="165.06361111" Speed="400" Altitude="38000" />
+        <FlightPlan Active="true" Departure="YBCS" Destination="NZAA" Alternative="YSSY" Rules="I" CruiseSpeed="400" ETD="0000" ATD="0000" RFL="37000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">MADEP N774 MARLN DCT</FlightPlan>
+        <Route>OLREL SAKBI AKALU NONID MARLN TESAT</Route>
+      </Aircraft>
+    </Targets>
+</ScenarioFile>
+
+
+
+
+
+
+
+<ScenarioFile>
     <Name>Test</Name>
     <Type>Test</Type>
     <StudentBriefing>This is the description of the scenario to be given to the student.</StudentBriefing>
