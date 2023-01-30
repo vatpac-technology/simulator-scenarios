@@ -3850,7 +3850,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
 
     **ANZ272** and **AAL72** are conflicting at LHI. Make sure the student uses the conflict area tool to mitigate this.  
 
-    **MVP** Auto Departs PMQ for LHI
+    **MVP** Auto Departs YPMQ for YLHI
 
     Have Fun
     </InstructorNotes>
@@ -3896,9 +3896,9 @@ There is no significant weather within the TMA, although thunderstorms to the no
           </TimedMessages>
       </Aircraft>    
       <Aircraft Callsign="MVP" Type="BE20" Delay="360" StartAuto="true">
-        <Squawk Code="2000" ModeC="true" />
+        <Squawk Code="6346" ModeC="true" />
         <Cleared Level="23000" />
-        <Position Latitude="-27.97138889" Longitude="153.93888889" Speed="1" Altitude="0" />
+        <Position Latitude="-31.429040" Longitude="152.866429" Speed="1" Altitude="300" />
         <FlightPlan Active="true" Departure="YPMQ" Destination="YLHI" Alternative="YPMQ" Rules="I" CruiseSpeed="260" ETD="0000" ATD="0000" RFL="23000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PMQ W768 LHI</FlightPlan>
         <Route>BENVO RIBLU LHI</Route>
         <TimedMessages>
