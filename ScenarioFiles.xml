@@ -3907,40 +3907,4 @@ There is no significant weather within the TMA, although thunderstorms to the no
       </Aircraft>  
     </Targets>
 </ScenarioFile>
-
-
-
-
-
-
-
-<ScenarioFile>
-    <Name>Test</Name>
-    <Type>Test</Type>
-    <StudentBriefing>This is the description of the scenario to be given to the student.</StudentBriefing>
-    <InstructorNotes>These are the notes for the instructor on how to run the scenario.</InstructorNotes>
-    <Targets>
-      <Aircraft Callsign="QFA723" Type="B738" Delay="0">
-        <Squawk Code="4123" ModeC="false" />
-        <Cleared Level="5000" />
-        <Position Latitude="-34.940456" Longitude="138.542781" Speed="1" Altitude="36" />
-        <FlightPlan Active="true" Departure="YPAD" Destination="YBAS" Alternative="YAYE" Rules="I" CruiseSpeed="435" ETD="1720" ATD="1720" RFL="340" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV PER/C /v/">HAWKY5/23 HAWKY J58 WHA J251 AS</FlightPlan>
-        <Route>CORNS KEEFO BIGAL HAWKY SPOTA WHA OJJAY WR</Route>
-      </Aircraft>
-    </Targets>
-    <Prototypes>
-      <Prototype Name="Depture YSSY" Callsign="[VOZ|QFA|BNZ][3][0]" Type="[B738|A320]">
-        <Cleared Level="5000" />
-        <Position Latitude="-34.940449" Longitude="138.542794" Speed="1" Altitude="36" />
-        <FlightPlan Active="true" Departure="YPAD" Destination="YSSY" Alternative="YSCB" Rules="I" CruiseSpeed="460" ETD="1720" ATD="1720" RFL="330" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV PER/C /v/">PANKI3/23 PANKI H247 CULIN Y59 TESAT</FlightPlan>
-        <Route>COLPY SULLY MORPH CLARY BARKA MURRY PANKI</Route>
-      </Prototype>
-      <Prototype Name="Depture YMML" Callsign="[VOZ|QFA|BNZ][3][0]" Type="[B738|A320]">
-        <Cleared Level="5000" />
-        <Position Latitude="-34.940449" Longitude="138.542794" Speed="1" Altitude="36" />
-        <FlightPlan Departure="YPAD" Destination="YMML" Alternative="YPAD" Rules="I" CruiseSpeed="455" ETD="1720" ATD="1720" RFL="330" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 REG/VHVXY PER/C /v/">BENDO2/23 BENDO Y12 ARBEY H119 ML</FlightPlan>
-        <Route>COLPY SULLY CLARY BARKA MURRY BENDO DANKS APPLE ARBEY ML</Route>
-      </Prototype>
-    </Prototypes>
-  </ScenarioFile>
 </ScenarioFiles>
