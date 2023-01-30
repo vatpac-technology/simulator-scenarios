@@ -3895,11 +3895,11 @@ There is no significant weather within the TMA, although thunderstorms to the no
               <TimedMessage Time="260" Message="Coordination: Estimate ANZ272, CHEWY TIME XXXX, FL360" />
           </TimedMessages>
       </Aircraft>    
-      <Aircraft Callsign="MVP" Type="BE20" Delay="360" StartAuto="true">
+      <Aircraft Callsign="MVP" Type="BE20" Delay="0">
         <Squawk Code="6346" ModeC="true" />
         <Cleared Level="23000" />
         <Position Latitude="-31.429040" Longitude="152.866429" Speed="1" Altitude="300" />
-        <FlightPlan Active="true" Departure="YPMQ" Destination="YLHI" Alternative="YPMQ" Rules="I" CruiseSpeed="260" ETD="0000" ATD="0000" RFL="23000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PMQ W768 LHI</FlightPlan>
+        <FlightPlan Active="true" Departure="YPMQ" Destination="YLHI" Alternative="YPMQ" Rules="I" CruiseSpeed="260" ETD="0000" ATD="0000" RFL="23000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">YPMQ/21 BENVO W768 LHI</FlightPlan>
         <Route>BENVO RIBLU LHI</Route>
         <TimedMessages>
               <TimedMessage Time="520" Message="Coordination: Estimate MVP, BENVO TIME XXXX, FL230" />
