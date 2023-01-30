@@ -3895,7 +3895,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
               <TimedMessage Time="260" Message="Coordination: Estimate ANZ272, CHEWY TIME XXXX, FL360" />
           </TimedMessages>
       </Aircraft>    
-      <Aircraft Callsign="MVP" Type="BE20" Delay="0">
+      <Aircraft Callsign="MVP" Type="BE20" Delay="360" StartAuto="true">
         <Squawk Code="6346" ModeC="true" />
         <Cleared Level="23000" />
         <Position Latitude="-31.429040" Longitude="152.866429" Speed="1" Altitude="15" />
