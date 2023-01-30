@@ -3884,13 +3884,23 @@ There is no significant weather within the TMA, although thunderstorms to the no
       <Aircraft Callsign="ANZ272" Type="A20N" Delay="0">
         <Squawk Code="2000" ModeC="true" />
         <Cleared Level="36000" />
-        <Position Latitude="-27.66000000" Longitude="154.18444444" Speed="500" Altitude="36000" />
+        <Position Latitude="-27.72722222" Longitude="153.61222222" Speed="500" Altitude="36000" />
         <FlightPlan Active="true" Departure="YBBN" Destination="NZWN" Alternative="YSSY" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="36000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SCOTT J208 LHI M639 GULUT</FlightPlan>
         <Route>CHEWY LHI VEPAS NZWN</Route>
         <TimedMessages>
               <TimedMessage Time="260" Message="Coordination: Estimate ANZ272, CHEWY TIME XXXX, FL360" />
           </TimedMessages>
       </Aircraft>    
+      <Aircraft Callsign="MVP" Type="BE20" Delay="360" StartAuto="true">
+        <Squawk Code="2000" ModeC="true" />
+        <Cleared Level="23000" />
+        <Position Latitude="-27.97138889" Longitude="153.93888889" Speed="1" Altitude="0" />
+        <FlightPlan Active="true" Departure="YPMQ" Destination="YLHI" Alternative="YPMQ" Rules="I" CruiseSpeed="260" ETD="0000" ATD="0000" RFL="23000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PMQ W768 LHI</FlightPlan>
+        <Route>BENVO RIBLU LHI</Route>
+        <TimedMessages>
+              <TimedMessage Time="520" Message="Coordination: Estimate MVP, BENVO TIME XXXX, FL230" />
+          </TimedMessages>
+      </Aircraft>  
     </Targets>
 </ScenarioFile>
 
