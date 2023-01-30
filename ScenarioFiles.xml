@@ -3846,7 +3846,11 @@ There is no significant weather within the TMA, although thunderstorms to the no
     <InstructorNotes>  
     **DISABLE GRIB WINDS**
 
-    **QFA142**: Set his Departure time to 1 Hour and 13 Minutes Prior. His Set his ETA for OLREL 15 Minutes in the future.
+    **QFA142**: Set his Departure time to 1 Hour and 13 Minutes Prior. His Set his ETA for OLREL 15 Minutes in the future.  
+
+    **ANZ272** and **AAL72** are conflicting at LHI. Make sure the student uses the conflict area tool to mitigate this.  
+
+    **MVP** Auto Departs PMQ for LHI
 
     Have Fun
     </InstructorNotes>
