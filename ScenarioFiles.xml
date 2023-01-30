@@ -3848,7 +3848,11 @@ There is no significant weather within the TMA, although thunderstorms to the no
 
     **QFA142**: Set his Departure time to 1 Hour and 13 Minutes Prior. His Set his ETA for OLREL 15 Minutes in the future.  
 
+    **ANZ123**: Set his Departure time to 1 Hour and 10 Minutes Prior. His Set his ETA for SASRO 15 Minutes in the future.  
+
     **ANZ272** and **AAL72** are conflicting at LHI. Make sure the student uses the conflict area tool to mitigate this.  
+
+    **TMN8** and **VOZ161** are conflicting at MIKEG. Make sure the student uses the conflict area tool to mitigate this.  
 
     **MVP** Auto Departs YPMQ for YLHI
 
@@ -3856,7 +3860,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
     </InstructorNotes>
     <Targets>
       <Aircraft Callsign="QFA142" Type="B738" Delay="0">
-        <Squawk Code="2000" ModeC="true" />
+        <Squawk Code="1654" ModeC="true" />
         <Cleared Level="38000" />
         <Position Latitude="-35.89555556" Longitude="165.06361111" Speed="400" Altitude="38000" />
         <FlightPlan Active="true" Departure="NZAA" Destination="YSSY" Alternative="YSSY" Rules="I" CruiseSpeed="400" ETD="0000" ATD="0000" RFL="38000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">MADEP N774 MARLN DCT</FlightPlan>
@@ -3866,7 +3870,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
           </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="QFA149" Type="B738" Delay="0">
-        <Squawk Code="2000" ModeC="true" />
+        <Squawk Code="3542" ModeC="true" />
         <Cleared Level="37000" />
         <Position Latitude="-34.47444444" Longitude="153.01361111" Speed="460" Altitude="37000" />
         <FlightPlan Active="true" Departure="YSSY" Destination="NZAA" Alternative="YSSY" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="37000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">DCT EVONN L521 LUNBI DCT</FlightPlan>
@@ -3876,23 +3880,23 @@ There is no significant weather within the TMA, although thunderstorms to the no
           </TimedMessages>
       </Aircraft>      
       <Aircraft Callsign="AAL72" Type="B789" Delay="0">
-        <Squawk Code="2000" ModeC="true" />
-        <Cleared Level="36000" />
-        <Position Latitude="-33.56027778" Longitude="152.56416667" Speed="500" Altitude="36000" />
-        <FlightPlan Active="true" Departure="YSSY" Destination="KLAX" Alternative="YSSY" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="36000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT NOBAR B450 LHI DCT UBLIN A579 NN B581 FICKY </FlightPlan>
-        <Route>ABARB LHI TEKEP NF KLAX</Route>
+        <Squawk Code="1643" ModeC="true" />
+        <Cleared Level="35000" />
+        <Position Latitude="-33.56027778" Longitude="152.56416667" Speed="500" Altitude="35000" />
+        <FlightPlan Active="true" Departure="YSSY" Destination="KLAX" Alternative="YSSY" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="35000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT NOBAR B450 LHI DCT UBLIN A579 NN B581 FICKY </FlightPlan>
+        <Route>ABARB LHI UBLIN VIRAR KLAX</Route>
         <TimedMessages>
-              <TimedMessage Time="240" Message="Coordination: Estimate AAL72, ABARB TIME XXXX, FL360" />
+              <TimedMessage Time="240" Message="Coordination: Estimate AAL72, ABARB TIME XXXX, FL350" />
           </TimedMessages>
       </Aircraft>    
       <Aircraft Callsign="ANZ272" Type="A20N" Delay="0">
-        <Squawk Code="2000" ModeC="true" />
-        <Cleared Level="36000" />
-        <Position Latitude="-27.72722222" Longitude="153.61222222" Speed="500" Altitude="36000" />
-        <FlightPlan Active="true" Departure="YBBN" Destination="NZWN" Alternative="YSSY" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="36000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SCOTT J208 LHI M639 GULUT</FlightPlan>
+        <Squawk Code="5234" ModeC="true" />
+        <Cleared Level="35000" />
+        <Position Latitude="-27.72722222" Longitude="153.61222222" Speed="500" Altitude="35000" />
+        <FlightPlan Active="true" Departure="YBBN" Destination="NZWN" Alternative="YSSY" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="35000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SCOTT J208 LHI M639 GULUT</FlightPlan>
         <Route>CHEWY LHI VEPAS NZWN</Route>
         <TimedMessages>
-              <TimedMessage Time="260" Message="Coordination: Estimate ANZ272, CHEWY TIME XXXX, FL360" />
+              <TimedMessage Time="260" Message="Coordination: Estimate ANZ272, CHEWY TIME XXXX, FL350" />
           </TimedMessages>
       </Aircraft>    
       <Aircraft Callsign="MVP" Type="BE20" Delay="360" StartAuto="true">
@@ -3903,6 +3907,36 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Route>BENVO RIBLU LHI</Route>
         <TimedMessages>
               <TimedMessage Time="520" Message="Coordination: Estimate MVP, BENVO TIME XXXX, FL230" />
+          </TimedMessages>
+      </Aircraft>  
+      <Aircraft Callsign="TMN8" Type="B763" Delay="0">
+        <Squawk Code="7216" ModeC="true" />
+        <Cleared Level="37000" />
+        <Position Latitude="-38.13000000" Longitude="148.50361111" Speed="500" Altitude="37000" />
+        <FlightPlan Active="true" Departure="YMML" Destination="NZAA" Alternative="NZCH" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="37000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">CORRS Y81 GEMAC N759 AA DCT</FlightPlan>
+        <Route>GEMAC MIKEG SASRO PEBLU NZAA</Route>
+        <TimedMessages>
+              <TimedMessage Time="200" Message="Coordination: Estimate TMN8, GEMAC TIME XXXX, FL370" />
+          </TimedMessages>
+      </Aircraft>    
+      <Aircraft Callsign="VOZ161" Type="B738" Delay="0">
+        <Squawk Code="3615" ModeC="true" />
+        <Cleared Level="37000" />
+        <Position Latitude="-34.51611111" Longitude="152.05000000" Speed="500" Altitude="37000" />
+        <FlightPlan Active="true" Departure="YSSY" Destination="NZQN" Alternative="NZCH" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="37000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OPTIC Y84 TONIM P766 ADKOS DCT</FlightPlan>
+        <Route>TONIM MIKEG OMKIN ADKOS NZQN</Route>
+        <TimedMessages>
+              <TimedMessage Time="220" Message="Coordination: Estimate VOZ161, TONIM TIME XXXX, FL370" />
+          </TimedMessages>
+      </Aircraft>  
+      <Aircraft Callsign="ANZ123" Type="B77W" Delay="0">
+        <Squawk Code="1351" ModeC="true" />
+        <Cleared Level="38000" />
+        <Position Latitude="-38.48277778" Longitude="165.74138889" Speed="450" Altitude="38000" />
+        <FlightPlan Active="true" Departure="NZAA" Destination="YMML" Alternative="YSSY" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">PEBLU N759 MIKEG DCT SNELY DCT MILLA P753 WAREN DCT</FlightPlan>
+        <Route>SASRO MIKEG SNELY MILLA</Route>
+        <TimedMessages>
+              <TimedMessage Time="45" Message="Coordination: Estimate ANZ123, SASRO TIME XXXX, FL380" />
           </TimedMessages>
       </Aircraft>  
     </Targets>
