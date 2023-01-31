@@ -4,11 +4,9 @@
   <Name>Tower Melboure Intro 16AD</Name>
     <Type>Tower</Type>
       <InstructorNotes>
-      **ALL ARRIVALS ARE AUTOMATIC**  
+      Departure aircraft preloaded with Runway 16 SID.  All arrivals are cleared the approach and will land automatically.
 
-      Have student use Runway 16 for Departures  
-
-      **QFA400** incorrect level  
+      **QFA400** incorrect hemispherical level  
 
       **QLK148D** needs new route  
 
@@ -111,12 +109,9 @@
     <Name>Tower Melbourne Advanced 16A27D</Name>
     <Type>Tower</Type>
     <InstructorNotes>
+    Departure aircraft preloaded with Runway 27 SID.  All arrivals are cleared the approach and will land automatically.  
 
-    **ALL ARRIVALS ARE AUTOMATIC**  
-
-    Have student use Runway 27 for Departures  
-
-    **QFA400** incorrect level  
+    **QFA400** incorrect hemispherical level  
 
     **QLK148D** needs new route  
   
@@ -281,9 +276,8 @@
 <ScenarioFile>
     <Name>Tower Sydney 34L/R AD</Name>
     <Type>Tower</Type>
-        <InstructorNotes>
-
-    **ALL ARRIVALS ARE AUTOMATIC**   
+    <InstructorNotes>
+    All arrivals are cleared the approach and will land automatically.   
   
     Have Fun
     </InstructorNotes>
@@ -482,13 +476,13 @@
 <ScenarioFile>
   <Name>Tower Brisbane 19L/R AD</Name>
   <Type>Tower</Type>
-    <InstructorNotes>   
-
-    **ALL ARRIVALS ARE AUTOMATIC**  
+  <InstructorNotes>   
+    All arrivals are cleared the approach and will land automatically.
 
     **LMD** for an overfly at A005. You will be prompted for coordination.  
 
-    Have Fun</InstructorNotes>
+    Have Fun
+  </InstructorNotes>
   <Targets>
     <Aircraft Callsign="LMD" Type="C208" Delay="0">
       <Squawk Code="4765" ModeC="true" />
@@ -2029,7 +2023,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
     CBDG RWY 12  
 
 
-    All jets have been given a STAR for Hobart by CEN. Jets into LT have been cleared direct to the IAF for the RNAV-Z.  
+    All jets have been given a STAR for Hobart by HUO. Jets into LT have been cleared direct to the IAF for the RNAV-Z.  
 
     **YJG** from HB to LT First, this will cause some conflict with arriving jet traffic. **YJG** is coming
     in from an angle that can't be given a straight in approach without a sector entry or vectors. It's up to the 
@@ -3653,11 +3647,10 @@ There is no significant weather within the TMA, although thunderstorms to the no
 <ScenarioFile>
   <Name>Tower Sydney 34L/R AD Auto timed</Name>
   <Type>Tower</Type>
-      <InstructorNotes>
+  <InstructorNotes>
+    **ALL ARRIVALS ARE AUTOMATIC**   
 
-  **ALL ARRIVALS ARE AUTOMATIC**   
-
-  Have Fun
+    Have Fun
   </InstructorNotes>
   <Targets>
       <Aircraft Callsign="JST430" Type="A320" Delay="0" StartAuto="false">
