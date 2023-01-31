@@ -3,6 +3,13 @@
 <ScenarioFile>
   <Name>Tower Melboure Intro 16AD</Name>
     <Type>Tower</Type>
+      <StudentBriefing>
+        You are operating Melbourne Tower. Ground and Delivery are offline.    
+
+        Runway 16 is in use for arrivals and departures. Instrument approaches are in use due to a low cloud base.  
+
+        Melbourne Approach is online.
+      </StudentBriefing>
       <InstructorNotes>
       Departure aircraft preloaded with Runway 16 SID.  All arrivals are cleared the approach and will land automatically.
 
@@ -108,6 +115,13 @@
   <ScenarioFile>
     <Name>Tower Melbourne Advanced 16A27D</Name>
     <Type>Tower</Type>
+    <StudentBriefing>
+      You are operating Melbourne Tower. Ground and Delivery are offline.    
+
+      Runway 16 is in use for arrivals, Runway 27 for departures. Instrument approaches are in use due to a low cloud base.  
+
+      Melbourne Approach is online.
+    </StudentBriefing>
     <InstructorNotes>
     Departure aircraft preloaded with Runway 27 SID.  All arrivals are cleared the approach and will land automatically.  
 
@@ -276,6 +290,13 @@
 <ScenarioFile>
     <Name>Tower Sydney 34L/R AD</Name>
     <Type>Tower</Type>
+    <StudentBriefing>
+      You are operating Sydney Tower. Ground and Delivery are offline.    
+
+      Runway 34L and R are in use for arrivals and departures. Instrument approaches are in use due to a low cloud base.  
+
+      Sydney Approach is online.
+    </StudentBriefing>
     <InstructorNotes>
     All arrivals are cleared the approach and will land automatically.   
   
@@ -476,6 +497,13 @@
 <ScenarioFile>
   <Name>Tower Brisbane 19L/R AD</Name>
   <Type>Tower</Type>
+  <StudentBriefing>
+      You are operating Brisbane Tower. Ground and Delivery are offline.    
+
+      Runway 19L and R are in use for arrivals and departures. Instrument approaches are in use due to a low cloud base.  
+
+      Brisbane Approach is online.
+    </StudentBriefing>
   <InstructorNotes>   
     All arrivals are cleared the approach and will land automatically.
 
@@ -3442,6 +3470,13 @@ There is no significant weather within the TMA, although thunderstorms to the no
   <ScenarioFile>
   <Name>Tower Adelaide 23</Name>
   <Type>Tower</Type>
+  <StudentBriefing>
+    You are operating Adelaide Tower. Ground and Delivery are offline.    
+
+    Runway 23 is in use for arrivals and departures. Instrument approaches are in use due to a low cloud base.  
+
+    Adelaide Approach is online.
+  </StudentBriefing>
   <Targets>
     <Aircraft Callsign="QFA889" Type="B738" Delay="0" StartAuto="false">
       <Squawk Code="0" ModeC="false" />
@@ -3647,6 +3682,13 @@ There is no significant weather within the TMA, although thunderstorms to the no
 <ScenarioFile>
   <Name>Tower Sydney 34L/R AD Auto timed</Name>
   <Type>Tower</Type>
+  <StudentBriefing>
+    You are operating Sydney Tower. Ground and Delivery are offline.    
+
+    Runway 34L and R are in use for arrivals and departures. Instrument approaches are in use due to a low cloud base.  
+
+    Sydney Approach is online.
+  </StudentBriefing>
   <InstructorNotes>
     **ALL ARRIVALS ARE AUTOMATIC**   
 
