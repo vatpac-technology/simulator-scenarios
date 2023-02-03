@@ -1409,11 +1409,11 @@
     <Type>TMA</Type>
     <StudentBriefing>You are operating Melbourne Approach.    
 
-Melbourne is running Runway 16 for arrivals, Runway 27 for departures.  Avalon is favouring Runway 18. Instrument approaches are in use at all locations.  
+      Melbourne is running Runway 16 for arrivals, Runway 27 for departures.  Avalon is favouring Runway 18. Instrument approaches are in use at all locations.  
 
-Melbourne Tower, Eildon Weir, and Yarrowee are online. Avalon Tower is closed.  
+      Melbourne Tower, Eildon Weir, and Yarrowee are online. Avalon Tower is closed.  
 
-There is no significant weather within the TMA, although thunderstorms to the north of Melbourne have made enroute sequencing difficult.  As a result, you may need to conduct last minute sequencing within your airspace.</StudentBriefing>
+      There is no significant weather within the TMA, although thunderstorms to the north of Melbourne have made enroute sequencing difficult.  As a result, you may need to conduct last minute sequencing within your airspace.</StudentBriefing>
     <InstructorNotes>All departures from YMML are already activated (assumes ML TWR online).  Departures from YMAV are not activated.  
 
     **LOI** is tracking to Bendigo and will generally request flight following from ML APP.  No FDR exists for this aircraft, so student can either quick tag or create an FDR.  
@@ -1876,10 +1876,23 @@ There is no significant weather within the TMA, although thunderstorms to the no
   <ScenarioFile>
     <Name>TMA Sydney 34L/R AD</Name>
     <Type>TMA</Type>
-    <InstructorNotes>
+    <StudentBriefing>You are operating Sydney Approach.    
 
-    Have Fun
-    
+      Sydney is running Runway 34 Left and Right for arrivals and departures.  Bankstown is favouring Runway 11C. Instrument approaches (or Independent Visual Approaches - *instructor discretion*) are in use.  
+
+      Sydney Tower, Bindook, Armidale, and Yarrowee are online. Bankstown Tower, Camden Tower, and Richmond Tower are closed.  
+
+      There is no significant weather within the TMA, although thunderstorms to the west of Sydney have made enroute sequencing difficult for Bindook.  As a result, you may need to conduct last minute sequencing within your airspace.</StudentBriefing>
+    <InstructorNotes>
+        **AM253** needs to be coordinated to the student due to their tracking.  They can be instructed to leave controlled airspace descending (for a visual approach) or tracked via RAKSO for the RNP RWY 11C.  
+
+        There are significant sequencing issues between aircraft on the RIVET STAR (student will need to issue speed reduction quickly to certain aircraft).  
+
+        **RXA6852** and **PE121** should be departed on the standard assignable heading without coordination as per autorelease procedures.   
+
+        **WFE** (IFR departure from YSBK) can conflict with **AM253** and/or **REW** depending on when they are departed.  *Important: ensure lateral separation exists between the BK8 SID and the arrival track prior to issuing clearance, or get arrival to downgrade to VFR, or withhold clearance to departure*.  
+
+        **REW** is a VFR aircraft tracking via TWRN for YSBK.  They will need descent to remain below the CTA steps.  They can request flight following to increase student workload. 
     </InstructorNotes>
     <Targets>
       <Aircraft Callsign="QFA494" Type="B744" Delay="0">
@@ -1982,7 +1995,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Squawk Code="4165" ModeC="true" />
         <Cleared Level="5000" />
         <Position Latitude="-33.970049" Longitude="151.19351" Speed="0" Altitude="3" />
-        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="30" FuelHours="0" FuelMins="0" Remarks="REG/VHYFE PER/C OPR/VIRGIN AUSTRALIA    /v/">MARUB6/34R WOL Y59 LIZZI</FlightPlan>
+        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="30" FuelHours="0" FuelMins="0" Remarks="REG/VHYFE PER/C OPR/VIRGIN AUSTRALIA    /v/">MARUB6/34R WOL H65 RAZZI Q29 LIZZI</FlightPlan>
         <Route>APST MARUB WOL RAZZI</Route>
       </Aircraft>
       <Aircraft Callsign="RXA143" Type="B738" Delay="0">
@@ -1996,7 +2009,7 @@ There is no significant weather within the TMA, although thunderstorms to the no
         <Squawk Code="5143" ModeC="true" />
         <Cleared Level="5000" />
         <Position Latitude="-33.970049" Longitude="151.19351" Speed="0" Altitude="3" />
-        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="30" FuelHours="0" FuelMins="0" Remarks="REG/VHVZA PER/C OPR/QANTAS    /v/">MARUB6/34R WOL Y59 LIZZI</FlightPlan>
+        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="30" FuelHours="0" FuelMins="0" Remarks="REG/VHVZA PER/C OPR/QANTAS    /v/">MARUB6/34R WOL H65 RAZZI Q29 LIZZI</FlightPlan>
         <Route>APST MARUB WOL RAZZI</Route>
       </Aircraft>
       <Aircraft Callsign="ANZ223" Type="A21N" Delay="0">
