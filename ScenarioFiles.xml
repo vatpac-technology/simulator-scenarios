@@ -2019,7 +2019,7 @@
         <FlightPlan Active="true" Departure="YSSY" Destination="NZAA" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="30" FuelHours="0" FuelMins="0" Remarks="REG/ZKNEO PER/C OPR/NEW ZEALAND    /v/">MARUB6/34R EVONN L521 LUNBI</FlightPlan>
         <Route>APST MARUB EVONN GEROS</Route>
       </Aircraft>
-      <Aircraft Callsign="REX6852" Type="SF34" Delay="0">
+      <Aircraft Callsign="RXA6852" Type="SF34" Delay="0">
         <Squawk Code="4052" ModeC="true" />
         <Cleared Level="3000" />
         <Position Latitude="-33.963778" Longitude="151.180626" Speed="0" Altitude="7" />
