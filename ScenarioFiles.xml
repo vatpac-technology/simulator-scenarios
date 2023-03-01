@@ -26,7 +26,7 @@
         <FlightPlan Departure="YMML" Destination="YMAV" Alternative="" Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="6000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2      /v/">ML LLOYD RPY AV</FlightPlan>
         <Route>BOSGI LLOYD AV</Route>
       </Aircraft>
-      <Aircraft Callsign="VHHUT" Type="C172" Delay="0">
+      <Aircraft Callsign="HUT" Type="C172" Delay="0">
         <Squawk Code="1200" ModeC="false" />
         <Position Latitude="-37.67651" Longitude="144.84828" Speed="0" Altitude="358" />
         <FlightPlan Departure="YMML" Destination="YMMB" Alternative="" Rules="V" CruiseSpeed="110" ETD="0000" ATD="0000" RFL="3000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">MCTY BTO</FlightPlan>
@@ -138,7 +138,7 @@
         <FlightPlan Departure="YMML" Destination="YMAV" Alternative="" Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="6000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2      /v/">ML LLOYD RPY AV</FlightPlan>
         <Route>ATNOL LLOYD AV</Route>
       </Aircraft>
-      <Aircraft Callsign="VHHUT" Type="C172" Delay="0">
+      <Aircraft Callsign="HUT" Type="C172" Delay="0">
         <Squawk Code="1200" ModeC="false" />
         <Position Latitude="-37.67651" Longitude="144.84828" Speed="0" Altitude="358" />
         <FlightPlan Departure="YMML" Destination="YMMB" Alternative="" Rules="V" CruiseSpeed="110" ETD="0000" ATD="0000" RFL="3000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">MCTY BTO</FlightPlan>
@@ -221,14 +221,14 @@
         <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470Y" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2     CALLSIGN &quot;QANTAS&quot;  /v/">PH Y53 WENDY ARBEY ARBEY6A/16</FlightPlan>
         <Route>CANTY ARBEY BELTA RWY16 YMML</Route>
       </Aircraft>
-            <Aircraft Callsign="RXA102" Type="B738" Delay="120" StartAuto="true">
+        <Aircraft Callsign="RXA102" Type="B738" Delay="120" StartAuto="true">
         <Squawk Code="1002" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.51042999999999" Longitude="144.422953" Speed="250" Altitude="3000" />
         <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470Y" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2     CALLSIGN &quot;QANTAS&quot;  /v/">PH Y53 WENDY ARBEY ARBEY6A/16</FlightPlan>
         <Route>CANTY ARBEY BELTA RWY16 YMML</Route>
       </Aircraft>
-            <Aircraft Callsign="QFA11" Type="B789" Delay="240" StartAuto="true">
+        <Aircraft Callsign="QFA11" Type="B789" Delay="240" StartAuto="true">
         <Squawk Code="1003" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.51042999999999" Longitude="144.422953" Speed="250" Altitude="3000" />
@@ -242,42 +242,42 @@
         <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470Y" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2     CALLSIGN &quot;QANTAS&quot;  /v/">PH Y53 WENDY ARBEY ARBEY6A/16</FlightPlan>
         <Route>CANTY ARBEY BELTA RWY16 YMML</Route>
       </Aircraft>
-            <Aircraft Callsign="GR516" Type="B738" Delay="480" StartAuto="true">
+        <Aircraft Callsign="GR516" Type="B738" Delay="480" StartAuto="true">
         <Squawk Code="1005" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.51042999999999" Longitude="144.422953" Speed="250" Altitude="3000" />
         <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470Y" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2     CALLSIGN &quot;QANTAS&quot;  /v/">PH Y53 WENDY ARBEY ARBEY6A/16</FlightPlan>
         <Route>CANTY ARBEY BELTA RWY16 YMML</Route>
       </Aircraft>
-            <Aircraft Callsign="CEQ" Type="C510" Delay="600" StartAuto="true">
+        <Aircraft Callsign="CEQ" Type="C510" Delay="600" StartAuto="true">
         <Squawk Code="1006" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.51042999999999" Longitude="144.422953" Speed="250" Altitude="3000" />
         <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470Y" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2     CALLSIGN &quot;QANTAS&quot;  /v/">PH Y53 WENDY ARBEY ARBEY6A/16</FlightPlan>
         <Route>CANTY ARBEY BELTA RWY16 YMML</Route>
       </Aircraft>
-            <Aircraft Callsign="JST35" Type="A21N" Delay="720" StartAuto="true">
+        <Aircraft Callsign="JST35" Type="A21N" Delay="720" StartAuto="true">
         <Squawk Code="1007" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.51042999999999" Longitude="144.422953" Speed="250" Altitude="3000" />
         <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470Y" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2     CALLSIGN &quot;QANTAS&quot;  /v/">PH Y53 WENDY ARBEY ARBEY6A/16</FlightPlan>
         <Route>CANTY ARBEY BELTA RWY16 YMML</Route>
       </Aircraft>
-            <Aircraft Callsign="QJE1599" Type="B712" Delay="840" StartAuto="true">
+        <Aircraft Callsign="QJE1599" Type="B712" Delay="840" StartAuto="true">
         <Squawk Code="1008" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.51042999999999" Longitude="144.422953" Speed="250" Altitude="3000" />
         <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470Y" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2     CALLSIGN &quot;QANTAS&quot;  /v/">PH Y53 WENDY ARBEY ARBEY6A/16</FlightPlan>
         <Route>CANTY ARBEY BELTA RWY16 YMML</Route>
       </Aircraft>
-            <Aircraft Callsign="ETD460" Type="B77W" Delay="1000" StartAuto="true">
+        <Aircraft Callsign="ETD460" Type="B77W" Delay="1000" StartAuto="true">
         <Squawk Code="1009" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.51042999999999" Longitude="144.422953" Speed="250" Altitude="3000" />
         <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470Y" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2     CALLSIGN &quot;QANTAS&quot;  /v/">PH Y53 WENDY ARBEY ARBEY6A/16</FlightPlan>
         <Route>CANTY ARBEY BELTA RWY16 YMML</Route>
       </Aircraft>
-            <Aircraft Callsign="SIA207" Type="A359" Delay="1120" StartAuto="true">
+        <Aircraft Callsign="SIA207" Type="A359" Delay="1120" StartAuto="true">
         <Squawk Code="1010" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.51042999999999" Longitude="144.422953" Speed="250" Altitude="3000" />
