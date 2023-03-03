@@ -313,6 +313,12 @@
         <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H185 ENTRA Y245 BANDA H185 BN DCT</FlightPlan>
         <Route>ENTRA YBBN</Route>
       </Aircraft>
+      <Aircraft Callsign="AAL72" Type="B77W" Delay="0">
+        <Squawk Code="2000" ModeC="false" />
+        <Position Latitude="-33.934048" Longitude="151.167567" Speed="0" Altitude="3" />
+        <FlightPlan Departure="YSSY" Destination="KLAX" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT DIPSO G595 ATNAT G595 SARAP G595 NIMOD DCT SAMAD B200 PUMIS/N0492F370 B200 BISOX DCT UPNAR B454 COMIR/N0480F390 DCT BENTS DCT AHNDO B577 FICKY/N0473F410 GOATZ1</FlightPlan>
+        <Route>DIPSO</Route>
+      </Aircraft>
       <Aircraft Callsign="VOZ821" Type="B738" Delay="0">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-33.935548" Longitude="151.17986300000004" Speed="0" Altitude="3" />
