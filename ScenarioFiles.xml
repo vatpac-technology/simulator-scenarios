@@ -3501,7 +3501,7 @@
       <FlightPlan Departure="YPAD" Destination="YPPH" Alternative="" Active="false" Rules="I" CruiseSpeed="447" ETD="0000" ATD="0000" RFL="36000" EETHours="3" EETMins="15" FuelHours="4" FuelMins="50" Remarks="NAV/RNP2 RTF/QANTAS /v/">DCT GILES Q33 ESP Q158 BEVLY DCT</FlightPlan>
       <Route>COLPY</Route>
       <TimedMessages>
-        <TimedMessage Time="180" Message="Request Clearance to Sydney (Bay 21)" />
+        <TimedMessage Time="180" Message="Request Clearance to Perth (Bay 21)" />
         <TimedMessage Time="390" Message="Request Push (Bay 21)" />
         <TimedMessage Time="540" Message="Request Taxi" />
       </TimedMessages>
@@ -3512,7 +3512,7 @@
       <FlightPlan Departure="YPAD" Destination="YSSY" Alternative="" Active="false" Rules="I" CruiseSpeed="452" ETD="0000" ATD="0000" RFL="39000" EETHours="1" EETMins="57" FuelHours="3" FuelMins="07" Remarks="NAV/RNP2 RTF/VELOCITY /v/">DCT PANKI H247 CULIN Y59 RIVET DCT</FlightPlan>
       <Route>COLPY</Route>
       <TimedMessages>
-        <TimedMessage Time="360" Message="Request Clearance to Melbourne (Bay 13)" />
+        <TimedMessage Time="360" Message="Request Clearance to Sydney (Bay 13)" />
         <TimedMessage Time="600" Message="Request Push (Bay 13)" />
         <TimedMessage Time="780" Message="Request Taxi" />
       </TimedMessages>
