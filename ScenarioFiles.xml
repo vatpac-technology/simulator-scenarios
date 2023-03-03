@@ -778,7 +778,7 @@
         <Squawk Code="5536" ModeC="true" />
         <Cleared Level="6000" />
         <Position Latitude="-20.09527778" Longitude="121.82722222" Speed="450" Altitude="33000" />
-        <FlightPlan Active="true" Departure="YPPH" Destination="YBRM" Alternative="" Active="true" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="33000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">AMANA Y31 KAPNI BRMEC BRMEI BRMEF YBRM/28</FlightPlan>
+        <FlightPlan Active="true" Departure="YPPH" Destination="YBRM" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="33000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">AMANA Y31 KAPNI BRMEC BRMEI BRMEF YBRM/28</FlightPlan>
         <Route>KAPNI BRMEC BRMEI BRMEF YBRM/28</Route>
         <TimedMessages>
         <TimedMessage Time="660" Message="Coordination with TWR: New Sequence of 2. Via CIN, ANO332, Number 1. Via KAPNI, NWK1652, Number 2" />
@@ -788,7 +788,7 @@
         <Squawk Code="2342" ModeC="true" />
         <Cleared Level="6000" />
         <Position Latitude="-17.42750000" Longitude="123.52361111" Speed="190" Altitude="8000" />
-        <FlightPlan Active="true" Departure="YDBY" Destination="YBRM" Alternative="" Active="true" Rules="I" CruiseSpeed="180" ETD="0000" ATD="0000" RFL="8000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">DBY DCT BRM</FlightPlan>
+        <FlightPlan Active="true" Departure="YDBY" Destination="YBRM" Alternative="" Rules="I" CruiseSpeed="180" ETD="0000" ATD="0000" RFL="8000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">DBY DCT BRM</FlightPlan>
         <Route>BRM</Route>
         <TimedMessages>
         <TimedMessage Time="720" Message="Coordination with TWR: Via DBY, MLB" />
@@ -798,7 +798,7 @@
         <Squawk Code="6542" ModeC="true" />
         <Cleared Level="6000" />
         <Position Latitude="-16.69555556" Longitude="122.83611111" Speed="150" Altitude="10000" />
-        <FlightPlan Active="true" Departure="YKLC" Destination="YBRM" Alternative="" Active="true" Rules="I" CruiseSpeed="150" ETD="0000" ATD="0000" RFL="10000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">DCT YLBD DCT BRM</FlightPlan>
+        <FlightPlan Active="true" Departure="YKLC" Destination="YBRM" Alternative="" Rules="I" CruiseSpeed="150" ETD="0000" ATD="0000" RFL="10000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">DCT YLBD DCT BRM</FlightPlan>
         <Route>BRM</Route>
         <TimedMessages>
         <TimedMessage Time="800" Message="Coordination with TWR: Via YLBD, NCK" />
@@ -808,7 +808,7 @@
         <Squawk Code="6234" ModeC="true" />
         <Cleared Level="6000" />
         <Position Latitude="-17.26722222" Longitude="124.58250000" Speed="450" Altitude="32000" />
-        <FlightPlan Active="true" Departure="YPKU" Destination="YBRM" Alternative="" Active="true" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">DCT KU J93 CIN BRMEB BRMEI BRMEF YBRM/28</FlightPlan>
+        <FlightPlan Active="true" Departure="YPKU" Destination="YBRM" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="NAV/RNP2 /v/">DCT KU J93 CIN BRMEB BRMEI BRMEF YBRM/28</FlightPlan>
         <Route>CIN BRMEB BRMEI BRMEF YBRM/28</Route>
       </Aircraft>
     </Targets>
