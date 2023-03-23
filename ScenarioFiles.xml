@@ -407,98 +407,98 @@
         <Squawk Code="1234" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-34.667606" Longitude="151.347326" Speed="200" Altitude="3000" />
-        <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET 34L</FlightPlan>
+        <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET /34L</FlightPlan>
         <Route>SOSIJ TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="QFA490" Type="B738" Delay="0">
         <Squawk Code="1236" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-35.31458799999999" Longitude="151.48732" Speed="200" Altitude="3000" />
-        <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET RIVET3/34L</FlightPlan>
+        <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET /34L</FlightPlan>
         <Route>SOSIJ TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="JST522" Type="A320" Delay="0">
         <Squawk Code="1235" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-34.997488" Longitude="151.438847" Speed="200" Altitude="3000" />
-        <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET RIVET3/34L</FlightPlan>
+        <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET /34L</FlightPlan>
         <Route>SOSIJ TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="QFA464" Type="B738" Delay="0">
         <Squawk Code="3134" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.94635799999999" Longitude="151.688651" Speed="200" Altitude="3000" />
-        <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET RIVET3/34L</FlightPlan>
+        <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET /34L</FlightPlan>
         <Route>SOSIJ TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="TGG264" Type="B738" Delay="0">
         <Squawk Code="4265" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.544976" Longitude="151.66978" Speed="200" Altitude="3000" />
-        <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET RIVET3/34L</FlightPlan>
+        <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET /34L</FlightPlan>
         <Route>SOSIJ TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ871" Type="B738" Delay="0">
         <Squawk Code="1237" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-35.670331999999995" Longitude="151.55064099999998" Speed="200" Altitude="3000" />
-        <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET RIVET3/34L</FlightPlan>
+        <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET /34L</FlightPlan>
         <Route>SOSIJ TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="QFA543" Type="B738" Delay="0">
         <Squawk Code="5234" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-34.81298399999999" Longitude="151.40408100000002" Speed="200" Altitude="2000" />
-        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 CORKY H12 BOREE BOREE1A/34R</FlightPlan>
+        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 CORKY H12 BOREE /34R</FlightPlan>
         <Route>ENDEV TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ982" Type="B738" Delay="0">
         <Squawk Code="1235" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.317583" Longitude="151.641263" Speed="200" Altitude="2000" />
-        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 CORKY H12 BOREE BOREE1A/34R</FlightPlan>
+        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 CORKY H12 BOREE /34R</FlightPlan>
         <Route>ENDEV TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="QFA553" Type="B738" Delay="0">
         <Squawk Code="2646" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-35.904555" Longitude="151.574844" Speed="200" Altitude="2000" />
-        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 CORKY H12 BOREE BOREE1A/34R</FlightPlan>
+        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 CORKY H12 BOREE /34R</FlightPlan>
         <Route>ENDEV TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="JST821" Type="B738" Delay="0">
         <Squawk Code="5373" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.740545" Longitude="151.672648" Speed="200" Altitude="2000" />
-        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 CORKY H12 BOREE BOREE1A/34R</FlightPlan>
+        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 CORKY H12 BOREE /34R</FlightPlan>
         <Route>ENDEV TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ954" Type="B738" Delay="0">
         <Squawk Code="5623" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-37.831271" Longitude="151.747192" Speed="200" Altitude="2000" />
-        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 CORKY H12 BOREE BOREE1A/34R</FlightPlan>
+        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 CORKY H12 BOREE /34R</FlightPlan>
         <Route>ENDEV TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ958" Type="B738" Delay="0">
         <Squawk Code="1442" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-37.369749" Longitude="151.708853" Speed="200" Altitude="2000" />
-        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 CORKY H12 BOREE BOREE1A/34R</FlightPlan>
+        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 CORKY H12 BOREE /34R</FlightPlan>
         <Route>ENDEV TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="QFA505" Type="B738" Delay="0">
         <Squawk Code="5423" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-35.510595" Longitude="151.50793100000004" Speed="200" Altitude="2000" />
-        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 CORKY H12 BOREE BOREE1A/34R</FlightPlan>
+        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 CORKY H12 BOREE /34R</FlightPlan>
         <Route>ENDEV TESAT</Route>
       </Aircraft>
       <Aircraft Callsign="JTE7404" Type="B463" Delay="0">
         <Squawk Code="4244" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-35.169685" Longitude="151.46359100000004" Speed="200" Altitude="2000" />
-        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 CORKY H12 BOREE BOREE1A/34R</FlightPlan>
+        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 CORKY H12 BOREE /34R</FlightPlan>
         <Route>ENDEV TESAT</Route>
       </Aircraft>
     </Targets>
