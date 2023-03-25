@@ -1450,49 +1450,49 @@
         <Squawk Code="4117" ModeC="true" />
         <Position Latitude="-37.202087" Longitude="146.119146" Speed="410" Altitude="24000" />
         <Cleared Level="9000" />
-        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TESAT H65 RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
+        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TESAT H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
         <Route>LIZZI HORUS NEFER BELTA</Route>
       </Aircraft>
       <Aircraft Callsign="QFA455" Type="A332" Delay="0">
         <Squawk Code="3111" ModeC="true" />
         <Position Latitude="-37.00189199999999" Longitude="146.500724" Speed="420" Altitude="26000" />
         <Cleared Level="9000" />
-        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TESAT H65 RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
+        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TESAT H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
         <Route>LIZZI HORUS NEFER BELTA</Route>
       </Aircraft>
       <Aircraft Callsign="QFA692" Type="B738" Delay="0">
         <Squawk Code="3002" ModeC="true" />
         <Position Latitude="-36.35500000" Longitude="142.63972222" Speed="430" Altitude="33000" />
         <Cleared Level="9000" />
-        <FlightPlan Active="true" Departure="YPAD" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="440" ETD="0001" ATD="0001" RFL="35000" EETHours="00" EETMins="10" FuelHours="0" FuelMins="0" Remarks="/v/">BENDO Y12 ARBEY ARBE6A/16</FlightPlan>
+        <FlightPlan Active="true" Departure="YPAD" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="440" ETD="0001" ATD="0001" RFL="35000" EETHours="00" EETMins="10" FuelHours="0" FuelMins="0" Remarks="/v/">BENDO Y12 ARBEY ARBE7A/16</FlightPlan>
         <Route>APPLE ARBEY BELTA</Route>
       </Aircraft>
       <Aircraft Callsign="TGG820" Type="A320" Delay="0">
         <Squawk Code="4112" ModeC="true" />
         <Position Latitude="-36.51083333" Longitude="147.39500000" Speed="410" Altitude="38000" />
         <Cleared Level="9000" />
-        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TESAT H65 RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
+        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TESAT H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
         <Route>NABBA BULLA LIZZI HORUS NEFER BELTA</Route>
       </Aircraft>
       <Aircraft Callsign="QFA699" Type="B738" Delay="30" StartAuto="true">
         <Squawk Code="3001" ModeC="true" />
         <Position Latitude="-36.22722222" Longitude="142.26583333" Speed="430" Altitude="35000" />
         <Cleared Level="9000" />
-        <FlightPlan Active="true" Departure="YPAD" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="440" ETD="0001" ATD="0001" RFL="35000" EETHours="00" EETMins="10" FuelHours="0" FuelMins="0" Remarks="/v/">BENDO Y12 ARBEY ARBE6A/16</FlightPlan>
+        <FlightPlan Active="true" Departure="YPAD" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="440" ETD="0001" ATD="0001" RFL="35000" EETHours="00" EETMins="10" FuelHours="0" FuelMins="0" Remarks="/v/">BENDO Y12 ARBEY ARBE7A/16</FlightPlan>
         <Route>KEPPA APPLE ARBEY BELTA</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ1755" Type="B738" Delay="0">
         <Squawk Code="4337" ModeC="true" />
         <Position Latitude="-40.356549" Longitude="146.565559" Speed="420" Altitude="36000" />
         <Cleared Level="9000" />
-        <FlightPlan Active="true" Departure="YMHB" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="420" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">KANLI H111 LT H215 WAREN WARE7A/16</FlightPlan>
+        <FlightPlan Active="true" Departure="YMHB" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="420" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">KANLI H111 LT H215 WAREN WARE8A/16</FlightPlan>
         <Route>FLIKI WAREN MICHM MONTY SANDR LAGUG NEFER BELTA</Route>
       </Aircraft>
       <Aircraft Callsign="JST811" Type="A320" Delay="0">
         <Squawk Code="4115" ModeC="true" />
         <Position Latitude="-36.004223" Longitude="148.301395" Speed="410" Altitude="38000" />
         <Cleared Level="9000" />
-        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H65 RAZZI Q29 LIZZI LIZI8A/16</FlightPlan>
+        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
         <Route>RUMIE NABBA BULLA LIZZI HORUS NEFER BELTA</Route>
       </Aircraft>
       <Aircraft Callsign="YMF7000" Type="F100" Delay="240" StartAuto="true">
@@ -1753,14 +1753,14 @@
         <Squawk Code="2430" ModeC="true" />
         <Cleared Level="9000" />
         <Position Latitude="-37.78" Longitude="141.375" Speed="450" Altitude="37000" />
-        <FlightPlan Active="true" Departure="YPPH" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT MEMUP Y53 WENDY WEND9A/34</FlightPlan>
+        <FlightPlan Active="true" Departure="YPPH" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT MEMUP Y53 WENDY WEND1A/34</FlightPlan>
         <Route>TYNDI WENDY NIXEN TEENA MEMEG LAVER OBGAL AKDEL RWY34</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ1030" Type="B738" Delay="0">
         <Squawk Code="1340" ModeC="true" />
         <Cleared Level="9000" />
         <Position Latitude="-37.025166" Longitude="144.698333" Speed="250" Altitude="13000" />
-        <FlightPlan Active="true" Departure="YBSU" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT SU Q923 CANTY H119 ARBEY ARBE6A/34</FlightPlan>
+        <FlightPlan Active="true" Departure="YBSU" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT SU Q923 CANTY H119 ARBEY ARBE7A/34</FlightPlan>
         <Route>ARBEY TUNKA BELTA OVNER RENER GOSKO OBGAL AKDEL BOGSI MMLSM RWY34</Route>
       </Aircraft>
       <Aircraft Callsign="QFA405" Type="B738" Delay="0">
@@ -1774,21 +1774,21 @@
         <Squawk Code="2611" ModeC="true" />
         <Cleared Level="9000" />
         <Position Latitude="-36.86" Longitude="146.54" Speed="250" Altitude="16000" />
-        <FlightPlan Active="true" Departure="YSBK" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="241" ETD="0000" ATD="0000" RFL="16000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/B NAV/RNP2 /v/">DCT BK DCT PEGSU V169 BOYSE BOYS7V/34V</FlightPlan>
+        <FlightPlan Active="true" Departure="YSBK" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="241" ETD="0000" ATD="0000" RFL="16000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/B NAV/RNP2 /v/">DCT BK DCT PEGSU V169 BOYSE BOYS8V/34V</FlightPlan>
         <Route>TEMIS BOYSE MAXAL ARTHA EMRIG MONTY EGEKA SHEED RWY34</Route>
       </Aircraft>
       <Aircraft Callsign="QLK2058" Type="DH8C" Delay="0">
         <Squawk Code="2511" ModeC="true" />
         <Cleared Level="9000" />
         <Position Latitude="-39.04" Longitude="145.785" Speed="300" Altitude="22000" />
-        <FlightPlan Active="true" Departure="YDPO" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="277" ETD="0000" ATD="0000" RFL="22000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/B NAV/RNP2 /v/">DCT IRSOM V246 ONAGI H215 WAREN WARE7V/34V</FlightPlan>
+        <FlightPlan Active="true" Departure="YDPO" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="277" ETD="0000" ATD="0000" RFL="22000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/B NAV/RNP2 /v/">DCT IRSOM V246 ONAGI H215 WAREN WARE8V/34V</FlightPlan>
         <Route>ONAGI WAREN MICHM MONTY EGEKA SHEED RWY34</Route>
       </Aircraft>
       <Aircraft Callsign="CPA3710" Type="B748" Delay="0">
         <Squawk Code="2411" ModeC="true" />
         <Cleared Level="9000" />
         <Position Latitude="-35.035" Longitude="150.0" Speed="480" Altitude="43000" />
-        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="489" ETD="0000" ATD="0000" RFL="43000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/D NAV/RNP2 /v/">DCT WOL H65 RAZZI Q29 LIZZI LIZI8A/34</FlightPlan>
+        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="489" ETD="0000" ATD="0000" RFL="43000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/D NAV/RNP2 /v/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/34</FlightPlan>
         <Route>TANTA RUMIE NABBA BULLA TAREX LIZZI VEPUD AKSID GOOLA BOLTY AKDEL BOGSI MMLSM</Route>
       </Aircraft>
       <Aircraft Callsign="JST513" Type="A320" Delay="0">
