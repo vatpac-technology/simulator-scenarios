@@ -42,30 +42,44 @@
                 <ExitPoint>
                   <SortOrder>0</SortOrder>
                   <Position>-345657.6527+1383150.1213</Position>
+                  <Latitude>-34.94934895833333</Latitude>
+                  <Longitude>138.53059027777778</Longitude>
                 </ExitPoint>
                 <ExitPoint>
                   <SortOrder>1</SortOrder>
                   <Position>-345657.9443+1383149.7194</Position>
+                  <Latitude>-34.94942925347222</Latitude>
+                  <Longitude>138.53047743055555</Longitude>
                 </ExitPoint>
                 <ExitPoint>
                   <SortOrder>2</SortOrder>
                   <Position>-345657.967+1383148.9985</Position>
+                  <Latitude>-34.94943576388888</Latitude>
+                  <Longitude>138.53027777777777</Longitude>
                 </ExitPoint>
                 <ExitPoint>
                   <SortOrder>3</SortOrder>
                   <Position>-345657.9072+1383148.5743</Position>
+                  <Latitude>-34.94941840277778</Latitude>
+                  <Longitude>138.53015625</Longitude>
                 </ExitPoint>
                 <ExitPoint>
                   <SortOrder>4</SortOrder>
                   <Position>-345657.7194+1383148.0902</Position>
+                  <Latitude>-34.949366319444444</Latitude>
+                  <Longitude>138.53002604166667</Longitude>
                 </ExitPoint>
                 <ExitPoint>
                   <SortOrder>5</SortOrder>
                   <Position>-345657.5106+1383147.7467</Position>
+                  <Latitude>-34.949307725694446</Latitude>
+                  <Longitude>138.52993055555555</Longitude>
                 </ExitPoint>
                 <ExitPoint>
                   <SortOrder>6</SortOrder>
                   <Position>-345657.0857+1383147.4586</Position>
+                  <Latitude>-34.94919053819444</Latitude>
+                  <Longitude>138.52985243055556</Longitude>
                 </ExitPoint>
               </ExitPoints>
             </Exit>
@@ -75,30 +89,44 @@
                 <ExitPoint>
                   <SortOrder>0</SortOrder>
                   <Position>-345708.6351+1383134.1377</Position>
+                  <Latitude>-34.952398003472226</Latitude>
+                  <Longitude>138.52614583333335</Longitude>
                 </ExitPoint>
                 <ExitPoint>
                   <SortOrder>1</SortOrder>
                   <Position>-345708.8467+1383133.829</Position>
+                  <Latitude>-34.95245659722222</Latitude>
+                  <Longitude>138.52606770833336</Longitude>
                 </ExitPoint>
                 <ExitPoint>
                   <SortOrder>2</SortOrder>
                   <Position>-345708.9235+1383133.2424</Position>
+                  <Latitude>-34.95247829861111</Latitude>
+                  <Longitude>138.5259027777778</Longitude>
                 </ExitPoint>
                 <ExitPoint>
                   <SortOrder>3</SortOrder>
                   <Position>-345708.8896+1383132.7918</Position>
+                  <Latitude>-34.95246961805555</Latitude>
+                  <Longitude>138.52577256944446</Longitude>
                 </ExitPoint>
                 <ExitPoint>
                   <SortOrder>4</SortOrder>
                   <Position>-345708.7884+1383132.3585</Position>
+                  <Latitude>-34.95244140625</Latitude>
+                  <Longitude>138.52565104166666</Longitude>
                 </ExitPoint>
                 <ExitPoint>
                   <SortOrder>5</SortOrder>
                   <Position>-345708.5236+1383131.9967</Position>
+                  <Latitude>-34.95236762152777</Latitude>
+                  <Longitude>138.52555555555554</Longitude>
                 </ExitPoint>
                 <ExitPoint>
                   <SortOrder>6</SortOrder>
                   <Position>-345708.3064+1383131.7726</Position>
+                  <Latitude>-34.95230685763889</Latitude>
+                  <Longitude>138.52549479166666</Longitude>
                 </ExitPoint>
               </ExitPoints>
             </Exit>
