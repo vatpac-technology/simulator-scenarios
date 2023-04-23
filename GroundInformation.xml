@@ -2,6 +2,27 @@
 <GroundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Airports>
     <Airport>
+      <ICAO>YMML</ICAO>
+      <Runways>
+        <Runway>
+          <Name>09</Name>
+          <Exits />
+        </Runway>
+        <Runway>
+          <Name>16</Name>
+          <Exits />
+        </Runway>
+        <Runway>
+          <Name>27</Name>
+          <Exits />
+        </Runway>
+        <Runway>
+          <Name>34</Name>
+          <Exits />
+        </Runway>
+      </Runways>
+    </Airport>
+    <Airport>
       <ICAO>YPAD</ICAO>
       <Runways>
         <Runway>
