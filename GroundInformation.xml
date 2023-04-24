@@ -7,18 +7,22 @@
         <Runway>
           <Name>09</Name>
           <Exits />
+          <Entries />
         </Runway>
         <Runway>
           <Name>16</Name>
           <Exits />
+          <Entries />
         </Runway>
         <Runway>
           <Name>27</Name>
           <Exits />
+          <Entries />
         </Runway>
         <Runway>
           <Name>34</Name>
           <Exits />
+          <Entries />
         </Runway>
       </Runways>
     </Airport>
@@ -28,10 +32,12 @@
         <Runway>
           <Name>05</Name>
           <Exits />
+          <Entries />
         </Runway>
         <Runway>
           <Name>12</Name>
           <Exits />
+          <Entries />
         </Runway>
         <Runway>
           <Name>23</Name>
@@ -83,11 +89,12 @@
                 </ExitPoint>
                 <ExitPoint>
                   <SortOrder>7</SortOrder>
-                  <Position>-345644.0948+1383205.832</Position>
-                  <Latitude>-34.94558159722222</Latitude>
-                  <Longitude>138.53495659722222</Longitude>
+                  <Position>-345643.3151+1383204.6708</Position>
+                  <Latitude>-34.94536458333334</Latitude>
+                  <Longitude>138.53462673611108</Longitude>
                 </ExitPoint>
               </ExitPoints>
+              <EntryPoints />
             </Exit>
             <Exit>
               <Name>E2</Name>
@@ -146,7 +153,14 @@
                   <Latitude>-34.948940972222225</Latitude>
                   <Longitude>138.52984375</Longitude>
                 </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>9</SortOrder>
+                  <Position>-345655.6086+1383147.6681</Position>
+                  <Latitude>-34.948780381944445</Latitude>
+                  <Longitude>138.52990451388888</Longitude>
+                </ExitPoint>
               </ExitPoints>
+              <EntryPoints />
             </Exit>
             <Exit>
               <Name>F4</Name>
@@ -199,7 +213,20 @@
                   <Latitude>-34.95217013888889</Latitude>
                   <Longitude>138.5253559027778</Longitude>
                 </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>8</SortOrder>
+                  <Position>-345706.8042+1383130.2708</Position>
+                  <Latitude>-34.95189019097222</Latitude>
+                  <Longitude>138.52507812500002</Longitude>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>9</SortOrder>
+                  <Position>-345706.2974+1383129.7216</Position>
+                  <Latitude>-34.951749131944446</Latitude>
+                  <Longitude>138.524921875</Longitude>
+                </ExitPoint>
               </ExitPoints>
+              <EntryPoints />
             </Exit>
             <Exit>
               <Name>F5</Name>
@@ -258,7 +285,14 @@
                   <Latitude>-34.954036458333334</Latitude>
                   <Longitude>138.52223958333335</Longitude>
                 </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>9</SortOrder>
+                  <Position>-345714.0245+1383119.5961</Position>
+                  <Latitude>-34.95389539930556</Latitude>
+                  <Longitude>138.522109375</Longitude>
+                </ExitPoint>
               </ExitPoints>
+              <EntryPoints />
             </Exit>
             <Exit>
               <Name>F6</Name>
@@ -311,13 +345,82 @@
                   <Latitude>-34.95787109375001</Latitude>
                   <Longitude>138.5167013888889</Longitude>
                 </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>8</SortOrder>
+                  <Position>-345727.7335+1383059.5594</Position>
+                  <Latitude>-34.95770399305555</Latitude>
+                  <Longitude>138.5165451388889</Longitude>
+                </ExitPoint>
               </ExitPoints>
+              <EntryPoints />
             </Exit>
           </Exits>
+          <Entries>
+            <Entry>
+              <Name>B2</Name>
+              <EntryPoints>
+                <EntryPoint>
+                  <SortOrder>0</SortOrder>
+                  <Position>-345623.9248+1383232.715</Position>
+                  <Latitude>-34.93997829861111</Latitude>
+                  <Longitude>138.54242187499997</Longitude>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>1</SortOrder>
+                  <Position>-345624.5561+1383233.2711</Position>
+                  <Latitude>-34.94015407986111</Latitude>
+                  <Longitude>138.54257812500003</Longitude>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>2</SortOrder>
+                  <Position>-345624.9696+1383233.4626</Position>
+                  <Latitude>-34.94026909722222</Latitude>
+                  <Longitude>138.54263020833332</Longitude>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>3</SortOrder>
+                  <Position>-345625.2841+1383233.5703</Position>
+                  <Latitude>-34.940355902777775</Latitude>
+                  <Longitude>138.54265625</Longitude>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>4</SortOrder>
+                  <Position>-345625.8441+1383233.652</Position>
+                  <Latitude>-34.940512152777785</Latitude>
+                  <Longitude>138.54268229166667</Longitude>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>5</SortOrder>
+                  <Position>-345626.4041+1383233.6447</Position>
+                  <Latitude>-34.94066840277777</Latitude>
+                  <Longitude>138.54268229166667</Longitude>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>6</SortOrder>
+                  <Position>-345626.9486+1383233.5281</Position>
+                  <Latitude>-34.94081814236111</Latitude>
+                  <Longitude>138.54264756944443</Longitude>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>7</SortOrder>
+                  <Position>-345627.6934+1383233.1857</Position>
+                  <Latitude>-34.94102647569444</Latitude>
+                  <Longitude>138.54255208333333</Longitude>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>8</SortOrder>
+                  <Position>-345628.3858+1383232.6728</Position>
+                  <Latitude>-34.941217447916664</Latitude>
+                  <Longitude>138.54241319444444</Longitude>
+                </EntryPoint>
+              </EntryPoints>
+            </Entry>
+          </Entries>
         </Runway>
         <Runway>
           <Name>30</Name>
           <Exits />
+          <Entries />
         </Runway>
       </Runways>
     </Airport>
