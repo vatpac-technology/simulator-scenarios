@@ -3754,7 +3754,7 @@
       <Aircraft Callsign="QFA127" Type="B744" Delay="540" StartAuto="true">
           <Squawk Code="0" ModeC="false" />
           <Position Latitude="-33.938971" Longitude="151.168822" Speed="0" Altitude="13" />
-          <FlightPlan Departure="YSSY" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RIC H202 AGETA R340 DUMAV/N0468F400 R340 AMN A461 BONDA/N0471F380 A461 ZAM A583 SABNO V541</FlightPlan>
+          <FlightPlan Departure="YSSY" Destination="VHHH" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RIC H202 AGETA R340 DUMAV/N0468F400 R340 AMN A461 BONDA/N0471F380 A461 ZAM A583 SABNO V541</FlightPlan>
           <Route>RIC</Route>
           <TimedMessages>
               <TimedMessage Time="840" Message="Request clearance to Hong Kong (34)" />
@@ -3765,7 +3765,7 @@
       <Aircraft Callsign="UAE476" Type="B772" Delay="0" StartAuto="false">
           <Squawk Code="0" ModeC="false" />
           <Position Latitude="-33.939237" Longitude="151.16663600000004" Speed="0" Altitude="13" />
-          <FlightPlan Departure="YSSY" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RIC UH226 ENPAG T74 KARAG/N0500F340 T74 VINAX/N0500F360 T74 TN J251 DN M768 PORAK/N0490F380 M768 TSN R468 PNH A340 RYN DCT</FlightPlan>
+          <FlightPlan Departure="YSSY" Destination="OMDB" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RIC UH226 ENPAG T74 KARAG/N0500F340 T74 VINAX/N0500F360 T74 TN J251 DN M768 PORAK/N0490F380 M768 TSN R468 PNH A340 RYN DCT</FlightPlan>
           <Route>RIC</Route>
           <TimedMessages>
               <TimedMessage Time="45" Message="Request clearance to Dubai (55)" />
