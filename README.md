@@ -5,6 +5,7 @@ VATPAC training files for vatSys Target Generator:
 - GroundInformation.xml
 - PerformanceSupplemental.xml
 - ScenarioFiles.xml
+- TargetGeneratorPlugin.zip (see below)
 
 # Target Generator Plugin
 
