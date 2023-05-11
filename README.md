@@ -1,5 +1,10 @@
 # Simulator Scenarios
-VATPAC training scenario files for vatSys Target Generator.
+
+VATPAC training files for vatSys Target Generator:
+- AirspaceSupplemental.xml
+- GroundInformation.xml
+- PerformanceSupplemental.xml
+- ScenarioFiles.xml
 
 # Target Generator Plugin
 
