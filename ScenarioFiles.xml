@@ -3600,7 +3600,7 @@
     <Aircraft Callsign="QTR914" Type="B77W" Delay="1380" StartAuto="true">
       <Squawk Code="0" ModeC="false" />
       <Position Latitude="-34.939256" Longitude="138.538447" Speed="0" Altitude="33" />
-      <FlightPlan Departure="YPAD" Alternative="" Active="false" Rules="I" CruiseSpeed="485" ETD="0000" ATD="0000" RFL="35000" EETHours="3" EETMins="59" FuelHours="5" FuelMins="16" Remarks="NAV/RNP2 RTF/QATARI /v/">DCT BENDO Y12 APPLE Y108 GEMAC N759 SASRO/M083F370 N759 PEBLU DCT</FlightPlan>
+      <FlightPlan Departure="YPAD" Destination="NZAA" Alternative="" Active="false" Rules="I" CruiseSpeed="485" ETD="0000" ATD="0000" RFL="35000" EETHours="3" EETMins="59" FuelHours="5" FuelMins="16" Remarks="NAV/RNP2 RTF/QATARI /v/">DCT BENDO Y12 APPLE Y108 GEMAC N759 SASRO/M083F370 N759 PEBLU DCT</FlightPlan>
       <Route>COLPY</Route>
       <TimedMessages>
         <TimedMessage Time="1950" Message="Request Clearance to Auckland (Bay 20)" />
@@ -3647,7 +3647,7 @@
       <Squawk Code="6702" ModeC="true" />
       <Cleared Approach="true" />
       <Position Latitude="-34.723333000000004" Longitude="138.859722" Speed="200" Altitude="3000" />
-      <FlightPlan Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="467" ETD="0000" ATD="0000" RFL="37000" EETHours="6" EETMins="29" FuelHours="8" FuelMins="32" Remarks="NAV/RNP2 RTF/MALAYSIAN /v/">MITOS M630 SUKRI/M080F370 M630 TPG M635 SURGA/N0466F370 M635 UDONO/N0470F390 M635 BLI G578 EGATU/M081F390 G578 PD A585 PINAV/M080F390 A585 CDU V621 RIKAB YPAD/23</FlightPlan>
+      <FlightPlan Departure="WMKK" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="467" ETD="0000" ATD="0000" RFL="37000" EETHours="6" EETMins="29" FuelHours="8" FuelMins="32" Remarks="NAV/RNP2 RTF/MALAYSIAN /v/">MITOS M630 SUKRI/M080F370 M630 TPG M635 SURGA/N0466F370 M635 UDONO/N0470F390 M635 BLI G578 EGATU/M081F390 G578 PD A585 PINAV/M080F390 A585 CDU V621 RIKAB YPAD/23</FlightPlan>
       <Route>MOPRI RWY23</Route>
     </Aircraft>
     <Aircraft Callsign="QFA695" Type="B738" Delay="840" StartAuto="true">
@@ -3882,7 +3882,7 @@
           <Squawk Code="5423" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-36.32" Longitude="151.50793100000004" Speed="200" Altitude="3000" />
-          <FlightPlan Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BOREE /34L</FlightPlan>
+          <FlightPlan Departure="KLAX" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BOREE /34L</FlightPlan>
           <Route>SOSIJ TESAT</Route>
       </Aircraft>
   </Targets>
