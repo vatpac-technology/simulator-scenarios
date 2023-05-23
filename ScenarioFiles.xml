@@ -1916,7 +1916,7 @@
         <Squawk Code="4157" ModeC="true" />
         <Cleared Level="10000" />
         <Position Latitude="-33.866524" Longitude="148.85513" Speed="460" Altitude="25000" />
-        <FlightPlan Active="true" Departure="WSSS" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="10000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TI A576 SIPUT W13 BLI A576 PKS H319 TARAL Y59 RIVET RIVET3/34L</FlightPlan>
+        <FlightPlan Active="true" Departure="WSSS" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="10000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TI A576 SIPUT W13 BLI A576 PKS MAKKA TARAL Y59 RIVET RIVET3/34L</FlightPlan>
         <Route>MAKKA TARAL RIVET BOOGI DUDOK NASHO</Route>
       </Aircraft>
       <Aircraft Callsign="WFE" Type="BE58" Delay="0">
