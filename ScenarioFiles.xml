@@ -3487,6 +3487,65 @@
         <FlightPlan Active="true" Departure="YEML" Destination="YBUD" Alternative="" Rules="I" CruiseSpeed="220" ETD="0000" ATD="0000" RFL="6000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT EML DCT RUROX DCT BUD DCT</FlightPlan>
         <Route>RUROX YBUD</Route>
       </Aircraft>
+      <Aircraft Callsign="SIA236" Type="A359" Delay="3" StartAuto="true">
+        <Squawk Code="1563" ModeC="true" />
+        <Cleared level="18000" />
+        <Position Latitude="-27.357767" Longitude="153.121344" Speed="1" Altitude="23" />
+        <FlightPlan Active="true" Departure="YBBN" Destination="WSSS" Alternative="WMKK" Rules="I" CruiseSpeed="455" ETD="0000" ATD="0000" RFL="37000" EETHours="8" EETMins="40" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/SINGAPORE    /v/">WACKO3/19R WACKO DCT HAWKE V129 EML T13 NTN DCT</FlightPlan>
+        <Route>DAMDA TOGIN IGMAS WACKO HAWKE COOLA EML MATAR LAKOT DOLIB NTN</Route>
+      </Aircraft>
+      <Aircraft Callsign="QFA1880" Type="E190" Delay="8" StartAuto="true">
+        <Squawk Code="3005" ModeC="true" />
+        <Cleared level="18000" />
+        <Position Latitude="-27.357767" Longitude="153.121344" Speed="1" Altitude="23" />
+        <FlightPlan Active="true" Departure="YBBN" Destination="YBCS" Alternative="YBRK" Rules="I" CruiseSpeed="402" ETD="0000" ATD="0000" RFL="36000" EETHours="1" EETMins="40" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/QANTAS    /v/">BIXAD1/19R BIXAD Q67 UPOLO</FlightPlan>
+        <Route>DAMDA TOGIN ALBUB AMBLE DEBAY BUKBU BIXAD GUDSO TERUV KELPI LAMEK</Route>
+      </Aircraft>
+      <Aircraft Callsign="FD401" Type="BE20" Delay="1" StartAuto="true">
+        <Squawk Code="3012" ModeC="true" />
+        <Cleared level="12000" />
+        <Position Latitude="-27.357767" Longitude="153.121344" Speed="1" Altitude="23" />
+        <FlightPlan Active="true" Departure="YBBN" Destination="YHBA" Alternative="YBMK" Rules="I" CruiseSpeed="295" ETD="0000" ATD="0000" RFL="12000" EETHours="0" EETMins="55" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/FLYDOC   /v/">BN4/19R BN V308 AKOBA SOSTU</FlightPlan>
+        <Route>AKOBA SOSTU YHBA</Route>
+        <TimedMessages>
+          <TimedMessage Time="1300" Message="FD401, from SOSTU, Request Direct HBAWD (Harvey Bay Whiskey Delta) for RNP RWY 11" />
+        </TimedMessages>
+      </Aircraft>
+      <Aircraft Callsign="RXA387" Type="B738" Delay="14" StartAuto="true">
+        <Squawk Code="1066" ModeC="true" />
+        <Cleared level="18000" />
+        <Position Latitude="-27.374708" Longitude="153.134358" Speed="1" Altitude="23" />
+        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="YWLM" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="12000" EETHours="0" EETMins="55" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/REX   /v/">SANEG1/19R SANEG H91 CORKY H12 BOREE DCT</FlightPlan>
+        <Route>BOSVU DADAN DENIS LILEE SANEG HUUGO APAGI TESSI ADMAR SANAD MESIM CORKY BOREE TESAT</Route>
+      </Aircraft>
+      <Aircraft Callsign="VOZ958" Type="B38M" Delay="20" StartAuto="true">
+        <Squawk Code="1067" ModeC="true" />
+        <Cleared level="18000" />
+        <Position Latitude="-27.374708" Longitude="153.134358" Speed="1" Altitude="23" />
+        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="YWLM" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="12000" EETHours="0" EETMins="55" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/REX   /v/">SANEG1/19R SANEG H91 CORKY H12 BOREE DCT</FlightPlan>
+        <Route>BOSVU DADAN DENIS LILEE SANEG HUUGO APAGI TESSI ADMAR SANAD MESIM CORKY BOREE TESAT</Route>
+      </Aircraft>
+      <Aircraft Callsign="VOZ962" Type="B737" Delay="21" StartAuto="true">
+        <Squawk Code="1070" ModeC="true" />
+        <Cleared level="18000" />
+        <Position Latitude="-27.374708" Longitude="153.134358" Speed="1" Altitude="23" />
+        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="YWLM" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="12000" EETHours="0" EETMins="55" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/REX   /v/">SANEG1/19R SANEG H91 CORKY H12 BOREE DCT</FlightPlan>
+        <Route>BOSVU DADAN DENIS LILEE SANEG HUUGO APAGI TESSI ADMAR SANAD MESIM CORKY BOREE TESAT</Route>
+      </Aircraft>
+      <Aircraft Callsign="JST930" Type="A320" Delay="24" StartAuto="true">
+        <Squawk Code="3643" ModeC="true" />
+        <Cleared level="18000" />
+        <Position Latitude="-27.357767" Longitude="153.121344" Speed="1" Altitude="23" />
+        <FlightPlan Active="true" Departure="YBBN" Destination="YBCS" Alternative="YBRK" Rules="I" CruiseSpeed="402" ETD="0000" ATD="0000" RFL="36000" EETHours="1" EETMins="40" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/QANTAS    /v/">BIXAD1/19R BIXAD Q67 UPOLO</FlightPlan>
+        <Route>DAMDA TOGIN ALBUB AMBLE DEBAY BUKBU BIXAD GUDSO TERUV KELPI LAMEK</Route>
+      </Aircraft>
+      <Aircraft Callsign="QFA533" Type="B738" Delay="27" StartAuto="true">
+        <Squawk Code="1071" ModeC="true" />
+        <Cleared level="18000" />
+        <Position Latitude="-27.374708" Longitude="153.134358" Speed="1" Altitude="23" />
+        <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="YWLM" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="12000" EETHours="0" EETMins="55" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/REX   /v/">SANEG1/19R SANEG H91 CORKY H12 BOREE DCT</FlightPlan>
+        <Route>BOSVU DADAN DENIS LILEE SANEG HUUGO APAGI TESSI ADMAR SANAD MESIM CORKY BOREE TESAT</Route>
+      </Aircraft>
     </Targets>
   </ScenarioFile>
 
