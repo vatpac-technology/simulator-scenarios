@@ -71,8 +71,8 @@
       <Aircraft Callsign="QLK148D" Type="DH8D" Delay="0">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-37.666607" Longitude="144.852269" Speed="0" Altitude="381" />
-        <FlightPlan Departure="YMML" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="310" ETD="0000" ATD="0000" RFL="21000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">ML AY TW BN</FlightPlan>
-        <Route>BOSGI AY TW BN YBBN</Route>
+        <FlightPlan Departure="YMML" Destination="YSTW" Alternative="" Rules="I" CruiseSpeed="310" ETD="0000" ATD="0000" RFL="21000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">ML H129 DOSEL W369 BOGES W654 CWR W137 MUDGI H66 TW</FlightPlan>
+        <Route>BOSGI DOSEL BOGES CWR MUDGI YSTW</Route>
       </Aircraft>
       <Aircraft Callsign="JST625" Type="A321" Delay="0">
         <Squawk Code="1234" ModeC="true" />
