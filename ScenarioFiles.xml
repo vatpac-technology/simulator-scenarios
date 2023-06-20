@@ -15,9 +15,7 @@
 
       **QFA400** incorrect hemispherical level  
 
-      **QLK148D** needs new route  
-
-      **JCR** is planned via RPY which is not on the current AIRAC.  Students will need to reclear aircraft `LLOYD DCT AV` and update FDR.
+      **QLK148D** needs new route
 
       Have Fun
       </InstructorNotes>
@@ -25,7 +23,7 @@
       <Aircraft Callsign="JCR" Type="LJ45" Delay="0">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-37.686042" Longitude="144.848743" Speed="0" Altitude="328" />
-        <FlightPlan Departure="YMML" Destination="YMAV" Alternative="" Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="6000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">ML LLOYD RPY AV</FlightPlan>
+        <FlightPlan Departure="YMML" Destination="YMAV" Alternative="" Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="6000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">ML DCT AV</FlightPlan>
         <Route>BOSGI LLOYD AV YMAV</Route>
       </Aircraft>
       <Aircraft Callsign="HUT" Type="C172" Delay="0">
