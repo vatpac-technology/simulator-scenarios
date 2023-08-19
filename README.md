@@ -7,7 +7,7 @@ VATPAC training files for vatSys Target Generator:
 - ScenarioFiles.xml
 - TargetGeneratorPlugin.zip (see below)
 
-# Target Generator Plugin
+# Simulator Plugin
 
 Plugin for vatSys that will automatically select the target in the simulator.  You can click on the flight data strip for any aircraft and also the dot on the radar if the target is activated.
 
