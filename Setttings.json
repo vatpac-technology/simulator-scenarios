@@ -3,9 +3,9 @@
   "Icon": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/logo.png",
   "Scenarios": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/ScenarioFiles.xml",
   "Airspace": "https://raw.githubusercontent.com/vatSys/australia-dataset/master/Airspace.xml",
-  "Airspace Supplemental": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/AirspaceSupplemental.xml",
+  "AirspaceSupplemental": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/AirspaceSupplemental.xml",
   "Performance": "https://raw.githubusercontent.com/vatSys/australia-dataset/master/Performance.xml",
   "Positions": "https://raw.githubusercontent.com/vatSys/australia-dataset/master/Positions.xml",
   "Sectors": "https://raw.githubusercontent.com/vatSys/australia-dataset/master/Sectors.xml",
-  "Ground Infomation": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/GroundInformation.xml"
+  "GroundInfomation": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/GroundInformation.xml"
 }
