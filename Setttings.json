@@ -6,6 +6,7 @@
   "Airspace": "https://raw.githubusercontent.com/vatSys/australia-dataset/master/Airspace.xml",
   "AirspaceSupplemental": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/AirspaceSupplemental.xml",
   "Performance": "https://raw.githubusercontent.com/vatSys/australia-dataset/master/Performance.xml",
+  "PerformanceSupplemental": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/PerformanceSupplemental.xml",
   "Positions": "https://raw.githubusercontent.com/vatSys/australia-dataset/master/Positions.xml",
   "Sectors": "https://raw.githubusercontent.com/vatSys/australia-dataset/master/Sectors.xml",
   "GroundInfomation": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/GroundInformation.xml"
