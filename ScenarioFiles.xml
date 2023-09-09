@@ -1534,7 +1534,7 @@
         <FlightPlan Active="true" Departure="YMML" Destination="YKII" Alternative="" Rules="1" CruiseSpeed="210" ETD="0000" ATD="0000" RFL="4000" CFL="4000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">ML6/27 MENOG W405 DCT KII DCT</FlightPlan>
         <Route>MENOG TAITE TURVA</Route>
         <TimedMessages>
-          <TimedMessage Time="180" Message="Coord ML TWR to ML APP. Next, AZJ, Runway 27" />
+          <TimedMessage Time="180" Message="Depart AZJ - assigned heading 260" />
         </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="ANZ191" Type="B77W" Delay="0">
@@ -1557,14 +1557,14 @@
           <TimedMessage Time="840" Message="Takeoff" />
         </TimedMessages>
       </Aircraft>
-      <Aircraft Callsign="QLK2080" Type="DH8D" Delay="0">
+      <Aircraft Callsign="QLK208" Type="DH8D" Delay="0">
         <Squawk Code="1726" ModeC="true" />
         <Position Latitude="-37.662335999999996" Longitude="144.848448" Speed="0" Altitude="397" />
         <Cleared Level="5000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YMIA" Alternative="" Rules="1" CruiseSpeed="340" ETD="0000" ATD="0000" RFL="18000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">ML6/27 DOTPA V376 MIA</FlightPlan>
         <Route>DOTPA DOVUT CHITT MIA</Route>
         <TimedMessages>
-          <TimedMessage Time="1500" Message="Coord ML TWR to APP. Next, QLK2080, Runway 27" />
+          <TimedMessage Time="1500" Message="Depart QLK208 - assigned heading 320" />
         </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="HUT" Type="PA31" Delay="480" StartAuto="true">
@@ -1583,7 +1583,7 @@
         <FlightPlan Active="false" Departure="YMAV" Destination="YHOT" Alternative="" Rules="1" CruiseSpeed="120" ETD="0000" ATD="0000" RFL="1500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WBER FGN YLIL</FlightPlan>
         <Route>WBER FGN</Route>
         <TimedMessages>
-          <TimedMessage Time="1020" Message="Req clearance. WHB, Cessna 172, POB1, tracking Werribee Racecourse, Flemington, 1500ft, receive Alpha, request clearance." />
+          <TimedMessage Time="1020" Message="Req clearance. WHB, Cessna 172, POB1, tracking Werribee Racecourse, Flemington, 1500ft, received November, request clearance." />
         </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="EXG" Type="C206" Delay="0">
@@ -1601,7 +1601,7 @@
         <Position Latitude="-37.308091" Longitude="144.924729" Speed="120" Altitude="3000" />
         <Route>LCD IRVAK</Route>
         <TimedMessages>
-          <TimedMessage Time="150" Message="LOI, request flight following." />
+          <TimedMessage Time="150" Message="LOI, Cessna 172, 8nm NE of Romsey, 3000ft, tracking for Bendigo, request flight following." />
           <TimedMessage Time="660" Message="LOI, cancel flight following." />
         </TimedMessages>
       </Aircraft>
@@ -1775,7 +1775,7 @@
         <FlightPlan Active="true" Departure="YSBK" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="241" ETD="0000" ATD="0000" RFL="16000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/B NAV/RNP2 /v/">DCT BK DCT PEGSU V169 BOYSE BOYS8V/34V</FlightPlan>
         <Route>TEMIS BOYSE MAXAL ARTHA EMRIG MONTY EGEKA SHEED RWY34</Route>
       </Aircraft>
-      <Aircraft Callsign="QLK2058" Type="DH8C" Delay="0">
+      <Aircraft Callsign="QLK205" Type="DH8C" Delay="0">
         <Squawk Code="2511" ModeC="true" />
         <Cleared Level="9000" />
         <Position Latitude="-39.04" Longitude="145.785" Speed="300" Altitude="22000" />
@@ -1851,7 +1851,7 @@
         <FlightPlan Active="true" Departure="YMML" Destination="YPAD" Alternative="" Rules="1" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2/v/">NEVIS7/34 NEVIS H345 DRINA DCT</FlightPlan>
         <Route>OKMEL NEVIS</Route>
       </Aircraft>
-      <Aircraft Callsign="QLK2279" Type="DH8C" Delay="660">
+      <Aircraft Callsign="QLK227" Type="DH8C" Delay="660">
         <Squawk Code="4330" ModeC="true" />
         <Cleared Level="5000" />
         <Position Latitude="-37.68429299999999" Longitude="144.840701" Speed="0" Altitude="312" />
