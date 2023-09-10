@@ -9,5 +9,7 @@
   "PerformanceSupplemental": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/PerformanceSupplemental.xml",
   "Positions": "https://raw.githubusercontent.com/vatSys/australia-dataset/master/Positions.xml",
   "Sectors": "https://raw.githubusercontent.com/vatSys/australia-dataset/master/Sectors.xml",
-  "GroundInfomation": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/GroundInformation.xml"
+  "GroundInfomation": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/GroundInformation.xml",
+  "DEM": "https://raw.githubusercontent.com/vatSys/australia-dataset/master/DEM.xml",
+  "AirportStartingLetters": "Y"
 }
