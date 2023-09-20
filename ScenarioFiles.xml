@@ -896,54 +896,54 @@
             <Cleared Level="9000" />
             <Position Latitude="-35.484521" Longitude="139.331039" Speed="350" Altitude="16000" />
             <FlightPlan Departure="YMML" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="34000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H345 DRINA DRIN9A/23</FlightPlan>
-            <Route>DRINA COMLY DISHA BRAKI OMDIN GULLY</Route>
+            <Route>DRINA COMLY DISHA BRAKI OMDIN GULLY RWY23</Route>
         </Aircraft>
         <Aircraft Callsign="VOZ621" Type="B737" Delay="0">
             <Squawk Code="3621" ModeC="true" />
             <Cleared Level="9000" />
             <Position Latitude="-34.736503000000006" Longitude="140.383812" Speed="400" Altitude="26000" />
             <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="430" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">TESAT H44 MAXEM Q60 BLACK BLAC3A/23</FlightPlan>
-            <Route>BLACK PLEZN KERRS GULLY</Route>
+            <Route>BLACK PLEZN KERRS GULLY RWY23</Route>
         </Aircraft>
         <Aircraft Callsign="TGG521" Type="A320" Delay="360" StartAuto="true">
             <Squawk Code="4710" ModeC="true" />
             <Cleared Level="9000" />
             <Position Latitude="-37.267989" Longitude="143.50829599999997" Speed="450" Altitude="32000" />
             <FlightPlan Departure="YMML" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="32000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">DCT NEVIS DRINA DRIN9A/23</FlightPlan>
-            <Route>DRINA COMLY DISHA BRAKI OMDIN GULLY</Route>
+            <Route>DRINA COMLY DISHA BRAKI OMDIN GULLY RWY23</Route>
         </Aircraft>
         <Aircraft Callsign="RXA3458" Type="SF34" Delay="0">
             <Squawk Code="4417" ModeC="true" />
             <Cleared Level="9000" />
             <Position Latitude="-34.64600299999999" Longitude="136.538958" Speed="300" Altitude="17000" />
             <FlightPlan Departure="YPLC" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="17000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PLC V707 RIKAB RIKA8A/23</FlightPlan>
-            <Route>PILBY RIKAB GULFS GLOBE ELIZA GULLY</Route>
+            <Route>PILBY RIKAB GULFS GLOBE ELIZA GULLY RWY23</Route>
         </Aircraft>
         <Aircraft Callsign="VOZ733" Type="B737" Delay="0">
             <Squawk Code="2621" ModeC="true" />
             <Cleared Level="9000" />
             <Position Latitude="-33.808059" Longitude="142.68437600000001" Speed="450" Altitude="38000" />
             <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="430" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">UVUPU BLACK BLAC3A/23</FlightPlan>
-            <Route>UVUPU BLACK PLEZN KERRS GULLY</Route>
+            <Route>UVUPU BLACK PLEZN KERRS GULLY RWY23</Route>
         </Aircraft>
         <Aircraft Callsign="ZLE" Type="C700" Delay="120" StartAuto="true">
             <Squawk Code="2121" ModeC="true" />
             <Cleared Level="9000" />
             <Position Latitude="-34.551179000000005" Longitude="132.218293" Speed="450" Altitude="45000" />
-            <FlightPlan Departure="YPPH" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="45000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">HUSKY HYDRA ROGAS RIKAB RIKA8A/23</FlightPlan>
-            <Route>HYDRA ROGAS RIKAB GULFS GLOBE ELIZA GULLY</Route>
+            <FlightPlan Departure="YPPH" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="45000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">PH H18 BURGU Y135 ROGAS Y39 RIKAB RIKA8A/23</FlightPlan>
+            <Route>TUTNO ROGAS RIKAB GULFS GLOBE ELIZA GULLY RWY23</Route>
         </Aircraft>
         <Aircraft Callsign="JST682" Type="A320" Delay="180" StartAuto="true">
             <Squawk Code="4121" ModeC="true" />
             <Cleared Level="9000" />
-            <Position Latitude="-33.020163" Longitude="144.650335" Speed="450" Altitude="32000" />
+            <Position Latitude="-33.15083333" Longitude="143.83833333" Speed="450" Altitude="32000" />
             <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="32000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">UVUPU BLACK BLAC3A/23</FlightPlan>
-            <Route>VENEL UVUPU BLACK PLEZN KERRS GULLY</Route>
+            <Route>UVUPU BLACK PLEZN KERRS GULLY RWY23</Route>
         </Aircraft>
         <Aircraft Callsign="AYZ" Type="C206" Delay="120" StartAuto="true">
             <Squawk Code="4320" ModeC="true" />
             <Cleared Level="7000" />
-            <Position Latitude="-35.713833" Longitude="137.521667" Speed="150" Altitude="7000" />
+            <Position Latitude="-35.713833" Longitude="137.521667" Speed="150" Altitude="1000" />
             <FlightPlan Departure="YKSC" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="160" ETD="0000" ATD="0000" RFL="7000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AD DCT</FlightPlan>
             <Route>AD</Route>
         </Aircraft>
@@ -988,9 +988,13 @@
 
     **QFA590** departs to increase clutter with **FDG** and **RXA3458**. Shortly after, **QFA723** departs to conflict with **RXA3458**. 
 
+    **RXA3458** is assigned FL160 for separation with FDG and should be coordinated to student as such.**
+
     **SRP** is a VFR C182. May require sequencing depending on how the scenario is flowing.
     
     **ZLE**, **JST682** and **VOZ9932** arrive to force sequencing.
+
+    **CEY** is for a VFR coastal transit of the CTR, not above 500ft. They should request clearance prior to reaching PNL and be processed as per AD SOPs by the student (identified, cleared coastal northbound off shore not above 500ft, clearance limit BTJ, then transferred to Tower who will remove clearance limit and clear them northbound before handing them back to student). Instructor will be prompted to request clearance. Control services should be cancelled approaching OHB.
     
     The remainder of traffic is relatively straight forward and prompted for departures.</InstructorNotes>
     <Targets>
@@ -1110,15 +1114,15 @@
             <Squawk Code="2121" ModeC="true" />
             <Cleared Level="9000" />
             <Position Latitude="-34.551179000000005" Longitude="132.918293" Speed="450" Altitude="45000" />
-            <FlightPlan Departure="YPPH" Destination="YPAD" Alternative="YMML" Active="true" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="45000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">HUSKY HYDRA ROGAS RIKAB RIKA8A/23</FlightPlan>
-            <Route>HYDRA ROGAS RIKAB GULFS GLOBE ELIZA GULLY</Route>
+            <FlightPlan Departure="YPPH" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="45000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">PH H18 BURGU Y135 ROGAS Y39 RIKAB RIKA8A/23</FlightPlan>
+            <Route>TUTNO ROGAS RIKAB GULFS GLOBE ELIZA GULLY RWY23</Route>
         </Aircraft>
         <Aircraft Callsign="JST682" Type="A320" Delay="0">
             <Squawk Code="4121" ModeC="true" />
             <Cleared Level="9000" />
-            <Position Latitude="-33.15" Longitude="144.433" Speed="450" Altitude="32000" />
+            <Position Latitude="-33.15083333" Longitude="143.83833333" Speed="450" Altitude="32000" />
             <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="YMML" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="32000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">BN DAMAG VENEL UVUPU BLACK BLAC3A/23</FlightPlan>
-            <Route>VENEL UVUPU BLACK PLEZN KERRS GULLY</Route>
+            <Route>UVUPU BLACK PLEZN KERRS GULLY</Route>
         </Aircraft>
         <Aircraft Callsign="WZA" Type="C172" Delay="0">
             <Squawk Code="5652" ModeC="true" />
@@ -1134,7 +1138,7 @@
             <Squawk Code="5112" ModeC="true" />
             <Cleared Level="15000" />
             <Position Latitude="-34.15" Longitude="137.08" Speed="300" Altitude="15000" />
-            <FlightPlan Departure="YCEE" Destination="YGWA" Alternative="YPAD" Active="true" Rules="I" CruiseSpeed="230" ETD="0000" ATD="0000" RFL="15000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="/v/">DCT MUTHA A585 HAWKY DCT</FlightPlan>
+            <FlightPlan Departure="YCEE" Destination="YGWA" Alternative="YPAD" Active="true" Rules="I" CruiseSpeed="230" ETD="0000" ATD="0000" RFL="15000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="/v/">DCT VEPOK A585 HAWKY DCT</FlightPlan>
             <Route>HAWKY YGWA</Route>
             <TimedMessages>
                 <TimedMessage Time="420" Message="ENR to TCU Coord. West, FDG, via HAWKY. Additionally, RXA3458, for separation, assigned FL160" />
@@ -1146,9 +1150,9 @@
             <FlightPlan Departure="YGWA" Destination="YMLD" Alternative="" Active="false" Rules="I" CruiseSpeed="200" ETD="0000" ATD="0000" RFL="6000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AD DCT</FlightPlan>
             <Route>AD YMLD</Route>
             <TimedMessages>
-                <TimedMessage Time="240" Message="AYZ IFR PC12, taxi Goolwa for Maitland, runway 19" />
+                <TimedMessage Time="240" Message="'AYZ IFR PC12, taxiing Goolwa for Maitland, runway 19'" />
                 <TimedMessage Time="420" Message="Takeoff" />
-                <TimedMessage Time="600" Message="Departure. Departed YGWA XX, passing x, intercepting 333 track outbound, request clearance" />
+                <TimedMessage Time="600" Message="'AYZ, 5nm northwest of Goolwa, passing XXX, climbing to 6000ft, estimate Adelaide XXX'" />
             </TimedMessages>
         </Aircraft>
         <Aircraft Callsign="SRP" Type="C182" Delay="480" StartAuto="true">
@@ -1157,7 +1161,16 @@
             <FlightPlan Departure="YBOR" Destination="YPAD" Alternative="" Active="false" Rules="V" CruiseSpeed="140" ETD="0000" ATD="0000" RFL="3500" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="/v/">SYN MBR YPAD</FlightPlan>
             <Route>SYN MBR</Route>
             <TimedMessages>
-                <TimedMessage Time="1260" Message="SRP, C182, POB 2, overhead Strathalbyn, 3500ft, tracking Mount Bold Reservior, Received Alpha, request clearance." />
+                <TimedMessage Time="1260" Message="SRP, C182, POB 2, overhead Strathalbyn, 3500ft, tracking Mount Bold Reservior, received Alpha, request clearance." />
+            </TimedMessages>
+        </Aircraft>
+        <Aircraft Callsign="CEY" Type="C172" Delay="0">
+            <Squawk Code="1200" ModeC="true" />
+            <Position Latitude="-35.44305556" Longitude="138.70166667" Speed="110" Altitude="1500" />
+            <FlightPlan Departure="YGWA" Destination="YWHA" Alternative="" Active="false" Rules="V" CruiseSpeed="110" ETD="0000" ATD="0000" RFL="1000" EETHours="01" EETMins="40" FuelHours="0" FuelMins="0" Remarks="COASTAL TRANSIT /v/">YADG PNL BTJ HNLY OHB SKI DUB/N0110A045</FlightPlan>
+            <Route>YADG PNL BTJ HNLY OHB SKI DUB YWHA</Route>
+            <TimedMessages>
+                <TimedMessage Time="500" Message="CEY, 6nm south of Port Noarlunga, 1500ft, received Alpha, request coastal northbound" />
             </TimedMessages>
         </Aircraft>
     </Targets>
@@ -1431,7 +1444,7 @@
     Tracking `DCT DARLY MB DCT` generally keeps EXG clear, but any other suitable route is acceptable.
 
     **WHB** has planned a transit of the ML CTA at A015 and will require the student to identify them, issue clearance (if available), and cancel identification/control services once clear of CTA.  
-    Initial call from WHB generally takes the form of: *"Melbourne Approach, WHB, C172, 5nm SW of FGN, A015, received November, for YHOT via FGN, request clearance"*.  
+    Initial call from WHB generally takes the form of: *"Melbourne Approach, WHB, C172, 5nm SW of FGN, A015, received November, for YHOT via FGN, request clearance"*. 
 
     **QFA6202** should be instructed to descend no lower than A060 until laterally clear of the YMML departure track, due autorelease in operation.  Their descent profile will put them at roughly FL190 crossing the Runway 27 DOSEL SID, so consider vertical separation assurance requirements with departures from YMML.  
 
