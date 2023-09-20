@@ -2085,7 +2085,7 @@
 
     **CUY** requires airways clearance on first contact with student and tracking for the RNAV-Z.  
 
-    **FWC** for a VFR Transit overhead LT, this conflicts with **VOZ1090** on the approach. Student to assess conflict and assign vertically separated levels/clearance limit to FWC/withhold clearance to FWC as necessary.  
+    **FWC** is receiving flight following from HUO and is for a VFR Transit overhead LT. This conflicts with **VOZ1090** on the approach. Student to assess conflict and assign vertically separated levels/clearance limit to FWC/withhold clearance to FWC as necessary. HUO should coordinate with student.
 
     **AM214** causes conflict with **UJA** which will require vectoring.  
 
@@ -2160,7 +2160,7 @@
         <Route>OREBA ISTIG OMKUL GIVOT SORVI TOSUG VILAL MIBAL KANLI LATUM LT</Route>
       </Aircraft>
       <Aircraft Callsign="FWC" Type="C172" Delay="0">
-        <Squawk Code="1200" ModeC="true" />
+        <Squawk Code="0242" ModeC="true" />
         <Position Latitude="-41.19850400000001" Longitude="146.492159" Speed="120" Altitude="3500" />
         <FlightPlan Active="false" Departure="YDPO" Destination="YXSW" Alternative="" Rules="V" CruiseSpeed="120" ETD="0000" ATD="0000" RFL="3500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">LT</FlightPlan>
         <Route>LT YXSW</Route>
