@@ -2175,7 +2175,7 @@
       <Aircraft Callsign="FWC" Type="C172" Delay="0">
         <Squawk Code="0242" ModeC="true" />
         <Position Latitude="-41.19850400000001" Longitude="146.492159" Speed="120" Altitude="3500" />
-        <FlightPlan Active="false" Departure="YDPO" Destination="YXSW" Alternative="" Rules="V" CruiseSpeed="120" ETD="0000" ATD="0000" RFL="3500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">LT</FlightPlan>
+        <FlightPlan Active="false" Departure="YDPO" Destination="YXSW" Alternative="" Rules="V" CruiseSpeed="120" ETD="0000" ATD="0000" RFL="3500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/" Scratchpad="SIS">LT</FlightPlan>
         <Route>LT YXSW</Route>
       </Aircraft>
       <Aircraft Callsign="SH933" Type="SW4" Delay="0">
