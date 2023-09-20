@@ -905,12 +905,12 @@
             <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="430" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">TESAT H44 MAXEM Q60 BLACK BLAC3A/23</FlightPlan>
             <Route>BLACK PLEZN KERRS GULLY RWY23</Route>
         </Aircraft>
-        <Aircraft Callsign="TGG521" Type="A320" Delay="360" StartAuto="true">
+        <Aircraft Callsign="TGG521" Type="A320" Delay="0" StartAuto="true">
             <Squawk Code="4710" ModeC="true" />
             <Cleared Level="9000" />
-            <Position Latitude="-37.267989" Longitude="143.50829599999997" Speed="450" Altitude="32000" />
+            <Position Latitude="-37.57972222" Longitude="144.27861111" Speed="450" Altitude="32000" />
             <FlightPlan Departure="YMML" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="32000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">DCT NEVIS DRINA DRIN9A/23</FlightPlan>
-            <Route>DRINA COMLY DISHA BRAKI OMDIN GULLY RWY23</Route>
+            <Route>NEVIS DRINA COMLY DISHA BRAKI OMDIN GULLY RWY23</Route>
         </Aircraft>
         <Aircraft Callsign="RXA3458" Type="SF34" Delay="0">
             <Squawk Code="4417" ModeC="true" />
@@ -926,19 +926,19 @@
             <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="430" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">UVUPU BLACK BLAC3A/23</FlightPlan>
             <Route>UVUPU BLACK PLEZN KERRS GULLY RWY23</Route>
         </Aircraft>
-        <Aircraft Callsign="ZLE" Type="C700" Delay="120" StartAuto="true">
+        <Aircraft Callsign="ZLE" Type="C700" Delay="0" StartAuto="true">
             <Squawk Code="2121" ModeC="true" />
             <Cleared Level="9000" />
             <Position Latitude="-34.551179000000005" Longitude="132.218293" Speed="450" Altitude="45000" />
             <FlightPlan Departure="YPPH" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="45000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">PH H18 BURGU Y135 ROGAS Y39 RIKAB RIKA8A/23</FlightPlan>
             <Route>TUTNO ROGAS RIKAB GULFS GLOBE ELIZA GULLY RWY23</Route>
         </Aircraft>
-        <Aircraft Callsign="JST682" Type="A320" Delay="180" StartAuto="true">
+        <Aircraft Callsign="JST682" Type="A320" Delay="0" StartAuto="true">
             <Squawk Code="4121" ModeC="true" />
             <Cleared Level="9000" />
-            <Position Latitude="-33.15083333" Longitude="143.83833333" Speed="450" Altitude="32000" />
-            <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="32000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">UVUPU BLACK BLAC3A/23</FlightPlan>
-            <Route>UVUPU BLACK PLEZN KERRS GULLY RWY23</Route>
+            <Position Latitude="-33.47333333" Longitude="143.77333333" Speed="450" Altitude="32000" />
+            <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="32000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">BN H91 SANEG Q210 NBR Q53 WOONA Q60 BLACK BLAC3A/23</FlightPlan>
+            <Route>MIA WOONA BLACK PLEZN KERRS GULLY RWY23</Route>
         </Aircraft>
         <Aircraft Callsign="AYZ" Type="C206" Delay="120" StartAuto="true">
             <Squawk Code="4320" ModeC="true" />
@@ -1117,12 +1117,12 @@
             <FlightPlan Departure="YPPH" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="45000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">PH H18 BURGU Y135 ROGAS Y39 RIKAB RIKA8A/23</FlightPlan>
             <Route>TUTNO ROGAS RIKAB GULFS GLOBE ELIZA GULLY RWY23</Route>
         </Aircraft>
-        <Aircraft Callsign="JST682" Type="A320" Delay="0">
+        <Aircraft Callsign="JST682" Type="A320" Delay="0" StartAuto="true">
             <Squawk Code="4121" ModeC="true" />
             <Cleared Level="9000" />
-            <Position Latitude="-33.15083333" Longitude="143.83833333" Speed="450" Altitude="32000" />
-            <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="YMML" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="32000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">BN DAMAG VENEL UVUPU BLACK BLAC3A/23</FlightPlan>
-            <Route>UVUPU BLACK PLEZN KERRS GULLY</Route>
+            <Position Latitude="-33.47333333" Longitude="143.77333333" Speed="450" Altitude="32000" />
+            <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="32000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">BN H91 SANEG Q210 NBR Q53 WOONA Q60 BLACK BLAC3A/23</FlightPlan>
+            <Route>MIA WOONA BLACK PLEZN KERRS GULLY RWY23</Route>
         </Aircraft>
         <Aircraft Callsign="WZA" Type="C172" Delay="0">
             <Squawk Code="5652" ModeC="true" />
