@@ -2061,54 +2061,66 @@
   <ScenarioFile>
     <Name>TMA Tasmania</Name>
     <Type>TMA</Type>
+    <StudentBriefing>
+      You are operating HB_APP extending to LT_APP. HUO, HB_TWR and LT_TWR are all online. Hobart is running runway 12 for arrivals and departures, ILS approaches in use, with the cloud overcast at 800ft and passing showers. The Hobart QNH is 1019. Launceston is running runway 14R with cloud scattered at 7,600ft and QNH 1018. Large amounts of traffic are expected at both aerodromes.
+    </StudentBriefing>
     <InstructorNotes>
 
-  **ALL DEPARTURES ARE AUTOMATIC**
+    **ALL DEPARTURES ARE AUTOMATIC**
 
     HB ILS RWY 12  
 
-    LT RNAV-Z RWY 14R  
+    LT RNAV-Z or VSA RWY 14R  
 
     CBDG RWY 12  
 
 
     All jets have been given a STAR for Hobart by HUO. Jets into LT have been cleared direct to the IAF for the RNAV-Z.  
 
-    **YJG** from HB to LT First, this will cause some conflict with arriving jet traffic. **YJG** is coming
+    **YJG** from HB to LT first, this will cause some conflict with arriving jet traffic. They are coming
     in from an angle that can't be given a straight in approach without a sector entry or vectors. It's up to the 
-    student to recognise this and see what he can do. (Conduct the DME/GNSS Arrival into a visual circling is prefered)
+    student to recognise this and see what they can do (conduct the DME/GNSS Arrival into a visual circling is prefered).
 
-    **SND1** enters approaches airspace tracking for the IAF for the RNAV-Z 12, Bit of a weird angle to be joining from. **START HIS DESCENT ASAP**  
+    **SND1** enters TMA tracking for the IAF for the RNAV-Z 12, cleared to leave and re-enter CTA on descent to 6000ft when ready. 
 
-    **CUY** Requires tracking for the RNAV-Z by the student on first contact for airways clearance.  
+    **CUY** requires airways clearance on first contact with student and tracking for the RNAV-Z.  
 
-    **FWC** for a VFR Transit overhead LT, This conflicts with **VOZ1090** on the approach.  
+    **FWC** for a VFR Transit overhead LT, this conflicts with **VOZ1090** on the approach. Student to assess conflict and assign vertically separated levels/clearance limit to FWC/withhold clearance to FWC as necessary.  
 
     **AM214** causes conflict with **UJA** which will require vectoring.  
 
-    **UJA** is for Cambridge via the MORGO1A then ILS into HB (This needs coordination), then once visual join final for 12 at Cambridge.    
+    **UJA** is for Cambridge via the MORGO1A then ILS into HB (This needs coordination), then once visual join final for 12 at Cambridge. They'll need a clearance to enter CTA at HB by the student.  
 
 
-    **Be careful using the cleared when ready descent mode into YMHB, aircraft seem to go missed so be ready to delete them**
+    *Be careful using the cleared when ready descent mode into YMHB, aircraft seem to go missed so be ready to delete them*
 
 
-    METARs
+    
+    **METARs:**
 
     YMHB: YMHB AUTO 17012KT 5000 +SHRA OVC008 03/04 Q1019
 
-    YMLT: YMLT AUTO 18009KT 9999 // SCT076 08/06 Q1018</InstructorNotes>
+    YMLT: YMLT AUTO 18009KT 9999 // SCT076 08/06 Q1018
+
+    
+    **Important Airspace Note**
+
+    Aircraft conducting the ILS or VOR approach from the south are unable to descend below MSA of 5800ft until the IAF (although commencement altitude ranges from 3000ft to 4000ft depending on the approach). Aircraft must either descend via the DGA until the IAF of the ILS/VOR, then commence that approach, or be descended on the MVA by Approach to 3100ft, then commence approach from there. If choosing to descend via the DGA, then commence the ILS/VOR approach, the student should use the following phraseology:
+    
+    *'Descend 3000ft not below the DME steps, cleared ILS Runway 32L approach'*
+  </InstructorNotes>
     <Targets>
       <Aircraft Callsign="VOZ1378" Type="B738" Delay="0">
         <Squawk Code="4452" ModeC="true" />
         <Cleared Level="9000" />
-        <Position Latitude="-40.853136" Longitude="146.331588" Speed="250" Altitude="9000" />
+        <Position Latitude="-40.853136" Longitude="146.331588" Speed="250" Altitude="15000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YMLT" Alternative="" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="10000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SUNTI H169 IRSOM MLTNE MLTNI MLTNF</FlightPlan>
         <Route>IRSOM MLTNE MLTNI MLTNF RWY14R</Route>
       </Aircraft>
       <Aircraft Callsign="JST739" Type="A320" Delay="0">
         <Squawk Code="4455" ModeC="true" />
         <Cleared Level="9000" />
-        <Position Latitude="-39.644225" Longitude="146.507099" Speed="250" Altitude="9000" />
+        <Position Latitude="-39.995" Longitude="145.878611" Speed="250" Altitude="28000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YMLT" Alternative="" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="18000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SUNTI H169 IRSOM MLTNE MLTNI MLTNF</FlightPlan>
         <Route>IRSOM MLTNG MLTNI MLTNF RWY14R</Route>
       </Aircraft>
@@ -2122,8 +2134,8 @@
       <Aircraft Callsign="VOZ1090" Type="B738" Delay="0">
         <Squawk Code="4345" ModeC="true" />
         <Cleared Level="9000" />
-        <Position Latitude="-40.255308" Longitude="147.97779" Speed="250" Altitude="9000" />
-        <FlightPlan Active="true" Departure="YSSY" Destination="YMLT" Alternative="" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="10000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT WOL H20 OTKED J22 LT DCT MLTNG MLTNI MLTNF</FlightPlan>
+        <Position Latitude="-40.255308" Longitude="147.97779" Speed="250" Altitude="27000" />
+        <FlightPlan Active="true" Departure="YSSY" Destination="YMLT" Alternative="" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="10000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT MLTNG MLTNI MLTNF</FlightPlan>
         <Route>MLTNG MLTNI MLTNF RWY14R</Route>
       </Aircraft>
       <Aircraft Callsign="QLK2282" Type="DH8C" Delay="220" StartAuto="true">
@@ -2150,15 +2162,15 @@
       <Aircraft Callsign="FWC" Type="C172" Delay="0">
         <Squawk Code="1200" ModeC="true" />
         <Position Latitude="-41.19850400000001" Longitude="146.492159" Speed="120" Altitude="3500" />
-        <FlightPlan Active="false" Departure="YDPO" Alternative="" Rules="V" CruiseSpeed="120" ETD="0000" ATD="0000" RFL="3500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">LT YXSW</FlightPlan>
-        <Route>LT</Route>
+        <FlightPlan Active="false" Departure="YDPO" Destination="YXSW" Alternative="" Rules="V" CruiseSpeed="120" ETD="0000" ATD="0000" RFL="3500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">LT</FlightPlan>
+        <Route>LT YXSW</Route>
       </Aircraft>
       <Aircraft Callsign="SH933" Type="SW4" Delay="0">
         <Squawk Code="6643" ModeC="true" />
-        <Cleared Level="17000" />
+        <Cleared Level="13000" />
         <Position Latitude="-41.846680000000006" Longitude="146.266381" Speed="260" Altitude="17000" />
-        <FlightPlan Active="true" Departure="YKII" Destination="YMHB" Alternative="" Rules="I" CruiseSpeed="260" ETD="0000" ATD="0000" RFL="17000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KII W519 DOTVU T234 SALEM Y557 MORGO MORG1A/12</FlightPlan>
-        <Route>SALEM MORGO VAVMO IKOBI BUSKA BURNA TASUM</Route>
+        <FlightPlan Active="true" Departure="YKII" Destination="YMHB" Alternative="" Rules="I" CruiseSpeed="260" ETD="0000" ATD="0000" RFL="17000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KII W519 DOTVU T234 URBEN Y557 MORGO MORG2A/12</FlightPlan>
+        <Route>URBEN MORGO VAVMO IKOBI BUSKA RWY12</Route>
       </Aircraft>
       <Aircraft Callsign="WFE" Type="BE58" Delay="60" StartAuto="true">
         <Squawk Code="3515" ModeC="true" />
@@ -2169,45 +2181,45 @@
       </Aircraft>
       <Aircraft Callsign="SND1" Type="A319" Delay="0">
         <Squawk Code="5132" ModeC="true" />
-        <Cleared Level="13000" />
+        <Cleared Level="6000" />
         <Position Latitude="-43.3344" Longitude="147.012143" Speed="250" Altitude="13000" />
-        <FlightPlan Active="true" Departure="YWKS" Destination="YMHB" Alternative="" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="13000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">6500S11721E 6000S12855E 5500S13621E 5000S14145E 4500S14558E HBZWD HBZWI</FlightPlan>
+        <FlightPlan Active="true" Departure="YWKS" Destination="YMHB" Alternative="" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="13000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">6500S11721E 6000S12855E 5500S13621E 5000S14145E 4500S14558E HBZWD HBZWI HBZWF</FlightPlan>
         <Route>HBZWD HBZWI HBZWF RWY12</Route>
       </Aircraft>
       <Aircraft Callsign="JST723" Type="A320" Delay="0">
         <Squawk Code="4452" ModeC="true" />
         <Cleared Level="13000" />
-        <Position Latitude="-41.736878" Longitude="148.058632" Speed="250" Altitude="13000" />
-        <FlightPlan Active="true" Departure="YSSY" Destination="YMHB" Alternative="" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="18000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H20 MOTRA W407 IPLET IPLE5A/12</FlightPlan>
-        <Route>IPLET SUNEK BEBEK UNTAP BUSKA TASUM</Route>
+        <Position Latitude="-41.736878" Longitude="148.058632" Speed="250" Altitude="19000" />
+        <FlightPlan Active="true" Departure="YSSY" Destination="YMHB" Alternative="" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="18000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H20 MOTRA W407 IPLET IPLE6A/12</FlightPlan>
+        <Route>IPLET SUNEK BEBEK UNTAP BUSKA RWY12</Route>
       </Aircraft>
       <Aircraft Callsign="VEF" Type="SF34" Delay="520" StartAuto="true">
         <Squawk Code="1231" ModeC="true" /> 
         <Cleared Level="4500" />
         <Position Latitude="-42.829504" Longitude="147.502539" Speed="1" Altitude="20" />
         <FlightPlan Active="true" Departure="YMHB" Destination="YSCB" Alternative="" Rules="I" CruiseSpeed="275" ETD="0000" ATD="0000" RFL="18000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">KANLI3/12 KANLI H111 LT W218 NOLAN UY327 MAKRL POLLI CB DCT</FlightPlan>
-        <Route>OREBA ISTIG OMKUL GIVOT SORVI TOSUG VILAL MIBAL KANLI LT NOLAN</Route>
+        <Route>OREBA ISTIG OMKUL GIVOT SORVI TOSUG VILAL MIBAL KANLI LT NOLAN MAKRL POLLI YSCB</Route>
       </Aircraft>
       <Aircraft Callsign="QJE1554" Type="B712" Delay="400" StartAuto="true">
         <Squawk Code="1311" ModeC="true" />
         <Cleared Level="8000" />
         <Position Latitude="-42.829601" Longitude="147.50258" Speed="1" Altitude="20" />
         <FlightPlan Active="true" Departure="YMHB" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="430" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">LATUM2/12 LATUM H111 LT H215 WAREN W687 ML DCT</FlightPlan>
-        <Route>KADON BIVED IDRUG DUMIT NUVTA TASED LATUM LT ONAGI</Route>
+        <Route>KADON BIVED IDRUG DUMIT NUVTA TASED LATUM LT ONAGI YMML</Route>
       </Aircraft>
       <Aircraft Callsign="CUY" Type="BE58" Delay="0">
         <Squawk Code="2341" ModeC="true" />
         <Cleared Level="8000" />
-        <Position Latitude="-40.245115" Longitude="147.27032599999998" Speed="160" Altitude="8000" />
+        <Position Latitude="-40.302777" Longitude="146.90944" Speed="160" Altitude="8000" />
         <FlightPlan Active="true" Departure="YMEN" Destination="YMLT" Alternative="" Rules="I" CruiseSpeed="160" ETD="0000" ATD="0000" RFL="8000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">ESDAN NOLAN MLTNG MLTNI MLTNF</FlightPlan>
         <Route>NOLAN MLTNG MLTNI MLTNF RWY14R</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ704" Type="B738" Delay="0">
         <Squawk Code="7635" ModeC="true" />
         <Cleared Level="13000" />
-        <Position Latitude="-40.915422" Longitude="148.445416" Speed="250" Altitude="13000" />
-        <FlightPlan Active="true" Departure="YBBN" Destination="YMHB" Alternative="" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="18000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H20 MOTRA W407 IPLET IPLE5A/12</FlightPlan>
-        <Route>IPLET SUNEK BEBEK UNTAP BUSKA TASUM</Route>
+        <Position Latitude="-40.915422" Longitude="148.445416" Speed="250" Altitude="24000" />
+        <FlightPlan Active="true" Departure="YBBN" Destination="YMHB" Alternative="" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="18000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H20 MOTRA W407 IPLET IPLE6A/12</FlightPlan>
+        <Route>MOTRA IPLET SUNEK BEBEK UNTAP BUSKA RWY12</Route>
       </Aircraft>
       <Aircraft Callsign="UJA" Type="AC50" Delay="0">
         <Squawk Code="1541" ModeC="true" />
