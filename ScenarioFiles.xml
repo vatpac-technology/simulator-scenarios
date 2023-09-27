@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ScenarioFiles xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <ScenarioFile>
-  <Name>Tower Melboure Intro 16AD</Name>
+  <Name>Tower Melboure Runway 16 - Intro</Name>
     <Type>Tower</Type>
       <StudentBriefing>
         You are operating Melbourne Tower. Ground and Delivery are offline.    
@@ -113,7 +113,7 @@
   </ScenarioFile>
   
   <ScenarioFile>
-    <Name>Tower Melbourne Advanced 16A27D</Name>
+    <Name>Tower Melbourne Runway 16A27D - Advanced</Name>
     <Type>Tower</Type>
     <StudentBriefing>
       You are operating Melbourne Tower. Ground and Delivery are offline.    
@@ -290,7 +290,7 @@
   </ScenarioFile>
 
 <ScenarioFile>
-    <Name>Tower Sydney 34L/R AD</Name>
+    <Name>Tower Sydney Runway 34L/R</Name>
     <Type>Tower</Type>
     <StudentBriefing>
       You are operating Sydney Tower. Ground and Delivery are offline.    
@@ -503,7 +503,7 @@
   </ScenarioFile>
 
 <ScenarioFile>
-  <Name>Tower Brisbane 19L/R AD</Name>
+  <Name>Tower Brisbane Runway 19L/R</Name>
   <Type>Tower</Type>
   <StudentBriefing>
       You are operating Brisbane Tower. Ground and Delivery are offline.    
@@ -735,7 +735,7 @@
 
 
 <ScenarioFile>
-  <Name>Tower Broome 28AD</Name>
+  <Name>Procedural Tower Broome Runway 28</Name>
     <Type>Procedural Tower</Type>
       <InstructorNotes>
 
@@ -821,7 +821,7 @@
 
 
 <ScenarioFile>
-    <Name>AD TMA Intro with YGWA</Name>
+    <Name>TMA Adelaide - Intro with YGWA</Name>
     <Type>TMA</Type>
     <InstructorNotes>Timing data TBC
 
@@ -970,7 +970,7 @@
 </ScenarioFile>
 
 <ScenarioFile>
-    <Name>AD TMA Advanced with YGWA</Name>
+    <Name>TMA Adelaide - Advanced with YGWA</Name>
     <Type>TMA</Type>
     <InstructorNotes>Ensure the student disables GRIB winds. 
 
@@ -1177,7 +1177,7 @@
 </ScenarioFile>
 
 <ScenarioFile>
-    <Name>BN TMA 19 under construction</Name>
+    <Name>TMA Brisbane Runway 19 - Under Construction</Name>
     <Type>TMA</Type>
     <InstructorNotes>This is a scenario primarily for practicing sequencing arrivals and organising separation with departing aircraft.
     
@@ -1426,7 +1426,7 @@
 </ScenarioFile>
 
 <ScenarioFile>
-    <Name>TMA Melbourne 16</Name>
+    <Name>TMA Melbourne Runway 16</Name>
     <Type>TMA</Type>
     <StudentBriefing>You are operating Melbourne Approach.    
 
@@ -1628,7 +1628,7 @@
   </ScenarioFile>
 
   <ScenarioFile>
-    <Name>TMA Adelaide</Name>
+    <Name>TMA Adelaide Runway 23 - Old</Name>
     <Type>TMA</Type>
     <StudentBriefing>You are operating Adelaide Approach.    
 
@@ -1756,7 +1756,7 @@
     </Targets>
 </ScenarioFile>
   <ScenarioFile>
-    <Name>TMA Melbourne 34 Visual</Name>
+    <Name>TMA Melbourne Runway 34 Visual</Name>
     <Type>TMA</Type>
     <InstructorNotes>TBI</InstructorNotes>
     <Targets>
@@ -1895,7 +1895,7 @@
   </ScenarioFile>
 
   <ScenarioFile>
-    <Name>TMA Sydney 34L/R AD</Name>
+    <Name>TMA Sydney Runway 34L/R</Name>
     <Type>TMA</Type>
     <StudentBriefing>You are operating Sydney Approach.    
 
@@ -2789,7 +2789,7 @@
 </ScenarioFile>
 
 <ScenarioFile>
-  <Name>TBD ENR Intro</Name>
+  <Name>Enroute TBD - Intro</Name>
   <Type>Enroute</Type>
   <Targets>
     <Aircraft Callsign="FD252" Type="PC12" Delay="0">
@@ -3574,7 +3574,7 @@
   </ScenarioFile>
 
   <ScenarioFile>
-  <Name>Tower Adelaide 23</Name>
+  <Name>Tower Adelaide Runway 23</Name>
   <Type>Tower</Type>
   <StudentBriefing>
     You are operating Adelaide Tower. Ground and Delivery are offline.    
@@ -3786,7 +3786,7 @@
 </ScenarioFile>
 
 <ScenarioFile>
-  <Name>Tower Sydney 34L/R AD Auto timed</Name>
+  <Name>Tower Sydney Runway 34L/R - Auto timed</Name>
   <Type>Tower</Type>
   <StudentBriefing>
     You are operating Sydney Tower. Ground and Delivery are offline.    
