@@ -244,7 +244,7 @@
         <FlightPlan Active="true" Departure="YPPH" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470Y" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">PH Y53 WENDY ARBEY ARBEY6A/16</FlightPlan>
         <Route>CANTY ARBEY BELTA RWY16 YMML</Route>
       </Aircraft>
-        <Aircraft Callsign="GR516" Type="B738" Delay="480" StartAuto="true">
+        <Aircraft Callsign="VOZ682" Type="B738" Delay="480" StartAuto="true">
         <Squawk Code="1005" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-36.51042999999999" Longitude="144.422953" Speed="250" Altitude="3000" />
@@ -3018,7 +3018,7 @@
     Sydney Approach, Canberra Tower, Eildon Weir, and Armidale are online.    
 
     There is no significant weather within your airspace.</StudentBriefing>
-    <InstructorNotes>Due to their positions, **YMA03** and **GR516** should be handed off to student when session begins.  
+    <InstructorNotes>Due to their positions, **YMA03** and **RXA32** should be handed off to student when session begins.  
 
     **SIA221** naturally estimates RIVET at similar time to **QFA501**.  If track shortening is given to SIA221, vertical separation assurance may be required with YMA03. Student should assume SIA221 at scenario start (even though they are slightly outside jurisdiction).  
 
@@ -3069,7 +3069,7 @@
         <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="15" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 TESAT DCT</FlightPlan>
         <Route>NONUP CULIN TARAL RIVET TESAT</Route>
       </Aircraft>
-      <Aircraft Callsign="GR516" Type="B738" Delay="0">
+      <Aircraft Callsign="RXA32" Type="B738" Delay="0">
         <Squawk Code="3177" ModeC="true" />
         <Position Latitude="-34.391667" Longitude="150.959722" Speed="370" Altitude="24500" />
         <Cleared Level="28000" />
