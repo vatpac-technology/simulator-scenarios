@@ -2376,7 +2376,7 @@
         <Squawk Code="4402" ModeC="true" />
         <Position Latitude="-35.814" Longitude="141.09729" Speed="450" Altitude="39000" />
         <FlightPlan Active="true" Departure="YPAD" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="420" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">BENDO2/23 BENDO Y12 ARBEY H119 ML DCT</FlightPlan>
-        <Route>HINDY DANKS APPLE ARBEY</Route>
+        <Route>RELEP LULTO APPLE ARBEY ML</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ223" Type="B738" Delay="0">
         <Squawk Code="4401" ModeC="true" />
