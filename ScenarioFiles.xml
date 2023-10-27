@@ -1650,7 +1650,7 @@
         <Squawk Code="2742" ModeC="true" />
         <Cleared Level="9000" />
         <Position Latitude="-37.19" Longitude="146.14" Speed="350" Altitude="18000" />
-        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT WOL H65 RAZZI Q29 LIZZI LIZI8V/34V</FlightPlan>
+        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9V/34V</FlightPlan>
         <Route>TAREX LIZZI MAITE IGPON MONTY EGEKA SHEED RWY34</Route>
       </Aircraft>
       <Aircraft Callsign="TFX15" Type="AT43" Delay="0">
@@ -1678,7 +1678,7 @@
         <Squawk Code="2746" ModeC="true" />
         <Cleared Level="9000" />
         <Position Latitude="-35.88" Longitude="148.565" Speed="450" Altitude="38000" />
-        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT WOL H65 RAZZI Q29 LIZZI LIZI8V/34V</FlightPlan>
+        <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9V/34V</FlightPlan>
         <Route>NABBA BULLA TAREX LIZZI MAITE IGPON MONTY EGEKA SHEED RWY34</Route>
       </Aircraft>
       <Aircraft Callsign="ETS" Type="BE58" Delay="0">
