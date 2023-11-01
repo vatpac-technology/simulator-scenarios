@@ -20,11 +20,11 @@
       Have Fun
       </InstructorNotes>
     <Targets>
-      <Aircraft Callsign="JCR" Type="LJ45" Delay="0">
+      <Aircraft Callsign="LPJ" Type="LJ45" Delay="0">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-37.686042" Longitude="144.848743" Speed="0" Altitude="328" />
-        <FlightPlan Departure="YMML" Destination="YMAV" Alternative="" Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="6000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">ML DCT AV</FlightPlan>
-        <Route>BOSGI LLOYD AV YMAV</Route>
+        <FlightPlan Departure="YMML" Destination="YMAV" Alternative="" Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="6000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT</FlightPlan>
+        <Route>AV YMAV</Route>
       </Aircraft>
       <Aircraft Callsign="HUT" Type="C172" Delay="0">
         <Squawk Code="1200" ModeC="false" />
@@ -1530,12 +1530,12 @@
         <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="1" CruiseSpeed="420" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DOSEL1/27 DOSEL Y59 TESAT DCT</FlightPlan>
         <Route>ATNOL PARSI PEBTO PEART DOSEL EBONY</Route>
       </Aircraft>
-      <Aircraft Callsign="JCR" Type="LJ35" Delay="0">
+      <Aircraft Callsign="LRX" Type="LJ35" Delay="0">
         <Squawk Code="3215" ModeC="true" />
         <Position Latitude="-37.662335" Longitude="144.848475" Speed="0" Altitude="397" />
         <Cleared Level="5000" />
         <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="1" CruiseSpeed="220" ETD="0000" ATD="0000" RFL="41000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DOSEL1/27 DOSEL Y59 TESAT DCT</FlightPlan>
-        <Route>ATNOL PARSI PEBTO PEART DOSEL EBONY</Route>
+        <Route>ATNOL PARSI PEBTO PEART DOSEL EBONY RIVET TESAT YSSY</Route>
         <TimedMessages>
           <TimedMessage Time="1380" Message="Takeoff" />
         </TimedMessages>
@@ -1593,7 +1593,7 @@
       <Aircraft Callsign="WHB" Type="C172" Delay="660" StartAuto="true">
         <Squawk Code="1200" ModeC="true" />
         <Position Latitude="-38.015096" Longitude="144.586399" Speed="120" Altitude="1500" />
-        <FlightPlan Active="false" Departure="YMAV" Destination="YHOT" Alternative="" Rules="1" CruiseSpeed="120" ETD="0000" ATD="0000" RFL="1500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WBER FGN YLIL</FlightPlan>
+        <FlightPlan Active="false" Departure="YMAV" Destination="YHOT" Alternative="" Rules="V" CruiseSpeed="120" ETD="0000" ATD="0000" RFL="1500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WBER FGN YLIL</FlightPlan>
         <Route>WBER FGN</Route>
         <TimedMessages>
           <TimedMessage Time="1020" Message="Req clearance. WHB, Cessna 172, POB1, tracking Werribee Racecourse, Flemington, 1500ft, received November, request clearance." />
