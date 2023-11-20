@@ -1962,13 +1962,13 @@
 
         **VEF** is for an overfly of TESAT and descend into Shellharbour. They can request direct to an RNP IAF or join the circuit. Expect them to reach top of descent approx 25nm north of TESAT.
 
-        **AM253** needs to be coordinated to the student due to their tracking.  They can be instructed to leave controlled airspace descending (for a visual approach) or tracked via RAKSO for the RNP RWY 11C when on APP frequency.  
+        **AM213** needs to be coordinated to the student due to their tracking.  They can be instructed to leave controlled airspace descending (for a visual approach) or tracked via RAKSO for the RNP RWY 11C when on APP frequency.  
 
         There are significant sequencing issues between aircraft on the RIVET STAR (student will need to issue speed reduction quickly to certain aircraft).  
 
         **RXA6852** and **PE121** should be departed on the standard assignable heading (H230) without coordination as per autorelease procedures.   
 
-        **WFE** (IFR departure from YSBK) can conflict with **AM253** and/or **REW** depending on when they are departed.  *Important: student to ensure lateral separation exists between the BK8 SID and the arrival track prior to issuing clearance, or get arrival to downgrade to VFR, or withhold clearance to departure*.  
+        **WFE** (IFR departure from YSBK) can conflict with **AM213** and/or **REW** depending on when they are departed.  *Important: student to ensure lateral separation exists between the BK8 SID and the arrival track prior to issuing clearance, or get arrival to downgrade to VFR, or withhold clearance to departure*.  
 
         **REW** is a VFR aircraft tracking via TWRN for YSBK.  They will need descent to remain below the CTA steps.  They can request flight following to increase student workload. 
     </InstructorNotes>
@@ -2041,7 +2041,7 @@
         <FlightPlan Active="false" Departure="YGLB" Destination="YSBK" Alternative="" Rules="V" CruiseSpeed="130" ETD="0000" ATD="0000" RFL="5500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1 REG/VHREW PER/B RMK/2POB     /v/">YGLB TWRN YSBK</FlightPlan>
         <Route>TWRN BK</Route>
       </Aircraft>
-      <Aircraft Callsign="AM253" Type="B350" Delay="0">
+      <Aircraft Callsign="AM213" Type="B350" Delay="0">
         <Squawk Code="3075" ModeC="true" />
         <Cleared Level="9000" />
         <Position Latitude="-33.204039" Longitude="149.469204" Speed="220" Altitude="15000" />
@@ -3249,7 +3249,7 @@
 
     **SIA221** naturally estimates RIVET at similar time to **QFA501**.  If track shortening is given to SIA221, vertical separation assurance may be required with YMA03. Student should assume SIA221 at scenario start (even though they are slightly outside jurisdiction).  
 
-    **AM253** (departure from YSDU) should be departed early for best effect.  Student is expected to issue STAR clearance (but no runway assignment) with airways clearance after departure report (see YWE SOPs page).  Once aircraft is established in the sequence, runway assignment should be given (see BIK SOPs page).  
+    **AM231** (departure from YSDU) should be departed early for best effect.  Student is expected to issue STAR clearance (but no runway assignment) with airways clearance after departure report (see YWE SOPs page).  Once aircraft is established in the sequence, runway assignment should be given (see BIK SOPs page).  
 
     **QFA501** and **JST795** have built-in conflict, requiring speed control, track shortening to QFA501, or vectors. Can also be used to demonstrate a hold.  
 
@@ -3289,7 +3289,7 @@
         <FlightPlan Active="true" Departure="YSSY" Destination="YPAD" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KADOM H44 MAXEM Q60 BLACK V454 AD DCT</FlightPlan>
         <Route>KADOM CWR BORLI</Route>
       </Aircraft>
-      <Aircraft Callsign="QFA692" Type="A333" Delay="0">
+      <Aircraft Callsign="QFA418" Type="A333" Delay="0">
         <Squawk Code="3265" ModeC="true" />
         <Position Latitude="-35.8075" Longitude="147.705" Speed="479" Altitude="37000" />
         <Cleared Level="37000" />
@@ -3327,10 +3327,10 @@
       <Aircraft Callsign="REW" Type="PA31" Delay="0">
         <Squawk Code="2000" ModeC="true" />
         <Position Latitude="-34.806111" Longitude="149.724722" Speed="0" Altitude="2159" />
-        <FlightPlan Active="false" Departure="YGLB" Destination="YMER" Alternative="" Rules="I" CruiseSpeed="220" ETD="0000" ATD="0000" RFL="190" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1 REG/VHREW PER/B RMK/2POB   /v/">DCT GLB NERIG W40 URBOB W436 MER DCT</FlightPlan>
-        <Route>NERIG URBOB MER</Route>
+        <FlightPlan Active="false" Departure="YGLB" Destination="YMER" Alternative="" Rules="I" CruiseSpeed="220" ETD="0000" ATD="0000" RFL="190" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1 REG/VHREW PER/B RMK/2POB   /v/">DCT GLB ATGOD W40 URBOB W436 MER DCT</FlightPlan>
+        <Route>ATGOD URBOB MER</Route>
       </Aircraft>
-      <Aircraft Callsign="AM253" Type="BE20" Delay="0">
+      <Aircraft Callsign="AM231" Type="BE20" Delay="0">
         <Squawk Code="2000" ModeC="true" />
         <Position Latitude="-32.213889" Longitude="148.576944" Speed="0" Altitude="899" />
         <FlightPlan Active="false" Departure="YSDU" Destination="YSSY" Alternative="YSRI" Rules="I" CruiseSpeed="180" ETD="0000" ATD="0000" RFL="19000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1 REG/VHAMQ PER/B RMK/4POB   /v/">DCT DU V138 AKMIR W113 TESAT DCT</FlightPlan>
