@@ -138,7 +138,7 @@
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-37.686042" Longitude="144.848743" Speed="0" Altitude="328" />
         <FlightPlan Departure="YMML" Destination="YMAV" Alternative="" Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="6000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">ML LLOYD RPY AV</FlightPlan>
-        <Route>ATNOL LLOYD AV YMAV</Route>
+        <Route>LLOYD AV YMAV</Route>
       </Aircraft>
       <Aircraft Callsign="HUT" Type="C172" Delay="0">
         <Squawk Code="1200" ModeC="false" />
