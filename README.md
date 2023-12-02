@@ -9,4 +9,4 @@ VATPAC training files for vatSys Target Generator:
 
 # Simulator Plugin
 
-Plugin avaialbe [here](https://github.com/badvectors/SimulatorPlugin).
+[Plugin available here.](https://github.com/badvectors/SimulatorPlugin)
