@@ -356,44 +356,44 @@
       <Aircraft Callsign="QFA127" Type="B744" Delay="0">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-33.938971" Longitude="151.168822" Speed="0" Altitude="13" />
-        <FlightPlan Departure="YSSY" Destination="VHHH" Alternative="" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RIC H202 AGETA R340 DUMAV/N0468F400 R340 AMN A461 BONDA/N0471F380 A461 ZAM A583 SABNO V541</FlightPlan>
-        <Route>RIC VHHH</Route>
+        <FlightPlan Departure="YSSY" Destination="VHHH" Alternative="" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RIC H530 SURVO R340 DUMAV/N0468F400 R340 AMN A461 BONDA/N0471F380 A461 ZAM A583 SABNO V541</FlightPlan>
+        <Route>RIC BOYSY IDSUP EMROT MUDGI UNSAR VHHH</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ83" Type="B772" Delay="0">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-33.937415" Longitude="151.169052" Speed="0" Altitude="13" />
-        <FlightPlan Departure="YSSY" Destination="VHHH" Alternative="" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RIC H202 AGETA R340 DUMAV/N0468F400 R340 AMN A461 BONDA/N0471F380 A461 ZAM A583 SABNO V541</FlightPlan>
-        <Route>RIC VHHH</Route>
+        <FlightPlan Departure="YSSY" Destination="VHHH" Alternative="" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RIC H530 SURVO R340 DUMAV/N0468F400 R340 AMN A461 BONDA/N0471F380 A461 ZAM A583 SABNO V541</FlightPlan>
+        <Route>RIC BOYSY IDSUP EMROT MUDGI UNSAR VHHH</Route>
       </Aircraft>
       <Aircraft Callsign="JST37" Type="B788" Delay="0">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-33.93904799999999" Longitude="151.169797" Speed="0" Altitude="13" />
         <FlightPlan Departure="YSSY" Destination="WADD" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RIC UH226 ENPAG T74 NONET/N0476F430 T74 VINAX G326 NYOMA DCT</FlightPlan>
-        <Route>RIC WADD</Route>
+        <Route>RIC BOYSY IDSUP EMROT MUDGI UNSAR WADD</Route>
       </Aircraft>
       <Aircraft Callsign="THA476" Type="B744" Delay="0">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-33.939237" Longitude="151.16663600000004" Speed="0" Altitude="13" />
         <FlightPlan Departure="YSSY" Destination="VTBS" Alternative="" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RIC UH226 ENPAG T74 KARAG/N0500F340 T74 VINAX/N0500F360 T74 TN J251 DN M768 PORAK/N0490F380 M768 TSN R468 PNH A340 RYN DCT</FlightPlan>
-        <Route>RIC VTBS</Route>
+        <Route>RIC ENPAG VEPAP NONET VINAX DOTAP VTBS</Route>
       </Aircraft>
       <Aircraft Callsign="QLK227D" Type="DH8D" Delay="0">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-33.931105" Longitude="151.182211" Speed="0" Altitude="13" />
         <FlightPlan Departure="YSSY" Destination="YSCB" Alternative="" Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="22000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PEGSU V169 CB DCT</FlightPlan>
-        <Route>PEGSU BUNGO YSCB</Route>
+        <Route>PEGSU BUNGO CB YSCB</Route>
       </Aircraft>
       <Aircraft Callsign="QFA721" Type="B738" Delay="0">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-33.931605" Longitude="151.178025" Speed="0" Altitude="13" />
         <FlightPlan Departure="YSSY" Destination="YPAD" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT A576 KADOM H44 BORLI W451 MIA H309 AD DCT</FlightPlan>
-        <Route>KADOM YPAD</Route>
+        <Route>KADOM BORLI MIA AD YPAD</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ429" Type="B738" Delay="0">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-33.93509300000001" Longitude="151.179945" Speed="0" Altitude="3" />
         <FlightPlan Departure="YSSY" Destination="YPAD" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT A576 KADOM H44 BORLI W451 MIA H309 AD DCT</FlightPlan>
-        <Route>KADOM YPAD</Route>
+        <Route>KADOM BORLI MIA AD YPAD</Route>
       </Aircraft>
       <Aircraft Callsign="CXF" Type="B350" Delay="0">
         <Squawk Code="2000" ModeC="false" />
@@ -1923,7 +1923,7 @@
         <Squawk Code="7432" ModeC="true" />
         <Cleared Level="5000" />
         <Position Latitude="-33.963615" Longitude="151.18055" Speed="0" Altitude="7" />
-        <FlightPlan Active="true" Departure="YSSY" Destination="YBPN" Alternative="" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="33000" EETHours="15" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">RIC5/34L RIC H202 AGETA</FlightPlan>
+        <FlightPlan Active="true" Departure="YSSY" Destination="YBPN" Alternative="" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="33000" EETHours="15" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">RIC5/34L RIC H530 SURVO</FlightPlan>
         <Route>RIC MUDGI YBPN</Route>
       </Aircraft>
       <Aircraft Callsign="PE121" Type="JS32" Delay="0">
@@ -2101,7 +2101,7 @@
         <Squawk Code="7432" ModeC="true" />
         <Cleared Level="5000" />
         <Position Latitude="-33.963615" Longitude="151.18055" Speed="0" Altitude="7" />
-        <FlightPlan Active="true" Departure="YSSY" Destination="YBPN" Alternative="" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="33000" EETHours="15" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">RIC5/34L RIC H202 AGETA</FlightPlan>
+        <FlightPlan Active="true" Departure="YSSY" Destination="YBPN" Alternative="" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="33000" EETHours="15" EETMins="20" FuelHours="0" FuelMins="0" Remarks="/v/">RIC5/34L RIC H530 SURVO</FlightPlan>
         <Route>RIC MUDGI YBPN</Route>
       </Aircraft>
       <Aircraft Callsign="PE121" Type="JS32" Delay="0">
@@ -2718,7 +2718,7 @@
               <TimedMessage Time="2580" Message="Takeoff." />
             </TimedMessages> 
         </Aircraft>
-        <Aircraft Callsign="QLK2002" Type="DH8D" Delay="0">
+        <Aircraft Callsign="QLK202D" Type="DH8D" Delay="0">
             <Squawk Code="4002" ModeC="true" />
             <Cleared Level="22000" />
             <Position Latitude="-32.540277" Longitude="151.438333" Speed="300" Altitude="22000" />
@@ -2825,7 +2825,7 @@
             <Squawk Code="4037" ModeC="true" />
             <Cleared Level="41000" />
             <Position Latitude="-24.750000000000004" Longitude="148.5" Speed="450" Altitude="41000" />
-            <FlightPlan Departure="YBCS" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="41000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT SWIFT Y153 ROKUU H12 BOREE DCT  </FlightPlan>
+            <FlightPlan Departure="YBCS" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="41000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT AKROM Y153 ROKUU H12 BOREE DCT  </FlightPlan>
             <Route>KANKO ROKUU PEXUM EMTEL VIREN SCO IGDAM SADLO BOREE</Route>
         </Aircraft>
         <Aircraft Callsign="VOZ1392" Type="B738" Delay="0">
@@ -2853,7 +2853,7 @@
             <Squawk Code="4010" ModeC="true" />
             <Cleared Level="41000" />
             <Position Latitude="-28.495554999999996" Longitude="149.769444" Speed="450" Altitude="41000" />
-            <FlightPlan Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="490" ETD="0000" ATD="0000" RFL="41000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT VAMOS DCT XAC B586 UKATA DCT 25N141E/N0483F400 DCT 20N141E/M084F400 DCT 15N141E/M084F410 DCT 10N142E DCT 05N143E DCT FACED/N0482F410 A216 CS Y177 SWIFT Y153 ROKUU H12 BOREE/M082F410 DCT</FlightPlan>
+            <FlightPlan Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="490" ETD="0000" ATD="0000" RFL="41000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT VAMOS DCT XAC B586 UKATA DCT 25N141E/N0483F400 DCT 20N141E/M084F400 DCT 15N141E/M084F410 DCT 10N142E DCT 05N143E DCT FACED/N0482F410 A216 CS Y177 AKROM Y153 ROKUU H12 BOREE/M082F410 DCT</FlightPlan>
             <Route>AKOGO PEXUM EMTEL VIREN SCO IGDAM SADLO BOREE</Route>
         </Aircraft>
         <Aircraft Callsign="QFA840" Type="B738" Delay="0">
@@ -3525,14 +3525,14 @@
         <Squawk Code="235" ModeC="true" />
         <Cleared Level="37000" />
         <Position Latitude="-21.796724" Longitude="148.87873" Speed="400" Altitude="37000" />
-        <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="YBCG" Rules="I" CruiseSpeed="400" ETD="0000" ATD="0000" RFL="37000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="CALL/VELOCITY    /v/">DCT SWIFT Y177 SMOKA</FlightPlan>
+        <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="YBCG" Rules="I" CruiseSpeed="400" ETD="0000" ATD="0000" RFL="37000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="CALL/VELOCITY    /v/">DCT AKROM Y177 SMOKA</FlightPlan>
         <Route>COCKA RUROX NIROK LAMUG SMOKA YBBN</Route>
       </Aircraft>
       <Aircraft Callsign="CPA103" Type="A333" Delay="0">
         <Squawk Code="236" ModeC="true" />
         <Cleared Level="37000" />
         <Position Latitude="-20.087021000000004" Longitude="147.832536" Speed="438" Altitude="37000" />
-        <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="YBCG" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="CALL/CATHAY    /v/">DCT SWIFT Y177 SMOKA</FlightPlan>
+        <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="YBCG" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="CALL/CATHAY    /v/">DCT AKROM Y177 SMOKA</FlightPlan>
         <Route>COCKA RUROX NIROK LAMUG SMOKA YBBN</Route>
       </Aircraft>
       <Aircraft Callsign="QLK381D" Type="DH8D" Delay="0">
@@ -3569,7 +3569,7 @@
         <Squawk Code="244" ModeC="true" />
         <Cleared Level="37000" />
         <Position Latitude="-19.7233" Longitude="147.60908999999998" Speed="459" Altitude="37000" />
-        <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="YBCG" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="37000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="CALL/QANTAS    /v/">DCT SWIFT Y177 SMOKA</FlightPlan>
+        <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="YBCG" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="37000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="CALL/QANTAS    /v/">DCT AKROM Y177 SMOKA</FlightPlan>
         <Route>COCKA RUROX NIROK LAMUG SMOKA YBBN</Route>
       </Aircraft>
       <Aircraft Callsign="TGG518" Type="A320" Delay="0">
@@ -3936,7 +3936,7 @@
       <Aircraft Callsign="QFA127" Type="B744" Delay="540" StartAuto="true">
           <Squawk Code="0" ModeC="false" />
           <Position Latitude="-33.938971" Longitude="151.168822" Speed="0" Altitude="13" />
-          <FlightPlan Departure="YSSY" Destination="VHHH" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RIC H202 AGETA R340 DUMAV/N0468F400 R340 AMN A461 BONDA/N0471F380 A461 ZAM A583 SABNO V541</FlightPlan>
+          <FlightPlan Departure="YSSY" Destination="VHHH" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RIC H530 SURVO R340 DUMAV/N0468F400 R340 AMN A461 BONDA/N0471F380 A461 ZAM A583 SABNO V541</FlightPlan>
           <Route>RIC</Route>
           <TimedMessages>
               <TimedMessage Time="840" Message="Request clearance to Hong Kong (34)" />
