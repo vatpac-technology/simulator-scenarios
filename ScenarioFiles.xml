@@ -2446,19 +2446,20 @@
     <Type>Enroute</Type>
     <StudentBriefing>You are operating Territory.  
 
-    Darwin is running Runway 29. Instrument approaches are in use at all locations.
+    Darwin is running Runway 29. Instrument approaches are in use at all locations.  
 
-    Darwin Approach, Isa, Alice Springs and Onslow are online.    
+    Darwin Approach and ISA are online.    
 
     There is no significant weather within your airspace.</StudentBriefing>
+
     <InstructorNotes>
 
     **ALL YPDN DEPARTURES ARE AUTOMATIC**
     
     Ensure the student disables GRIB winds.  
 
-    For newish students you can just run TRT. 
-
+    For newish students you can just run TRT.  
+    
     If you have a more advanced student have them extend to ARA. This adds more OCTA aircraft.  
 
     Constant stream out of YPDN which will cause conflicts down the line.  
@@ -2527,6 +2528,12 @@
         <FlightPlan Active="true" Departure="WPDL" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="430" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">0811S12637E ELBIS M768 SHEPP M768 DN</FlightPlan>
         <Route>ELBIS SHEPP DONYA SUDAG WOKKI DAKTI NEILO LAPAR DN</Route>
       </Aircraft>
+      <Aircraft Callsign="RNG" Type="PA31" Delay="0">
+        <Squawk Code="1200" ModeC="true" />
+        <Position Latitude="-12.450616" Longitude="131.160816" Speed="130" Altitude="3500" />
+        <FlightPlan Active="false" Departure="YPDN" Destination="YGTE" Alternative="" Rules="V" CruiseSpeed="160" ETD="0000" ATD="0000" RFL="3500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">GTE</FlightPlan>
+        <Route>GTE</Route>
+      </Aircraft>
       <Aircraft Callsign="ANO511" Type="E170" Delay="0">
         <Squawk Code="5732" ModeC="true" />
         <Cleared Level="37000" />
@@ -2576,6 +2583,13 @@
         <FlightPlan Active="true" Departure="YBBN" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">BN DCT GULOP J61 DUMAV Q91 ALLEE Q23 DN</FlightPlan>
         <Route>DUMAV NERTI BUNDY ALLEE VEGPU ITTSA SARRE LAPAR DN</Route>
       </Aircraft>
+        <Aircraft Callsign="JVE" Type="C441" Delay="90" StartAuto="true">
+        <Squawk Code="4534" ModeC="true" />
+        <Cleared Level="18000" />
+        <Position Latitude="-12.419272" Longitude="130.895322" Speed="1" Altitude="89" />
+        <FlightPlan Active="true" Departure="YPDN" Destination="YLEV" Alternative="" Rules="I" CruiseSpeed="190" ETD="0000" ATD="0000" RFL="23000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">VANDI6/29 VANDI DCT RAGER J151 TUSTU DCT YLEV</FlightPlan>
+        <Route>BELUN MIGIP LEGUL OTGAX TEGIT DUGAM BURBA VANDI RAGER TUSTU YLEV</Route>
+      </Aircraft>
       <Aircraft Callsign="ANO250" Type="E120" Delay="180" StartAuto="true">
         <Squawk Code="6346" ModeC="true" />
         <Cleared Level="18000" />
@@ -2583,6 +2597,13 @@
         <FlightPlan Active="true" Departure="YPDN" Destination="YPTN" Alternative="" Rules="I" CruiseSpeed="240" ETD="0000" ATD="0000" RFL="23000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">LAKUP5/29 LAKUP J251 TN DCT</FlightPlan>
         <Route>BELUN MIGIP OMUNI LAKUP ANGED TN</Route>
       </Aircraft>
+      <Aircraft Callsign="CF23" Type="BE20" Delay="0" StartAuto="true">
+        <Squawk Code="6536" ModeC="true" />
+        <Cleared Level="18000" />
+        <Position Latitude="-12.419272" Longitude="130.895323" Speed="1" Altitude="89" />
+        <FlightPlan Active="true" Departure="YPDN" Destination="YPTN" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="21000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">LAKUP5/29 LAKUP J251 TN DCT</FlightPlan>
+        <Route>BELUN MIGIP OMUNI LAKUP ANGED TN</Route>
+        </Aircraft>
       <Aircraft Callsign="ANO404" Type="E120" Delay="270" StartAuto="true">
         <Squawk Code="3525" ModeC="true" />
         <Cleared Level="18000" />
@@ -2590,12 +2611,19 @@
         <FlightPlan Active="true" Departure="YPDN" Destination="YGTE" Alternative="" Rules="I" CruiseSpeed="240" ETD="0000" ATD="0000" RFL="23000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">RUSKA6/29 RUSKA W473 GTE</FlightPlan>
         <Route>BELUN MIGIP LEGUL OTGAX TEGIT ITTSA VABLI RUSKA DUMPA GTE</Route>
       </Aircraft>
-      <Aircraft Callsign="VOZ1756" Type="B738" Delay="360" StartAuto="true">
+        <Aircraft Callsign="VOZ1756" Type="B738" Delay="360" StartAuto="true">
         <Squawk Code="6464" ModeC="true" />
         <Cleared Level="18000" />
         <Position Latitude="-12.419272" Longitude="130.895323" Speed="1" Altitude="89" />
         <FlightPlan Active="true" Departure="YPDN" Destination="YBAS" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="41000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">PALGA7/29 PALGA Y25 BEBUX UY83 GREGA J251 AS</FlightPlan>
         <Route>NASUX UBGUX LEMUX BAXIB SNICK PALGA ADKIV BEBUX GREGA SCOTI AS</Route>
+      </Aircraft>
+      <Aircraft Callsign="ANO160" Type="E170" Delay="500" StartAuto="true">
+        <Squawk Code="6423" ModeC="true" />
+        <Cleared Level="18000" />
+        <Position Latitude="-12.419272" Longitude="130.895322" Speed="1" Altitude="89" />
+        <FlightPlan Active="true" Departure="YPDN" Destination="YPGV" Alternative="" Rules="I" CruiseSpeed="360" ETD="0000" ATD="0000" RFL="31000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">PALGA7/29 PALGA DCT COLLA J151 GV</FlightPlan>
+        <Route>NASUX UBGUX LEMUX BAXIB SNICK PALGA COLLA GV</Route>
       </Aircraft>
       <Aircraft Callsign="JST84" Type="A320" Delay="700" StartAuto="true">
         <Squawk Code="6222" ModeC="true" />
@@ -2604,32 +2632,39 @@
         <FlightPlan Active="true" Departure="YPDN" Destination="YPAD" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">PALGA7/29 PALGA Y25 BEBUX UY83 GREGA J251 SADEL/N0453F370 J251 WHA H84 AD</FlightPlan>
         <Route>NASUX UBGUX LEMUX BAXIB SNICK PALGA ADKIV OPEKO BEBUX GREGA SCOTI AS</Route>
       </Aircraft>
+      <Aircraft Callsign="ANO112" Type="E170" Delay="790" StartAuto="true">
+        <Squawk Code="7563" ModeC="true" />
+        <Cleared Level="18000" />
+        <Position Latitude="-12.419272" Longitude="130.895322" Speed="1" Altitude="89" />
+        <FlightPlan Active="true" Departure="YPDN" Destination="YMHU" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">PALGA7/29 PALGA Y25 OPEKO A464 MIGAX DCT ENRES</FlightPlan>
+        <Route>NASUX UBGUX LEMUX BAXIB PALGA ADKIV OPEKO MIGAX ENRES</Route>
+      </Aircraft>
       <Aircraft Callsign="QJE1937" Type="" Delay="880" StartAuto="true">
         <Squawk Code="5747" ModeC="true" />
         <Cleared Level="18000" />
         <Position Latitude="-12.419272" Longitude="130.895322" Speed="1" Altitude="89" />
         <FlightPlan Active="true" Departure="YPDN" Destination="YBAS" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">PALGA7/29 PALGA Y25 BEBUX UY83 GREGA J251 AS</FlightPlan>
         <Route>NASUX UBGUX LEMUX BAXIB SNICK PALGA ADKIV OPEKO BEBUX GREGA SCOTI AS</Route>
-      </Aircraft>
+      </Aircraft>    
       <Aircraft Callsign="JFO" Type="C441" Delay="0">
         <Squawk Code="2000" ModeC="true" />
         <Position Latitude="-12.357286" Longitude="134.898367" Speed="0" Altitude="200" />
         <FlightPlan Active="false" Departure="YRNG" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="24000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TUSTU J151 RAGER VEGPU DN</FlightPlan>
         <Route>TUSTU RAGER VEGPU DN</Route>
         <TimedMessages>
-          <TimedMessage Time="15" Message="JFO, Conquest, POB 6, IFR, Taxiing Ramingining for Darwin, Runway 27" />
-          <TimedMessage Time="75" Message="Takeoff" />
-        </TimedMessages>
+        <TimedMessage Time="15" Message="JFO, Conquest, POB 6, IFR, Taxiing Ramingining for Darwin, Runway 27" />
+        <TimedMessage Time="75" Message="Takeoff" />
+      </TimedMessages>
       </Aircraft>
       <Aircraft Callsign="HVH" Type="SW4" Delay="0">
-        <Squawk Code="2000" ModeC="true" />
-        <Position Latitude="-14.255602" Longitude="129.531525" Speed="0" Altitude="100" />
-        <FlightPlan Active="false" Departure="YPKT" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="21000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">JULUP J72 DN</FlightPlan>
-        <Route>JULUP WANGI DN</Route>
-        <TimedMessages>
-          <TimedMessage Time="100" Message="HVH, Metroliner, IFR, Taxiing Port Keats for Darwin, Runway 34" />
-          <TimedMessage Time="160" Message="Takeoff" />
-        </TimedMessages>
+      <Squawk Code="2000" ModeC="true" />
+      <Position Latitude="-14.255602" Longitude="129.531525" Speed="0" Altitude="100" />
+      <FlightPlan Active="false" Departure="YPKT" Destination="YPDN" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="21000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">JULUP J72 DN</FlightPlan>
+      <Route>JULUP WANGI DN</Route>
+      <TimedMessages>
+        <TimedMessage Time="100" Message="HVH, Metroliner, IFR, Taxiing Port Keats for Darwin, Runway 34" />
+        <TimedMessage Time="160" Message="Takeoff" />
+      </TimedMessages>
       </Aircraft>
     </Targets>
   </ScenarioFile>
