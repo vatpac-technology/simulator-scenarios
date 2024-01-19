@@ -516,6 +516,194 @@
       </ScenarioFile>
 
     <ScenarioFile>
+      <Name>Tower Sydney Runway 34L/R - Auto timed</Name>
+      <Type>Tower</Type>
+      <StudentBriefing>
+        You are operating Sydney Tower. Ground and Delivery are offline.    
+
+        Runway 34L and R are in use for arrivals and departures. Instrument approaches are in use due to a low cloud base.  
+
+        Sydney Approach is online.
+      </StudentBriefing>
+      <InstructorNotes>
+        **ALL ARRIVALS ARE AUTOMATIC**   
+
+        Auto-timed means that you'll be prompted to request clearance/push/taxi for departing aircraft.
+
+        Have Fun
+      </InstructorNotes>
+      <Targets>
+          <Aircraft Callsign="JST430" Type="A320" Delay="0" StartAuto="false">
+              <Squawk Code="0" ModeC="false" />
+              <Position Latitude="-33.935203" Longitude="151.177031" Speed="0" Altitude="3" />
+              <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="false" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H185 BN DCT</FlightPlan>
+              <Route>OLSEM</Route>
+              <TimedMessages>
+                  <TimedMessage Time="1" Message="Request clearance to Brisbane (D57)" />
+                  <TimedMessage Time="120" Message="Request push (D57)" />
+                  <TimedMessage Time="210" Message="Request taxi (34R)" />
+              </TimedMessages>
+          </Aircraft>
+          <Aircraft Callsign="VOZ821" Type="B738" Delay="0" StartAuto="false">
+              <Squawk Code="0" ModeC="false" />
+              <Position Latitude="-33.935548" Longitude="151.17986300000004" Speed="0" Altitude="3" />
+              <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="false" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/   /v/">DCT OLSEM Y193 BANDA H185 BN DCT</FlightPlan>
+              <Route>OLSEM</Route>
+              <TimedMessages>
+                  <TimedMessage Time="90" Message="Request clearance to Brisbane (D34)" />
+                  <TimedMessage Time="275" Message="Request push (D34)" />
+                  <TimedMessage Time="415" Message="Request taxi (34R)" />
+              </TimedMessages>
+          </Aircraft>
+          <Aircraft Callsign="QFA820" Type="B738" Delay="1320" StartAuto="true">
+              <Squawk Code="0" ModeC="false" />
+              <Position Latitude="-33.931913" Longitude="151.18020300000003" Speed="0" Altitude="13" />
+              <FlightPlan Departure="YSSY" Destination="YBCG" Alternative="" Active="false" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA Y43 GREAV CG DCT</FlightPlan>
+              <Route>OLSEM</Route>
+              <TimedMessages>
+                  <TimedMessage Time="1620" Message="Request clearance to Gold Coast (D2)" />
+                  <TimedMessage Time="1740" Message="Request push (D2)" />
+                  <TimedMessage Time="1860" Message="Request taxi (34R)" />
+              </TimedMessages>
+          </Aircraft>
+          <Aircraft Callsign="QFA127" Type="B744" Delay="540" StartAuto="true">
+              <Squawk Code="0" ModeC="false" />
+              <Position Latitude="-33.938971" Longitude="151.168822" Speed="0" Altitude="13" />
+              <FlightPlan Departure="YSSY" Destination="VHHH" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RIC H530 SURVO R340 DUMAV/N0468F400 R340 AMN A461 BONDA/N0471F380 A461 ZAM A583 SABNO V541</FlightPlan>
+              <Route>RIC</Route>
+              <TimedMessages>
+                  <TimedMessage Time="840" Message="Request clearance to Hong Kong (34)" />
+                  <TimedMessage Time="1080" Message="Request push (34)" />
+                  <TimedMessage Time="1260" Message="Request taxi (34L)" />
+              </TimedMessages>
+          </Aircraft>
+          <Aircraft Callsign="UAE476" Type="B772" Delay="0" StartAuto="false">
+              <Squawk Code="0" ModeC="false" />
+              <Position Latitude="-33.939237" Longitude="151.16663600000004" Speed="0" Altitude="13" />
+              <FlightPlan Departure="YSSY" Destination="OMDB" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RIC UH226 ENPAG T74 KARAG/N0500F340 T74 VINAX/N0500F360 T74 TN J251 DN M768 PORAK/N0490F380 M768 TSN R468 PNH A340 RYN DCT</FlightPlan>
+              <Route>RIC</Route>
+              <TimedMessages>
+                  <TimedMessage Time="45" Message="Request clearance to Dubai (55)" />
+                  <TimedMessage Time="450" Message="Request push (55)" />
+                  <TimedMessage Time="600" Message="Request taxi (34L)" />
+              </TimedMessages>
+          </Aircraft>
+          <Aircraft Callsign="QLK227D" Type="DH8D" Delay="750" StartAuto="true">
+              <Squawk Code="0" ModeC="false" />
+              <Position Latitude="-33.931105" Longitude="151.182211" Speed="0" Altitude="13" />
+              <FlightPlan Departure="YSSY" Destination="YSCB" Alternative="" Active="false" Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="22000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PEGSU V169 CB DCT</FlightPlan>
+              <Route>BUNGO</Route>
+              <TimedMessages>
+                  <TimedMessage Time="1050" Message="Request clearance to Canberra (D67)" />
+                  <TimedMessage Time="1170" Message="Request taxi (34L)" />
+              </TimedMessages>
+          </Aircraft>
+          <Aircraft Callsign="JST527" Type="A320" Delay="990" StartAuto="true">
+              <Squawk Code="0" ModeC="false" />
+              <Position Latitude="-33.93472200000001" Longitude="151.177124" Speed="0" Altitude="3" />
+              <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT WOL H65 RAZZI Q29 ML DCT</FlightPlan>
+              <Route>WOL</Route>
+              <TimedMessages>
+                  <TimedMessage Time="1290" Message="Request clearance to Melbourne (D55)" />
+                  <TimedMessage Time="1440" Message="Request push (D55)" />
+                  <TimedMessage Time="1560" Message="Request taxi (34R)" />
+              </TimedMessages>
+          </Aircraft>
+          <Aircraft Callsign="VOZ429" Type="B738" Delay="0" StartAuto="false">
+              <Squawk Code="0" ModeC="false" />
+              <Position Latitude="-33.93509300000001" Longitude="151.179945" Speed="0" Altitude="3" />
+              <FlightPlan Departure="YSSY" Destination="YPAD" Alternative="" Active="false" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KADOM H44 BORLI W451 MIA H309 AD DCT</FlightPlan>
+              <Route>KADOM</Route>
+              <TimedMessages>
+                  <TimedMessage Time="240" Message="Request clearance to Adelaide (D32)" />
+                  <TimedMessage Time="390" Message="Request push (D32)" />
+                  <TimedMessage Time="555" Message="Request taxi (34L)" />
+              </TimedMessages>
+          </Aircraft>
+          <Aircraft Callsign="CXF" Type="B350" Delay="180" StartAuto="true">
+              <Squawk Code="0" ModeC="false" />
+              <Position Latitude="-33.934085" Longitude="151.188217" Speed="0" Altitude="20" />
+              <FlightPlan Departure="YSSY" Destination="YWLM" Alternative="" Active="false" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="9000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT WLM DCT</FlightPlan>
+              <Route>WLM</Route>
+              <TimedMessages>
+                  <TimedMessage Time="480" Message="Request clearance to Williamtown (Dom 103)" />
+                  <TimedMessage Time="660" Message="Request taxi" />
+              </TimedMessages>
+          </Aircraft>
+          <Aircraft Callsign="VOZ887" Type="B738" Delay="0" StartAuto="false">
+              <Squawk Code="1234" ModeC="true" />
+              <Cleared Approach="true" />
+              <Position Latitude="-34.667606" Longitude="151.347326" Speed="200" Altitude="3000" />
+              <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET /34L</FlightPlan>
+              <Route>SOSIJ TESAT</Route>
+          </Aircraft>
+          <Aircraft Callsign="QFA490" Type="B738" Delay="0" StartAuto="false">
+              <Squawk Code="1236" ModeC="true" />
+              <Cleared Approach="true" />
+              <Position Latitude="-35.374587999999996" Longitude="151.48732" Speed="200" Altitude="3000" />
+              <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET /34L</FlightPlan>
+              <Route>SOSIJ TESAT</Route>
+          </Aircraft>
+          <Aircraft Callsign="QFA414" Type="B738" Delay="0" StartAuto="false">
+              <Squawk Code="1336" ModeC="true" />
+              <Cleared Approach="true" />
+              <Position Latitude="-35.15458799999999" Longitude="151.48732" Speed="200" Altitude="3000" />
+              <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET /34R</FlightPlan>
+              <Route>ENDEV TESAT</Route>
+          </Aircraft>
+          <Aircraft Callsign="VOZ871" Type="B738" Delay="0" StartAuto="false">
+              <Squawk Code="1237" ModeC="true" />
+              <Cleared Approach="true" />
+              <Position Latitude="-35.730332" Longitude="151.55064099999998" Speed="200" Altitude="3000" />
+              <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET /34L</FlightPlan>
+              <Route>SOSIJ TESAT</Route>
+          </Aircraft>
+          <Aircraft Callsign="QFA543" Type="B738" Delay="0" StartAuto="false">
+              <Squawk Code="5234" ModeC="true" />
+              <Cleared Approach="true" />
+              <Position Latitude="-34.81298399999999" Longitude="151.40408100000002" Speed="200" Altitude="3000" />
+              <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 IGDAM H12 BOREE /34R</FlightPlan>
+              <Route>ENDEV TESAT</Route>
+          </Aircraft>
+          <Aircraft Callsign="VOZ982" Type="B738" Delay="0" StartAuto="false">
+              <Squawk Code="1245" ModeC="true" />
+              <Cleared Approach="true" />
+              <Position Latitude="-35.999555" Longitude="151.574844" Speed="200" Altitude="3000" />
+              <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 IGDAM H12 BOREE /34R</FlightPlan>
+              <Route>ENDEV TESAT</Route>
+          </Aircraft>
+          <Aircraft Callsign="QFA128" Type="B744" Delay="0" StartAuto="false">
+              <Squawk Code="2646" ModeC="true" />
+              <Cleared Approach="true" />
+              <Position Latitude="-35.964555" Longitude="151.574844" Speed="200" Altitude="3000" />
+              <FlightPlan Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PKS RIVET /34L</FlightPlan>
+              <Route>SOSIJ TESAT</Route>
+          </Aircraft>
+          <Aircraft Callsign="QFA505" Type="B738" Delay="0" StartAuto="false">
+              <Squawk Code="5423" ModeC="true" />
+              <Cleared Approach="true" />
+              <Position Latitude="-35.510595" Longitude="151.50793100000004" Speed="200" Altitude="3000" />
+              <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 IGDAM H12 BOREE /34R</FlightPlan>
+              <Route>ENDEV TESAT</Route>
+          </Aircraft>
+          <Aircraft Callsign="JST778" Type="A320" Delay="0" StartAuto="false">
+              <Squawk Code="5424" ModeC="true" />
+              <Cleared Approach="true" />
+              <Position Latitude="-36.17" Longitude="151.50793100000004" Speed="200" Altitude="3000" />
+              <FlightPlan Departure="YBCG" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 IGDAM H12 BOREE /34R</FlightPlan>
+              <Route>ENDEV TESAT</Route>
+          </Aircraft>
+          <Aircraft Callsign="UAL981" Type="B772" Delay="0" StartAuto="false">
+              <Squawk Code="5423" ModeC="true" />
+              <Cleared Approach="true" />
+              <Position Latitude="-36.32" Longitude="151.50793100000004" Speed="200" Altitude="3000" />
+              <FlightPlan Departure="KLAX" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BOREE /34L</FlightPlan>
+              <Route>SOSIJ TESAT</Route>
+          </Aircraft>
+      </Targets>
+    </ScenarioFile>
+
+    <ScenarioFile>
       <Name>Tower Brisbane Runway 19L/R</Name>
       <Type>Tower</Type>
       <StudentBriefing>
@@ -967,192 +1155,6 @@
         <Route>MOPRI RWY23</Route>
       </Aircraft>
     </Targets>
-    </ScenarioFile>
-
-    <ScenarioFile>
-      <Name>Tower Sydney Runway 34L/R - Auto timed</Name>
-      <Type>Tower</Type>
-      <StudentBriefing>
-        You are operating Sydney Tower. Ground and Delivery are offline.    
-
-        Runway 34L and R are in use for arrivals and departures. Instrument approaches are in use due to a low cloud base.  
-
-        Sydney Approach is online.
-      </StudentBriefing>
-      <InstructorNotes>
-        **ALL ARRIVALS ARE AUTOMATIC**   
-
-        Have Fun
-      </InstructorNotes>
-      <Targets>
-          <Aircraft Callsign="JST430" Type="A320" Delay="0" StartAuto="false">
-              <Squawk Code="0" ModeC="false" />
-              <Position Latitude="-33.935203" Longitude="151.177031" Speed="0" Altitude="3" />
-              <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="false" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H185 BN DCT</FlightPlan>
-              <Route>OLSEM</Route>
-              <TimedMessages>
-                  <TimedMessage Time="1" Message="Request clearance to Brisbane (D57)" />
-                  <TimedMessage Time="120" Message="Request push (D57)" />
-                  <TimedMessage Time="210" Message="Request taxi (34R)" />
-              </TimedMessages>
-          </Aircraft>
-          <Aircraft Callsign="VOZ821" Type="B738" Delay="0" StartAuto="false">
-              <Squawk Code="0" ModeC="false" />
-              <Position Latitude="-33.935548" Longitude="151.17986300000004" Speed="0" Altitude="3" />
-              <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="false" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/   /v/">DCT OLSEM Y193 BANDA H185 BN DCT</FlightPlan>
-              <Route>OLSEM</Route>
-              <TimedMessages>
-                  <TimedMessage Time="90" Message="Request clearance to Brisbane (D34)" />
-                  <TimedMessage Time="275" Message="Request push (D34)" />
-                  <TimedMessage Time="415" Message="Request taxi (34R)" />
-              </TimedMessages>
-          </Aircraft>
-          <Aircraft Callsign="QFA820" Type="B738" Delay="1320" StartAuto="true">
-              <Squawk Code="0" ModeC="false" />
-              <Position Latitude="-33.931913" Longitude="151.18020300000003" Speed="0" Altitude="13" />
-              <FlightPlan Departure="YSSY" Destination="YBCG" Alternative="" Active="false" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA Y43 GREAV CG DCT</FlightPlan>
-              <Route>OLSEM</Route>
-              <TimedMessages>
-                  <TimedMessage Time="1620" Message="Request clearance to Gold Coast (D2)" />
-                  <TimedMessage Time="1740" Message="Request push (D2)" />
-                  <TimedMessage Time="1860" Message="Request taxi (34R)" />
-              </TimedMessages>
-          </Aircraft>
-          <Aircraft Callsign="QFA127" Type="B744" Delay="540" StartAuto="true">
-              <Squawk Code="0" ModeC="false" />
-              <Position Latitude="-33.938971" Longitude="151.168822" Speed="0" Altitude="13" />
-              <FlightPlan Departure="YSSY" Destination="VHHH" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RIC H530 SURVO R340 DUMAV/N0468F400 R340 AMN A461 BONDA/N0471F380 A461 ZAM A583 SABNO V541</FlightPlan>
-              <Route>RIC</Route>
-              <TimedMessages>
-                  <TimedMessage Time="840" Message="Request clearance to Hong Kong (34)" />
-                  <TimedMessage Time="1080" Message="Request push (34)" />
-                  <TimedMessage Time="1260" Message="Request taxi (34L)" />
-              </TimedMessages>
-          </Aircraft>
-          <Aircraft Callsign="UAE476" Type="B772" Delay="0" StartAuto="false">
-              <Squawk Code="0" ModeC="false" />
-              <Position Latitude="-33.939237" Longitude="151.16663600000004" Speed="0" Altitude="13" />
-              <FlightPlan Departure="YSSY" Destination="OMDB" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RIC UH226 ENPAG T74 KARAG/N0500F340 T74 VINAX/N0500F360 T74 TN J251 DN M768 PORAK/N0490F380 M768 TSN R468 PNH A340 RYN DCT</FlightPlan>
-              <Route>RIC</Route>
-              <TimedMessages>
-                  <TimedMessage Time="45" Message="Request clearance to Dubai (55)" />
-                  <TimedMessage Time="450" Message="Request push (55)" />
-                  <TimedMessage Time="600" Message="Request taxi (34L)" />
-              </TimedMessages>
-          </Aircraft>
-          <Aircraft Callsign="QLK227D" Type="DH8D" Delay="750" StartAuto="true">
-              <Squawk Code="0" ModeC="false" />
-              <Position Latitude="-33.931105" Longitude="151.182211" Speed="0" Altitude="13" />
-              <FlightPlan Departure="YSSY" Destination="YSCB" Alternative="" Active="false" Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="22000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PEGSU V169 CB DCT</FlightPlan>
-              <Route>BUNGO</Route>
-              <TimedMessages>
-                  <TimedMessage Time="1050" Message="Request clearance to Canberra (D67)" />
-                  <TimedMessage Time="1170" Message="Request taxi (34L)" />
-              </TimedMessages>
-          </Aircraft>
-          <Aircraft Callsign="JST527" Type="A320" Delay="990" StartAuto="true">
-              <Squawk Code="0" ModeC="false" />
-              <Position Latitude="-33.93472200000001" Longitude="151.177124" Speed="0" Altitude="3" />
-              <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT WOL H65 RAZZI Q29 ML DCT</FlightPlan>
-              <Route>WOL</Route>
-              <TimedMessages>
-                  <TimedMessage Time="1290" Message="Request clearance to Melbourne (D55)" />
-                  <TimedMessage Time="1440" Message="Request push (D55)" />
-                  <TimedMessage Time="1560" Message="Request taxi (34R)" />
-              </TimedMessages>
-          </Aircraft>
-          <Aircraft Callsign="VOZ429" Type="B738" Delay="0" StartAuto="false">
-              <Squawk Code="0" ModeC="false" />
-              <Position Latitude="-33.93509300000001" Longitude="151.179945" Speed="0" Altitude="3" />
-              <FlightPlan Departure="YSSY" Destination="YPAD" Alternative="" Active="false" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KADOM H44 BORLI W451 MIA H309 AD DCT</FlightPlan>
-              <Route>KADOM</Route>
-              <TimedMessages>
-                  <TimedMessage Time="240" Message="Request clearance to Adelaide (D32)" />
-                  <TimedMessage Time="390" Message="Request push (D32)" />
-                  <TimedMessage Time="555" Message="Request taxi (34L)" />
-              </TimedMessages>
-          </Aircraft>
-          <Aircraft Callsign="CXF" Type="B350" Delay="180" StartAuto="true">
-              <Squawk Code="0" ModeC="false" />
-              <Position Latitude="-33.934085" Longitude="151.188217" Speed="0" Altitude="20" />
-              <FlightPlan Departure="YSSY" Destination="YWLM" Alternative="" Active="false" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="9000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT WLM DCT</FlightPlan>
-              <Route>WLM</Route>
-              <TimedMessages>
-                  <TimedMessage Time="480" Message="Request clearance to Williamtown (Dom 103)" />
-                  <TimedMessage Time="660" Message="Request taxi" />
-              </TimedMessages>
-          </Aircraft>
-          <Aircraft Callsign="VOZ887" Type="B738" Delay="0" StartAuto="false">
-              <Squawk Code="1234" ModeC="true" />
-              <Cleared Approach="true" />
-              <Position Latitude="-34.667606" Longitude="151.347326" Speed="200" Altitude="3000" />
-              <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET /34L</FlightPlan>
-              <Route>SOSIJ TESAT</Route>
-          </Aircraft>
-          <Aircraft Callsign="QFA490" Type="B738" Delay="0" StartAuto="false">
-              <Squawk Code="1236" ModeC="true" />
-              <Cleared Approach="true" />
-              <Position Latitude="-35.374587999999996" Longitude="151.48732" Speed="200" Altitude="3000" />
-              <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET /34L</FlightPlan>
-              <Route>SOSIJ TESAT</Route>
-          </Aircraft>
-          <Aircraft Callsign="QFA414" Type="B738" Delay="0" StartAuto="false">
-              <Squawk Code="1336" ModeC="true" />
-              <Cleared Approach="true" />
-              <Position Latitude="-35.15458799999999" Longitude="151.48732" Speed="200" Altitude="3000" />
-              <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET /34R</FlightPlan>
-              <Route>ENDEV TESAT</Route>
-          </Aircraft>
-          <Aircraft Callsign="VOZ871" Type="B738" Delay="0" StartAuto="false">
-              <Squawk Code="1237" ModeC="true" />
-              <Cleared Approach="true" />
-              <Position Latitude="-35.730332" Longitude="151.55064099999998" Speed="200" Altitude="3000" />
-              <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET /34L</FlightPlan>
-              <Route>SOSIJ TESAT</Route>
-          </Aircraft>
-          <Aircraft Callsign="QFA543" Type="B738" Delay="0" StartAuto="false">
-              <Squawk Code="5234" ModeC="true" />
-              <Cleared Approach="true" />
-              <Position Latitude="-34.81298399999999" Longitude="151.40408100000002" Speed="200" Altitude="3000" />
-              <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 IGDAM H12 BOREE /34R</FlightPlan>
-              <Route>ENDEV TESAT</Route>
-          </Aircraft>
-          <Aircraft Callsign="VOZ982" Type="B738" Delay="0" StartAuto="false">
-              <Squawk Code="1245" ModeC="true" />
-              <Cleared Approach="true" />
-              <Position Latitude="-35.999555" Longitude="151.574844" Speed="200" Altitude="3000" />
-              <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 IGDAM H12 BOREE /34R</FlightPlan>
-              <Route>ENDEV TESAT</Route>
-          </Aircraft>
-          <Aircraft Callsign="QFA128" Type="B744" Delay="0" StartAuto="false">
-              <Squawk Code="2646" ModeC="true" />
-              <Cleared Approach="true" />
-              <Position Latitude="-35.964555" Longitude="151.574844" Speed="200" Altitude="3000" />
-              <FlightPlan Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PKS RIVET /34L</FlightPlan>
-              <Route>SOSIJ TESAT</Route>
-          </Aircraft>
-          <Aircraft Callsign="QFA505" Type="B738" Delay="0" StartAuto="false">
-              <Squawk Code="5423" ModeC="true" />
-              <Cleared Approach="true" />
-              <Position Latitude="-35.510595" Longitude="151.50793100000004" Speed="200" Altitude="3000" />
-              <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 IGDAM H12 BOREE /34R</FlightPlan>
-              <Route>ENDEV TESAT</Route>
-          </Aircraft>
-          <Aircraft Callsign="JST778" Type="A320" Delay="0" StartAuto="false">
-              <Squawk Code="5424" ModeC="true" />
-              <Cleared Approach="true" />
-              <Position Latitude="-36.17" Longitude="151.50793100000004" Speed="200" Altitude="3000" />
-              <FlightPlan Departure="YBCG" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H62 IGDAM H12 BOREE /34R</FlightPlan>
-              <Route>ENDEV TESAT</Route>
-          </Aircraft>
-          <Aircraft Callsign="UAL981" Type="B772" Delay="0" StartAuto="false">
-              <Squawk Code="5423" ModeC="true" />
-              <Cleared Approach="true" />
-              <Position Latitude="-36.32" Longitude="151.50793100000004" Speed="200" Altitude="3000" />
-              <FlightPlan Departure="KLAX" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BOREE /34L</FlightPlan>
-              <Route>SOSIJ TESAT</Route>
-          </Aircraft>
-      </Targets>
     </ScenarioFile>
 
 
