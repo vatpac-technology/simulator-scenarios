@@ -89,7 +89,7 @@
             <Squawk Code="1234" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-37.28055556" Longitude="144.76055556" Speed="180" Altitude="3000" />
-            <FlightPlan Active="true" Departure="YPAD" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">AD V255 BENDO Y12 ARBEY ARBE7A/16</FlightPlan>
+            <FlightPlan Active="true" Departure="YPAD" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">AD V255 BENDO Y12 ARBEY YMML/16</FlightPlan>
             <Route>TUNKA LASOL BELTA RWY16 YMML</Route>
           </Aircraft>
           <Aircraft Callsign="RXA3251" Type="SF34" Delay="0" StartAuto="true">
@@ -212,7 +212,7 @@
           <Squawk Code="1234" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-37.28055556" Longitude="144.76055556" Speed="180" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YPAD" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">AD V255 BENDO Y12 ARBEY ARBE7A/16</FlightPlan>
+          <FlightPlan Active="true" Departure="YPAD" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">AD V255 BENDO Y12 ARBEY YMML/16</FlightPlan>
           <Route>TUNKA LASOL BELTA RWY16 YMML</Route>
         </Aircraft>
         <Aircraft Callsign="RXA3253" Type="SF34" Delay="0" StartAuto="true">
