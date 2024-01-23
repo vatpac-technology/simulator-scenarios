@@ -232,7 +232,7 @@
         <Aircraft Callsign="QFA411" Type="A332" Delay="0" StartAuto="true">
           <Squawk Code="1222" ModeC="true" />
           <Cleared Approach="true" />
-          <Position Latitude="-37.45027778" Longitude="145.63555556" Speed="180" Altitude="3000" />
+          <Position Latitude="-37.44500000" Longitude="145.64833333" Speed="180" Altitude="3000" />
           <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
           <Route>LIZZI NEFER BELTA RWY16 YMML</Route>
         </Aircraft>
