@@ -1000,7 +1000,7 @@
     </ScenarioFile>
 
     <ScenarioFile>
-    <Name>Tower Adelaide Runway 23</Name>
+    <Name>Tower Adelaide Runway 23 - Auto Timed</Name>
     <Type>Tower</Type>
     <StudentBriefing>
       You are operating Adelaide Tower. Ground and Delivery are offline.    
@@ -1158,67 +1158,64 @@
         <Squawk Code="4004" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-34.723333000000004" Longitude="138.859722" Speed="200" Altitude="3000" />
-        <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="447" ETD="0000" ATD="0000" RFL="28000" EETHours="2" EETMins="25" FuelHours="3" FuelMins="45" Remarks="NAV/RNP2 RTF/JETSTAR /v/">DCT SANEG Q210 NBR Q53 WOONA Q60 BLACK VILAD GULLY YPAD/23</FlightPlan>
-        <Route>MOPRI RWY23</Route>
-        <TimedMessages>
-          <TimedMessage Time="0" Message="JST800, Activate FP" />
-        </TimedMessages>
+        <FlightPlan Departure="YBBN" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="447" ETD="0000" ATD="0000" RFL="28000" EETHours="2" EETMins="25" FuelHours="3" FuelMins="45" Remarks="NAV/RNP2 RTF/JETSTAR /v/">DCT SANEG Q210 NBR Q53 WOONA Q60 BLACK GULLY YPAD/23</FlightPlan>
+        <Route>GULLY RWY23 YPAD</Route>
       </Aircraft>
-      <Aircraft Callsign="MAS139" Type="A333" Delay="480" StartAuto="true">
+      <Aircraft Callsign="MAS139" Type="A333" Delay="0" StartAuto="true">
         <Squawk Code="6702" ModeC="true" />
         <Cleared Approach="true" />
-        <Position Latitude="-34.723333000000004" Longitude="138.859722" Speed="200" Altitude="3000" />
-        <FlightPlan Departure="WMKK" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="467" ETD="0000" ATD="0000" RFL="37000" EETHours="6" EETMins="29" FuelHours="8" FuelMins="32" Remarks="NAV/RNP2 RTF/MALAYSIAN /v/">MITOS M630 SUKRI/M080F370 M630 TPG M635 SURGA/N0466F370 M635 UDONO/N0470F390 M635 BLI G578 EGATU/M081F390 G578 PD A585 PINAV/M080F390 A585 CDU V621 RIKAB VILAD GULLY YPAD/23</FlightPlan>
-        <Route>MOPRI RWY23</Route>
+        <Position Latitude="-34.80916667" Longitude="138.46777778" Speed="200" Altitude="3000" />
+        <FlightPlan Departure="WMKK" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="467" ETD="0000" ATD="0000" RFL="37000" EETHours="6" EETMins="29" FuelHours="8" FuelMins="32" Remarks="NAV/RNP2 RTF/MALAYSIAN /v/">MITOS M630 SUKRI/M080F370 M630 TPG M635 SURGA/N0466F370 M635 UDONO/N0470F390 M635 BLI G578 EGATU/M081F390 G578 PD A585 PINAV/M080F390 A585 CDU V621 RIKAB GULFS URBUN GLOBE ELIZA GULLY YPAD/23</FlightPlan>
+        <Route>GLOBE ELIZA GULLY RWY23 YPAD</Route>
       </Aircraft>
-      <Aircraft Callsign="QFA695" Type="B738" Delay="840" StartAuto="true">
+      <Aircraft Callsign="QFA695" Type="B738" Delay="0" StartAuto="true">
         <Squawk Code="4442" ModeC="true" />
         <Cleared Approach="true" />
-        <Position Latitude="-34.723333000000004" Longitude="138.859722" Speed="200" Altitude="3000" />
-        <FlightPlan Departure="YMML" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="457" ETD="0000" ATD="0000" RFL="40000" EETHours="1" EETMins="10" FuelHours="2" FuelMins="23" Remarks="NAV/RNP2 RTF/QANTAS /v/">DCT NEVIS H345 DRINA VILAD GULLY YPAD/23</FlightPlan>
-        <Route>MOPRI RWY23</Route>
+        <Position Latitude="-35.06972222" Longitude="139.07250000" Speed="200" Altitude="3000" />
+        <FlightPlan Departure="YMML" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="457" ETD="0000" ATD="0000" RFL="40000" EETHours="1" EETMins="10" FuelHours="2" FuelMins="23" Remarks="NAV/RNP2 RTF/QANTAS /v/">DCT NEVIS H345 DRINA DISHA BRAKI OMDIN GULLY YPAD/23</FlightPlan>
+        <Route>BRAKI OMDID GULLY RWY23 YPAD</Route>
       </Aircraft>
-      <Aircraft Callsign="FD586" Type="PC12" Delay="1140" StartAuto="true">
+      <Aircraft Callsign="FD586" Type="PC12" Delay="0" StartAuto="true">
         <Squawk Code="6414" ModeC="true" />
         <Cleared Approach="true" />
-        <Position Latitude="-34.723333000000004" Longitude="138.859722" Speed="200" Altitude="3000" />
-        <FlightPlan Departure="YMLD" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="9000" EETHours="0" EETMins="20" FuelHours="1" FuelMins="45" Remarks="NAV/RNP2 RTF/FLYDOC /v/">DCT MARGO VILAD GULLY YPAD/23</FlightPlan>
-        <Route>MOPRI RWY23</Route>
+        <Position Latitude="-34.50027778" Longitude="138.11944444" Speed="200" Altitude="3000" />
+        <FlightPlan Departure="YMLD" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="9000" EETHours="0" EETMins="20" FuelHours="1" FuelMins="45" Remarks="NAV/RNP2 RTF/FLYDOC /v/">DCT MARGO SALTY GLOBE ELIZA GULLY YPAD/23</FlightPlan>
+        <Route>SALTY GLOBE ELIZA GULLY RWY23 YPAD</Route>
       </Aircraft>
-      <Aircraft Callsign="FD571" Type="PC12" Delay="1560" StartAuto="true">
+      <Aircraft Callsign="FD571" Type="PC12" Delay="0" StartAuto="true">
         <Squawk Code="2040" ModeC="true" />
         <Cleared Approach="true" />
-        <Position Latitude="-34.723333000000004" Longitude="138.859722" Speed="200" Altitude="3000" />
-        <FlightPlan Departure="YPLC" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="268" ETD="0000" ATD="0000" RFL="15000" EETHours="0" EETMins="38" FuelHours="2" FuelMins="45" Remarks="NAV/RNP2 RTF/FLYDOC /v/">DCT TEKOD V707 RIKAB VILAD GULLY YPAD/23</FlightPlan>
-        <Route>MOPRI RWY23</Route>
+        <Position Latitude="-34.72777778" Longitude="137.61583333" Speed="200" Altitude="3000" />
+        <FlightPlan Departure="YPLC" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="268" ETD="0000" ATD="0000" RFL="15000" EETHours="0" EETMins="38" FuelHours="2" FuelMins="45" Remarks="NAV/RNP2 RTF/FLYDOC /v/">DCT TEKOD V707 RIKAB RIKA8A/23</FlightPlan>
+        <Route>RIKAB</Route>
       </Aircraft>
-      <Aircraft Callsign="VOZ231" Type="B738" Delay="1920" StartAuto="true">
+      <Aircraft Callsign="VOZ231" Type="B738" Delay="0" StartAuto="true">
         <Squawk Code="3540" ModeC="true" />
         <Cleared Approach="true" />
-        <Position Latitude="-34.723333000000004" Longitude="138.859722" Speed="200" Altitude="3000" />
-        <FlightPlan Departure="YMML" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="454" ETD="0000" ATD="0000" RFL="34000" EETHours="1" EETMins="11" FuelHours="2" FuelMins="22" Remarks="NAV/RNP2 RTF/VELOCITY /v/">DCT NEVIS H345 AD VILAD GULLY YPAD/23</FlightPlan>
-        <Route>MOPRI RWY23</Route>
+        <Position Latitude="-35.57027778" Longitude="139.46166667" Speed="200" Altitude="3000" />
+        <FlightPlan Departure="YMML" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="454" ETD="0000" ATD="0000" RFL="34000" EETHours="1" EETMins="11" FuelHours="2" FuelMins="22" Remarks="NAV/RNP2 RTF/VELOCITY /v/">DCT NEVIS H345 DRINA DRIN9A/23</FlightPlan>
+        <Route>DRINA</Route>
       </Aircraft>
-      <Aircraft Callsign="QLK2270" Type="DH8C" Delay="2220" StartAuto="true">
+      <Aircraft Callsign="RXA4357" Type="SF34" Delay="0" StartAuto="true">
         <Squawk Code="2750" ModeC="true" />
         <Cleared Approach="true" />
-        <Position Latitude="-34.723333000000004" Longitude="138.859722" Speed="200" Altitude="3000" />
-        <FlightPlan Departure="YPLC" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="15000" EETHours="0" EETMins="45" FuelHours="1" FuelMins="59" Remarks="NAV/RNP2 RTF/QLINK /v/">DCT PLC V707 RIKAB VILAD GULLY YPAD/23</FlightPlan>
-        <Route>MOPRI RWY23</Route>
+        <Position Latitude="-34.70500000" Longitude="137.24138889" Speed="200" Altitude="3000" />
+        <FlightPlan Departure="YPLC" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="15000" EETHours="0" EETMins="45" FuelHours="1" FuelMins="59" Remarks="NAV/RNP2 RTF/QLINK /v/">DCT PLC V707 RIKAB RIKA8A/23</FlightPlan>
+        <Route>RIKAB</Route>
       </Aircraft>
-      <Aircraft Callsign="VOZ718" Type="B738" Delay="2460" StartAuto="true">
+      <Aircraft Callsign="VOZ718" Type="B738" Delay="0" StartAuto="true">
         <Squawk Code="3007" ModeC="true" />
         <Cleared Approach="true" />
-        <Position Latitude="-34.723333000000004" Longitude="138.859722" Speed="200" Altitude="3000" />
-        <FlightPlan Departure="YPPH" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="447" ETD="0000" ATD="0000" RFL="37000" EETHours="2" EETMins="28" FuelHours="3" FuelMins="58" Remarks="NAV/RNP2 RTF/VELOCITY /v/">DCT HECTO Y135 ROGAS Y39 RIKAB VILAD GULLY YPAD/23</FlightPlan>
-        <Route>MOPRI RWY23</Route>
+        <Position Latitude="-34.78833333" Longitude="136.71527778" Speed="200" Altitude="3000" />
+        <FlightPlan Departure="YPPH" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="447" ETD="0000" ATD="0000" RFL="37000" EETHours="2" EETMins="28" FuelHours="3" FuelMins="58" Remarks="NAV/RNP2 RTF/VELOCITY /v/">DCT HECTO Y135 ROGAS Y39 RIKAB RIKA8A/23</FlightPlan>
+        <Route>RIKAB</Route>
       </Aircraft>
-      <Aircraft Callsign="JST961" Type="A320" Delay="2820" StartAuto="true">
+      <Aircraft Callsign="JST961" Type="A320" Delay="0" StartAuto="true">
         <Squawk Code="4503" ModeC="true" />
         <Cleared Approach="true" />
-        <Position Latitude="-34.723333000000004" Longitude="138.859722" Speed="200" Altitude="3000" />
-        <FlightPlan Departure="YBCS" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="34000" EETHours="2" EETMins="53" FuelHours="4" FuelMins="01" Remarks="NAV/RNP2 RTF/JETSTAR /v/">DCT NONUM DCT RUSSO DCT NONET DCT OOM J37 ATLIB H630 NIMEK H135 KLAVA VILAD GULLY YPAD/23</FlightPlan>
-        <Route>MOPRI RWY23</Route>
+        <Position Latitude="-33.17666667" Longitude="138.51250000" Speed="200" Altitude="3000" />
+        <FlightPlan Departure="YBCS" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="34000" EETHours="2" EETMins="53" FuelHours="4" FuelMins="01" Remarks="NAV/RNP2 RTF/JETSTAR /v/">DCT NONUM DCT RUSSO DCT NONET DCT OOM J37 ATLIB H630 NIMEK H135 KLAVA RAYN2A/23</FlightPlan>
+        <Route>KLAVA</Route>
       </Aircraft>
     </Targets>
     </ScenarioFile>
