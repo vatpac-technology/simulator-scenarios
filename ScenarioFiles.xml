@@ -780,9 +780,13 @@
           Brisbane Approach is online.
         </StudentBriefing>
       <InstructorNotes>   
-        All arrivals are cleared the approach and will land automatically.
+        All arrivals are cleared the approach and will land automatically. Aircraft for runway 19L from the northwest may not be visible on surveillence until entering the TMA due terrain. Use the simulator map if required.
 
-        **LMD** for an overfly at A005. Cancel auto-release with the student when appropriate. You will be prompted for coordination.  
+        This is a busy scenario with a full arrival sequence to both runways. Suggest instructors leave the sim paused to process airways clearances or delete the first few aircraft if the student is a beginner.
+
+        **POL31** for an overfly at A015. Cancel auto-release with the student when appropriate. You will be prompted for coordination.
+
+        **SH133** and **UTY1720** get quite close on the approach, providing a chance for the student to issue speed instructions ('reduce final approach speed', 'maintain best speed to the field', etc) or issue a go around.  
 
         **Parking Positions:**
         - ACI151: 81
@@ -799,22 +803,23 @@
         - YJR: G3
       </InstructorNotes>
       <Targets>
-        <Aircraft Callsign="LMD" Type="C208" Delay="0">
+        <Aircraft Callsign="POL31" Type="C208" Delay="0">
           <Squawk Code="4765" ModeC="true" />
           <Cleared Level="500"/>
-          <Position Latitude="-27.662547" Longitude="153.321320" Speed="150" Altitude="500" />
-          <FlightPlan Departure="YBCG" Destination="YRED" Alternative="" Active="true" Rules="V" CruiseSpeed="155" ETD="0000" ATD="0000" RFL="500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">YBCG REDB WELL BN HBVT YRED</FlightPlan>
-          <Route>REDB WELL BN HBVT YRED</Route>
+          <Position Latitude="-27.662547" Longitude="153.321320" Speed="150" Altitude="1500" />
+          <FlightPlan Departure="YBCG" Destination="YRED" Alternative="" Active="true" Rules="V" CruiseSpeed="155" ETD="0000" ATD="0000" RFL="1500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/ STS/">REDB WELL YBBN HBVT</FlightPlan>
+          <Route>REDB WELL YBBN HBVT YRED</Route>
           <TimedMessages>
             <TimedMessage Time="120" Message="Hotline with TWR: **Due overflying traffic, cancel auto-release**" />
-            <TimedMessage Time="340" Message="Hotline with TWR: **Resume autorelease**" />
+            <TimedMessage Time="600" Message="Hotline with TWR: **Resume autorelease**" />
+            <TimedMessage Time="605" Message="Instruct aircraft to descend" />
           </TimedMessages>
         </Aircraft>
         <Aircraft Callsign="JST673" Type="A320" Delay="0" StartAuto="true">
           <Squawk Code="1001" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-27.26027778" Longitude="153.41194444" Speed="250" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H185 GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO YBBN/19L</FlightPlan>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO YBBN/19L</FlightPlan>
           <Route>ISPON OMGUV BETSO RWY19L</Route>
         </Aircraft>
         <Aircraft Callsign="RON42" Type="B733" Delay="0" StartAuto="true">
@@ -842,7 +847,7 @@
           <Squawk Code="1005" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-27.48722222" Longitude="153.40277778" Speed="250" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H185 GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO YBBN/19L</FlightPlan>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO YBBN/19L</FlightPlan>
           <Route>SALGA ISPON OMGUV BETSO RWY19L</Route>
         </Aircraft>
         <Aircraft Callsign="SH133" Type="SW4" Delay="0" StartAuto="true">
@@ -856,7 +861,7 @@
           <Squawk Code="1007" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-27.69388889" Longitude="153.40722222" Speed="250" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H185 GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO YBBN/19L</FlightPlan>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO YBBN/19L</FlightPlan>
           <Route>SALEL SALGA ISPON OMGUV BETSO RWY19L</Route>
         </Aircraft>
         <Aircraft Callsign="UTY1720" Type="F70" Delay="0" StartAuto="true">
@@ -891,7 +896,7 @@
           <Squawk Code="1013" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-28.34055556" Longitude="153.44361111" Speed="250" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H185 GOMOL GOMO2A/19L</FlightPlan>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL GOMO2A/19L</FlightPlan>
           <Route>GOMOL</Route>
         </Aircraft>
         <Aircraft Callsign="FD427" Type="B350" Delay="0" StartAuto="true">
@@ -912,7 +917,7 @@
           <Squawk Code="1017" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-28.76388889" Longitude="153.29750000" Speed="250" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H185 GOMOL GOMO2A/19L</FlightPlan>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL GOMO2A/19L</FlightPlan>
           <Route>GOMOL</Route>
         </Aircraft>
 
@@ -1875,7 +1880,7 @@
               <Squawk Code="4101" ModeC="true" />
               <Position Latitude="-28.16" Longitude="153.5" Speed="400" Altitude="21000" />
               <Cleared Level="3000" />
-              <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H185 GOMOL GOMO2A/19L</FlightPlan>
+              <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL GOMO2A/19L</FlightPlan>
               <Route>MEKUG SALEL SALGA ISPON OMGUV BETSO</Route>          
             </Aircraft>
             <Aircraft Callsign="VOZ705" Type="B738" Delay="180" StartAuto="true">
@@ -4108,7 +4113,7 @@
             <Squawk Code="6236" ModeC="true" />
             <Cleared Level="37000" />
             <Position Latitude="-33.059491" Longitude="151.859766" Speed="433" Altitude="37000" />
-            <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="YBCG" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="CALLSIGN JETSTAR    /v/">DCT OLSEM Y193 BANDA H185 GOMOL</FlightPlan>
+            <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="YBCG" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="CALLSIGN JETSTAR    /v/">DCT OLSEM Y193 BANDA H252 GOMOL</FlightPlan>
             <Route>BANDA OMKAX GOMOL YBBN</Route>
           </Aircraft>
           <Aircraft Callsign="ZSY" Type="BE20" Delay="0">
