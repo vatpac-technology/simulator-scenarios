@@ -446,8 +446,8 @@
             <Squawk Code="1234" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-34.51250000" Longitude="149.90805556" Speed="200" Altitude="3000" />
-            <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET RIVET3/34L</FlightPlan>
-            <Route>RIVET</Route>
+            <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET BIGEM TAMMI BOOGI DUDOK NASHO SOSIJ YSSY/34L</FlightPlan>
+            <Route>RIVET BIGEM TAMMI BOOGI DUDOK NASHO SOSIJ RWY34L YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="QFA490" Type="B738" Delay="0">
             <Squawk Code="1236" ModeC="true" />
@@ -467,8 +467,8 @@
             <Squawk Code="3134" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-34.38166667" Longitude="150.20888889" Speed="200" Altitude="3000" />
-            <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET3/34L</FlightPlan>
-            <Route>RIVET</Route>
+            <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET BIGEM TAMMI BOOGI DUDOK NASHO SOSIJ YSSY/34L</FlightPlan>
+            <Route>RIVET BIGEM TAMMI BOOGI DUDOK NASHO SOSIJ RWY34L YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="TGG264" Type="B738" Delay="0">
             <Squawk Code="4265" ModeC="true" />
@@ -502,8 +502,8 @@
             <Squawk Code="2646" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-34.62722222" Longitude="149.64916667" Speed="200" Altitude="3000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET RIVET3/34L</FlightPlan>
-            <Route>RIVET</Route>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET BIGEM TAMMI BOOGI DUDOK NASHO SOSIJ YSSY/34L</FlightPlan>
+            <Route>RIVET BIGEM TAMMI BOOGI DUDOK NASHO SOSIJ RWY34L YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="JST821" Type="B738" Delay="0">
             <Squawk Code="5373" ModeC="true" />
@@ -516,15 +516,15 @@
             <Squawk Code="5623" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-32.98055556" Longitude="150.99833333" Speed="200" Altitude="2000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE BORE3A/34R</FlightPlan>
-            <Route>BOREE</Route>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+            <Route>BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34R YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="VOZ958" Type="B738" Delay="0">
             <Squawk Code="1442" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-33.16611111" Longitude="151.03138889" Speed="200" Altitude="2000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE BORE3A/34R</FlightPlan>
-            <Route>BOREE</Route>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+            <Route>BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34R YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="QFA505" Type="B738" Delay="0">
             <Squawk Code="5423" ModeC="true" />
@@ -672,8 +672,8 @@
             <Squawk Code="1234" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-34.51250000" Longitude="149.90805556" Speed="200" Altitude="3000" />
-            <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET RIVET3/34L</FlightPlan>
-            <Route>RIVET</Route>
+            <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET BIGEM TAMMI BOOGI DUDOK NASHO SOSIJ YSSY/34L</FlightPlan>
+            <Route>RIVET BIGEM TAMMI BOOGI DUDOK NASHO SOSIJ RWY34L YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="QFA490" Type="B738" Delay="0">
             <Squawk Code="1236" ModeC="true" />
@@ -693,8 +693,8 @@
             <Squawk Code="3134" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-34.38166667" Longitude="150.20888889" Speed="200" Altitude="3000" />
-            <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET3/34L</FlightPlan>
-            <Route>RIVET</Route>
+            <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET BIGEM TAMMI BOOGI DUDOK NASHO SOSIJ YSSY/34L</FlightPlan>
+            <Route>RIVET BIGEM TAMMI BOOGI DUDOK NASHO SOSIJ RWY34L YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="TGG264" Type="B738" Delay="0">
             <Squawk Code="4265" ModeC="true" />
@@ -728,8 +728,8 @@
             <Squawk Code="2646" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-34.62722222" Longitude="149.64916667" Speed="200" Altitude="3000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET RIVET3/34L</FlightPlan>
-            <Route>RIVET</Route>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET BIGEM TAMMI BOOGI DUDOK NASHO SOSIJ YSSY/34L</FlightPlan>
+            <Route>RIVET BIGEM TAMMI BOOGI DUDOK NASHO SOSIJ RWY34L YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="JST821" Type="B738" Delay="0">
             <Squawk Code="5373" ModeC="true" />
@@ -742,15 +742,15 @@
             <Squawk Code="5623" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-32.98055556" Longitude="150.99833333" Speed="200" Altitude="2000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE BORE3A/34R</FlightPlan>
-            <Route>BOREE</Route>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+            <Route>BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34R YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="VOZ958" Type="B738" Delay="0">
             <Squawk Code="1442" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-33.16611111" Longitude="151.03138889" Speed="200" Altitude="2000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE BORE3A/34R</FlightPlan>
-            <Route>BOREE</Route>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+            <Route>BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34R YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="QFA505" Type="B738" Delay="0">
             <Squawk Code="5423" ModeC="true" />
