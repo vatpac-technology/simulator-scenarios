@@ -4398,7 +4398,7 @@
             <Squawk Code="1643" ModeC="true" />
             <Cleared Level="35000" />
             <Position Latitude="-33.56027778" Longitude="152.56416667" Speed="500" Altitude="35000" />
-            <FlightPlan Active="true" Departure="YSSY" Destination="KLAX" Alternative="YSSY" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="35000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT ABARB LHI TEKEP NN B581 FICKY </FlightPlan>
+            <FlightPlan Active="true" Departure="YSSY" Destination="KLAX" Alternative="YSSY" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="35000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT ABARB LHI UBLIN NN B581 FICKY </FlightPlan>
             <Route>ABARB LHI UBLIN VIRAR KLAX</Route>
             <TimedMessages>
                   <TimedMessage Time="240" Message="Coordination: Estimate AAL72, ABARB TIME XXXX, FL350" />
