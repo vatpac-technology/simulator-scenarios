@@ -4672,7 +4672,7 @@
             <Squawk Code="1071" ModeC="true" />
             <Cleared Level="18000" />
             <Position Latitude="-27.374708" Longitude="153.134358" Speed="1" Altitude="15" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="YWLM" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="12000" EETHours="0" EETMins="55" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/REX   /v/">SANEG1/19R SANEG H91 IGDAM H12 BOREE DCT</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="YWLM" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="34000" EETHours="0" EETMins="55" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/REX   /v/">SANEG1/19R SANEG H91 IGDAM H12 BOREE DCT</FlightPlan>
             <Route>BOSVU DADAN DENIS LILEE SANEG HUUGO APAGI TESSI ADMAR SANAD MESIM IGDAM BOREE TESAT</Route>
           </Aircraft>
         </Targets>
