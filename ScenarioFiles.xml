@@ -2415,6 +2415,339 @@
       </Targets>
     </ScenarioFile>
 
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1a3f6430-95d1-474e-9f2e-4145105940ce</Id>
+  <Name>TMA Melbourne - Milk Run</Name>
+  <Type>TMA</Type>
+  <UseGRIB xsi:nil="true" />
+  <StudentBriefing>ML TMA "Milk Run" Scenario
+
+**HANDOVER**
+- **Runway**: 16A27D. Expect Instrument Approach.
+- **Airspace**:
+	- ML ADC, ELW, YWE Online.
+	- MB, EN, AV ADCs Offline.
+	- No top-down service.  
+- **Weather**: Information N. Cloud BKN040. QNH 1013.
+- **Frequencies**: 132.0 only
+- **Traffic**:
+	- Several arrivals through LIZZI
+	- One arrival through ARBEY, and one through WAREN, still over 30 mins away. Not yet assessed.
+	- All departures except BNZ1023 are via DOSEL
+	- Of note, ANZ1984 is a B77W that will be off Runway 16
+	- There is a BAe 146 taxiing that could create a faster following scenario.
+
+Any Questions?</StudentBriefing>
+  <InstructorNotes>- If you are late to any of the timed takeoffs, try to wait at least 90 seconds until the next takeoff for spacing
+  
+- The aircraft should naturally arrive at the feeder fix with separation, but if the student applies any strange speed control to aircraft via coordination, ensure that speeds for other aircraft are adjusted as required to maintain separation at LIZZI
+  
+- **VOZ886** and **QJE1546** require sequencing
+
+- **RXA466**, **QLK47**, and **8AX** require sequencing
+
+- **JST611** is a **YMAV** arrival, easy for the student to miss if they're not paying attention
+	- **MRNR01** is also a YMAV arrival. The two aircraft will not be a conflict in CTA, but they will be traffic for arrival
+	
+	
+- **BNZ1023** departs to conflict with **JST611**
+
+- **ANZ1984** departs Runway 16 **Off-Mode**. Feel free to add some personality to your radio calls, extend your "uuuhhhh" in your call, make some comments about the wind or turbulence, advise your planned mach number, you know the drill
+
+- This is shortly followed by **QFA7354** (a B462) in front of a faster following **QFA490** (A332). All 3 aircraft require separation management
+
+- **BSV** Will call at 15 minutes requesting flight following. It is imperative that the student **rejects** this request due to controller workload.
+	- If the Student Provides the SIS, **BSV** will STCA with reciprocal VFR traffic **UOR**. If the student attempts to provide traffic information between the two aircraft, take avoiding action. **UOR** is assumed to be listening on frequency.
+	
+
+- If the student has handled the ANZ1984 vs QFA7354 vs QFA490 well, throw in a **go-around**
+
+- On the other hand, if the student needs some breathing room, delete aircraft in the following priority:
+	1. TFX22
+	2. RXA466
+	3. BSV Cancel Flight Following
+	4. 8AX
+</InstructorNotes>
+  <Targets>
+// Departures
+    <Aircraft Callsign="QFA478" Type="B738" Delay="0" StartAuto="true">
+      <Squawk Code="7642" ModeC="true" />
+      <Cleared Level="5000" Approach="false" />
+      <Position Latitude="-37.66219179941475" Longitude="144.84774499038323" Speed="1" Altitude="407" />
+      <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="370" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">DOSEL1/27 DOSEL Y59 RIVET DCT</FlightPlan>
+      <Route>ATNOL PARSI PEBTO PEART DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET</Route>
+    </Aircraft>
+	<Aircraft Callsign="VOZ875" Type="B738" Delay="0" StartAuto="false">
+      <Squawk Code="2435" ModeC="true" />
+      <Cleared Level="5000" Approach="false" />
+      <Position Latitude="-37.66219179941475" Longitude="144.84774499038323" Speed="0" Altitude="407" />
+      <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="370" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/">DOSEL1/27 DOSEL Y59 RIVET DCT</FlightPlan>
+      <Route>ATNOL PARSI PEBTO PEART DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET</Route>
+	  <TimedMessages>
+        <TimedMessage Time="100" Message="Takeoff" />
+      </TimedMessages>
+    </Aircraft>
+	<Aircraft Callsign="JST528" Type="A320" Delay="0" StartAuto="false">
+      <Squawk Code="2377" ModeC="true" />
+      <Cleared Level="5000" Approach="false" />
+      <Position Latitude="-37.66219179941475" Longitude="144.84774499038323" Speed="0" Altitude="407" />
+      <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="350" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHVFX OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">DOSEL1/27 DOSEL Y59 RIVET DCT</FlightPlan>
+      <Route>ATNOL PARSI PEBTO PEART DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET</Route>
+	  <TimedMessages>
+        <TimedMessage Time="200" Message="Takeoff" />
+      </TimedMessages>
+    </Aircraft>
+	<Aircraft Callsign="QFA486" Type="B738" Delay="0" StartAuto="false">
+      <Squawk Code="1145" ModeC="true" />
+      <Cleared Level="5000" Approach="false" />
+      <Position Latitude="-37.66219179941475" Longitude="144.84774499038323" Speed="0" Altitude="407" />
+      <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="370" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/ ">DOSEL1/27 DOSEL Y59 RIVET DCT</FlightPlan>
+      <Route>ATNOL PARSI PEBTO PEART DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET</Route>
+	  <TimedMessages>
+        <TimedMessage Time="300" Message="Takeoff" />
+      </TimedMessages>
+    </Aircraft>
+	<Aircraft Callsign="VOZ879" Type="B738" Delay="0" StartAuto="false">
+      <Squawk Code="4462" ModeC="true" />
+      <Cleared Level="5000" Approach="false" />
+      <Position Latitude="-37.66219179941475" Longitude="144.84774499038323" Speed="0" Altitude="407" />
+      <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="370" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/ ">DOSEL1/27 DOSEL Y59 RIVET DCT</FlightPlan>
+      <Route>ATNOL PARSI PEBTO PEART DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET</Route>
+	  <TimedMessages>
+        <TimedMessage Time="400" Message="Takeoff" />
+      </TimedMessages>
+    </Aircraft>
+	<Aircraft Callsign="JST530" Type="A321" Delay="0" StartAuto="false">
+      <Squawk Code="3257" ModeC="true" />
+      <Cleared Level="5000" Approach="false" />
+      <Position Latitude="-37.66219179941475" Longitude="144.84774499038323" Speed="0" Altitude="407" />
+      <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="330" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHVWU OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">DOSEL1/27 DOSEL Y59 RIVET DCT</FlightPlan>
+      <Route>ATNOL PARSI PEBTO PEART DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET</Route>
+	  <TimedMessages>
+        <TimedMessage Time="500" Message="Takeoff" />
+      </TimedMessages>
+    </Aircraft>
+	<Aircraft Callsign="ANZ1984" Type="B77W" Delay="0" StartAuto="false">
+      <Squawk Code="6661" ModeC="true" />
+      <Cleared Level="5000" Approach="false" />
+      <Position Latitude="-37.65344381789863" Longitude="144.83491330245593" Speed="0" Altitude="407" />
+      <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="486" ETD="0000" ATD="0000" RFL="390" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="OPR/AIR NEW ZEALAND REG/ZK-OKQ RNP4 NAV/GPSRNAV PER/D /V/ ">ISPEG1/16 ISPEG DOSEL Y59 RIVET DCT</FlightPlan>
+      <Route>HORSH ISPEG DOSEL DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET</Route>
+	  <TimedMessages>
+		<TimedMessage Time="0" Message="Add DOSEL in route between ISPEG and EBONY" />
+        <TimedMessage Time="530" Message="Takeoff" />
+      </TimedMessages>
+    </Aircraft>
+	<Aircraft Callsign="QFA7354" Type="B462" Delay="0" StartAuto="false">
+      <Squawk Code="5547" ModeC="true" />
+      <Cleared Level="5000" Approach="false" />
+      <Position Latitude="-37.66219179941475" Longitude="144.84774499038323" Speed="0" Altitude="407" />
+      <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Equipment="SDFGHRY/LB1" Rules="I" CruiseSpeed="398" ETD="0000" ATD="0000" RFL="290" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/B2C2D2O2 DOF/240101 REG/VHSAZ CODE/7C5B39 OPR/EXP FREIGHT AUST ORGN/YSSYQFAO /V/">DOSEL1/27 DOSEL Y59 RIVET DCT</FlightPlan>
+      <Route>ATNOL PARSI PEBTO PEART DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET</Route>
+	  <TimedMessages>
+        <TimedMessage Time="600" Message="Takeoff" />
+      </TimedMessages>
+	</Aircraft>
+	<Aircraft Callsign="QFA490" Type="A332" Delay="0" StartAuto="false">
+      <Squawk Code="6214" ModeC="true" />
+      <Cleared Level="5000" Approach="false" />
+      <Position Latitude="-37.66219179941475" Longitude="144.84774499038323" Speed="0" Altitude="407" />
+      <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="390" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 RNVD1A1 SUR/260B DOF/240101 REG/VHEBO EET/YBBB0103 SEL/CEFS CODE/7C5325 OPR/QFA ORGN/YSSYQFAO PER/C /V/">DOSEL1/27 DOSEL Y59 RIVET DCT</FlightPlan>
+      <Route>ATNOL PARSI PEBTO PEART DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET</Route>
+	  <TimedMessages>
+        <TimedMessage Time="700" Message="Takeoff" />
+      </TimedMessages>
+    </Aircraft>
+	<Aircraft Callsign="JST532" Type="A320" Delay="0" StartAuto="false">
+      <Squawk Code="1020" ModeC="true" />
+      <Cleared Level="5000" Approach="false" />
+      <Position Latitude="-37.66219179941475" Longitude="144.84774499038323" Speed="0" Altitude="407" />
+      <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="370" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHVWU OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">DOSEL1/27 DOSEL Y59 RIVET DCT</FlightPlan>
+      <Route>ATNOL PARSI PEBTO PEART DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET</Route>
+	  <TimedMessages>
+        <TimedMessage Time="1000" Message="Takeoff" />
+      </TimedMessages>
+    </Aircraft>
+	<Aircraft Callsign="VOZ895" Type="B738" Delay="0" StartAuto="false">
+      <Squawk Code="0254" ModeC="true" />
+      <Cleared Level="5000" Approach="false" />
+      <Position Latitude="-37.66219179941475" Longitude="144.84774499038323" Speed="0" Altitude="407" />
+      <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="370" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/ ">DOSEL1/27 DOSEL Y59 RIVET DCT</FlightPlan>
+      <Route>ATNOL PARSI PEBTO PEART DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET</Route>
+	  <TimedMessages>
+        <TimedMessage Time="1400" Message="Takeoff" />
+      </TimedMessages>
+    </Aircraft>
+	<Aircraft Callsign="BNZ1023" Type="B38M" Delay="0" StartAuto="false">
+      <Squawk Code="7763" ModeC="true" />
+      <Cleared Level="5000" Approach="false" />
+      <Position Latitude="-37.66219179941475" Longitude="144.84774499038323" Speed="0" Altitude="407" />
+      <FlightPlan Departure="YMML" Destination="YBSU" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="370" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/A1L1O1S1 NAV/RNP2 DOF/240101 REG/VHUJT EET/YBBB0051 SEL/HPMS CODE/7C6697 OPR/BNZ PER/C /V/ ">NONIX3/27 NONIX H66 IDNER W214 GOMOL Q69 ITIDE DCT </FlightPlan>
+      <Route>ATNOL PARSI PEBTO PEART NONIX KACEY MUDGI</Route>
+	  <TimedMessages>
+        <TimedMessage Time="1700" Message="Takeoff" />
+      </TimedMessages>
+    </Aircraft>
+	<Aircraft Callsign="QJE1528" Type="B712" Delay="0" StartAuto="false">
+      <Squawk Code="2650" ModeC="true" />
+      <Cleared Level="5000" Approach="false" />
+      <Position Latitude="-37.66219179941475" Longitude="144.84774499038323" Speed="0" Altitude="407" />
+      <FlightPlan Departure="YMML" Destination="YSCB" Alternative="" Active="true" Equipment="SDFGIRWZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="310" EETHours="0" EETMins="55" FuelHours="1" FuelMins="50" Remarks="PBN/L1O2S1 NAV/RNP2 COM/IRIDIUM881651484931 DOF/240101 REG/VHYQS EET/YBBB0056 CODE/7C7BD2 OPR/NATIONAL JET SYSTEMS PER/C /V/ ">DOSEL1/27 DOSEL Y59 ARRAN DCT</FlightPlan>
+      <Route>ATNOL PARSI PEBTO PEART DOSEL EBONY ARRAN CB</Route>
+	  <TimedMessages>
+        <TimedMessage Time="2000" Message="Takeoff" />
+      </TimedMessages>
+    </Aircraft>
+	<Aircraft Callsign="QFA1892" Type="E190" Delay="0" StartAuto="false">
+      <Squawk Code="5412" ModeC="true" />
+      <Cleared Level="5000" Approach="false" />
+      <Position Latitude="-37.66219179941475" Longitude="144.84774499038323" Speed="0" Altitude="407" />
+      <FlightPlan Departure="YMML" Destination="YWLM" Alternative="" Active="true" Equipment="SDGHIRWYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="350" EETHours="01" EETMins="30" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/230117 REG/VHUZK EET/YBBB0108 SEL/EQHK CODE/7C68CE OPR/ALLIANCE ORGN/YSSYQFAO PER/C /V/ ">DOSEL1/27 DOSEL Y59 TESAT H252 EKIPU DCT</FlightPlan>
+      <Route>ATNOL PARSI PEBTO PEART DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET TESAT OLSEM UPNEX EKIPU WLM</Route>
+	  <TimedMessages>
+        <TimedMessage Time="2100" Message="Takeoff" />
+      </TimedMessages>
+    </Aircraft>
+// YSSY Arrivals
+	<Aircraft Callsign="QFA477" Type="B738" Delay="0" StartAuto="false">
+      <Squawk Code="4765" ModeC="true" />
+      <Cleared Level="9000" Approach="false" />
+      <Position Latitude="-37.361944" Longitude="145.805278" Speed="300" Altitude="17000" />
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+      <Route>LIZZI MAXAL HORUS ENSEG NEFER BELTA RWY16</Route>
+    </Aircraft>
+	<Aircraft Callsign="VOZ874" Type="B738" Delay="0" StartAuto="false">
+      <Squawk Code="1213" ModeC="true" />
+      <Cleared Level="9000" Approach="false" />
+      <Position Latitude="-37.079167" Longitude="146.351667" Speed="400" Altitude="26000" />
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+      <Route>LUVAS LIZZI MAXAL HORUS ENSEG NEFER BELTA RWY16</Route>
+	</Aircraft>
+	<Aircraft Callsign="JST531" Type="A21N" Delay="0" StartAuto="false">
+      <Squawk Code="3227" ModeC="true" />
+      <Cleared Level="9000" Approach="false" />
+      <Position Latitude="-36.846944" Longitude="146.781667" Speed="410" Altitude="31000" />
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="340" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHOFE OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+      <Route>BULLA LUVAS LIZZI MAXAL HORUS ENSEG NEFER BELTA RWY16</Route>
+    </Aircraft>
+	<Aircraft Callsign="CPA3122" Type="B748" Delay="0" StartAuto="false">
+      <Squawk Code="3114" ModeC="true" />
+      <Cleared Level="9000" Approach="false" />
+      <Position Latitude="-36.608611" Longitude="147.214444" Speed="480" Altitude="36000" />
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1L1O1S2T1 NAV/RNP2 COM/INTEGRATED DAT/1FANSER2PDC SUR/260B RSP180 DOF/240101 REG/BLJK EET/YMMM0050 SEL/CKDH CODE/780A6E OPR/CPA ORGN/EDDFCPAX PER/D RMK/CARGO AIRCRAFT /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+      <Route>NABBA BULLA LUVAS LIZZI MAXAL HORUS ENSEG NEFER BELTA RWY16</Route>
+    </Aircraft>
+	<Aircraft Callsign="RXA161" Type="B738" Delay="0" StartAuto="false">
+      <Squawk Code="3765" ModeC="true" />
+      <Cleared Level="9000" Approach="false" />
+      <Position Latitude="-36.556667" Longitude="147.3225" Speed="450" Altitude="38000" />
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1L1O1S2 NAV/RNP2 DOF/240101 REG/VHRQP SEL/CEDQ CODE/7C585F OPR/RXA ORGN/KAUSFFLX PER/C /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+      <Route>NABBA BULLA LUVAS LIZZI MAXAL HORUS ENSEG NEFER BELTA RWY16</Route>
+    </Aircraft>
+	<Aircraft Callsign="VOZ886" Type="B38M" Delay="0" StartAuto="false">
+      <Squawk Code="6732" ModeC="true" />
+      <Cleared Level="9000" Approach="false" />
+      <Position Latitude="-36.379167" Longitude="147.633056" Speed="450" Altitude="38000" />
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+      <Route>NABBA BULLA LUVAS LIZZI MAXAL HORUS ENSEG NEFER BELTA RWY16</Route>
+	</Aircraft>
+	<Aircraft Callsign="TFX22" Type="B734" Delay="0" StartAuto="false">
+      <Squawk Code="0127" ModeC="true" />
+      <Cleared Level="9000" Approach="false" />
+      <Position Latitude="-36.240833" Longitude="147.891944" Speed="440" Altitude="34000" />
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDFGHIM3RWZ/LB1" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="340" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O2S2 NAV/RNP2 DOF/240101 REG/ZKTLJ SEL/EPCR CODE/C822C4 OPR/TFX PER/C RMK/TCAS EQUIPPED /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+      <Route>RUMIE NABBA BULLA LUVAS LIZZI MAXAL HORUS ENSEG NEFER BELTA RWY16</Route>
+	</Aircraft>
+	<Aircraft Callsign="TAA406" Type="A306" Delay="0" StartAuto="false">
+      <Squawk Code="5552" ModeC="true" />
+      <Cleared Level="9000" Approach="false" />
+      <Position Latitude="-36.051667" Longitude="148.237778" Speed="470" Altitude="40000" />
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="400" EETHours="1" EETMins="20" FuelHours="2" FuelMins="15" Remarks="PBN/A1B1D1O1S1S2 NAV/RNP2 DOF/240112 REG/VHTAE SEL/DGCF CODE/8961D3 OPR/TAA PER/C /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+      <Route>RUMIE NABBA BULLA LUVAS LIZZI MAXAL HORUS ENSEG NEFER BELTA RWY16</Route>
+    </Aircraft>
+	<Aircraft Callsign="VOZ888" Type="B738" Delay="0" StartAuto="false">
+      <Squawk Code="2365" ModeC="true" />
+      <Cleared Level="9000" Approach="false" />
+      <Position Latitude="-35.981667" Longitude="148.351944" Speed="450" Altitude="36000" />
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+      <Route>RUMIE NABBA BULLA LUVAS LIZZI MAXAL HORUS ENSEG NEFER BELTA RWY16</Route>
+	</Aircraft>
+	<Aircraft Callsign="QFA485" Type="B738" Delay="0" StartAuto="false">
+      <Squawk Code="6564" ModeC="true" />
+      <Cleared Level="9000" Approach="false" />
+      <Position Latitude="-35.684722" Longitude="148.869722" Speed="450" Altitude="38000" />
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+      <Route>RUMIE NABBA BULLA LUVAS LIZZI MAXAL HORUS ENSEG NEFER BELTA RWY16</Route>
+    </Aircraft>
+	<Aircraft Callsign="8AX" Type="C700" Delay="0" StartAuto="false">
+      <Squawk Code="7104" ModeC="true" />
+      <Cleared Level="9000" Approach="false" />
+      <Position Latitude="-35.335556" Longitude="149.480833" Speed="450" Altitude="43000" />
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="430" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VH8AX SEL/ESAM CODE/7C6DDA OPR/JETSTREAM AVIATION PER/C /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+      <Route>RUMIE NABBA BULLA LUVAS LIZZI MAXAL HORUS ENSEG NEFER BELTA RWY16</Route>
+    </Aircraft>
+// Off Route Arrivals
+	<Aircraft Callsign="QLK47" Type="DH8C" Delay="0" StartAuto="true">
+      <Squawk Code="1164" ModeC="true" />
+      <Cleared Level="14000" Approach="false" />
+      <Position Latitude="-36.06796985482588" Longitude="146.9494271163329" Speed="1" Altitude="531" />
+      <FlightPlan Departure="YMAY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="254" ETD="0000" ATD="0000" RFL="140" EETHours="0" EETMins="45" FuelHours="1" FuelMins="30" Remarks="PBN/A1S1 NAV/RNP2 DOF/240101 REG/VHTQL OPR/QANTASLINK ORGN/YSSYQFAO PER/B /V/">DUGGI1/07 DUGGI V147 TEMIS V169 BOYSE BOYS8A/16</FlightPlan>
+      <Route>ANUGO RUMES DUGGI TEMIS BOYSE VALES ANBEL BUVIV NEFER BELTA RWY16</Route>
+	  <TimedMessages>
+        <TimedMessage Time="1200" Message="Set CFL to A090" />
+      </TimedMessages>
+    </Aircraft>
+	<Aircraft Callsign="QJE1546" Type="BCS3" Delay="0" StartAuto="true">
+      <Squawk Code="2347" ModeC="true" />
+      <Cleared Level="9000" Approach="false" />
+      <Position Latitude="-39.716944" Longitude="146.240556" Speed="435" Altitude="36000" />
+      <FlightPlan Departure="YMLT" Destination="YMML" Alternative="" Active="true" Equipment="SBDE2E3GHIJ2J3J4J7LM3OP2RVWXYZ/LB1D1" Rules="I" CruiseSpeed="435" ETD="0000" ATD="0000" RFL="360" EETHours="0" EETMins="55" FuelHours="1" FuelMins="55" Remarks="PBN/A1B1C1D1L1O2S2 NAV/RNP2 COM/IRIDIUM8816600241103 SUR/260B RSP180 DOF/240101 REG/VHX4A SEL/LMFR CODE/7C78A8 OPR/NATIONAL JET SYSTEMS ORGN/YSSYQFAO PER/C /V/">DCT EXROM DCT WAREN WARE8A/16</FlightPlan>
+      <Route>EXROM WAREN MICHM MONTY SANDR LAGUG NEFER BELTA RWY16</Route>
+    </Aircraft>
+	<Aircraft Callsign="RXA466" Type="B738" Delay="0" StartAuto="false">
+      <Squawk Code="3614" ModeC="true" />
+      <Cleared Level="9000" Approach="false" />
+      <Position Latitude="-35.471944" Longitude="140.111667" Speed="450" Altitude="37000" />
+      <FlightPlan Departure="YPAD" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="370" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1L1O1S2 NAV/RNP2 DOF/240101 REG/VHRQP SEL/CEDQ CODE/7C585F OPR/RXA ORGN/KAUSFFLX PER/C /V/">DCT BENDO Y12 ARBEY ARBE7A/16</FlightPlan>
+      <Route>RELEP LULTO APPLE ARBEY TUNKA LASOL BELTA RWY16</Route>
+    </Aircraft>
+// Other
+	<Aircraft Callsign="JST611" Type="A320" Delay="0" StartAuto="false">
+      <Squawk Code="1714" ModeC="true" />
+      <Cleared Level="9000" Approach="false" />
+      <Position Latitude="-35.789722" Longitude="148.703611" Speed="450" Altitude="36000" />
+      <FlightPlan Departure="YSSY" Destination="YMAV" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHOFE OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">DCT WOL H65 RAZZI Q29 ML JAYBI5/18</FlightPlan>
+      <Route>RUMIE NABBA BULLA LUVAS LIZZI ML JAYBI BEKKA TEMPL RWY18</Route>
+	  <TimedMessages>
+        <TimedMessage Time="1140" Message="If there is less than 7nm separation with VOZ888, apply vertical separation (1000ft above VOZ888's last vacated level). Handoff when ready to MAE with vertical separation in place" />
+      </TimedMessages>
+    </Aircraft>
+	<Aircraft Callsign="MRNR01" Type="P8" Delay="0" StartAuto="false">
+      <Squawk Code="6003" ModeC="true" />
+      <Cleared Level="9000" Approach="false" />
+      <Position Latitude="-36.091944" Longitude="141.8625" Speed="450" Altitude="33000" />
+      <FlightPlan Departure="YPAD" Destination="YMAV" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1U1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="330" EETHours="1" EETMins="05" FuelHours="2" FuelMins="00" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/A47001 OPR/RAAF PER/C RMK/TCAS EQUIPPED /V/ ">DCT BENDO Y12 APPLE JAYBI5/18</FlightPlan>
+      <Route>RELEP LULTO APPLE SOAPY JAYBI BEKKA TEMPL RWY18</Route>
+	  </Aircraft>
+	<Aircraft Callsign="BSV" Type="C172" Delay="0" StartAuto="false">
+      <Squawk Code="1200" ModeC="true" />
+      <Cleared Level="1500" Approach="false" />
+      <Position Latitude="-37.918611" Longitude="144.1025" Speed="110" Altitude="1500" />
+      <FlightPlan Departure="YLED" Destination="YMMB" Alternative="" Active="false" Equipment="SDFZGR/LB1" Rules="V" CruiseSpeed="110" ETD="0000" ATD="0000" RFL="015" EETHours="0" EETMins="40" FuelHours="2" FuelMins="20" Remarks="/V/">DCT AV LRM WBES YMPC ALTS ALOA WMS PTOM BTO YMMB</FlightPlan>
+      <Route>AV LRM WBES YMPC ALTS ALOA WMS PTOM BTO MB YMMB</Route>
+	  <TimedMessages>
+        <TimedMessage Time="900" Message="Melbourne Approach, C172, BSV, Approaching Werribee South, A015, Request Flight Following for YMMB" />
+      </TimedMessages>
+    </Aircraft>
+	<Aircraft Callsign="UOR" Type="C172" Delay="240" StartAuto="true">
+      <Squawk Code="1200" ModeC="true" />
+      <Cleared Level="1500" Approach="false" />
+      <Position Latitude="-38.2675" Longitude="145.175556" Speed="80" Altitude="1500" />
+      <Route>CARR BTO PTOM SNP WMS ALOA ALTS TON</Route>
+    </Aircraft>
+  </Targets>
+</ScenarioFile>
+
     <ScenarioFile>
       <Name>TMA Sydney Runway 34L/R</Name>
       <Type>TMA</Type>
