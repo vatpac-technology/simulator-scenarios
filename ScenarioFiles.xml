@@ -4629,12 +4629,12 @@
             <FlightPlan Active="true" Departure="YBBN" Destination="YBCS" Alternative="YBRK" Rules="I" CruiseSpeed="402" ETD="0000" ATD="0000" RFL="36000" EETHours="1" EETMins="40" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/QANTAS    /v/">BIXAD1/19R BIXAD Q67 UPOLO</FlightPlan>
             <Route>DAMDA TOGIN ALBUB AMBLE DEBAY BUKBU BIXAD GUDSO TERUV KELPI LAMEK</Route>
           </Aircraft>
-          <Aircraft Callsign="FD401" Type="BE20" Delay="240" StartAuto="true">
+          <Aircraft Callsign="FD401" Type="B350" Delay="240" StartAuto="true">
             <Squawk Code="3012" ModeC="true" />
             <Cleared Level="12000" />
             <Position Latitude="-27.357767" Longitude="153.121344" Speed="1" Altitude="15" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YHBA" Alternative="YBMK" Rules="I" CruiseSpeed="295" ETD="0000" ATD="0000" RFL="12000" EETHours="0" EETMins="55" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/FLYDOC   /v/">BN V308 AKOBA SOSTU</FlightPlan>
-            <Route>DOOM AKOBA SOSTU YHBA</Route>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YHBA" Alternative="YBMK" Rules="I" CruiseSpeed="295" ETD="0000" ATD="0000" RFL="12000" EETHours="0" EETMins="55" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/FLYDOC   /v/">BN4/19R AKOBA SOSTU</FlightPlan>
+            <Route>AKOBA SOSTU YHBA</Route>
             <TimedMessages>
               <TimedMessage Time="400" Message="BDN to INL: Via AKOBA, FD401" />
               <TimedMessage Time="1300" Message="FD401, from SOSTU, Request Direct HBAWD (Harvey Bay Whiskey Delta) for RNP RWY 11" />
