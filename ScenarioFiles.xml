@@ -1393,7 +1393,7 @@
     </StudentBriefing>
     <InstructorNotes>- **VOZ1373** Has flight planned incorrectly, and should be passed an amended route by the student.
       - **AM773** will depart on the same route, in front of **QFA7367**. The student should ideally recognise this situation, and provide at least **90 second** separation between the departures, even though it is not technically their responsibility for separation.
-      - **FD714** is inbound for the DGA, so the student should give circuit joining instructions upon receiving Heads-up Coordination. The aircraft is automatically programmed to join a *left mid-field crosswind* Runway 32L. If the student coordinates something else, manual control must be taken of the aircraft with headings.
+      - **FD714** is inbound for the DGA, so the student should give circuit joining instructions upon receiving Heads-up Coordination. The aircraft will descend assuming it will join a *left mid-field crosswind* Runway 32L. If the student coordinates something else, manual control must be taken of the aircraft with headings.
       - **UMG** is a VFR inbound from the North. Will need circuit joining instructions
       - **XGA** is a VFR overflier from the West. They will request Climb when overhead YMLT. This will need to be coordinated to LT APP.
       - **OMQ** is a VFR departure in to CTA. This will need to be coordinated to LT APP prior to issuing clearance.
