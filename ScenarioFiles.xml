@@ -138,7 +138,7 @@
 
       **QFA402** incorrect hemispherical level 
 
-      **JCR** has filed via `RPY` which is not in the current AIRAC. Students will need to reclear them `LLOYD DCT AV` and update FDR.
+      **JCR** has filed via `RPY` which is not in the current AIRAC. Students will need to reclear them `IGNES DCT AV` and update FDR.
 
       **VOZ810** conflicts with **RXA102** on approach. Student to either impose speed control ('reduce to final approach speed', 'best speed to the field', etc) or issue a go around. To remove conflict, delete VOZ810.
 
@@ -157,8 +157,8 @@
         <Aircraft Callsign="JCR" Type="LJ45" Delay="0">
           <Squawk Code="2000" ModeC="false" />
           <Position Latitude="-37.686042" Longitude="144.848743" Speed="0" Altitude="328" />
-          <FlightPlan Departure="YMML" Destination="YMAV" Alternative="" Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="6000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">ML LLOYD RPY AV</FlightPlan>
-          <Route>LLOYD AV YMAV</Route>
+          <FlightPlan Departure="YMML" Destination="YMAV" Alternative="" Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="6000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">ML IGNES RPY AV</FlightPlan>
+          <Route>IGNES AV YMAV</Route>
         </Aircraft>
         <Aircraft Callsign="HUS" Type="C172" Delay="0">
           <Squawk Code="1200" ModeC="false" />
@@ -2540,7 +2540,7 @@
           <Cleared Level="6000" />
           <Position Latitude="-38.06" Longitude="146.82" Speed="150" Altitude="6000" />
           <FlightPlan Active="true" Departure="YWSL" Destination="YNHL" Alternative="" Rules="1" CruiseSpeed="150" ETD="0000" ATD="0000" RFL="6000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/A NAV/RNP2 /v/">DCT DUNNE V434 MONTY ESDAN W382 WENDY W291 PUBAP DCT</FlightPlan>
-          <Route>DUNNE MONTY ESDAN LLOYD WENDY ESDIG UBGUT PUBAP</Route>
+          <Route>DUNNE MONTY ESDAN IGNES WENDY ESDIG UBGUT PUBAP</Route>
         </Aircraft>
         <Aircraft Callsign="FJS" Type="C182" Delay="0">
           <Squawk Code="1200" ModeC="true" />
