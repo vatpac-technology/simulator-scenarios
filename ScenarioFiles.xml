@@ -475,7 +475,7 @@
             <Cleared Approach="true" />
             <Position Latitude="-34.23666667" Longitude="150.52638889" Speed="200" Altitude="3000" />
             <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET BIGEM TAMMI BOOGI DUDOK NASHO SOSIJ YSSY/34L</FlightPlan>
-            <Route>SOSIJ RWY34L YSSY</Route>
+            <Route>BIGEM TAMMI BOOGI DUDOK NASHO SOSIJ RWY34L YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="VOZ871" Type="B738" Delay="0">
             <Squawk Code="1237" ModeC="true" />
@@ -701,7 +701,7 @@
             <Cleared Approach="true" />
             <Position Latitude="-34.23666667" Longitude="150.52638889" Speed="200" Altitude="3000" />
             <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET BIGEM TAMMI BOOGI DUDOK NASHO SOSIJ YSSY/34L</FlightPlan>
-            <Route>SOSIJ RWY34L YSSY</Route>
+            <Route>BIGEM TAMMI BOOGI DUDOK NASHO SOSIJ RWY34L YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="VOZ871" Type="B738" Delay="0">
             <Squawk Code="1237" ModeC="true" />
