@@ -103,14 +103,14 @@
             <Squawk Code="1232" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-37.14388889" Longitude="146.22000000" Speed="180" Altitude="3000" />
-            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="0" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="0" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
             <Route>LIZZI NEFER BELTA RWY16 YMML</Route>
           </Aircraft>
           <Aircraft Callsign="QFA409" Type="A332" Delay="0" StartAuto="true">
             <Squawk Code="1222" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-37.40972222" Longitude="145.71472222" Speed="180" Altitude="3000" />
-            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
             <Route>LIZZI NEFER BELTA RWY16 YMML</Route>
           </Aircraft>
           <Aircraft Callsign="QFA776" Type="A332" Delay="0" StartAuto="true">
@@ -205,7 +205,7 @@
         <Aircraft Callsign="QLK150D" Type="DH8D" Delay="0">
           <Squawk Code="2000" ModeC="false" />
           <Position Latitude="-37.666607" Longitude="144.852269" Speed="0" Altitude="381" />
-          <FlightPlan Departure="YMML" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="310" ETD="0000" ATD="0000" RFL="21000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">ML LIZZI Q29 RAZZI H65 WOL BOREE IGDAM HUUGO</FlightPlan>
+          <FlightPlan Departure="YMML" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="310" ETD="0000" ATD="0000" RFL="21000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">ML LIZZI Q29 LEECE H65 WOL BOREE IGDAM HUUGO</FlightPlan>
           <Route>LIZZI WOL BOREE IGDAM HUUGO BN YBBN</Route>
         </Aircraft>
         <Aircraft Callsign="JST627" Type="A321" Delay="0">
@@ -226,14 +226,14 @@
           <Squawk Code="1232" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-37.14388889" Longitude="146.22000000" Speed="180" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="0" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="0" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
           <Route>LIZZI NEFER BELTA RWY16 YMML</Route>
         </Aircraft>
         <Aircraft Callsign="QFA411" Type="A332" Delay="0" StartAuto="true">
           <Squawk Code="1222" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-37.44500000" Longitude="145.64833333" Speed="180" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
           <Route>LIZZI NEFER BELTA RWY16 YMML</Route>
         </Aircraft>
         <Aircraft Callsign="QFA778" Type="A332" Delay="0" StartAuto="true">
@@ -379,13 +379,13 @@
           <Aircraft Callsign="QFA427" Type="B738" Delay="0">
             <Squawk Code="2000" ModeC="false" />
             <Position Latitude="-33.931849" Longitude="151.179663" Speed="0" Altitude="13" />
-            <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H65 RAZZI Q29 ML DCT</FlightPlan>
+            <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H65 LEECE Q29 ML DCT</FlightPlan>
             <Route>WOL YMML</Route>
           </Aircraft>
           <Aircraft Callsign="JST527" Type="A320" Delay="0">
             <Squawk Code="2000" ModeC="false" />
             <Position Latitude="-33.93472200000001" Longitude="151.177124" Speed="0" Altitude="3" />
-            <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H65 RAZZI Q29 ML DCT</FlightPlan>
+            <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H65 LEECE Q29 ML DCT</FlightPlan>
             <Route>WOL YMML</Route>
           </Aircraft>
           <Aircraft Callsign="JST578" Type="A320" Delay="0">
@@ -639,7 +639,7 @@
           <Aircraft Callsign="JST527" Type="A320" Delay="990" StartAuto="true">
               <Squawk Code="0" ModeC="false" />
               <Position Latitude="-33.93472200000001" Longitude="151.177124" Speed="0" Altitude="3" />
-              <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT WOL H65 RAZZI Q29 ML DCT</FlightPlan>
+              <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT WOL H65 LEECE Q29 ML DCT</FlightPlan>
               <Route>WOL</Route>
               <TimedMessages>
                   <TimedMessage Time="1290" Message="Request clearance to Melbourne (bay 55)" />
@@ -816,14 +816,14 @@
           <Cleared Approach="true" />
           <Position Latitude="-26.78138889" Longitude="152.55861111" Speed="250" Altitude="4000" />
           <FlightPlan Active="true" Departure="YBMK" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT MK W889 RK V307 SUSGI DCT SMOKA SMOK9A/19R</FlightPlan>
-          <Route>SMOKA</Route>
+          <Route>SMOKA RWY19R</Route>
         </Aircraft>
         <Aircraft Callsign="AVN22" Type="B738" Delay="0" StartAuto="true">
           <Squawk Code="1009" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-26.45166667" Longitude="152.19694444" Speed="250" Altitude="3000" />
           <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AKROM Y177 SMOKA SMOK9A/19R</FlightPlan>
-          <Route>SMOKA</Route>
+          <Route>SMOKA RWY19R</Route>
         </Aircraft>
         <Aircraft Callsign="VEA" Type="SF34" Delay="0" StartAuto="true">
           <Squawk Code="1011" ModeC="true" />
@@ -837,14 +837,14 @@
           <Cleared Approach="true" />
           <Position Latitude="-28.56027778" Longitude="153.43694444" Speed="250" Altitude="3000" />
           <FlightPlan Active="true" Departure="YCFS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CFS W192 GOMOL GOMO2A/19L</FlightPlan>
-          <Route>GOMOL</Route>
+          <Route>GOMOL RWY19L</Route>
         </Aircraft>
         <Aircraft Callsign="QTR900" Type="B77W" Delay="0" StartAuto="true">
           <Squawk Code="1017" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-28.76388889" Longitude="153.29750000" Speed="250" Altitude="3000" />
           <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL GOMO2A/19L</FlightPlan>
-          <Route>GOMOL</Route>
+          <Route>GOMOL RWY19L</Route>
         </Aircraft>
 
         <Aircraft Callsign="JST813" Type="A320" Delay="0">
@@ -1008,7 +1008,7 @@
           <Cleared Approach="true" />
           <Position Latitude="-26.78138889" Longitude="152.55861111" Speed="250" Altitude="4000" />
           <FlightPlan Active="true" Departure="YBMK" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT MK W889 RK V307 SUSGI DCT SMOKA SMOK9A/19R</FlightPlan>
-          <Route>SMOKA</Route>
+          <Route>SMOKA RWY19R</Route>
         </Aircraft>
         <Aircraft Callsign="QFA1938" Type="E190" Delay="0" StartAuto="true">
           <Squawk Code="1007" ModeC="true" />
@@ -1022,21 +1022,21 @@
           <Cleared Approach="true" />
           <Position Latitude="-26.61527778" Longitude="152.35444444" Speed="250" Altitude="4000" />
           <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AKROM Y177 SMOKA SMOK9A/19R</FlightPlan>
-          <Route>SMOKA</Route>
+          <Route>SMOKA RWY19R</Route>
         </Aircraft>
         <Aircraft Callsign="AVN20" Type="B738" Delay="0" StartAuto="true">
           <Squawk Code="1009" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-26.45166667" Longitude="152.19694444" Speed="250" Altitude="3000" />
           <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AKROM Y177 SMOKA SMOK9A/19R</FlightPlan>
-          <Route>SMOKA</Route>
+          <Route>SMOKA RWY19R</Route>
         </Aircraft>
         <Aircraft Callsign="QLK417D" Type="DH8D" Delay="0" StartAuto="true">
           <Squawk Code="1010" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-26.21444444" Longitude="152.13750000" Speed="250" Altitude="4000" />
           <FlightPlan Active="true" Departure="YBRK" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">RK V307 SUSGI DCT SMOKA SMOK9A/19R</FlightPlan>
-          <Route>SMOKA</Route>
+          <Route>SMOKA RWY19R</Route>
         </Aircraft>
         <Aircraft Callsign="VEP" Type="SF34" Delay="0" StartAuto="true">
           <Squawk Code="1011" ModeC="true" />
@@ -1050,28 +1050,28 @@
           <Cleared Approach="true" />
           <Position Latitude="-28.34055556" Longitude="153.44361111" Speed="250" Altitude="3000" />
           <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL GOMO2A/19L</FlightPlan>
-          <Route>GOMOL</Route>
+          <Route>GOMOL RWY19L</Route>
         </Aircraft>
         <Aircraft Callsign="FD427" Type="B350" Delay="0" StartAuto="true">
           <Squawk Code="1015" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-28.56027778" Longitude="153.43694444" Speed="250" Altitude="3000" />
           <FlightPlan Active="true" Departure="YCFS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CFS W192 GOMOL GOMO2A/19L</FlightPlan>
-          <Route>GOMOL</Route>
+          <Route>GOMOL RWY19L</Route>
         </Aircraft>
         <Aircraft Callsign="TFX902" Type="B733" Delay="0" StartAuto="true">
           <Squawk Code="1016" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-26.12444444" Longitude="151.86833333" Speed="250" Altitude="4000" />
           <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AKROM Y177 SMOKA SMOK9A/19R</FlightPlan>
-          <Route>SMOKA</Route>
+          <Route>SMOKA RWY19R</Route>
         </Aircraft>
         <Aircraft Callsign="QTR898" Type="B77W" Delay="0" StartAuto="true">
           <Squawk Code="1017" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-28.76388889" Longitude="153.29750000" Speed="250" Altitude="3000" />
           <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL GOMO2A/19L</FlightPlan>
-          <Route>GOMOL</Route>
+          <Route>GOMOL RWY19L</Route>
         </Aircraft>
 
         <Aircraft Callsign="JST811" Type="A320" Delay="0">
@@ -1215,7 +1215,7 @@
       <Aircraft Callsign="FD580" Type="PC12" Delay="120" StartAuto="true">
         <Squawk Code="0" ModeC="false" />
         <Position Latitude="-34.950071" Longitude="138.522121" Speed="0" Altitude="23" />
-        <FlightPlan Departure="YPAD" Destination="YWHA" Alternative="" Active="false" Rules="I" CruiseSpeed="284" ETD="0000" ATD="0000" RFL="16000" EETHours="00" EETMins="34" FuelHours="3" FuelMins="00" Remarks="NAV/RNP2 RTF/FLYDOC /v/">DCT AD W238 WAKEN W142 COMAC DCT </FlightPlan>
+        <FlightPlan Departure="YPAD" Destination="YWHA" Alternative="" Active="false" Rules="I" CruiseSpeed="284" ETD="0000" ATD="0000" RFL="16000" EETHours="00" EETMins="34" FuelHours="3" FuelMins="00" Remarks="NAV/RNP2 RTF/FLYDOC /v/">DCT AD W238 RUKNA W142 COMAC DCT </FlightPlan>
         <Route>COLPY</Route>
         <TimedMessages>
           <TimedMessage Time="750" Message="Request Clearance to Whyalla" />
@@ -1337,35 +1337,35 @@
         <Cleared Approach="true" />
         <Position Latitude="-34.72777778" Longitude="137.61583333" Speed="200" Altitude="3000" />
         <FlightPlan Departure="YPLC" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="268" ETD="0000" ATD="0000" RFL="15000" EETHours="0" EETMins="38" FuelHours="2" FuelMins="45" Remarks="NAV/RNP2 RTF/FLYDOC /v/">DCT TEKOD V707 RIKAB RIKA8A/23</FlightPlan>
-        <Route>RIKAB</Route>
+        <Route>RIKAB RWY23</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ231" Type="B738" Delay="0" StartAuto="true">
         <Squawk Code="3540" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-35.57027778" Longitude="139.46166667" Speed="200" Altitude="3000" />
         <FlightPlan Departure="YMML" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="454" ETD="0000" ATD="0000" RFL="34000" EETHours="1" EETMins="11" FuelHours="2" FuelMins="22" Remarks="NAV/RNP2 RTF/VELOCITY /v/">DCT NEVIS H345 DRINA DRIN9A/23</FlightPlan>
-        <Route>DRINA</Route>
+        <Route>DRINA RWY23</Route>
       </Aircraft>
       <Aircraft Callsign="RXA4357" Type="SF34" Delay="0" StartAuto="true">
         <Squawk Code="2750" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-34.70500000" Longitude="137.24138889" Speed="200" Altitude="3000" />
         <FlightPlan Departure="YPLC" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="15000" EETHours="0" EETMins="45" FuelHours="1" FuelMins="59" Remarks="NAV/RNP2 RTF/QLINK /v/">DCT PLC V707 RIKAB RIKA8A/23</FlightPlan>
-        <Route>RIKAB</Route>
+        <Route>RIKAB RWY23</Route>
       </Aircraft>
       <Aircraft Callsign="VOZ718" Type="B738" Delay="0" StartAuto="true">
         <Squawk Code="3007" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-34.78833333" Longitude="136.71527778" Speed="200" Altitude="3000" />
         <FlightPlan Departure="YPPH" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="447" ETD="0000" ATD="0000" RFL="37000" EETHours="2" EETMins="28" FuelHours="3" FuelMins="58" Remarks="NAV/RNP2 RTF/VELOCITY /v/">DCT HECTO Y135 DADRU Y39 RIKAB RIKA8A/23</FlightPlan>
-        <Route>RIKAB</Route>
+        <Route>RIKAB RWY23</Route>
       </Aircraft>
       <Aircraft Callsign="JST961" Type="A320" Delay="0" StartAuto="true">
         <Squawk Code="4503" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-33.17666667" Longitude="138.51250000" Speed="200" Altitude="3000" />
         <FlightPlan Departure="YBCS" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="34000" EETHours="2" EETMins="53" FuelHours="4" FuelMins="01" Remarks="NAV/RNP2 RTF/JETSTAR /v/">DCT NONUM DCT RUSSO DCT NONET DCT OOM J37 ATLIB H630 NIMEK H135 KLAVA RAYN2A/23</FlightPlan>
-        <Route>KLAVA</Route>
+        <Route>KLAVA RWY23</Route>
       </Aircraft>
     </Targets>
     </ScenarioFile>
@@ -2203,7 +2203,7 @@
               <Squawk Code="4113" ModeC="true" />
               <Position Latitude="-26.06" Longitude="151.805" Speed="450" Altitude="29000" />
               <Cleared Level="3000" />
-              <FlightPlan Active="true" Departure="YBAS" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PULOL T11 ROM Y166 ROWLO V327 HAWKE Y340 LAMUG Y177 SMOKA SMOK1A/19R</FlightPlan>
+              <FlightPlan Active="true" Departure="YBAS" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PULOL T11 ROM Y166 IDLEG V327 HAWKE Y340 LAMUG Y177 SMOKA SMOK1A/19R</FlightPlan>
               <Route>LAMUG SMOKA RWY19R</Route>
             </Aircraft>
             <Aircraft Callsign="QFA987" Type="B738" Delay="180" StartAuto="true">
@@ -2308,21 +2308,21 @@
             <Squawk Code="4213" ModeC="true" />
             <Position Latitude="-37.306667" Longitude="145.915" Speed="440" Altitude="24000" />
             <Cleared Level="9000" />
-            <FlightPlan Active="true" Departure="YSSY" Destination="YMAV" Alternative="" Rules="1" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TESAT H65 RAZZI Q29 ML JAYBI5/18</FlightPlan>
+            <FlightPlan Active="true" Departure="YSSY" Destination="YMAV" Alternative="" Rules="1" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TESAT H65 LEECE Q29 ML JAYBI5/18</FlightPlan>
             <Route>LIZZI ML JAYBI RWY18</Route>
           </Aircraft>
           <Aircraft Callsign="VOZ876" Type="B738" Delay="0">
             <Squawk Code="4117" ModeC="true" />
             <Position Latitude="-37.202087" Longitude="146.119146" Speed="410" Altitude="24000" />
             <Cleared Level="9000" />
-            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TESAT H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TESAT H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
             <Route>LIZZI RWY16</Route>
           </Aircraft>
           <Aircraft Callsign="QFA455" Type="A332" Delay="0">
             <Squawk Code="3111" ModeC="true" />
             <Position Latitude="-37.00189199999999" Longitude="146.500724" Speed="420" Altitude="26000" />
             <Cleared Level="9000" />
-            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TESAT H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TESAT H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
             <Route>LIZZI RWY16</Route>
           </Aircraft>
           <Aircraft Callsign="QFA692" Type="B738" Delay="0">
@@ -2336,7 +2336,7 @@
             <Squawk Code="4112" ModeC="true" />
             <Position Latitude="-36.51083333" Longitude="147.39500000" Speed="410" Altitude="38000" />
             <Cleared Level="9000" />
-            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TESAT H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TESAT H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
             <Route>NABBA BULLA LIZZI RWY16</Route>
           </Aircraft>
           <Aircraft Callsign="QFA699" Type="B738" Delay="30" StartAuto="true">
@@ -2357,7 +2357,7 @@
             <Squawk Code="4115" ModeC="true" />
             <Position Latitude="-36.004223" Longitude="148.301395" Speed="410" Altitude="38000" />
             <Cleared Level="9000" />
-            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="410" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
             <Route>RUMIE NABBA BULLA LIZZI RWY16</Route>
           </Aircraft>
           <Aircraft Callsign="YMF7000" Type="F100" Delay="240" StartAuto="true">
@@ -2504,7 +2504,7 @@
           <Squawk Code="2742" ModeC="true" />
           <Cleared Level="9000" />
           <Position Latitude="-37.19" Longitude="146.14" Speed="350" Altitude="18000" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9V/34V</FlightPlan>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT WOL H65 LEECE Q29 LIZZI LIZI9V/34V</FlightPlan>
           <Route>LUVAS LIZZI ATPER MAITE IGPON MONTY EGEKA SHEED HORSH RWY34</Route>
         </Aircraft>
         <Aircraft Callsign="TFX15" Type="AT43" Delay="0">
@@ -2525,14 +2525,14 @@
           <Squawk Code="2411" ModeC="true" />
           <Cleared Level="9000" />
           <Position Latitude="-35.035" Longitude="150.0" Speed="480" Altitude="43000" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="489" ETD="0000" ATD="0000" RFL="43000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/D NAV/RNP2 /v/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/34</FlightPlan>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="489" ETD="0000" ATD="0000" RFL="43000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/D NAV/RNP2 /v/">DCT WOL H65 LEECE Q29 LIZZI LIZI9A/34</FlightPlan>
           <Route>TANTA RUMIE NABBA BULLA LUVAS LIZZI RWY34</Route>
         </Aircraft>
         <Aircraft Callsign="JST513" Type="A320" Delay="0">
           <Squawk Code="2746" ModeC="true" />
           <Cleared Level="9000" />
           <Position Latitude="-35.88" Longitude="148.565" Speed="450" Altitude="38000" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9V/34V</FlightPlan>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT WOL H65 LEECE Q29 LIZZI LIZI9V/34V</FlightPlan>
           <Route>NABBA BULLA LUVAS LIZZI ATPER MAITE IGPON MONTY EGEKA SHEED HORSH RWY34</Route>
         </Aircraft>
         <Aircraft Callsign="ETS" Type="BE58" Delay="0">
@@ -2822,77 +2822,77 @@
           <Squawk Code="4765" ModeC="true" />
           <Cleared Level="9000" Approach="false" />
           <Position Latitude="-37.361944" Longitude="145.805278" Speed="300" Altitude="17000" />
-          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">DCT WOL H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
           <Route>LIZZI RWY16</Route>
         </Aircraft>
         <Aircraft Callsign="VOZ874" Type="B738" Delay="0" StartAuto="false">
           <Squawk Code="1213" ModeC="true" />
           <Cleared Level="9000" Approach="false" />
           <Position Latitude="-37.079167" Longitude="146.351667" Speed="400" Altitude="26000" />
-          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/">DCT WOL H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
           <Route>LUVAS LIZZI RWY16</Route>
         </Aircraft>
         <Aircraft Callsign="JST531" Type="A21N" Delay="0" StartAuto="false">
           <Squawk Code="3227" ModeC="true" />
           <Cleared Level="9000" Approach="false" />
           <Position Latitude="-36.846944" Longitude="146.781667" Speed="410" Altitude="31000" />
-          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="340" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHOFE OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="340" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHOFE OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">DCT WOL H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
           <Route>BULLA LUVAS LIZZI RWY16</Route>
         </Aircraft>
         <Aircraft Callsign="CPA3122" Type="B748" Delay="0" StartAuto="false">
           <Squawk Code="3114" ModeC="true" />
           <Cleared Level="9000" Approach="false" />
           <Position Latitude="-36.608611" Longitude="147.214444" Speed="480" Altitude="36000" />
-          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1L1O1S2T1 NAV/RNP2 COM/INTEGRATED DAT/1FANSER2PDC SUR/260B RSP180 DOF/240101 REG/BLJK EET/YMMM0050 SEL/CKDH CODE/780A6E OPR/CPA ORGN/EDDFCPAX PER/D RMK/CARGO AIRCRAFT /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1L1O1S2T1 NAV/RNP2 COM/INTEGRATED DAT/1FANSER2PDC SUR/260B RSP180 DOF/240101 REG/BLJK EET/YMMM0050 SEL/CKDH CODE/780A6E OPR/CPA ORGN/EDDFCPAX PER/D RMK/CARGO AIRCRAFT /V/">DCT WOL H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
           <Route>NABBA BULLA LUVAS LIZZI RWY16</Route>
         </Aircraft>
         <Aircraft Callsign="RXA161" Type="B738" Delay="0" StartAuto="false">
           <Squawk Code="3765" ModeC="true" />
           <Cleared Level="9000" Approach="false" />
           <Position Latitude="-36.556667" Longitude="147.3225" Speed="450" Altitude="38000" />
-          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1L1O1S2 NAV/RNP2 DOF/240101 REG/VHRQP SEL/CEDQ CODE/7C585F OPR/RXA ORGN/KAUSFFLX PER/C /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1L1O1S2 NAV/RNP2 DOF/240101 REG/VHRQP SEL/CEDQ CODE/7C585F OPR/RXA ORGN/KAUSFFLX PER/C /V/">DCT WOL H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
           <Route>NABBA BULLA LUVAS LIZZI RWY16</Route>
         </Aircraft>
         <Aircraft Callsign="VOZ886" Type="B38M" Delay="0" StartAuto="false">
           <Squawk Code="6732" ModeC="true" />
           <Cleared Level="9000" Approach="false" />
           <Position Latitude="-36.379167" Longitude="147.633056" Speed="450" Altitude="38000" />
-          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/">DCT WOL H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
           <Route>NABBA BULLA LUVAS LIZZI RWY16</Route>
         </Aircraft>
         <Aircraft Callsign="TFX22" Type="B734" Delay="0" StartAuto="false">
           <Squawk Code="0127" ModeC="true" />
           <Cleared Level="9000" Approach="false" />
           <Position Latitude="-36.240833" Longitude="147.891944" Speed="440" Altitude="34000" />
-          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDFGHIM3RWZ/LB1" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="340" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O2S2 NAV/RNP2 DOF/240101 REG/ZKTLJ SEL/EPCR CODE/C822C4 OPR/TFX PER/C RMK/TCAS EQUIPPED /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDFGHIM3RWZ/LB1" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="340" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O2S2 NAV/RNP2 DOF/240101 REG/ZKTLJ SEL/EPCR CODE/C822C4 OPR/TFX PER/C RMK/TCAS EQUIPPED /V/">DCT WOL H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
           <Route>RUMIE NABBA BULLA LUVAS LIZZI RWY16</Route>
         </Aircraft>
         <Aircraft Callsign="TAA406" Type="A306" Delay="0" StartAuto="false">
           <Squawk Code="5552" ModeC="true" />
           <Cleared Level="9000" Approach="false" />
           <Position Latitude="-36.051667" Longitude="148.237778" Speed="470" Altitude="40000" />
-          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="400" EETHours="1" EETMins="20" FuelHours="2" FuelMins="15" Remarks="PBN/A1B1D1O1S1S2 NAV/RNP2 DOF/240112 REG/VHTAE SEL/DGCF CODE/8961D3 OPR/TAA PER/C /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="400" EETHours="1" EETMins="20" FuelHours="2" FuelMins="15" Remarks="PBN/A1B1D1O1S1S2 NAV/RNP2 DOF/240112 REG/VHTAE SEL/DGCF CODE/8961D3 OPR/TAA PER/C /V/">DCT WOL H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
           <Route>RUMIE NABBA BULLA LUVAS LIZZI RWY16</Route>
         </Aircraft>
         <Aircraft Callsign="VOZ888" Type="B738" Delay="0" StartAuto="false">
           <Squawk Code="2365" ModeC="true" />
           <Cleared Level="9000" Approach="false" />
           <Position Latitude="-35.981667" Longitude="148.351944" Speed="450" Altitude="36000" />
-          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/">DCT WOL H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
           <Route>RUMIE NABBA BULLA LUVAS LIZZI RWY16</Route>
         </Aircraft>
         <Aircraft Callsign="QFA485" Type="B738" Delay="0" StartAuto="false">
           <Squawk Code="6564" ModeC="true" />
           <Cleared Level="9000" Approach="false" />
           <Position Latitude="-35.684722" Longitude="148.869722" Speed="450" Altitude="38000" />
-          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">DCT WOL H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
           <Route>RUMIE NABBA BULLA LUVAS LIZZI RWY16</Route>
         </Aircraft>
         <Aircraft Callsign="8AX" Type="C700" Delay="0" StartAuto="false">
           <Squawk Code="7104" ModeC="true" />
           <Cleared Level="9000" Approach="false" />
           <Position Latitude="-35.335556" Longitude="149.480833" Speed="450" Altitude="43000" />
-          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="430" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VH8AX SEL/ESAM CODE/7C6DDA OPR/JETSTREAM AVIATION PER/C /V/">DCT WOL H65 RAZZI Q29 LIZZI LIZI9A/16</FlightPlan>
+          <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="430" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VH8AX SEL/ESAM CODE/7C6DDA OPR/JETSTREAM AVIATION PER/C /V/">DCT WOL H65 LEECE Q29 LIZZI LIZI9A/16</FlightPlan>
           <Route>RUMIE NABBA BULLA LUVAS LIZZI RWY16</Route>
         </Aircraft>
     // Off Route Arrivals
@@ -2925,7 +2925,7 @@
           <Squawk Code="1714" ModeC="true" />
           <Cleared Level="9000" Approach="false" />
           <Position Latitude="-35.789722" Longitude="148.703611" Speed="450" Altitude="36000" />
-          <FlightPlan Departure="YSSY" Destination="YMAV" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHOFE OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">DCT WOL H65 RAZZI Q29 ML JAYBI5/18</FlightPlan>
+          <FlightPlan Departure="YSSY" Destination="YMAV" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHOFE OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">DCT WOL H65 LEECE Q29 ML JAYBI5/18</FlightPlan>
           <Route>RUMIE NABBA BULLA LUVAS LIZZI ML JAYBI RWY18</Route>
           <TimedMessages>
             <TimedMessage Time="1140" Message="If there is less than 7nm separation with VOZ888, apply vertical separation (1000ft above VOZ888's last vacated level). Handoff when ready to MAE with vertical separation in place" />
@@ -3079,8 +3079,8 @@
           <Squawk Code="4165" ModeC="true" />
           <Cleared Level="5000" />
           <Position Latitude="-33.970049" Longitude="151.19351" Speed="0" Altitude="3" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="30" FuelHours="0" FuelMins="0" Remarks="REG/VHYFE PER/C OPR/VIRGIN AUSTRALIA    /v/">MARUB6/34R WOL H65 RAZZI Q29 LIZZI</FlightPlan>
-          <Route>MARUB WOL RAZZI YMML</Route>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="30" FuelHours="0" FuelMins="0" Remarks="REG/VHYFE PER/C OPR/VIRGIN AUSTRALIA    /v/">MARUB6/34R WOL H65 LEECE Q29 LIZZI</FlightPlan>
+          <Route>MARUB WOL LEECE YMML</Route>
         </Aircraft>
         <Aircraft Callsign="RXA143" Type="B738" Delay="0">
           <Squawk Code="6234" ModeC="true" />
@@ -3093,8 +3093,8 @@
           <Squawk Code="5143" ModeC="true" />
           <Cleared Level="5000" />
           <Position Latitude="-33.970049" Longitude="151.19351" Speed="0" Altitude="3" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="30" FuelHours="0" FuelMins="0" Remarks="REG/VHVZA PER/C OPR/QANTAS    /v/">MARUB6/34R WOL H65 RAZZI Q29 LIZZI</FlightPlan>
-          <Route>MARUB WOL RAZZI YMML</Route>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="30" FuelHours="0" FuelMins="0" Remarks="REG/VHVZA PER/C OPR/QANTAS    /v/">MARUB6/34R WOL H65 LEECE Q29 LIZZI</FlightPlan>
+          <Route>MARUB WOL LEECE YMML</Route>
         </Aircraft>
         <Aircraft Callsign="ANZ223" Type="A21N" Delay="0">
           <Squawk Code="1239" ModeC="true" />
@@ -3260,8 +3260,8 @@
           <Squawk Code="4165" ModeC="true" />
           <Cleared Level="5000" />
           <Position Latitude="-33.970049" Longitude="151.19351" Speed="0" Altitude="3" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="30" FuelHours="0" FuelMins="0" Remarks="REG/VHYFE PER/C OPR/VIRGIN AUSTRALIA    /v/">MARUB6/34R WOL H65 RAZZI Q29 LIZZI</FlightPlan>
-          <Route>MARUB WOL RAZZI YMML</Route>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="30" FuelHours="0" FuelMins="0" Remarks="REG/VHYFE PER/C OPR/VIRGIN AUSTRALIA    /v/">MARUB6/34R WOL H65 LEECE Q29 LIZZI</FlightPlan>
+          <Route>MARUB WOL LEECE YMML</Route>
         </Aircraft>
         <Aircraft Callsign="RXA143" Type="B738" Delay="0">
           <Squawk Code="6234" ModeC="true" />
@@ -3274,8 +3274,8 @@
           <Squawk Code="5143" ModeC="true" />
           <Cleared Level="5000" />
           <Position Latitude="-33.970049" Longitude="151.19351" Speed="0" Altitude="3" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="30" FuelHours="0" FuelMins="0" Remarks="REG/VHVZA PER/C OPR/QANTAS    /v/">MARUB6/34R WOL H65 RAZZI Q29 LIZZI</FlightPlan>
-          <Route>MARUB WOL RAZZI YMML</Route>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="30" FuelHours="0" FuelMins="0" Remarks="REG/VHVZA PER/C OPR/QANTAS    /v/">MARUB6/34R WOL H65 LEECE Q29 LIZZI</FlightPlan>
+          <Route>MARUB WOL LEECE YMML</Route>
         </Aircraft>
         <Aircraft Callsign="ANZ223" Type="A21N" Delay="0">
           <Squawk Code="1239" ModeC="true" />
@@ -3441,15 +3441,15 @@
       <Squawk Code="7642" ModeC="true" />
       <Cleared Level="5000" Approach="false" />
       <Position Latitude="-33.930278" Longitude="151.171667" Speed="1" Altitude="7" />
-      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">KAMPI6/16R WOL H65 RAZZI Q29 LIZZI DCT</FlightPlan>
-      <Route>WOL RAZZI TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">KAMPI6/16R WOL H65 LEECE Q29 LIZZI DCT</FlightPlan>
+      <Route>WOL LEECE TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
     </Aircraft>
 	<Aircraft Callsign="VOZ874" Type="B738" Delay="0" StartAuto="false">
       <Squawk Code="2435" ModeC="true" />
       <Cleared Level="5000" Approach="false" />
       <Position Latitude="-33.930278" Longitude="151.171667" Speed="0" Altitude="7" />
-      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/">KAMPI6/16R WOL H65 RAZZI Q29 LIZZI DCT</FlightPlan>
-      <Route>WOL RAZZI TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/">KAMPI6/16R WOL H65 LEECE Q29 LIZZI DCT</FlightPlan>
+      <Route>WOL LEECE TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
 	  <TimedMessages>
         <TimedMessage Time="100" Message="Takeoff" />
       </TimedMessages>
@@ -3458,8 +3458,8 @@
       <Squawk Code="3227" ModeC="true" />
       <Cleared Level="5000" Approach="false" />
       <Position Latitude="-33.930278" Longitude="151.171667" Speed="0" Altitude="7" />
-      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="340" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHOFE OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">KAMPI6/16R WOL H65 RAZZI Q29 LIZZI DCT</FlightPlan>
-      <Route>WOL RAZZI TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="340" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHOFE OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">KAMPI6/16R WOL H65 LEECE Q29 LIZZI DCT</FlightPlan>
+      <Route>WOL LEECE TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
 	  <TimedMessages>
         <TimedMessage Time="200" Message="Takeoff" />
       </TimedMessages>
@@ -3468,8 +3468,8 @@
       <Squawk Code="6214" ModeC="true" />
       <Cleared Level="5000" Approach="false" />
       <Position Latitude="-33.930278" Longitude="151.171667" Speed="0" Altitude="7" />
-      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 RNVD1A1 SUR/260B DOF/240101 REG/VHEBO EET/YBBB0103 SEL/CEFS CODE/7C5325 OPR/QFA ORGN/YSSYQFAO PER/C /V/">KAMPI6/16R WOL H65 RAZZI Q29 LIZZI DCT</FlightPlan>
-      <Route>WOL RAZZI TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 RNVD1A1 SUR/260B DOF/240101 REG/VHEBO EET/YBBB0103 SEL/CEFS CODE/7C5325 OPR/QFA ORGN/YSSYQFAO PER/C /V/">KAMPI6/16R WOL H65 LEECE Q29 LIZZI DCT</FlightPlan>
+      <Route>WOL LEECE TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
 	  <TimedMessages>
         <TimedMessage Time="300" Message="Takeoff" />
       </TimedMessages>
@@ -3478,8 +3478,8 @@
       <Squawk Code="2377" ModeC="true" />
       <Cleared Level="5000" Approach="false" />
       <Position Latitude="-33.951944" Longitude="151.188889" Speed="0" Altitude="16" />
-      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="340" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHVFU OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">ABBEY3/16L WOL H65 RAZZI Q29 LIZZI DCT</FlightPlan>
-      <Route>WOL RAZZI TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="340" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHVFU OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">ABBEY3/16L WOL H65 LEECE Q29 LIZZI DCT</FlightPlan>
+      <Route>WOL LEECE TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
 	  <TimedMessages>
         <TimedMessage Time="240" Message="SY ADC to SY DEP Coord: 'Next, Runway 16L, JST531'" />
         <TimedMessage Time="300" Message="Set Level to Coordinated instruction, and Takeoff" />
@@ -3501,8 +3501,8 @@
       <Squawk Code="7106" ModeC="true" />
       <Cleared Level="5000" Approach="false" />
       <Position Latitude="-33.951944" Longitude="151.188889" Speed="0" Altitude="16" />
-      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDFGHRYZ/LB1" Rules="I" CruiseSpeed="405" ETD="0000" ATD="0000" RFL="260" EETHours="1" EETMins="25" FuelHours="2" FuelMins="30" Remarks="PBN/A1B2C2D2O2 NAV/RNP2 DOF/220501 REG/VHNJI EET/YBBB0002 CODE/7C431C OPR/NATIONAL JET SYSTEMS PER/C /V/">ABBEY3/16L WOL H65 RAZZI Q29 LIZZI DCT</FlightPlan>
-      <Route>WOL RAZZI TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDFGHRYZ/LB1" Rules="I" CruiseSpeed="405" ETD="0000" ATD="0000" RFL="260" EETHours="1" EETMins="25" FuelHours="2" FuelMins="30" Remarks="PBN/A1B2C2D2O2 NAV/RNP2 DOF/220501 REG/VHNJI EET/YBBB0002 CODE/7C431C OPR/NATIONAL JET SYSTEMS PER/C /V/">ABBEY3/16L WOL H65 LEECE Q29 LIZZI DCT</FlightPlan>
+      <Route>WOL LEECE TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
 	  <TimedMessages>
         <TimedMessage Time="340" Message="SY ADC to SY DEP Coord: 'Next, Runway 16L, JTE7445'" />
         <TimedMessage Time="400" Message="Set Level to Coordinated instruction, and Takeoff" />
@@ -3513,8 +3513,8 @@
       <Squawk Code="3765" ModeC="true" />
       <Cleared Level="5000" Approach="false" />
       <Position Latitude="-33.930278" Longitude="151.171667" Speed="0" Altitude="7" />
-      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1L1O1S2 NAV/RNP2 DOF/240101 REG/VHRQP SEL/CEDQ CODE/7C585F OPR/RXA ORGN/KAUSFFLX PER/C /V/">KAMPI6/16R WOL H65 RAZZI Q29 LIZZI DCT</FlightPlan>
-      <Route>WOL RAZZI TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1L1O1S2 NAV/RNP2 DOF/240101 REG/VHRQP SEL/CEDQ CODE/7C585F OPR/RXA ORGN/KAUSFFLX PER/C /V/">KAMPI6/16R WOL H65 LEECE Q29 LIZZI DCT</FlightPlan>
+      <Route>WOL LEECE TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
 	  <TimedMessages>
         <TimedMessage Time="600" Message="Takeoff" />
       </TimedMessages>
@@ -3533,8 +3533,8 @@
       <Squawk Code="6610" ModeC="true" />
       <Cleared Level="5000" Approach="false" />
       <Position Latitude="-33.951944" Longitude="151.188889" Speed="0" Altitude="16" />
-      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/">ABBEY3/16L WOL H65 RAZZI Q29 LIZZI DCT</FlightPlan>
-      <Route>WOL RAZZI TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/">ABBEY3/16L WOL H65 LEECE Q29 LIZZI DCT</FlightPlan>
+      <Route>WOL LEECE TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
 	  <TimedMessages>
 		    <TimedMessage Time="300" Message="Activate Plan" />
         <TimedMessage Time="840" Message="SY ADC to SY DEP Coord: 'Next, Runway 16L, VOZ876'" />
@@ -3545,8 +3545,8 @@
       <Squawk Code="3227" ModeC="true" />
       <Cleared Level="5000" Approach="false" />
       <Position Latitude="-33.930278" Longitude="151.171667" Speed="0" Altitude="7" />
-      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYQC SEL/FRBM OPR/AIR AUSTRALIA PER/C RMK/TCAS EQUIPPED CALLSIGN STRATEGIC /V/ ">KAMPI6/16R WOL H65 RAZZI Q29 LIZZI DCT</FlightPlan>
-      <Route>WOL RAZZI TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYQC SEL/FRBM OPR/AIR AUSTRALIA PER/C RMK/TCAS EQUIPPED CALLSIGN STRATEGIC /V/ ">KAMPI6/16R WOL H65 LEECE Q29 LIZZI DCT</FlightPlan>
+      <Route>WOL LEECE TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
 	  <TimedMessages>
 		<TimedMessage Time="340" Message="Activate Plan" />
         <TimedMessage Time="940" Message="Takeoff" />
@@ -3556,8 +3556,8 @@
       <Squawk Code="6422" ModeC="true" />
       <Cleared Level="5000" Approach="false" />
       <Position Latitude="-33.930278" Longitude="151.171667" Speed="0" Altitude="7" />
-      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false" Equipment="SBDE2E3FGHIJ1J3J4J5M1M3P2RWXYZ/LB1D1G1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="430" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="STS/HEAD STATE PBN/A1B2C2D2L1S2 NAV/RNP2 DOF/240101 REG/A56003 OPR/RAAF PER/C RMK/TCAS EQUIPPED /V/ ">KAMPI6/16R WOL H65 RAZZI Q29 LIZZI DCT</FlightPlan>
-      <Route>WOL RAZZI TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false" Equipment="SBDE2E3FGHIJ1J3J4J5M1M3P2RWXYZ/LB1D1G1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="430" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="STS/HEAD STATE PBN/A1B2C2D2L1S2 NAV/RNP2 DOF/240101 REG/A56003 OPR/RAAF PER/C RMK/TCAS EQUIPPED /V/ ">KAMPI6/16R WOL H65 LEECE Q29 LIZZI DCT</FlightPlan>
+      <Route>WOL LEECE TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
 	  <TimedMessages>
 		<TimedMessage Time="450" Message="Activate Plan" />
         <TimedMessage Time="1050" Message="Takeoff" />
@@ -3567,8 +3567,8 @@
       <Squawk Code="0074" ModeC="true" />
       <Cleared Level="5000" Approach="false" />
       <Position Latitude="-33.951944" Longitude="151.188889" Speed="0" Altitude="16" />
-      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">ABBEY3/16L WOL H65 RAZZI Q29 LIZZI DCT</FlightPlan>
-      <Route>WOL RAZZI TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">ABBEY3/16L WOL H65 LEECE Q29 LIZZI DCT</FlightPlan>
+      <Route>WOL LEECE TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
 	  <TimedMessages>
 		    <TimedMessage Time="500" Message="Activate Plan" />
         <TimedMessage Time="1040" Message="SY ADC to SY DEP Coord: 'Next, Runway 16L, QFA483'" />
@@ -3579,8 +3579,8 @@
       <Squawk Code="4334" ModeC="true" />
       <Cleared Level="5000" Approach="false" />
       <Position Latitude="-33.930278" Longitude="151.171667" Speed="0" Altitude="7" />
-      <FlightPlan Departure="YSSY" Destination="YMAV" Alternative="" Active="false" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="30" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHVFU OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">KAMPI6/16R WOL H65 RAZZI Q29 ML DCT</FlightPlan>
-      <Route>WOL RAZZI TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML AV</Route>
+      <FlightPlan Departure="YSSY" Destination="YMAV" Alternative="" Active="false" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="360" EETHours="1" EETMins="30" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHVFU OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">KAMPI6/16R WOL H65 LEECE Q29 ML DCT</FlightPlan>
+      <Route>WOL LEECE TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML AV</Route>
 	  <TimedMessages>
 	    <TimedMessage Time="560" Message="Activate Plan" />
         <TimedMessage Time="1160" Message="Takeoff" />
@@ -3612,8 +3612,8 @@
       <Squawk Code="3402" ModeC="true" />
       <Cleared Level="5000" Approach="false" />
       <Position Latitude="-33.930278" Longitude="151.171667" Speed="0" Altitude="7" />
-      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">KAMPI6/16R WOL H65 RAZZI Q29 LIZZI DCT</FlightPlan>
-      <Route>WOL RAZZI TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
+      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">KAMPI6/16R WOL H65 LEECE Q29 LIZZI DCT</FlightPlan>
+      <Route>WOL LEECE TANTA ANLID RUMIE NABBA BULLA LUVAS LIZZI ML</Route>
 	  <TimedMessages>
 		<TimedMessage Time="1900" Message="Activate Plan" />
         <TimedMessage Time="2500" Message="Takeoff" />
@@ -5052,7 +5052,7 @@
             <Position Latitude="-34.28694" Longitude="151.096398" Speed="340" Altitude="20000" />
             <Cleared Level="20000" />
             <FlightPlan Active="true" Departure="YSSY" Destination="YSCB" Alternative="" Rules="I" CruiseSpeed="0" ETD="0000" ATD="0000" RFL="20000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHVHF PER/C OPR/VOZ VIRTUAL NAV/RNP10 GPSRNAV RMK/TCAS EQUIPPED /v/">DCT TESAT H65 CB DCT</FlightPlan>
-            <Route>WOL RAZZI</Route>
+            <Route>WOL LEECE</Route>
           </Aircraft>
           <Aircraft Callsign="YMA03" Type="B738" Delay="0">
             <Squawk Code="4122" ModeC="true" />
@@ -5072,8 +5072,8 @@
             <Squawk Code="3177" ModeC="true" />
             <Position Latitude="-34.391667" Longitude="150.959722" Speed="370" Altitude="24500" />
             <Cleared Level="28000" />
-            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="18" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H65 RAZZI Q29 ML DCT</FlightPlan>
-            <Route>RAZZI TANTA RUMIE NABBA BULLA LIZZI</Route>
+            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="18" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H65 LEECE Q29 ML DCT</FlightPlan>
+            <Route>LEECE TANTA RUMIE NABBA BULLA LIZZI</Route>
           </Aircraft>
           <Aircraft Callsign="EVY701" Type="B737" Delay="0">
             <Squawk Code="4452" ModeC="true" />
@@ -5135,7 +5135,7 @@
 
         **AM213** and **QLK2039D** should be taken off around the same time (You will be prompted). This will cause an enroute conflict at TEMIS.  
 
-        **QLK2039D** arrives around the same time as the cluster from YSSY, up to your student whether to sequence it in the middle or the end. 
+        **QLK39D** arrives around the same time as the cluster from YSSY, up to your student whether to sequence it in the middle or the end. 
 
         A steady flow of aircraft will be departing YMML for YSSY/YSBK. The first and second departures (**TFX11** and **TFR44**) are both slower so some sequencing will be required on their way to YSSY.  
 
@@ -5147,52 +5147,52 @@
         <Targets>
           <Aircraft Callsign="VOZ443" Type="B738" Delay="0">
             <Squawk Code="4111" ModeC="true" />
-            <Cleared Level="36000" />
-            <Position Latitude="-35.273154" Longitude="149.582247" Speed="460" Altitude="36000" />
-            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 RAZZI Q29 ML</FlightPlan>
+            <Cleared Level="32000" />
+            <Position Latitude="-35.273154" Longitude="149.582247" Speed="460" Altitude="32000" />
+            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="32000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 LEECE Q29 ML</FlightPlan>
             <Route>TANTA RUMIE NABBA BULLA LUVAS LIZZI</Route>
           </Aircraft>
           <Aircraft Callsign="QFA864" Type="B738" Delay="0">
             <Squawk Code="4423" ModeC="true" />
             <Cleared Level="38000" />
             <Position Latitude="-35.262598" Longitude="149.601871" Speed="460" Altitude="38000" />
-            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 RAZZI Q29 ML</FlightPlan>
+            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 LEECE Q29 ML</FlightPlan>
             <Route>TANTA RUMIE NABBA BULLA LUVAS LIZZI</Route>
           </Aircraft>
           <Aircraft Callsign="RXA44" Type="B738" Delay="0">
             <Squawk Code="4122" ModeC="true" />
             <Cleared Level="36000" />
             <Position Latitude="-35.23436099999999" Longitude="149.65077" Speed="490" Altitude="36000" />
-            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 RAZZI Q29 ML</FlightPlan>
+            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="280" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 LEECE Q29 ML</FlightPlan>
             <Route>TANTA RUMIE NABBA BULLA LUVAS LIZZI</Route>
           </Aircraft>
           <Aircraft Callsign="JST677" Type="A320" Delay="0">
             <Squawk Code="4113" ModeC="true" />
             <Cleared Level="34000" />
             <Position Latitude="-35.169985" Longitude="149.761011" Speed="460" Altitude="34000" />
-            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="34000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 RAZZI Q29 ML</FlightPlan>
+            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="34000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 LEECE Q29 ML</FlightPlan>
             <Route>TANTA RUMIE NABBA BULLA LUVAS LIZZI</Route>
           </Aircraft>
           <Aircraft Callsign="UAL4" Type="B789" Delay="0">
             <Squawk Code="1351" ModeC="true" />
             <Cleared Level="40000" />
             <Position Latitude="-35.031708" Longitude="150.000766" Speed="510" Altitude="40000" />
-            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="290" ETD="0000" ATD="0000" RFL="40000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 RAZZI Q29 ML</FlightPlan>
+            <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="290" ETD="0000" ATD="0000" RFL="40000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 LEECE Q29 ML</FlightPlan>
             <Route>TANTA RUMIE NABBA BULLA LUVAS LIZZI</Route>
           </Aircraft>
           <Aircraft Callsign="BNZ23" Type="B38M" Delay="0">
             <Squawk Code="1541" ModeC="true" />
             <Cleared Level="36000" />
             <Position Latitude="-34.870014" Longitude="150.273038" Speed="460" Altitude="36000" />
-            <FlightPlan Active="true" Departure="YWLM" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 RAZZI Q29 ML</FlightPlan>
-            <Route>RAZZI TANTA RUMIE NABBA BULLA LUVAS LIZZI</Route>
+            <FlightPlan Active="true" Departure="YWLM" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 LEECE Q29 ML</FlightPlan>
+            <Route>LEECE TANTA RUMIE NABBA BULLA LUVAS LIZZI</Route>
           </Aircraft>
           <Aircraft Callsign="EVY30" Type="CL60" Delay="30" StartAuto="true">
             <Squawk Code="5234" ModeC="true" />
             <Cleared Level="24000" />
             <Position Latitude="-35.290894" Longitude="149.194461" Speed="1" Altitude="1886" />
             <FlightPlan Active="true" Departure="YSCB" Destination="YMAV" Alternative="" Rules="I" CruiseSpeed="240" ETD="0000" ATD="0000" RFL="43000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TANTA2/17 TANTA Q29 ML JAYBI</FlightPlan>
-            <Route>BIDGI KELLY TANTA RUMIE NABBA BULLA LUVAS LIZZI</Route>
+            <Route>TANTA RUMIE NABBA BULLA LUVAS LIZZI</Route>
           </Aircraft>
           <Aircraft Callsign="AM213" Type="BE20" Delay="0">
             <Squawk Code="2000" ModeC="false" />
@@ -5253,8 +5253,8 @@
             <Squawk Code="2342" ModeC="true" />
             <Cleared Level="23000" />
             <Position Latitude="-37.655713" Longitude="144.835419" Speed="1" Altitude="427" />
-            <FlightPlan Active="true" Departure="YMML" Destination="YSBK" Alternative="" Rules="I" CruiseSpeed="220" ETD="0000" ATD="0000" RFL="23000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DOSEL1/16 DOSEL Y59 CULIN WATLE Y20 BK</FlightPlan>
-            <Route>DOSEL EBONY ARRAN NONUP CULIN WATLE</Route>
+            <FlightPlan Active="true" Departure="YMML" Destination="YSBK" Alternative="" Rules="I" CruiseSpeed="220" ETD="0000" ATD="0000" RFL="23000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DOSEL1/16 DOSEL Y59 CULIN DCT AKMIR W817 DARGI Y20 BK DCT</FlightPlan>
+            <Route>DOSEL EBONY ARRAN NONUP CULIN AKMIR DARGI ANPEN GOMUB NOLEM</Route>
           </Aircraft>
           <Aircraft Callsign="QFA64" Type="B789" Delay="0">
             <Squawk Code="7213" ModeC="true" />
