@@ -4905,7 +4905,7 @@
             <FlightPlan Departure="YBLN" Destination="YMML" Alternative="" Active="false" Rules="I" CruiseSpeed="453" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BLN DCT PAVSO DCT NIPON DCT VIMUS Y53 WENDY DCT </FlightPlan>
             <Route>PAVSO NIPON VIMUS</Route>
             <TimedMessages>
-              <TimedMessage Time="1560" Message="JST901, IFR A320, Taxis Busselton for Melbourne, Runway 03" />
+              <TimedMessage Time="1650" Message="JST901, IFR A320, Taxis Busselton for Melbourne, Runway 03" />
               <TimedMessage Time="1920" Message="Select Runway 03, Climb to F125, and Takeoff" />
             </TimedMessages>
           </Aircraft>
@@ -4920,15 +4920,15 @@
             <Squawk Code="3102" ModeC="true" />
             <Cleared Level="14000" />
             <Position Latitude="-33.72" Longitude="121.65000000000002" Speed="0" Altitude="14000" />
-            <FlightPlan Departure="YESP" Destination="YABA" Alternative="" Active="true" Rules="I" CruiseSpeed="265" ETD="0000" ATD="0000" RFL="14000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HOODY YABA DCT</FlightPlan>
-            <Route>HOODY</Route>
+            <FlightPlan Departure="YESP" Destination="YABA" Alternative="" Active="true" Rules="I" CruiseSpeed="265" ETD="0000" ATD="0000" RFL="14000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ESP W486 ABA DCT</FlightPlan>
+            <Route>HOODY ABA YABA</Route>
           </Aircraft>
           <Aircraft Callsign="FD672" Type="PC12" Delay="0">
             <Squawk Code="2000" ModeC="true" />
             <Cleared Level="17000" />
             <Position Latitude="-34.943299999999994" Longitude="117.8088" Speed="0" Altitude="223" />
-            <FlightPlan Departure="YABA" Destination="YESP" Alternative="" Active="false" Rules="I" CruiseSpeed="260" ETD="0000" ATD="0000" RFL="17000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">YBLN/14 HOODY DCT</FlightPlan>
-            <Route>HOODY</Route>
+            <FlightPlan Departure="YABA" Destination="YESP" Alternative="" Active="false" Rules="I" CruiseSpeed="260" ETD="0000" ATD="0000" RFL="17000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ABA W486 ESP DCT</FlightPlan>
+            <Route>HOODY ESP YESP</Route>
             <TimedMessages>
               <TimedMessage Time="60" Message="FD672, IFR PC12, Taxis Albany for Esperence, Runway 14." />
               <TimedMessage Time="480" Message="Select Runway 14, Climb to F125, and Takeoff" />
@@ -4938,7 +4938,7 @@
             <Squawk Code="2000" ModeC="true" />
             <Position Latitude="-34.943299999999994" Longitude="117.8088" Speed="0" Altitude="223" />
             <Cleared Level="10000" />
-            <FlightPlan Departure="YABA" Destination="YBLN" Alternative="" Active="false" Rules="I" CruiseSpeed="150" ETD="0000" ATD="0000" RFL="10000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">YBLN/14 YBLN DCT</FlightPlan>
+            <FlightPlan Departure="YABA" Destination="YBLN" Alternative="" Active="false" Rules="I" CruiseSpeed="150" ETD="0000" ATD="0000" RFL="10000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ABA BLN DCT</FlightPlan>
             <Route>BLN YBLN</Route>
             <TimedMessages>
               <TimedMessage Time="60" Message="PIG, IFR Cessna 210, Taxis Albany for Busselton, Runway 14." />
@@ -4950,7 +4950,7 @@
             <Cleared Level="41000" />
             <Position Latitude="-27.33" Longitude="108.466" Speed="450" Altitude="41000" />
             <FlightPlan Departure="OMDB" Destination="YPPH" Alternative="" Active="true" Rules="I" CruiseSpeed="481" ETD="0000" ATD="0000" RFL="41000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KITAL L894 MERIB T12 IPMOR DCT</FlightPlan>
-            <Route>MERIB OPEGA KAGMI</Route>
+            <Route>MERIB OPEGA KAGMI KALBO IPMOR</Route>
           </Aircraft>
           <Aircraft Callsign="QTR901" Type="A388" Delay="1860" StartAuto="true">
             <Squawk Code="6456" ModeC="true" />
@@ -4983,7 +4983,7 @@
           <Aircraft Callsign="NWK1613" Type="A320" Delay="0">
             <Squawk Code="2000" ModeC="false" />
             <Position Latitude="-28.796" Longitude="114.70750000000001" Speed="0" Altitude="115" />
-            <FlightPlan Departure="YGEL" Destination="YPPH" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="27000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT GEL DCT HINDS Q38 JULIM </FlightPlan>
+            <FlightPlan Departure="YGEL" Destination="YPPH" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="27000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT GEL DCT HINDS Q38 JULIM DCT</FlightPlan>
             <Route>HINDS CALIG JULIM</Route>
             <TimedMessages>
               <TimedMessage Time="840" Message="NWK1613, IFR A320, Taxis Geraldton for Perth, Runway 03" />
@@ -5133,7 +5133,7 @@
 
         **ASY10** cuts straight through the YSSY/YMML airway at BULLA, just to add more mayhem.  
 
-        **AM213** and **QLK2039D** should be taken off around the same time (You will be prompted). This will cause an enroute conflict at TEMIS.  
+        **AM213** and **QLK39D** should be taken off around the same time (You will be prompted). This will cause an enroute conflict at TEMIS.  
 
         **QLK39D** arrives around the same time as the cluster from YSSY, up to your student whether to sequence it in the middle or the end. 
 
