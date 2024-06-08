@@ -3571,7 +3571,66 @@
               </ExitPoints>
             </Exit>
           </Exits>
-          <Entries />
+          <Entries>
+            <Entry>
+              <Name>B6</Name>
+              <EntryPoints>
+                <EntryPoint>
+                  <SortOrder>0</SortOrder>
+                  <Position>-33.971201+151.192826</Position>
+                  <Latitude>-33.971201033054186</Latitude>
+                  <Longitude>151.1928255657433</Longitude>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>1</SortOrder>
+                  <Position>-33.970937+151.193574</Position>
+                  <Latitude>-33.970936604207175</Latitude>
+                  <Longitude>151.19357349324284</Longitude>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>2</SortOrder>
+                  <Position>-33.970657+151.193731</Position>
+                  <Latitude>-33.97065685912916</Latitude>
+                  <Longitude>151.19373046568103</Longitude>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>3</SortOrder>
+                  <Position>-33.970393+151.193684</Position>
+                  <Latitude>-33.97039242859</Latitude>
+                  <Longitude>151.19368429731685</Longitude>
+                </EntryPoint>
+              </EntryPoints>
+            </Entry>
+            <Entry>
+              <Name>B5</Name>
+              <EntryPoints>
+                <EntryPoint>
+                  <SortOrder>0</SortOrder>
+                  <Position>-33.970474+151.192946</Position>
+                  <Latitude>-33.97047427052802</Latitude>
+                  <Longitude>151.19294560349013</Longitude>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>1</SortOrder>
+                  <Position>-33.970370+151.193408</Position>
+                  <Latitude>-33.970369740247996</Latitude>
+                  <Longitude>151.1934078185532</Longitude>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>2</SortOrder>
+                  <Position>-33.970194+151.193612</Position>
+                  <Latitude>-33.97019351082432</Latitude>
+                  <Longitude>151.19361140828167</Longitude>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>3</SortOrder>
+                  <Position>-33.970066+151.193594</Position>
+                  <Latitude>-33.97006552190359</Latitude>
+                  <Longitude>151.1935939577335</Longitude>
+                </EntryPoint>
+              </EntryPoints>
+            </Entry>
+          </Entries>
         </Runway>
       </Runways>
     </Airport>
