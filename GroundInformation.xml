@@ -3477,7 +3477,8 @@
         <Runway>
           <Name>34L</Name>
           <Exits>
-            <Name>B8</Name>
+            <Exit>
+              <Name>B8</Name>
               <ExitPoints>
                 <ExitPoint>
                   <SortOrder>0</SortOrder>
