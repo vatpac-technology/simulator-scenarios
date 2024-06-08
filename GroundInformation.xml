@@ -3476,12 +3476,100 @@
         </Runway>
         <Runway>
           <Name>34L</Name>
-          <Exits />
+          <Exits>
+            <Name>B8</Name>
+              <ExitPoints>
+                <ExitPoint>
+                  <SortOrder>0</SortOrder>
+                  <Position>-33.947556+151.176273</Position>
+                  <Latitude>-33.94755639115688</Latitude>
+                  <Longitude>151.17627303573042</Longitude>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>1</SortOrder>
+                  <Position>-33.946618+151.176473</Position>
+                  <Latitude>-33.94661808034636</Latitude>
+                  <Longitude>151.17647273115463</Longitude>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>2</SortOrder>
+                  <Position>-33.945603+151.176685</Position>
+                  <Latitude>-33.945602902268114</Latitude>
+                  <Longitude>151.17668510562982</Longitude>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>3</SortOrder>
+                  <Position>-33.944389+151.177101</Position>
+                  <Latitude>-33.944388550502346</Latitude>
+                  <Longitude>151.17710062090734</Longitude>
+                </ExitPoint>
+              </ExitPoints>
+            </Exit>
+          </Exists>
           <Entries />
         </Runway>
         <Runway>
           <Name>34R</Name>
-          <Exits />
+          <Exits>
+            <Exit>
+              <Name>T2</Name>
+              <ExitPoints>
+                <ExitPoint>
+                  <SortOrder>0</SortOrder>
+                  <Position>-33.959621+151.190893</Position>
+                  <Latitude>-33.95962131380948</Latitude>
+                  <Longitude>151.19089305910018</Longitude>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>1</SortOrder>
+                  <Position>-33.958623+151.190208</Position>
+                  <Latitude>-33.95862277959435</Latitude>
+                  <Longitude>151.19020766166386</Longitude>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>2</SortOrder>
+                  <Position>-33.957709+151.189205</Position>
+                  <Latitude>-33.957708804391395</Latitude>
+                  <Longitude>151.18920505549676</Longitude>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>3</SortOrder>
+                  <Position>-33.957368+151.188848</Position>
+                  <Latitude>-33.95736802493936</Latitude>
+                  <Longitude>151.18884819567455</Longitude>
+                </ExitPoint>
+              </ExitPoints>
+            </Exit>
+            <Exit>
+              <Name>U1</Name>
+              <ExitPoints>
+                <ExitPoint>
+                  <SortOrder>0</SortOrder>
+                  <Position>-33.954506+151.189573</Position>
+                  <Latitude>-33.95450636336444</Latitude>
+                  <Longitude>151.1895732442022</Longitude>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>1</SortOrder>
+                  <Position>-33.953254+151.188729</Position>
+                  <Latitude>-33.953254044143506</Latitude>
+                  <Longitude>151.1887292424005</Longitude>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>2</SortOrder>
+                  <Position>-33.952199+151.187727</Position>
+                  <Latitude>-33.95219905110893</Latitude>
+                  <Longitude>151.18772663623338</Longitude>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>3</SortOrder>
+                  <Position>-33.951529+151.187030</Position>
+                  <Latitude>-33.95152934032357</Latitude>
+                  <Longitude>151.18702990991386</Longitude>
+                </ExitPoint>
+              </ExitPoints>
+            </Exit>
+          </Exits>
           <Entries />
         </Runway>
       </Runways>
