@@ -1391,7 +1391,8 @@
 
     Any Questions?
     </StudentBriefing>
-    <InstructorNotes>- **VOZ1373** Has flight planned incorrectly, and should be passed an amended route by the student.
+    <InstructorNotes>- Cloud is **BKN020**, so ATC Visual Separation is available in ADC airspace, however, not available at or above A020.
+      - **VOZ1373** Has flight planned incorrectly, and should be passed an amended route by the student.
       - **AM773** will depart on the same route, in front of **QFA7367**. The student should ideally recognise this situation, and provide at least **90 second** separation between the departures, even though it is not technically their responsibility for separation.
       - **FD714** is inbound for the DGA, so the student should give circuit joining instructions upon receiving Heads-up Coordination. The aircraft will descend assuming it will join a *left mid-field crosswind* Runway 32L. If the student coordinates something else, manual control must be taken of the aircraft with headings.
       - **UMG** is a VFR inbound from the North. Will need circuit joining instructions
@@ -2604,7 +2605,7 @@
           <Squawk Code="3101" ModeC="true" />
           <Cleared Level="5000" />
           <Position Latitude="-37.68429299999999" Longitude="144.840701" Speed="1" Altitude="312" />
-          <FlightPlan Active="true" Departure="YMML" Destination="YBLN" Alternative="" Rules="1" CruiseSpeed="454" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2/v/">CRENA1/34 CRENA Q158 COBEL DCT HOODY DCT BLN DCT</FlightPlan>
+          <FlightPlan Active="true" Departure="YMML" Destination="YBLN" Alternative="" Rules="1" CruiseSpeed="454" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2/v/">CRENA2/34 CRENA Q158 COBEL DCT HOODY DCT BLN DCT</FlightPlan>
           <Route>CRENA</Route>
         </Aircraft>
         <Aircraft Callsign="YUP" Type="C182" Delay="240" StartAuto="true">
@@ -2771,7 +2772,7 @@
           <Squawk Code="1020" ModeC="true" />
           <Cleared Level="5000" Approach="false" />
           <Position Latitude="-37.66219179941475" Longitude="144.84774499038323" Speed="0" Altitude="407" />
-          <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="370" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHVWU OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">DOSEL1/27 DOSEL Y59 RIVET DCT</FlightPlan>
+          <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="370" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHVFX OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">DOSEL1/27 DOSEL Y59 RIVET DCT</FlightPlan>
           <Route>DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET</Route>
           <TimedMessages>
             <TimedMessage Time="1000" Message="Takeoff" />
@@ -3489,7 +3490,7 @@
       <Squawk Code="2156" ModeC="true" />
       <Cleared Level="5000" Approach="false" />
       <Position Latitude="-33.930278" Longitude="151.171667" Speed="0" Altitude="7" />
-      <FlightPlan Departure="YSSY" Destination="KLAX" Alternative="KSFO" Active="true" Equipment="SADE2E3FGHIJ4J5M1P2RWYZ/LB1D1" Rules="I" CruiseSpeed="492" ETD="0000" ATD="0000" RFL="310" EETHours="12" EETMins="55" FuelHours="15" FuelMins="10" Remarks="PBN/A1B1C1D1L1O1S2 NAV/RNP2 RNVD1A1 DAT/1FANSPDC SUR/260B RSP180 DOF/240101 REG/VHOQK EEET/YBBB0010 NFFF0116 NZZO0426 KZAK0508 KZLA1209 SEL/CLFR CODE/7C492A ORGN/YSSYQFAO PER/C /V/">KAMPI6/16R NOBAR B450 ABARB DCT 2926S16203E 2855S16300E 2633S16712E 2314S17135E 1918S17650E 1306S17641W 1001S17333W/M084F370 0918S17252W 0715S17054W 0500S16851W 0358S16755W 0058N16306W 0714N15659W/M085F390 1029N15316W 1614N14520W 1839N14150W 2159N13725W 2455N13338W 2856N12836W DCT EDSEL R577 EDTOO/N0479F390 R577 ELKEY DCT </FlightPlan>
+      <FlightPlan Departure="YSSY" Destination="KLAX" Alternative="KSFO" Active="true" Equipment="SADE2E3FGHIJ4J5M1P2RWYZ/LB1D1" Rules="I" CruiseSpeed="492" ETD="0000" ATD="0000" RFL="310" EETHours="12" EETMins="55" FuelHours="15" FuelMins="10" Remarks="PBN/A1B1C1D1L1O1S2 NAV/RNP2 RNVD1A1 DAT/1FANSPDC SUR/260B RSP180 DOF/240101 REG/VHOQK EET/YBBB0010 NFFF0116 NZZO0426 KZAK0508 KZLA1209 SEL/CLFR CODE/7C492A ORGN/YSSYQFAO PER/C /V/">KAMPI6/16R NOBAR B450 ABARB DCT 2926S16203E 2855S16300E 2633S16712E 2314S17135E 1918S17650E 1306S17641W 1001S17333W/M084F370 0918S17252W 0715S17054W 0500S16851W 0358S16755W 0058N16306W 0714N15659W/M085F390 1029N15316W 1614N14520W 1839N14150W 2159N13725W 2455N13338W 2856N12836W DCT EDSEL R577 EDTOO/N0479F390 R577 ELKEY DCT </FlightPlan>
       <Route>TESAT NOBAR ABARB KLAX</Route>
 	  <TimedMessages>
 		<TimedMessage Time="0" Message="Add NOBAR to route between TESAT and ABARB" />
@@ -4861,21 +4862,21 @@
             <Squawk Code="2001" ModeC="true" />
             <Cleared Level="18000" />
             <Position Latitude="-31.957319" Longitude="115.96009399999998" Speed="1" Altitude="69" />
-            <FlightPlan Departure="YPPH" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="453" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">MUBID3/03 MUBID J21 ABTOD/M081F410 J21 BORLI H205 CULIN Y59 RIVET DCT</FlightPlan>
+            <FlightPlan Departure="YPPH" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="453" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">MUBID4/03 MUBID J21 ABTOD/M081F410 J21 BORLI H205 CULIN Y59 RIVET DCT</FlightPlan>
             <Route>MUBID OLRUX IVPEM</Route>
           </Aircraft>
           <Aircraft Callsign="VOZ684" Type="B738" Delay="2220" StartAuto="true">
             <Squawk Code="2002" ModeC="true" />
             <Cleared Level="18000" />
             <Position Latitude="-31.957319" Longitude="115.96009399999998" Speed="1" Altitude="69" />
-            <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Active="true" Rules="I" CruiseSpeed="453" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">MEMUP4/03 MEMUP Y53 RERON/N0447F390 Y53 WENDY DCT</FlightPlan>
+            <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Active="true" Rules="I" CruiseSpeed="453" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">MEMUP5/03 MEMUP Y53 RERON/N0447F390 Y53 WENDY DCT</FlightPlan>
             <Route>MEMUP RERON RIDLE</Route>
           </Aircraft>
           <Aircraft Callsign="VOZ9397" Type="F100" Delay="0">
             <Squawk Code="2003" ModeC="true" />
             <Cleared Level="18000" />
             <Position Latitude="-31.957319" Longitude="115.96009399999998" Speed="1" Altitude="69" />
-            <FlightPlan Departure="YPPH" Destination="YGRM" Alternative="" Active="true" Rules="I" CruiseSpeed="453" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">AMANA4/03 AMANA Y31 LAKIR Y69 LEO DCT</FlightPlan>
+            <FlightPlan Departure="YPPH" Destination="YGRM" Alternative="" Active="true" Rules="I" CruiseSpeed="453" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">AMANA5/03 AMANA Y31 LAKIR Y69 LEO DCT</FlightPlan>
             <Route>AMANA LAKIR BOSLI YOKRA LEO</Route>
           </Aircraft>
           <Aircraft Callsign="AEP" Type="DH8A" Delay="420" StartAuto="true">
