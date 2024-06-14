@@ -16,6 +16,8 @@
 
           **QFA400** incorrect hemispherical level  
 
+          **QFA600** has filed an incorrect route
+
           **LPJ** has filed via the W190 airway, which goes ML DCT AV. Instruct student to draw route/check FDR waypoints to determine that the correct clearance is '*Cleared to Avalon, direct*'
 
           **Parking positions:**  
@@ -70,8 +72,8 @@
           <Aircraft Callsign="QFA600" Type="B738" Delay="0">
             <Squawk Code="2000" ModeC="false" />
             <Position Latitude="-37.668128" Longitude="144.85189400000002" Speed="0" Altitude="394" />
-            <FlightPlan Departure="YMML" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="33000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">NONIX H66 BLAKA </FlightPlan>
-            <Route>NONIX BLAKA BN YBBN</Route>
+            <FlightPlan Departure="YMML" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="33000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H119 CANTY Q35 SANEG H91 BN DCT</FlightPlan>
+            <Route>BELTA ARBEY CANTY</Route>
           </Aircraft>
           <Aircraft Callsign="RXA3656" Type="SF34" Delay="0">
             <Squawk Code="2000" ModeC="false" />
@@ -316,6 +318,8 @@
         All arrivals are cleared the approach and will land automatically.   
 
         QFA464, VOZ887, and QFA553 may not appear on surveillance until they enter the TMA due terrain (use sim window to verify their position if required).
+
+        QFA820 has filed an incorrect route.
       
         **INTL Parking positions:**  
           - AAL72: 8
@@ -373,7 +377,7 @@
           <Aircraft Callsign="QFA820" Type="B738" Delay="0">
             <Squawk Code="2000" ModeC="false" />
             <Position Latitude="-33.931913" Longitude="151.18020300000003" Speed="0" Altitude="13" />
-            <FlightPlan Departure="YSSY" Destination="YBCG" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H185 OLSEM Y193 BANDA Y43 GREAV CG DCT</FlightPlan>
+            <FlightPlan Departure="YSSY" Destination="YBCG" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM DCT GREAV CG DCT</FlightPlan>
             <Route>OLSEM YBCG</Route>
           </Aircraft>
           <Aircraft Callsign="QFA427" Type="B738" Delay="0">
@@ -556,6 +560,8 @@
       <InstructorNotes>
         **ALL ARRIVALS ARE AUTOMATIC**   
 
+        JST527 has filed an incorrect route
+
         Auto-timed means that you'll be prompted to request clearance/push/taxi for departing aircraft.
 
         Have Fun
@@ -639,8 +645,8 @@
           <Aircraft Callsign="JST527" Type="A320" Delay="990" StartAuto="true">
               <Squawk Code="2000" ModeC="false" />
               <Position Latitude="-33.93472200000001" Longitude="151.177124" Speed="0" Altitude="3" />
-              <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT WOL H65 LEECE Q29 ML DCT</FlightPlan>
-              <Route>WOL</Route>
+              <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KADOM H44 CWR DCT IGMIL Q35 CANTY H119 ARBEY DCT</FlightPlan>
+              <Route>KADOM</Route>
               <TimedMessages>
                   <TimedMessage Time="1290" Message="Request clearance to Melbourne (bay 55)" />
                   <TimedMessage Time="1440" Message="Request push (bay 55)" />
@@ -782,6 +788,8 @@
       <InstructorNotes>   
         All arrivals are cleared the approach and will land automatically. Aircraft for runway 19L from the northwest may not be visible on surveillence until entering the TMA due terrain. Use the simulator map if required. 
 
+        VOZ310 has filed an incorrect route
+
         **Parking Positions:**
         - ACI153: 81
         - CAL56: 79
@@ -898,8 +906,8 @@
         <Aircraft Callsign="VOZ310" Type="B738" Delay="0">
           <Squawk Code="2000" ModeC="false" />
           <Position Latitude="-27.388361" Longitude="153.118489" Speed="0" Altitude="20" />
-          <FlightPlan Departure="YBBN" Destination="YMML" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SANEG Q35 CANTY H119 ARBEY DCT</FlightPlan>
-          <Route>SANEG CANTY ARBEY ML</Route>
+          <FlightPlan Departure="YBBN" Destination="YMML" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BLAKA DCT OLSEM DCT RIVET DCT DOSEL DCT</FlightPlan>
+          <Route>BLAKA</Route>
         </Aircraft>
         <Aircraft Callsign="VJA" Type="D228" Delay="0">
           <Squawk Code="2000" ModeC="false" />
@@ -940,6 +948,8 @@
         **POL31** for an overfly at A015. Cancel auto-release with the student when appropriate. You will be prompted for coordination.
 
         **SH133** and **UTY1720** get quite close on the approach, providing a chance for the student to issue speed instructions ('reduce final approach speed', 'maintain best speed to the field', etc) or issue a go around.  
+
+        **JST811** has filed a non-jet route.
 
         **Parking Positions:**
         - ACI151: 81
@@ -1077,7 +1087,7 @@
         <Aircraft Callsign="JST811" Type="A320" Delay="0">
           <Squawk Code="2000" ModeC="false" />
           <Position Latitude="-27.388081" Longitude="153.120088" Speed="0" Altitude="20" />
-          <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG H91 IGDAM H12 BOREE</FlightPlan>
+          <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN H91 SANAD W786 TESAT DCT</FlightPlan>
           <Route>SANEG IGDAM BOREE TESAT</Route>
         </Aircraft>
         <Aircraft Callsign="QJE1790" Type="B712" Delay="0">
@@ -1166,6 +1176,8 @@
 
       This is a good session for your student to get used to aircraft connecting as they control, forcing them to work on flight plans on the fly.
 
+      JST779 has planned a non-jet route at a non-hemispherical level.
+
       The session runs for 45 minutes.
     </InstructorNotes>
     <Targets>
@@ -1194,7 +1206,7 @@
       <Aircraft Callsign="JST779" Type="A320" Delay="0" StartAuto="false">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-34.940805" Longitude="138.536216" Speed="0" Altitude="33" />
-        <FlightPlan Departure="YPAD" Destination="YMML" Alternative="" Active="false" Rules="I" CruiseSpeed="455" ETD="0000" ATD="0000" RFL="37000" EETHours="0" EETMins="59" FuelHours="1" FuelMins="59" Remarks="NAV/RNP2 RTF/JETSTAR /v/">DCT BENDO Y12 ARBEY DCT</FlightPlan>
+        <FlightPlan Departure="YPAD" Destination="YMML" Alternative="" Active="false" Rules="I" CruiseSpeed="455" ETD="0000" ATD="0000" RFL="36000" EETHours="0" EETMins="59" FuelHours="1" FuelMins="59" Remarks="NAV/RNP2 RTF/JETSTAR /v/">DCT AD V255 BENDO V211 PUBAP W291 WENDY V279 ML DCT</FlightPlan>
         <Route>COLPY</Route>
         <TimedMessages>
           <TimedMessage Time="300" Message="Request Clearance to Melbourne (Bay 25)" />
