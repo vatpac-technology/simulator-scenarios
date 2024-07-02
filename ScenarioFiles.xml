@@ -2386,8 +2386,8 @@
             <FlightPlan Active="false" Departure="YMAV" Destination="YSSY" Alternative="" Rules="1" CruiseSpeed="420" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">ML DOSEL Y59 TESAT DCT</FlightPlan>
             <Route>JUSTY ML DOSEL EBONY</Route>
             <TimedMessages>
-              <TimedMessage Time="15" Message="JST626, IFR A320, POB 154, Taxis Avalon for Sydney, Runway 18" />
-              <TimedMessage Time="300" Message="Ready holding point runway 18" />
+              <TimedMessage Time="15" Message="Melbourne Approach, IFR A320, JST626, Taxis Runway 18 YMAV for YSSY" />
+              <TimedMessage Time="200" Message="'Ready Runway 18, Request Clearance'" />
             </TimedMessages>
           </Aircraft>
           <Aircraft Callsign="VOZ877" Type="B738" Delay="0">
@@ -2424,7 +2424,7 @@
             <FlightPlan Active="true" Departure="YMML" Destination="NZCH" Alternative="" Rules="1" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">CORRS9/27 CORRS Y66 LEPAR</FlightPlan>
             <Route>CORRS LEPAR</Route>
             <TimedMessages>
-              <TimedMessage Time="420" Message="Takeoff." />
+              <TimedMessage Time="420" Message="Takeoff" />
             </TimedMessages>
           </Aircraft>
           <Aircraft Callsign="VOZ404" Type="B738" Delay="0">
@@ -2453,9 +2453,6 @@
             <Cleared Level="8000" />
             <FlightPlan Active="true" Departure="YHOT" Destination="YMMB" Alternative="" Rules="1" CruiseSpeed="180" ETD="0000" ATD="0000" RFL="8000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OMBIS Z82 TEMIS W188 COLDS MB</FlightPlan>
             <Route>TEMIS LACEY COLDS MB</Route>
-            <TimedMessages>
-              <TimedMessage Time="800" Message="Coord ELW to ML APP. Via LACEY, HUT." />
-            </TimedMessages>
           </Aircraft>
           <Aircraft Callsign="WHB" Type="C172" Delay="660" StartAuto="true">
             <Squawk Code="1200" ModeC="true" />
@@ -2463,7 +2460,7 @@
             <FlightPlan Active="false" Departure="YMAV" Destination="YHOT" Alternative="" Rules="V" CruiseSpeed="120" ETD="0000" ATD="0000" RFL="1500" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">WBER FGN YLIL</FlightPlan>
             <Route>WBER FGN</Route>
             <TimedMessages>
-              <TimedMessage Time="1020" Message="'Melbourne Approach, VFR Cessna 172, WHB, POB1, tracking Werribee Racecourse, Flemington, 1500ft, received November, request clearance.'" />
+              <TimedMessage Time="900" Message="'Melbourne Approach, VFR Cessna 172, WHB, POB1, tracking Werribee Racecourse, Flemington, 1500ft, received November, request clearance.'" />
             </TimedMessages>
           </Aircraft>
           <Aircraft Callsign="EXG" Type="C206" Delay="0">
@@ -2472,9 +2469,6 @@
             <Cleared Level="4000" />
             <FlightPlan Active="true" Departure="YBDG" Destination="YMMB" Alternative="" Rules="1" CruiseSpeed="140" ETD="0000" ATD="0000" RFL="4000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TELIP ML MB</FlightPlan>
             <Route>ML MB</Route>
-            <TimedMessages>
-              <TimedMessage Time="360" Message="YWE to ML APP. Via ML, EXG." />
-            </TimedMessages>
           </Aircraft>
           <Aircraft Callsign="LOI" Type="C172" Delay="0">
             <Squawk Code="1200" ModeC="true" />
@@ -4713,8 +4707,8 @@
           <FlightPlan Departure="YPLC" Destination="YPAG" Alternative="" Active="false" Rules="I" CruiseSpeed="120" ETD="0000" ATD="0000" RFL="5000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV PER/A /v/">DCT WHA YPAG DCT</FlightPlan>
           <Route>WHA</Route>
           <TimedMessages>
-            <TimedMessage Time="1140" Message="YTU, IFR Cessna 172, Taxis Port Lincoln for Port Augusta, Runway 19" />
-            <TimedMessage Time="1340" Message="Select Runway 19, Climb to F125, and Takeoff" />
+            <TimedMessage Time="1140" Message="'Melbourne Centre, YTU, IFR Cessna 172, Taxis Port Lincoln for Port Augusta, Runway 19'" />
+            <TimedMessage Time="1340" Message="Select Runway 19, Climb to A050, and Takeoff" />
           </TimedMessages>
         </Aircraft>
         <Aircraft Callsign="HOT" Type="C182" Delay="0">
@@ -4730,7 +4724,7 @@
           <FlightPlan Departure="YKSC" Destination="YMML" Alternative="" Active="false" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="23000" EETHours="01" EETMins="20" FuelHours="0" FuelMins="0" Remarks="NAV/GPSRNAV PER/B /v/">DCT VAVPA V200 TYNDI Y53 WENDY DCT</FlightPlan>
           <Route>VAVPA WOKKA TYNDI WENDY</Route>
           <TimedMessages>
-            <TimedMessage Time="660" Message="FD511, IFR PC12, Taxis Kingscote to Melbourne, Runway 19" />
+            <TimedMessage Time="660" Message="'Melbourne Centre, FD511, IFR PC12, Taxis Kingscote to Melbourne, Runway 19'" />
             <TimedMessage Time="840" Message="Select Runway 19, Climb to F125, and Takeoff" />
           </TimedMessages>
         </Aircraft>
@@ -4918,7 +4912,7 @@
             <FlightPlan Departure="YBLN" Destination="YMML" Alternative="" Active="false" Rules="I" CruiseSpeed="453" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BLN DCT PAVSO DCT NIPON DCT VIMUS Y53 WENDY DCT </FlightPlan>
             <Route>PAVSO NIPON VIMUS</Route>
             <TimedMessages>
-              <TimedMessage Time="1650" Message="JST901, IFR A320, Taxis Busselton for Melbourne, Runway 03" />
+              <TimedMessage Time="1650" Message="'Melbourne Centre, JST901, IFR A320, Taxis Busselton for Melbourne, Runway 03'" />
               <TimedMessage Time="1920" Message="Select Runway 03, Climb to F125, and Takeoff" />
             </TimedMessages>
           </Aircraft>
@@ -4943,7 +4937,7 @@
             <FlightPlan Departure="YABA" Destination="YESP" Alternative="" Active="false" Rules="I" CruiseSpeed="260" ETD="0000" ATD="0000" RFL="17000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ABA W486 ESP DCT</FlightPlan>
             <Route>HOODY ESP YESP</Route>
             <TimedMessages>
-              <TimedMessage Time="60" Message="FD672, IFR PC12, Taxis Albany for Esperence, Runway 14." />
+              <TimedMessage Time="60" Message="'Melbourne Centre, FD672, IFR PC12, Taxis Albany for Esperence, Runway 14.'" />
               <TimedMessage Time="480" Message="Select Runway 14, Climb to F125, and Takeoff" />
             </TimedMessages>
           </Aircraft>
@@ -4954,8 +4948,8 @@
             <FlightPlan Departure="YABA" Destination="YBLN" Alternative="" Active="false" Rules="I" CruiseSpeed="150" ETD="0000" ATD="0000" RFL="10000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ABA BLN DCT</FlightPlan>
             <Route>BLN YBLN</Route>
             <TimedMessages>
-              <TimedMessage Time="60" Message="PIG, IFR Cessna 210, Taxis Albany for Busselton, Runway 14." />
-              <TimedMessage Time="180" Message="Select Runway 14, Climb to F125, and Takeoff" />
+              <TimedMessage Time="60" Message="'Melbourne Centre, PIG, IFR Cessna 210, Taxis Albany for Busselton, Runway 14.'" />
+              <TimedMessage Time="180" Message="Select Runway 14, Climb to A100, and Takeoff" />
             </TimedMessages>
           </Aircraft>
           <Aircraft Callsign="UAE420" Type="A388" Delay="0">
@@ -4999,7 +4993,7 @@
             <FlightPlan Departure="YGEL" Destination="YPPH" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="27000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT GEL DCT HINDS Q38 JULIM DCT</FlightPlan>
             <Route>HINDS CALIG JULIM</Route>
             <TimedMessages>
-              <TimedMessage Time="840" Message="NWK1613, IFR A320, Taxis Geraldton for Perth, Runway 03" />
+              <TimedMessage Time="840" Message="'Melbourne Centre, NWK1613, IFR A320, Taxis Geraldton for Perth, Runway 03'" />
               <TimedMessage Time="1320" Message="Select Runway 03, Climb to F125, and Takeoff" />
             </TimedMessages>
           </Aircraft>
@@ -5127,34 +5121,63 @@
     <ScenarioFile>
         <Name>Enroute ELW</Name>
         <Type>Enroute</Type>
-        <StudentBriefing>You are operating Eildon Weir.  
-
-        Melbourne is running Runway 16. Canberra is running Runway 17. Instrument approaches are in use at all locations.  
-
-        Melbourne Approach, Canberra Approach, Bindook, and Yarrowee are online.    
-
-        There is no significant weather within your airspace.
+        <UseGRIB xsi:nil="true" />
+        <StudentBriefing>
+            **HANDOVER**
+            - **Runway**:
+              - 16 for arrivals YMML. 17 for Arrivals YSCB
+            - **Airspace**:
+              - All Surrounding Enroute sectors online
+              - ML APP and CB APP Online
+              - AY ADC Offline
+            - **Weather**:
+              - Benign
+              - Information N at YMML. QNH 1013
+              - Information A at YSCB. QNH 1013
+            - **Frequencies**:
+              - 123.75 only
+            - **Traffic**:
+              - No one in our airspace at the moment
+              - Multiple aircraft for YMML shortly calling from YSSY. No separation issues, however sequencing will be required
+              - Multiple departures planned out of YMML for the North West. Watch out for **TFX11**, a slow BAe 146.
+              - Watch the YMML departures with QFA64 overflying from the South West.
+            Any Questions?
         </StudentBriefing>
         <InstructorNotes>
         **ALL YMML/YSCB DEPARTURES ARE AUTOMATIC**  
         
-        Ensure the student disables GRIB winds.  
-        
-        Initial cluster of traffic inbound from YSSY starts. Student will need to initate sequencing quickly.  
+        Initial cluster of traffic inbound from YSSY starts. Student will need to initiate sequencing quickly.  
+        - Important to issue STAR Clearances on first contact
 
-        **EVY30** is going to YMAV but see if your student leaves them on the same track as the others.  
+        **EVY30** departs YSCB for YMAV. A student may easily assume they are for YMML
+        - Best solution is to get them west of Q29, DCT ML
+        - Vertically above the YMML sequence is also an option, but higher workload
+        - If the student keeps them below the YMML sequence and on flight planned route, they're screwed
+        - Also requires heads-up coordination to ML APP no matter what tracking the student chooses
 
-        **ASY10** cuts straight through the YSSY/YMML airway at BULLA, just to add more mayhem.  
+        **ASY10** cuts straight through the Q29 corridor at BULLA
+        - Will be in lateral conflict with multiple YMML arrivals
+        - Will likely work on profile if the arrivals are assigned **F200** prior to passing **ASY10**, however, it would be close
+        - Most optimal solution is to Track Shorten **ASY10** to allow more room for the YMML arrivals descent profile
 
-        **AM213** and **QLK39D** should be taken off around the same time (You will be prompted). This will cause an enroute conflict at TEMIS.  
+        **AM213** and **QLK39D** will conflict at TEMIS
+        - Clearing **AM213** DCT COLDS solves the conflict with **QLK39D** and the entire YMML sequence
+        - Heads-up coordination is required to ML APP for **AM213**
 
-        **QLK39D** arrives around the same time as the cluster from YSSY, up to your student whether to sequence it in the middle or the end. 
+        **QLK39D** arrives at the FF around the same time as the **VOZ443**
+        - The sequence could go either way, but getting VOZ443 to overtake QLK39D is quite high workload. As such, **QLK39D** as Number 1 is the most optimal solution
 
-        A steady flow of aircraft will be departing YMML for YSSY/YSBK. The first and second departures (**TFX11** and **TFR44**) are both slower so some sequencing will be required on their way to YSSY.  
+        A steady flow of aircraft will be departing YMML for YSSY/YSBK
+        - **TFX11**, a **B462**, departs first. If no action is taken, it will have a loss of separation with **TFR44**
 
-        **QFA64** flies straight over ML which causes pain in the already cooked scenario for your student.  
+        **QFA64** flies straight overhead ML for YSSY
+        - They are at Non-Standard **F360**
+        - They will be in conflict with many departures requesting above **F360**. The Faster following aspect may also catch out the student
+        - Lowest workload and most equitable solution is to just assign **F350** to the departures in conflict with **QFA64**
+        - An alternative option, but higher workload, is to take **QFA64** left of route, DCT NONUP or CULIN, to achieve lateral separation prior to cruise
+        - The highest workload solution of vectoring the departures to achieve their requested level would be disastrous
 
-        Have Fun  
+        It is highly unlikely the student will be able to manage all of this traffic effectively. If they are falling behind, delete a few aircraft causing issues and advise the student 
         
         </InstructorNotes>
         <Targets>
@@ -5204,16 +5227,16 @@
             <Squawk Code="5234" ModeC="true" />
             <Cleared Level="24000" />
             <Position Latitude="-35.290894" Longitude="149.194461" Speed="1" Altitude="1886" />
-            <FlightPlan Active="true" Departure="YSCB" Destination="YMAV" Alternative="" Rules="I" CruiseSpeed="240" ETD="0000" ATD="0000" RFL="43000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TANTA2/17 TANTA Q29 ML JAYBI</FlightPlan>
+            <FlightPlan Active="true" Departure="YSCB" Destination="YMAV" Alternative="" Rules="I" CruiseSpeed="240" ETD="0000" ATD="0000" RFL="43000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TANTA3/17 TANTA Q29 ML JAYBI</FlightPlan>
             <Route>TANTA RUMIE NABBA BULLA LUVAS LIZZI</Route>
           </Aircraft>
           <Aircraft Callsign="AM213" Type="BE20" Delay="0">
             <Squawk Code="2000" ModeC="false" />
             <Position Latitude="-37.04812799999999" Longitude="147.333833" Speed="0" Altitude="4285" />
-            <FlightPlan Active="false" Departure="YHOT" Destination="YMEN" Alternative="" Rules="I" CruiseSpeed="220" ETD="0000" ATD="0000" RFL="18000" EETHours="01" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">TEMIS W188 COLDS V512 ESDAN</FlightPlan>
+            <FlightPlan Active="false" Departure="YHOT" Destination="YMEN" Alternative="" Rules="I" CruiseSpeed="220" ETD="0000" ATD="0000" RFL="18000" EETHours="01" EETMins="30" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OMBIS Z82 TEMIS W188 COLDS V512 ESDAN</FlightPlan>
             <Route>TEMIS LACEY COLDS MONTY ESDAN</Route>
             <TimedMessages>
-            <TimedMessage Time="300" Message="Ambulance 213, Kingair, POB 3, IFR, Taxiing Mt Hotham for Essendon, Runway 11" />
+            <TimedMessage Time="100" Message="'Melbourne Centre, IFR Kingair, AM213, Taxis Runway 11 Mt Hotham for Essendon'" />
             <TimedMessage Time="360" Message="Select Runway 11, Climb to F125, and Takeoff" />
           </TimedMessages>
           </Aircraft>
@@ -5223,8 +5246,8 @@
             <FlightPlan Active="false" Departure="YMAY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="220" ETD="0000" ATD="0000" RFL="18000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT DUGGI V147 TEMIS V169 ML DCT</FlightPlan>
             <Route>DUGGI TEMIS BOYSE</Route>
             <TimedMessages>
-            <TimedMessage Time="200" Message="QLK39D, Dash 8 Delta, IFR, Taxiing Albury for Melbourne, Runway 25" />
-            <TimedMessage Time="450" Message="Select Runway 25, Climb To A085, and Takeoff" />
+            <TimedMessage Time="200" Message="'Melbourne Centre, IFR Dash 8 Delta, QLK39D, Taxis Runway 25 Albury for Melbourne'" />
+            <TimedMessage Time="450" Message="Select Runway 25, Climb to A085, and Takeoff" />
           </TimedMessages>
           </Aircraft>
           <Aircraft Callsign="VOZ625" Type="B738" Delay="750" StartAuto="true">
@@ -5273,8 +5296,8 @@
             <Squawk Code="7213" ModeC="true" />
             <Cleared Level="36000" />
             <Position Latitude="-39.111324" Longitude="142.690153" Speed="480" Altitude="36000" />
-            <FlightPlan Active="true" Departure="FAOR" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="36000" EETHours="11" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">4700S11500E/M084F410 4600S12000E 4500S12500E/M085F390 4400S13000E 4200S13500E 4000S14000E DCT KAYTU DCT ML H129 DOSEL Y59 RIVET DCT</FlightPlan>
-            <Route>KAYTU ML DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET</Route>
+            <FlightPlan Active="true" Departure="FAOR" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="36000" EETHours="11" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">4700S11500E/M084F410 4600S12000E 4500S12500E/M085F390 4400S13000E 4200S13500E 4000S14000E DCT OKISI DCT ML H129 DOSEL Y59 RIVET DCT</FlightPlan>
+            <Route>OKISI ML DOSEL EBONY ARRAN NONUP CULIN TARAL RIVET</Route>
           </Aircraft>
           <Aircraft Callsign="ASY10" Type="C17" Delay="0">
             <Squawk Code="2341" ModeC="true" />
@@ -5282,6 +5305,9 @@
             <Position Latitude="-34.08166667" Longitude="145.95555556" Speed="420" Altitude="19000" />
             <FlightPlan Active="true" Departure="YAMB" Destination="YMES" Alternative="" Rules="I" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="19000" EETHours="11" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/"> BORLI BULLA YMES</FlightPlan>
             <Route>BORLI BULLA YMES</Route> 
+            <TimedMessages>
+              <TimedMessage Time="60" Message="Coord YWE to ELW: 'Two for you. To the north, ASY10. And via ML, QFA64'" />
+            </TimedMessages>
           </Aircraft>
         </Targets>
     </ScenarioFile>
@@ -5741,7 +5767,7 @@
           <Squawk Code="3246" ModeC="true" />
           <Cleared Level="33000" Approach="false" />
           <Position Latitude="-32.092778" Longitude="118.702222" Speed="449" Altitude="33000" />
-          <FlightPlan Departure="YPPH" Destination="YBBN" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="330" EETHours="5" EETMins="25" FuelHours="6" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHVWU OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">MUBID4/06 MUBID J21 OLRUX DCT TEGEX DCT LEC T33 ANROM DCT RACHL Y46 EMTID Y27 ENLIP DCT</FlightPlan>
+          <FlightPlan Departure="YPPH" Destination="YBBN" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="330" EETHours="5" EETMins="25" FuelHours="6" FuelMins="20" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHVWU OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">BIRER MUBID J21 OLRUX DCT TEGEX DCT LEC T33 ANROM DCT RACHL Y46 EMTID Y27 ENLIP DCT</FlightPlan>
           <Route>MUBID OLRUX TEGEX LEC EVIEC MACLA IPRAM ANROM RACHL EMTID SUKTU EDPEG ENLIP</Route>
         </Aircraft>
         <Aircraft Callsign="EVY30" Type="FA7X" Delay="0" StartAuto="false">
@@ -5751,7 +5777,7 @@
           <FlightPlan Departure="YMML" Destination="YBTL" Alternative="" Active="true" Equipment="SBDE2E3FGHIJ1J3J4J5M1M3P2RWXYZ/LB1D1G1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="400" EETHours="3" EETMins="25" FuelHours="4" FuelMins="20" Remarks="STS/HEAD STATE PBN/A1B2C2D2L1S2 NAV/RNP2 DOF/240101 REG/A56003 OPR/RAAF PER/C RMK/TCAS EQUIPPED /V/ ">DCT MNG Q76 LAKOT/N0456F430 Y80 VOMPA DCT </FlightPlan>
           <Route>TOBOB KADUV ISGEL PORIV ISBAD UXILO KANGI LAKOT BATIR VOMPA</Route>
           <TimedMessages>
-            <TimedMessage Time="680" Message="(On first contact) 'Melbourne Centre, EVY30, Maintaining (level). Request climb to F430'" />
+            <TimedMessage Time="650" Message="(On first contact) 'Melbourne Centre, EVY30, Maintaining (level). Request climb to F430'" />
           </TimedMessages>
         </Aircraft>
         <Aircraft Callsign="TFX12" Type="B734" Delay="0" StartAuto="true">
