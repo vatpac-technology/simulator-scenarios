@@ -1705,36 +1705,6 @@
               </ExitPoints>
               <EntryPoints />
             </Exit>
-            <Exit>
-              <Name>V</Name>
-              <ExitPoints>
-                <ExitPoint>
-                  <SortOrder>0</SortOrder>
-                  <Position>-373950.9767+1445012.8427</Position>
-                  <Latitude>-37.6641623263889</Latitude>
-                  <Longitude>144.83690104166666</Longitude>
-                </ExitPoint>
-                <ExitPoint>
-                  <SortOrder>1</SortOrder>
-                  <Position>-373952.6932+1445013.3872</Position>
-                  <Latitude>-37.66463541666667</Latitude>
-                  <Longitude>144.8370486111111</Longitude>
-                </ExitPoint>
-                <ExitPoint>
-                  <SortOrder>2</SortOrder>
-                  <Position>-373953.6864+1445015.1056</Position>
-                  <Latitude>-37.664913194444445</Latitude>
-                  <Longitude>144.83752604166668</Longitude>
-                </ExitPoint>
-                <ExitPoint>
-                  <SortOrder>3</SortOrder>
-                  <Position>-373954.1063+1445018.3797</Position>
-                  <Latitude>-37.66503038194445</Latitude>
-                  <Longitude>144.8384375</Longitude>
-                </ExitPoint>
-              </ExitPoints>
-              <EntryPoints />
-            </Exit>
           </Exits>
           <Entries>
             <Entry>
