@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ScenarioFiles xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    
+  <ScenarioFile>
+    <Name>Circuits</Name>
+    <Type>Testing</Type>
+    <UseGRIB xsi:nil="true" />
+    <Targets>
+      <Aircraft Callsign="AAA" Type="C172" Delay="0" StartAuto="false">
+        <Squawk Code="1200" ModeC="true" />
+        <Cleared Level="1000" Approach="false" />
+        <Position Latitude="-33.97130777280001" Longitude="151.1921589388749" Speed="0" Altitude="0" />
+        <FlightPlan Departure="YSSY" Destination="YSSY" Active="false" Rules="V" CruiseSpeed="110" ETD="0000" ATD="" RFL="1000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">YSSY/34R</FlightPlan>
+        <Route>CIRCUITS-RIGHT</Route>
+      </Aircraft>
+      <Aircraft Callsign="BBB" Type="A320" Delay="0" StartAuto="false">
+        <Squawk Code="1200" ModeC="true" />
+        <Cleared Level="3000" Approach="false" />
+        <Position Latitude="-33.97130777280001" Longitude="151.1921589388749" Speed="0" Altitude="0" />
+        <FlightPlan Departure="YSSY" Destination="YSSY" Active="false" Rules="V" CruiseSpeed="210" ETD="0000" ATD="" RFL="1000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">YSSY/34R</FlightPlan>
+        <Route>CIRCUITS-RIGHT</Route>
+      </Aircraft>
+      <Aircraft Callsign="CCC" Type="C182" Delay="0" StartAuto="false">
+        <Cleared Level="1000" Approach="false" />
+        <Squawk Code="1200" ModeC="true" />
+        <Position Latitude="-33.93783858520932" Longitude="151.18863060670807" Speed="0" Altitude="0" />
+        <FlightPlan Departure="YSSY" Destination="YSSY" Active="false" Rules="V" CruiseSpeed="120" ETD="0000" ATD="0000" RFL="1000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">YSSY/25</FlightPlan>
+        <Route>CIRCUITS-RIGHT</Route>
+      </Aircraft>
+    </Targets>
+  </ScenarioFile>
     <ScenarioFile>
       <Name>Tower Melboure Runway 16 - Intro</Name>
         <Type>Tower</Type>
