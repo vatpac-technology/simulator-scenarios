@@ -41,11 +41,11 @@
           <InstructorNotes>
           All arrivals are cleared the approach and will land automatically. Any runway can be used for departure, notify student as to current runway mode.
 
-          **QFA400** incorrect hemispherical level  
+          **QFA400** incorrect hemispherical level.
 
-          **QFA600** has filed an incorrect route
+          **QFA600** has filed an incorrect route.
 
-          **LPJ** has filed via the W190 airway, which goes ML DCT AV. Instruct student to draw route/check FDR waypoints to determine that the correct clearance is '*Cleared to Avalon, direct*'
+          **LPJ** has filed via the W190 airway, which goes ML DCT AV. Instruct student to draw route/check FDR waypoints to determine that the correct clearance is '*Cleared to Avalon, direct.'
 
           **Parking positions:**  
           - BAW15: D5
@@ -165,7 +165,7 @@
       <InstructorNotes>
       All arrivals are cleared the approach and will land automatically. Arrivals from the east may briefly lose identification approaching LIZZI due terrain. They will return prior to entering the TMA.  
 
-      **QFA402** incorrect hemispherical level 
+      **QFA402** incorrect hemispherical level.
 
       **JCR** has filed via `RPY` which is not in the current AIRAC. Students will need to reclear them `IGNES DCT AV` and update FDR.
 
@@ -344,9 +344,9 @@
         <InstructorNotes>
         All arrivals are cleared the approach and will land automatically.   
 
-        QFA464, VOZ887, and QFA553 may not appear on surveillance until they enter the TMA due terrain (use sim window to verify their position if required).
+        **QFA464**, **VOZ887**, and **QFA553** may not appear on surveillance until they enter the TMA due terrain (use sim window to verify their position if required).
 
-        QFA820 has filed an incorrect route.
+        **QFA820** has filed an incorrect route.
       
         **INTL Parking positions:**  
           - AAL72: 8
@@ -585,13 +585,11 @@
         Sydney Approach is online.
       </StudentBriefing>
       <InstructorNotes>
-        **ALL ARRIVALS ARE AUTOMATIC**   
+        All arrivals are cleared the approach and will land automatically.   
 
-        JST527 has filed an incorrect route
+        **JST527** has filed an incorrect route.
 
         Auto-timed means that you'll be prompted to request clearance/push/taxi for departing aircraft.
-
-        Have Fun
       </InstructorNotes>
       <Targets>
           <Aircraft Callsign="JST430" Type="A320" Delay="0" StartAuto="false">
@@ -600,9 +598,9 @@
               <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="false" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H185 BN DCT</FlightPlan>
               <Route>OLSEM</Route>
               <TimedMessages>
-                  <TimedMessage Time="1" Message="Request clearance to Brisbane (bay 57)" />
-                  <TimedMessage Time="120" Message="Request push (bay 57)" />
-                  <TimedMessage Time="210" Message="Request taxi (runway 34R)" />
+                  <TimedMessage Time="1" Message="Request clearance to Brisbane (Bay 57)" />
+                  <TimedMessage Time="120" Message="Request push (Bay 57)" />
+                  <TimedMessage Time="210" Message="Request taxi (Runway 34R)" />
               </TimedMessages>
           </Aircraft>
           <Aircraft Callsign="RXA6416" Type="SF34" Delay="0">
@@ -612,7 +610,7 @@
             <Route>KAMBA WLM NICLA KADSI CFS YCFS</Route>
             <TimedMessages>
                   <TimedMessage Time="30" Message="Request clearance to Coffs Harbour (F8)" />
-                  <TimedMessage Time="300" Message="Request taxi (F8, runway 34R)" />
+                  <TimedMessage Time="300" Message="Request taxi (F8, Runway 34R)" />
               </TimedMessages>
           </Aircraft>
           <Aircraft Callsign="VOZ821" Type="B738" Delay="0" StartAuto="false">
@@ -621,9 +619,9 @@
               <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="false" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/   /v/">DCT OLSEM Y193 BANDA H185 BN DCT</FlightPlan>
               <Route>OLSEM</Route>
               <TimedMessages>
-                  <TimedMessage Time="90" Message="Request clearance to Brisbane (bay 34)" />
-                  <TimedMessage Time="275" Message="Request push (bay 34)" />
-                  <TimedMessage Time="415" Message="Request taxi (runway 34R)" />
+                  <TimedMessage Time="90" Message="Request clearance to Brisbane (Bay 34)" />
+                  <TimedMessage Time="275" Message="Request push (Bay 34)" />
+                  <TimedMessage Time="415" Message="Request taxi (Runway 34R)" />
               </TimedMessages>
           </Aircraft>
           <Aircraft Callsign="QFA820" Type="B738" Delay="1320" StartAuto="true">
@@ -632,9 +630,9 @@
               <FlightPlan Departure="YSSY" Destination="YBCG" Alternative="" Active="false" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA Y43 GREAV CG DCT</FlightPlan>
               <Route>OLSEM</Route>
               <TimedMessages>
-                  <TimedMessage Time="1620" Message="Request clearance to Gold Coast (bay 2)" />
-                  <TimedMessage Time="1740" Message="Request push (bay 2)" />
-                  <TimedMessage Time="1860" Message="Request taxi (runway 34R)" />
+                  <TimedMessage Time="1620" Message="Request clearance to Gold Coast (Bay 2)" />
+                  <TimedMessage Time="1740" Message="Request push (Bay 2)" />
+                  <TimedMessage Time="1860" Message="Request taxi (Runway 34R)" />
               </TimedMessages>
           </Aircraft>
           <Aircraft Callsign="QFA127" Type="B744" Delay="540" StartAuto="true">
@@ -643,9 +641,9 @@
               <FlightPlan Departure="YSSY" Destination="VHHH" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RIC H530 SURVO R340 DUMAV/N0468F400 R340 AMN A461 BONDA/N0471F380 A461 ZAM A583 SABNO V541</FlightPlan>
               <Route>RIC</Route>
               <TimedMessages>
-                  <TimedMessage Time="840" Message="Request clearance to Hong Kong (bay 34)" />
-                  <TimedMessage Time="1080" Message="Request push (bay 34)" />
-                  <TimedMessage Time="1260" Message="Request taxi (runway 34L)" />
+                  <TimedMessage Time="840" Message="Request clearance to Hong Kong (Bay 34)" />
+                  <TimedMessage Time="1080" Message="Request push (Bay 34)" />
+                  <TimedMessage Time="1260" Message="Request taxi (Runway 34L)" />
               </TimedMessages>
           </Aircraft>
           <Aircraft Callsign="UAE476" Type="B772" Delay="0" StartAuto="false">
@@ -654,9 +652,9 @@
               <FlightPlan Departure="YSSY" Destination="OMDB" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RIC H226 ENPAG T74 KARAG/N0500F340 T74 VINAX/N0500F360 T74 TN J251 DN M768 PORAK/N0490F380 M768 TSN R468 PNH A340 RYN DCT</FlightPlan>
               <Route>RIC</Route>
               <TimedMessages>
-                  <TimedMessage Time="45" Message="Request clearance to Dubai (bay 55)" />
-                  <TimedMessage Time="450" Message="Request push (bay 55)" />
-                  <TimedMessage Time="600" Message="Request taxi (runway 34L)" />
+                  <TimedMessage Time="45" Message="Request clearance to Dubai (Bay 55)" />
+                  <TimedMessage Time="450" Message="Request push (Bay 55)" />
+                  <TimedMessage Time="600" Message="Request taxi (Runway 34L)" />
               </TimedMessages>
           </Aircraft>
           <Aircraft Callsign="QLK227D" Type="DH8D" Delay="750" StartAuto="true">
@@ -665,8 +663,8 @@
               <FlightPlan Departure="YSSY" Destination="YSCB" Alternative="" Active="false" Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="22000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PEGSU V169 CB DCT</FlightPlan>
               <Route>BUNGO</Route>
               <TimedMessages>
-                  <TimedMessage Time="1050" Message="Request clearance to Canberra (bay 67)" />
-                  <TimedMessage Time="1170" Message="Request taxi (bay 67, runway 34L)" />
+                  <TimedMessage Time="1050" Message="Request clearance to Canberra (Bay 67)" />
+                  <TimedMessage Time="1170" Message="Request taxi (Bay 67, Runway 34L)" />
               </TimedMessages>
           </Aircraft>
           <Aircraft Callsign="JST527" Type="A320" Delay="990" StartAuto="true">
@@ -675,9 +673,9 @@
               <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false" Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KADOM H44 CWR DCT IGMIL Q35 CANTY H119 ARBEY DCT</FlightPlan>
               <Route>KADOM</Route>
               <TimedMessages>
-                  <TimedMessage Time="1290" Message="Request clearance to Melbourne (bay 55)" />
-                  <TimedMessage Time="1440" Message="Request push (bay 55)" />
-                  <TimedMessage Time="1560" Message="Request taxi (runway 34R)" />
+                  <TimedMessage Time="1290" Message="Request clearance to Melbourne (Bay 55)" />
+                  <TimedMessage Time="1440" Message="Request push (Bay 55)" />
+                  <TimedMessage Time="1560" Message="Request taxi (Runway 34R)" />
               </TimedMessages>
           </Aircraft>
           <Aircraft Callsign="VOZ429" Type="B738" Delay="0" StartAuto="false">
@@ -686,9 +684,9 @@
               <FlightPlan Departure="YSSY" Destination="YPAD" Alternative="" Active="false" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KADOM H44 BORLI W451 MIA H309 AD DCT</FlightPlan>
               <Route>KADOM</Route>
               <TimedMessages>
-                  <TimedMessage Time="240" Message="Request clearance to Adelaide (bay 32)" />
-                  <TimedMessage Time="390" Message="Request push (bay 32)" />
-                  <TimedMessage Time="555" Message="Request taxi (runway 34L)" />
+                  <TimedMessage Time="240" Message="Request clearance to Adelaide (Bay 32)" />
+                  <TimedMessage Time="390" Message="Request push (Bay 32)" />
+                  <TimedMessage Time="555" Message="Request taxi (Runway 34L)" />
               </TimedMessages>
           </Aircraft>
           <Aircraft Callsign="CXF" Type="B350" Delay="180" StartAuto="true">
@@ -697,8 +695,8 @@
               <FlightPlan Departure="YSSY" Destination="YWLM" Alternative="" Active="false" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="9000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT WLM DCT</FlightPlan>
               <Route>WLM</Route>
               <TimedMessages>
-                  <TimedMessage Time="480" Message="Request clearance to Williamtown (bay 103)" />
-                  <TimedMessage Time="660" Message="Request taxi (bay 103, runway 34R)" />
+                  <TimedMessage Time="480" Message="Request clearance to Williamtown (Bay 103)" />
+                  <TimedMessage Time="660" Message="Request taxi (Bay 103, Runway 34R)" />
               </TimedMessages>
           </Aircraft>
           <Aircraft Callsign="VOZ887" Type="B738" Delay="0">
@@ -815,7 +813,7 @@
       <InstructorNotes>   
         All arrivals are cleared the approach and will land automatically. Aircraft for runway 19L from the northwest may not be visible on surveillence until entering the TMA due terrain. Use the simulator map if required. 
 
-        VOZ310 has filed an incorrect route
+        **VOZ310** has filed an incorrect route.
 
         **Parking Positions:**
         - ACI153: 81
@@ -850,15 +848,15 @@
           <Squawk Code="1006" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-26.78138889" Longitude="152.55861111" Speed="250" Altitude="4000" />
-          <FlightPlan Active="true" Departure="YBMK" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT MK W889 RK V307 SUSGI DCT SMOKA SMOK9A/19R</FlightPlan>
-          <Route>SMOKA RWY19R</Route>
+          <FlightPlan Active="true" Departure="YBMK" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT MK W889 RK V307 SUSGI DCT SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO YBBN/19R</FlightPlan>
+          <Route>SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO RWY19R</Route>
         </Aircraft>
         <Aircraft Callsign="AVN22" Type="B738" Delay="0" StartAuto="true">
           <Squawk Code="1009" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-26.45166667" Longitude="152.19694444" Speed="250" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AKROM Y177 SMOKA SMOK9A/19R</FlightPlan>
-          <Route>SMOKA RWY19R</Route>
+          <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AKROM Y177 SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO YBBN/19R</FlightPlan>
+          <Route>SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO RWY19R</Route>
         </Aircraft>
         <Aircraft Callsign="VEA" Type="SF34" Delay="0" StartAuto="true">
           <Squawk Code="1011" ModeC="true" />
@@ -871,15 +869,15 @@
           <Squawk Code="1015" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-28.56027778" Longitude="153.43694444" Speed="250" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YCFS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CFS W192 GOMOL GOMO2A/19L</FlightPlan>
-          <Route>GOMOL RWY19L</Route>
+          <FlightPlan Active="true" Departure="YCFS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CFS W192 GOMOL GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO YBBN/19L</FlightPlan>
+          <Route>GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO RWY19L</Route>
         </Aircraft>
         <Aircraft Callsign="QTR900" Type="B77W" Delay="0" StartAuto="true">
           <Squawk Code="1017" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-28.76388889" Longitude="153.29750000" Speed="250" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL GOMO2A/19L</FlightPlan>
-          <Route>GOMOL RWY19L</Route>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO YBBN/19L</FlightPlan>
+          <Route>GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO RWY19L</Route>
         </Aircraft>
 
         <Aircraft Callsign="JST813" Type="A320" Delay="0">
@@ -1044,8 +1042,8 @@
           <Squawk Code="1006" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-26.78138889" Longitude="152.55861111" Speed="250" Altitude="4000" />
-          <FlightPlan Active="true" Departure="YBMK" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT MK W889 RK V307 SUSGI DCT SMOKA SMOK9A/19R</FlightPlan>
-          <Route>SMOKA RWY19R</Route>
+          <FlightPlan Active="true" Departure="YBMK" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT MK W889 RK V307 SUSGI DCT SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO YBBN/19R</FlightPlan>
+          <Route>SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO RWY19R</Route>
         </Aircraft>
         <Aircraft Callsign="QFA1938" Type="E190" Delay="0" StartAuto="true">
           <Squawk Code="1007" ModeC="true" />
@@ -1058,22 +1056,22 @@
           <Squawk Code="1008" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-26.61527778" Longitude="152.35444444" Speed="250" Altitude="4000" />
-          <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AKROM Y177 SMOKA SMOK9A/19R</FlightPlan>
-          <Route>SMOKA RWY19R</Route>
+          <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AKROM Y177 SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO YBBN/19R</FlightPlan>
+          <Route>SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO RWY19R</Route>
         </Aircraft>
         <Aircraft Callsign="AVN20" Type="B738" Delay="0" StartAuto="true">
           <Squawk Code="1009" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-26.45166667" Longitude="152.19694444" Speed="250" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AKROM Y177 SMOKA SMOK9A/19R</FlightPlan>
-          <Route>SMOKA RWY19R</Route>
+          <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AKROM Y177SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO YBBN/19R</FlightPlan>
+          <Route>SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO RWY19R</Route>
         </Aircraft>
         <Aircraft Callsign="QLK417D" Type="DH8D" Delay="0" StartAuto="true">
           <Squawk Code="1010" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-26.21444444" Longitude="152.13750000" Speed="250" Altitude="4000" />
-          <FlightPlan Active="true" Departure="YBRK" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">RK V307 SUSGI DCT SMOKA SMOK9A/19R</FlightPlan>
-          <Route>SMOKA RWY19R</Route>
+          <FlightPlan Active="true" Departure="YBRK" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">RK V307 SUSGI DCT SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO YBBN/19R</FlightPlan>
+          <Route>SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO RWY19R</Route>
         </Aircraft>
         <Aircraft Callsign="VEP" Type="SF34" Delay="0" StartAuto="true">
           <Squawk Code="1011" ModeC="true" />
@@ -1086,29 +1084,29 @@
           <Squawk Code="1013" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-28.34055556" Longitude="153.44361111" Speed="250" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL GOMO2A/19L</FlightPlan>
-          <Route>GOMOL RWY19L</Route>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO YBBN/19L</FlightPlan>
+          <Route>GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO RWY19L</Route>
         </Aircraft>
         <Aircraft Callsign="FD427" Type="B350" Delay="0" StartAuto="true">
           <Squawk Code="1015" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-28.56027778" Longitude="153.43694444" Speed="250" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YCFS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CFS W192 GOMOL GOMO2A/19L</FlightPlan>
-          <Route>GOMOL RWY19L</Route>
+          <FlightPlan Active="true" Departure="YCFS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CFS W192 GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO YBBN/19L</FlightPlan>
+          <Route>GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO RWY19L</Route>
         </Aircraft>
         <Aircraft Callsign="TFX902" Type="B733" Delay="0" StartAuto="true">
           <Squawk Code="1016" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-26.12444444" Longitude="151.86833333" Speed="250" Altitude="4000" />
-          <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AKROM Y177 SMOKA SMOK9A/19R</FlightPlan>
-          <Route>SMOKA RWY19R</Route>
+          <FlightPlan Active="true" Departure="YBCS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AKROM Y177 SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO YBBN/19R</FlightPlan>
+          <Route>SMOKA OTGAT GARTH BURPA IGBON PAMBU ATRAX LAVIN OSOKO RWY19R</Route>
         </Aircraft>
         <Aircraft Callsign="QTR898" Type="B77W" Delay="0" StartAuto="true">
           <Squawk Code="1017" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-28.76388889" Longitude="153.29750000" Speed="250" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL GOMO2A/19L</FlightPlan>
-          <Route>GOMOL RWY19L</Route>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO YBBN/19L</FlightPlan>
+          <Route>GOMOL MEKUG SALEL SALGA ISPON OMGUV BETSO RWY19L</Route>
         </Aircraft>
 
         <Aircraft Callsign="JST811" Type="A320" Delay="0">
@@ -1203,7 +1201,7 @@
 
       This is a good session for your student to get used to aircraft connecting as they control, forcing them to work on flight plans on the fly.
 
-      JST779 has planned a non-jet route at a non-hemispherical level.
+      **JST779** has planned a non-jet route at a non-hemispherical level.
 
       The session runs for 45 minutes.
     </InstructorNotes>
