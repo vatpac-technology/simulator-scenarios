@@ -11,5 +11,7 @@
   "Sectors": "https://raw.githubusercontent.com/vatSys/australia-dataset/master/Sectors.xml",
   "GroundInfomation": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/GroundInformation.xml",
   "DEM": "https://raw.githubusercontent.com/vatSys/australia-dataset/master/DEM.xml",
-  "AirportStartingLetters": "Y"
+  "AirportStartingLetters": "Y",
+  "SweatBox1": "https://sweatbox01-training.vatpac.org",
+  "SwestBox2": "https://sweatbox02-training.vatpac.org"
 }
