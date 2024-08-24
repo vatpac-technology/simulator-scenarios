@@ -13,5 +13,5 @@
   "DEM": "https://raw.githubusercontent.com/vatSys/australia-dataset/master/DEM.xml",
   "AirportStartingLetters": "Y",
   "SweatBox1": "https://sweatbox01-training.vatpac.org",
-  "SwestBox2": "https://sweatbox02-training.vatpac.org"
+  "SweatBox2": "https://sweatbox02-training.vatpac.org"
 }
