@@ -1543,6 +1543,88 @@
             </Point>
           </Points>
         </Taxiway>
+        <Taxiway>
+          <Name>A &gt; U</Name>
+          <Points>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-374018.4835+1445033.4957/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-374015.5113+1445032.9974/</Position>
+            </Point>
+          </Points>
+        </Taxiway>
+        <Taxiway>
+          <Name>A &gt; T</Name>
+          <Points>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-374013.4491+1445032.5771/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-374002.3801+1445030.4811/</Position>
+            </Point>
+          </Points>
+        </Taxiway>
+        <Taxiway>
+          <Name>A &gt; E</Name>
+          <Points>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-374000.1981+1445030.1384/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-373956.0336+1445029.2886/</Position>
+            </Point>
+          </Points>
+        </Taxiway>
+        <Taxiway>
+          <Name>E &gt; S</Name>
+          <Points>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-373955.1706+1445030.5661/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-373954.9158+1445035.5969/</Position>
+            </Point>
+          </Points>
+        </Taxiway>
+        <Taxiway>
+          <Name>E &gt; P</Name>
+          <Points>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-373954.6685+1445037.649/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-373953.1317+1445050.9561/</Position>
+            </Point>
+          </Points>
+        </Taxiway>
+        <Taxiway>
+          <Name>P &gt; RWY 27</Name>
+          <Points>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-373951.8691+1445051.2781/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-373948.7449+1445051.9125/</Position>
+            </Point>
+            <Point>
+              <SortOrder>3</SortOrder>
+              <Position>-373946.8155+1445052.0705/</Position>
+            </Point>
+          </Points>
+        </Taxiway>
       </Taxiways>
       <Runways>
         <Runway>
@@ -1916,24 +1998,16 @@
               <Name>P</Name>
               <EntryPoints>
                 <EntryPoint>
-                  <SortOrder>0</SortOrder>
-                  <Position>-37.663468+144.847778</Position>
-                </EntryPoint>
-                <EntryPoint>
                   <SortOrder>1</SortOrder>
-                  <Position>-37.662856+144.847674</Position>
+                  <Position>-373945.7118+1445052.0057/</Position>
                 </EntryPoint>
                 <EntryPoint>
                   <SortOrder>2</SortOrder>
-                  <Position>-37.662448+144.847491</Position>
+                  <Position>-373944.3632+1445051.1324/</Position>
                 </EntryPoint>
                 <EntryPoint>
                   <SortOrder>3</SortOrder>
-                  <Position>-37.662223+144.847373</Position>
-                </EntryPoint>
-                <EntryPoint>
-                  <SortOrder>4</SortOrder>
-                  <Position>-37.662223+144.847373</Position>
+                  <Position>-373944.0303+1445050.0137/</Position>
                 </EntryPoint>
               </EntryPoints>
             </Entry>
