@@ -1374,23 +1374,6 @@
           </Points>
         </Taxiway>
         <Taxiway>
-          <Name>G &gt; E10</Name>
-          <Points>
-            <Point>
-              <SortOrder>1</SortOrder>
-              <Position>-374019.6158+1445042.5296/</Position>
-            </Point>
-            <Point>
-              <SortOrder>2</SortOrder>
-              <Position>-374019.4395+1445043.8512/</Position>
-            </Point>
-            <Point>
-              <SortOrder>3</SortOrder>
-              <Position>-374016.2195+1445043.328/</Position>
-            </Point>
-          </Points>
-        </Taxiway>
-        <Taxiway>
           <Name>G &gt; E8</Name>
           <Points>
             <Point>
@@ -1455,6 +1438,108 @@
             <Point>
               <SortOrder>3</SortOrder>
               <Position>-374016.7791+1445051.7999/</Position>
+            </Point>
+          </Points>
+        </Taxiway>
+        <Taxiway>
+          <Name>G &gt; E10</Name>
+          <Points>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-374019.6231+1445042.6259/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-374019.4492+1445043.9687/</Position>
+            </Point>
+            <Point>
+              <SortOrder>3</SortOrder>
+              <Position>-374016.1571+1445043.3301/</Position>
+            </Point>
+          </Points>
+        </Taxiway>
+        <Taxiway>
+          <Name>G &gt; F13</Name>
+          <Points>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-374019.6187+1445042.4323/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-374018.8362+1445049.1621/</Position>
+            </Point>
+            <Point>
+              <SortOrder>3</SortOrder>
+              <Position>-374021.9661+1445049.7814/</Position>
+            </Point>
+          </Points>
+        </Taxiway>
+        <Taxiway>
+          <Name>G &gt; F11</Name>
+          <Points>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-374019.640+1445042.4524/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-374018.6318+1445050.8895/</Position>
+            </Point>
+            <Point>
+              <SortOrder>3</SortOrder>
+              <Position>-374021.9274+1445051.6534/</Position>
+            </Point>
+          </Points>
+        </Taxiway>
+        <Taxiway>
+          <Name>G &gt; F15</Name>
+          <Points>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-374019.6352+1445042.4391/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-374019.0405+1445047.3155/</Position>
+            </Point>
+            <Point>
+              <SortOrder>3</SortOrder>
+              <Position>-374022.3897+1445047.9263/</Position>
+            </Point>
+          </Points>
+        </Taxiway>
+        <Taxiway>
+          <Name>G &gt; F17</Name>
+          <Points>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-374019.6335+1445042.4344/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-374019.3076+1445045.2902/</Position>
+            </Point>
+            <Point>
+              <SortOrder>3</SortOrder>
+              <Position>-374022.6169+1445046.2157/</Position>
+            </Point>
+          </Points>
+        </Taxiway>
+        <Taxiway>
+          <Name>G &gt; F19</Name>
+          <Points>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-374019.6378+1445042.4155/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-374019.4334+1445043.9286/</Position>
+            </Point>
+            <Point>
+              <SortOrder>3</SortOrder>
+              <Position>-374022.5065+1445044.6347/</Position>
             </Point>
           </Points>
         </Taxiway>
