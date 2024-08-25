@@ -183,50 +183,7 @@
         <Bay Name="G28">-272222.84+1530724.22</Bay>
         <Bay Name="G29">-272222.27+1530724.55</Bay>
       </Bays>
-      <Taxiways>
-        <Taxiway>
-          <Name>B to A</Name>
-          <Points>
-            <Point>
-              <SortOrder>0</SortOrder>
-              <Position>-272125.2173+1530718.0024</Position>
-            </Point>
-            <Point>
-              <SortOrder>1</SortOrder>
-              <Position>-272124.6465+1530719.5721</Position>
-            </Point>
-            <Point>
-              <SortOrder>2</SortOrder>
-              <Position>-272124.9403+1530720.9579</Position>
-            </Point>
-            <Point>
-              <SortOrder>3</SortOrder>
-              <Position>-272129.0586+1530724.2368</Position>
-            </Point>
-          </Points>
-        </Taxiway>
-        <Taxiway>
-          <Name>B to A</Name>
-          <Points>
-            <Point>
-              <SortOrder>0</SortOrder>
-              <Position>-272125.2173+1530718.0024</Position>
-            </Point>
-            <Point>
-              <SortOrder>1</SortOrder>
-              <Position>-272124.6465+1530719.5721</Position>
-            </Point>
-            <Point>
-              <SortOrder>2</SortOrder>
-              <Position>-272124.9403+1530720.9579</Position>
-            </Point>
-            <Point>
-              <SortOrder>3</SortOrder>
-              <Position>-272129.0586+1530724.2368</Position>
-            </Point>
-          </Points>
-        </Taxiway>
-      </Taxiways>
+      <Taxiways />
       <Runways>
         <Runway>
           <Name>01L</Name>
@@ -1376,6 +1333,47 @@
         <Bay Name="H3A">-374041.15+1445050.21</Bay>
         <Bay Name="H3B">-374042.33+1445049.55</Bay>
       </Bays>
+      <Taxiways>
+        <Taxiway>
+          <Name>G &gt; V</Name>
+          <Points>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-374016.4235+1445022.0738/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-374018.8714+1445024.5393/</Position>
+            </Point>
+          </Points>
+        </Taxiway>
+        <Taxiway>
+          <Name>G &gt; A</Name>
+          <Points>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-374019.9863+1445027.6076/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-374019.6424+1445032.3277/</Position>
+            </Point>
+          </Points>
+        </Taxiway>
+        <Taxiway>
+          <Name>G &gt; S</Name>
+          <Points>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-374019.3589+1445035.1573/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-374019.0546+1445039.3259/</Position>
+            </Point>
+          </Points>
+        </Taxiway>
+      </Taxiways>
       <Runways>
         <Runway>
           <Name>09</Name>
