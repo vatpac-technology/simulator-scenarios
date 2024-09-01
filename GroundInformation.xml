@@ -1405,6 +1405,53 @@
             </Point>
           </Points>
         </Taxiway>
+        <Taxiway>
+          <Name>S2</Name>
+          <Points>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-374013.2805+1445039.7641/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-374019.3494+1445041.0417/</Position>
+            </Point>
+          </Points>
+        </Taxiway>
+        <Taxiway>
+          <Name>Y</Name>
+          <Points>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-374030.0706+1445028.0671/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-374027.1325+1445052.7599/</Position>
+            </Point>
+          </Points>
+        </Taxiway>
+        <Taxiway>
+          <Name>U</Name>
+          <Points>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-374015.1251+1445025.4273/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-374013.5356+1445039.7762/</Position>
+            </Point>
+            <Point>
+              <SortOrder>3</SortOrder>
+              <Position>-374012.6587+1445041.2077/</Position>
+            </Point>
+            <Point>
+              <SortOrder>4</SortOrder>
+              <Position>-374011.9409+1445048.638/</Position>
+            </Point>
+          </Points>
+        </Taxiway>
       </Taxiways>
       <Runways>
         <Runway>
