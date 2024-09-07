@@ -374,7 +374,7 @@
           <Aircraft Callsign="JST430" Type="A320" Delay="0">
             <Squawk Code="2000" ModeC="false" />
             <Position Latitude="-33.935203" Longitude="151.177031" Speed="0" Altitude="3" />
-            <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H185 OLSEM Y193 BANDA H185 BN DCT</FlightPlan>
+            <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H252 OLSEM Y193 BANDA H252 BN DCT</FlightPlan>
             <Route>OLSEM YBBN</Route>
           </Aircraft>
           <Aircraft Callsign="RXA6418" Type="SF34" Delay="0">
@@ -392,13 +392,13 @@
           <Aircraft Callsign="VOZ821" Type="B738" Delay="0">
             <Squawk Code="2000" ModeC="false" />
             <Position Latitude="-33.935548" Longitude="151.17986300000004" Speed="0" Altitude="3" />
-            <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H185 OLSEM Y193 BANDA H185 BN DCT</FlightPlan>
+            <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H252 OLSEM Y193 BANDA H252 BN DCT</FlightPlan>
             <Route>OLSEM YBBN</Route>
           </Aircraft>
           <Aircraft Callsign="TGG721" Type="A320" Delay="0">
             <Squawk Code="2000" ModeC="false" />
             <Position Latitude="-33.936348" Longitude="151.17910899999998" Speed="0" Altitude="3" />
-            <FlightPlan Departure="YSSY" Destination="YBCG" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="41000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H185 OLSEM Y193 BANDA Y43 GREAV CG DCT</FlightPlan>
+            <FlightPlan Departure="YSSY" Destination="YBCG" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="41000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H252 OLSEM Y193 BANDA Y43 GREAV CG DCT</FlightPlan>
             <Route>OLSEM YBCG</Route>
           </Aircraft>
           <Aircraft Callsign="QFA820" Type="B738" Delay="0">
@@ -422,7 +422,7 @@
           <Aircraft Callsign="JST578" Type="A320" Delay="0">
             <Squawk Code="2000" ModeC="false" />
             <Position Latitude="-33.932655" Longitude="151.17702100000002" Speed="0" Altitude="13" />
-            <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H185 OLSEM Y193 BANDA H185 BN DCT</FlightPlan>
+            <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H252 OLSEM Y193 BANDA H252 BN DCT</FlightPlan>
             <Route>OLSEM YBBN</Route>
           </Aircraft>
           <Aircraft Callsign="QFA127" Type="B744" Delay="0">
@@ -597,7 +597,7 @@
           <Aircraft Callsign="JST430" Type="A320" Delay="0" StartAuto="false">
               <Squawk Code="2000" ModeC="false" />
               <Position Latitude="-33.935203" Longitude="151.177031" Speed="0" Altitude="3" />
-              <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="false" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H185 BN DCT</FlightPlan>
+              <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="false" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H252 OLSEM Y193 BANDA H252 BN DCT</FlightPlan>
               <Route>OLSEM</Route>
               <TimedMessages>
                   <TimedMessage Time="1" Message="Request clearance to Brisbane (bay 57)" />
@@ -618,7 +618,7 @@
           <Aircraft Callsign="VOZ821" Type="B738" Delay="0" StartAuto="false">
               <Squawk Code="2000" ModeC="false" />
               <Position Latitude="-33.935548" Longitude="151.17986300000004" Speed="0" Altitude="3" />
-              <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="false" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/   /v/">DCT OLSEM Y193 BANDA H185 BN DCT</FlightPlan>
+              <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="false" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/   /v/">DCT OLSEM Y193 BANDA H252 BN DCT</FlightPlan>
               <Route>OLSEM</Route>
               <TimedMessages>
                   <TimedMessage Time="90" Message="Request clearance to Brisbane (bay 34)" />
