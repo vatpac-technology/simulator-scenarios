@@ -380,7 +380,7 @@
           <Aircraft Callsign="RXA6418" Type="SF34" Delay="0">
             <Squawk Code="2000" ModeC="false" />
             <Position Latitude="-33.93638889" Longitude="151.18166667" Speed="0" Altitude="3" />
-            <FlightPlan Departure="YSSY" Destination="YCFS" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="19000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT V140 WLM V535 NICLA W446 KADSI W196 CFS DCT</FlightPlan>
+            <FlightPlan Departure="YSSY" Destination="YCFS" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="19000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KAMBA V140 WLM V535 NICLA V652 CFS DCT</FlightPlan>
             <Route>KAMBA WLM NICLA KADSI CFS YCFS</Route>
           </Aircraft>
           <Aircraft Callsign="AAL72" Type="B77W" Delay="0">
