@@ -4561,8 +4561,8 @@
               <Squawk Code="4003" ModeC="true" />
               <Cleared Level="10000" />
               <Position Latitude="-32.1" Longitude="150.6333" Speed="150" Altitude="10000" />
-              <FlightPlan Departure="YSBK" Destination="YMOR" Alternative="" Active="true" Rules="I" CruiseSpeed="140" ETD="0000" ATD="0000" RFL="10000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT BK DUUKE BOSUN NIXUG HARIZ NBR MOR</FlightPlan>
-              <Route>NIXUG HARIZ NBR MOR</Route>
+              <FlightPlan Departure="YSBK" Destination="YMOR" Alternative="" Active="true" Rules="I" CruiseSpeed="140" ETD="0000" ATD="0000" RFL="10000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT BK DCT DUUKE DCT BOSUN DCT NIXUG W572 MOR DCT</FlightPlan>
+              <Route>NIXUG OLRON MOR</Route>
               <TimedMessages>
                 <TimedMessage Time="2220" Message="Request traffic for DCT MRZSG Moree Sierra Golf for the RNP Runway 01." />
               </TimedMessages> 
