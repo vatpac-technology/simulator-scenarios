@@ -347,6 +347,8 @@
         QFA464, VOZ887, and QFA553 may not appear on surveillance until they enter the TMA due terrain (use sim window to verify their position if required).
 
         QFA820 has filed an incorrect route.
+
+        QFA121 (INTL terminal) is designed to depart from RWY 34R, and is a good opportunity for the student to practice receiving an aircraft from an adjacent SMC (see SOPs).
       
         **INTL Parking positions:**  
           - AAL72: 8
@@ -371,6 +373,12 @@
 
         </InstructorNotes>
         <Targets>
+          <Aircraft Callsign="QFA121" Type="B738" Delay="0" StartAuto="false">
+            <Squawk Code="2000" ModeC="false" />
+            <Position Latitude="-33.938964763159845" Longitude="151.16617074123596" Speed="0" Altitude="3" />
+            <FlightPlan Departure="YSSY" Destination="NZQN" Active="false" CruiseSpeed="450" RFL="37000" EETHours="04" EETMins="55" FuelHours="0" FuelMins="15" Remarks="/v/">DCT OPTIC Y84 TONIM P766 ADKOS DCT</FlightPlan>
+            <Route>OPTIC TONIM OMKIN ADKOS NZQN</Route>
+          </Aircraft>
           <Aircraft Callsign="JST430" Type="A320" Delay="0">
             <Squawk Code="2000" ModeC="false" />
             <Position Latitude="-33.935203" Longitude="151.177031" Speed="0" Altitude="3" />
@@ -387,7 +395,7 @@
             <Squawk Code="2000" ModeC="false" />
             <Position Latitude="-33.934048" Longitude="151.167567" Speed="0" Altitude="3" />
             <FlightPlan Departure="YSSY" Destination="KLAX" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT DIPSO G595 ATNAT G595 SARAP G595 NIMOD DCT SAMAD B200 PUMIS/N0492F370 B200 BISOX DCT UPNAR B454 COMIR/N0480F390 DCT BENTS DCT AHNDO B577 FICKY/N0473F410 GOATZ1</FlightPlan>
-            <Route>DIPSO</Route>
+            <Route>DIPSO KLAX</Route>
           </Aircraft>
           <Aircraft Callsign="VOZ821" Type="B738" Delay="0">
             <Squawk Code="2000" ModeC="false" />
@@ -594,6 +602,17 @@
         Have Fun
       </InstructorNotes>
       <Targets>
+          <Aircraft Callsign="QFA121" Type="B738" Delay="0" StartAuto="false">
+            <Squawk Code="2000" ModeC="false" />
+            <Position Latitude="-33.938964763159845" Longitude="151.16617074123596" Speed="0" Altitude="3" />
+            <FlightPlan Departure="YSSY" Destination="NZQN" Active="false" CruiseSpeed="450" RFL="37000" EETHours="04" EETMins="55" FuelHours="0" FuelMins="15" Remarks="/v/">DCT OPTIC Y84 TONIM P766 ADKOS DCT</FlightPlan>
+            <Route>OPTIC TONIM OMKIN ADKOS NZQN</Route>
+            <TimedMessages>
+                  <TimedMessage Time="420" Message="Request clearance to Queenstown (bay 53)" />
+                  <TimedMessage Time="600" Message="Request push (bay 53)" />
+                  <TimedMessage Time="720" Message="Request taxi (runway 34R)" />
+              </TimedMessages>
+          </Aircraft>
           <Aircraft Callsign="JST430" Type="A320" Delay="0" StartAuto="false">
               <Squawk Code="2000" ModeC="false" />
               <Position Latitude="-33.935203" Longitude="151.177031" Speed="0" Altitude="3" />
