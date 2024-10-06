@@ -1406,7 +1406,7 @@
           </Points>
         </Taxiway>
         <Taxiway>
-          <Name>S2</Name>
+          <Name>S</Name>
           <Points>
             <Point>
               <SortOrder>1</SortOrder>
