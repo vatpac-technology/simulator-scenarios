@@ -1351,44 +1351,44 @@
           <Name>G</Name>
           <Points>
             <Point>
-              <SortOrder>1</SortOrder>
-              <Position>-374015.5591+1445021.2187/</Position>
-            </Point>
-            <Point>
-              <SortOrder>2</SortOrder>
-              <Position>-374019.1311+1445024.8537/</Position>
-            </Point>
-            <Point>
-              <SortOrder>3</SortOrder>
-              <Position>-374019.8613+1445026.633/</Position>
-            </Point>
-            <Point>
-              <SortOrder>4</SortOrder>
-              <Position>-374019.9378+1445028.9596/</Position>
-            </Point>
-            <Point>
-              <SortOrder>5</SortOrder>
-              <Position>-374019.5358+1445034.0783/</Position>
-            </Point>
-            <Point>
-              <SortOrder>6</SortOrder>
-              <Position>-374019.0873+1445039.001/</Position>
-            </Point>
-            <Point>
-              <SortOrder>7</SortOrder>
-              <Position>-374019.4773+1445041.7395/</Position>
-            </Point>
-            <Point>
-              <SortOrder>8</SortOrder>
-              <Position>-374019.5677+1445042.5472/</Position>
+              <SortOrder>10</SortOrder>
+              <Position>-374018.6028+1445050.9759/</Position>
             </Point>
             <Point>
               <SortOrder>9</SortOrder>
               <Position>-374018.857+1445048.8481/</Position>
             </Point>
             <Point>
-              <SortOrder>10</SortOrder>
-              <Position>-374018.6028+1445050.9759/</Position>
+              <SortOrder>8</SortOrder>
+              <Position>-374019.5677+1445042.5472/</Position>
+            </Point>
+            <Point>
+              <SortOrder>7</SortOrder>
+              <Position>-374019.4773+1445041.7395/</Position>
+            </Point>
+            <Point>
+              <SortOrder>6</SortOrder>
+              <Position>-374019.0873+1445039.001/</Position>
+            </Point>
+            <Point>
+              <SortOrder>5</SortOrder>
+              <Position>-374019.5358+1445034.0783/</Position>
+            </Point>
+            <Point>
+              <SortOrder>4</SortOrder>
+              <Position>-374019.9378+1445028.9596/</Position>
+            </Point>
+            <Point>
+              <SortOrder>3</SortOrder>
+              <Position>-374019.8613+1445026.633/</Position>
+            </Point>
+            <Point>
+              <SortOrder>2</SortOrder>
+              <Position>-374019.1311+1445024.8537/</Position>
+            </Point>
+            <Point>
+              <SortOrder>1</SortOrder>
+              <Position>-374015.5591+1445021.2187/</Position>
             </Point>
           </Points>
         </Taxiway>
@@ -1556,51 +1556,31 @@
           <Points>
             <Point>
               <SortOrder>1</SortOrder>
-              <Position>-373954.3284+1445017.9926/</Position>
+              <Position>-373954.3816+1445018.5166/</Position>
             </Point>
             <Point>
               <SortOrder>2</SortOrder>
-              <Position>-373954.8242+1445029.2013/</Position>
+              <Position>-373955.040+1445029.090/</Position>
             </Point>
             <Point>
               <SortOrder>3</SortOrder>
-              <Position>-373955.2054+1445033.3034/</Position>
+              <Position>-373953.0523+1445052.1382/</Position>
             </Point>
             <Point>
               <SortOrder>4</SortOrder>
-              <Position>-373954.4298+1445038.7804/</Position>
+              <Position>-373952.2532+1445100.0308/</Position>
             </Point>
             <Point>
               <SortOrder>5</SortOrder>
-              <Position>-373953.949+1445043.8391/</Position>
+              <Position>-373953.6112+1445104.0997/</Position>
             </Point>
             <Point>
               <SortOrder>6</SortOrder>
-              <Position>-373953.6686+1445046.9753/</Position>
+              <Position>-373954.4533+1445109.3929/</Position>
             </Point>
             <Point>
               <SortOrder>7</SortOrder>
-              <Position>-373952.8469+1445053.8262/</Position>
-            </Point>
-            <Point>
-              <SortOrder>8</SortOrder>
-              <Position>-373952.3554+1445100.7854/</Position>
-            </Point>
-            <Point>
-              <SortOrder>9</SortOrder>
-              <Position>-373953.7023+1445106.0322/</Position>
-            </Point>
-            <Point>
-              <SortOrder>10</SortOrder>
-              <Position>-373953.7023+1445106.0322/</Position>
-            </Point>
-            <Point>
-              <SortOrder>11</SortOrder>
-              <Position>-373954.9919+1445110.6417/</Position>
-            </Point>
-            <Point>
-              <SortOrder>12</SortOrder>
-              <Position>-373956.9056+1445112.3045/</Position>
+              <Position>-373957.0305+1445112.4166/</Position>
             </Point>
           </Points>
         </Taxiway>
