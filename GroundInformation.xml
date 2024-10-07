@@ -1564,23 +1564,31 @@
             </Point>
             <Point>
               <SortOrder>3</SortOrder>
-              <Position>-373953.0523+1445052.1382/</Position>
+              <Position>-373954.8868+1445036.5342/</Position>
             </Point>
             <Point>
               <SortOrder>4</SortOrder>
-              <Position>-373952.2532+1445100.0308/</Position>
+              <Position>-373952.9899+1445052.052/</Position>
             </Point>
             <Point>
               <SortOrder>5</SortOrder>
-              <Position>-373953.6112+1445104.0997/</Position>
+              <Position>-373952.1765+1445100.681/</Position>
             </Point>
             <Point>
               <SortOrder>6</SortOrder>
-              <Position>-373954.4533+1445109.3929/</Position>
+              <Position>-373953.5806+1445103.2267/</Position>
             </Point>
             <Point>
               <SortOrder>7</SortOrder>
-              <Position>-373957.0305+1445112.4166/</Position>
+              <Position>-373954.0173+1445108.590/</Position>
+            </Point>
+            <Point>
+              <SortOrder>8</SortOrder>
+              <Position>-373955.2652+1445110.8052/</Position>
+            </Point>
+            <Point>
+              <SortOrder>9</SortOrder>
+              <Position>-373956.9078+1445112.0874/</Position>
             </Point>
           </Points>
         </Taxiway>
