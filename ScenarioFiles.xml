@@ -5946,7 +5946,6 @@
 <ScenarioFile>
   <Name>Tower Moorabbin</Name>
   <Type>Tower</Type>
-  <UseGRIB xsi:nil="true" />
   <StudentBriefing>You are operating Moorabbin Tower.
 
     Moorabbin Ground is offline, Melbourne Approach is online.
@@ -5977,8 +5976,9 @@
   <Targets>
     <Aircraft Callsign="VCY" Type="C152" Delay="0" StartAuto="false">
       <Squawk Code="3000" ModeC="true" />
+      <Cleared Level="1500" Approach="true" />
       <Position Latitude="-38.10763107102433" Longitude="145.15284429452436" Speed="90" Altitude="1500" />
-      <FlightPlan Global="SPUD" Departure="YMMB" Destination="YMMB" Alternative="YMEN" Active="true" Equipment="SFG/LB1" Rules="V" CruiseSpeed="100" ETD="0" ATD="0" RFL="3000" EETHours="3" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">CARR</FlightPlan>
+      <FlightPlan Departure="YMMB" Destination="YMMB" Alternative="YMEN" Active="true" Equipment="SFG/LB1" Rules="V" CruiseSpeed="100" ETD="0000" ATD="0000" RFL="3000" EETHours="3" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">CARR YMMB/17R</FlightPlan>
       <Route>CARR MB210002 MB333002 ML135022 YMMB/17R</Route>
       <TimedMessages>
         <TimedMessage Time="70" Message="Moorabbin Tower, VCY Cessna 152, Overhead Carrum, 1500, inbound with X" />
@@ -5987,33 +5987,33 @@
     <Aircraft Callsign="BZE" Type="P28A" Delay="0" StartAuto="false">
       <Squawk Code="2000" ModeC="false" />
       <Position Latitude="-37.97522630668809" Longitude="145.09458128553882" Speed="0" Altitude="0" />
-      <FlightPlan Departure="YMMB" Destination="YMEN" Alternative="YMMB" Active="false" Equipment="SDFRY/LB1" Rules="V" CruiseSpeed="120" ETD="0" ATD="" RFL="1500" EETHours="6" EETMins="0" FuelHours="0" FuelMins="300" Remarks="/v/">BTO MCTY</FlightPlan>
+      <FlightPlan Departure="YMMB" Destination="YMEN" Alternative="YMMB" Active="false" Equipment="SDFRY/LB1" Rules="V" CruiseSpeed="120" ETD="0000" ATD="0000" RFL="1500" EETHours="6" EETMins="0" FuelHours="0" FuelMins="300" Remarks="/v/">BTO MCTY</FlightPlan>
       <Route>BTO MCTY ESDAN</Route>
       <TimedMessages />
     </Aircraft>
     <Aircraft Callsign="VCI" Type="C152" Delay="0" StartAuto="false">
       <Squawk Code="3000" ModeC="false" />
       <Position Latitude="-37.9757158734814" Longitude="145.0946168306836" Speed="0" Altitude="0" />
-      <FlightPlan Departure="YMMB" Destination="YMMB" Alternative="YMEN" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="90" ETD="0" ATD="" RFL="1000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">YMMB CCT YMMB</FlightPlan>
+      <FlightPlan Departure="YMMB" Destination="YMMB" Alternative="YMEN" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="90" ETD="0000" ATD="0000" RFL="1000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">YMMB CCT YMMB</FlightPlan>
       <Route>CIRCUIT-LEFT</Route>
     </Aircraft>
     <Aircraft Callsign="YZU" Type="PA44" Delay="0" StartAuto="false">
       <Squawk Code="3000" ModeC="false" />
       <Position Latitude="-37.973406918918954" Longitude="145.0898094266862" Speed="0" Altitude="0" />
-      <FlightPlan Departure="YMMB" Destination="YMAY" Alternative="YMML" Active="false" Equipment="VGOF/LB1" CruiseSpeed="155" ETD="0" ATD="" RFL="6000" EETHours="4" EETMins="0" FuelHours="0" FuelMins="240" Remarks="/v/">MB COLDS LACEY TEMIS BCH AY</FlightPlan>
+      <FlightPlan Departure="YMMB" Destination="YMAY" Alternative="YMML" Active="false" Equipment="VGOF/LB1" CruiseSpeed="155" ETD="0000" ATD="0000" RFL="6000" EETHours="4" EETMins="0" FuelHours="0" FuelMins="240" Remarks="/v/">MB COLDS LACEY TEMIS BCH AY</FlightPlan>
       <Route>MB COLDS LACEY TEMIS BCH AY</Route>
     </Aircraft>
     <Aircraft Callsign="BRY" Type="SLG2" Delay="0" StartAuto="false">
       <Squawk Code="3000" ModeC="false" />
       <Position Latitude="-37.97713897598589" Longitude="145.09537548879982" Speed="0" Altitude="0" />
-      <FlightPlan Departure="YMMB" Destination="YMMB" Alternative="YMEN" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="105" ETD="0" ATD="" RFL="1000" EETHours="2" EETMins="0" FuelHours="0" FuelMins="120" Remarks="/v/">YMMB CCT YMMB</FlightPlan>
+      <FlightPlan Departure="YMMB" Destination="YMMB" Alternative="YMEN" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="105" ETD="0000" ATD="000" RFL="1000" EETHours="2" EETMins="0" FuelHours="0" FuelMins="120" Remarks="/v/">YMMB CCT YMMB</FlightPlan>
       <Route>CIRCUIT-LEFT</Route>
       <TimedMessages />
     </Aircraft>
     <Aircraft Callsign="DTF" Type="PA31" Delay="0" StartAuto="false">
       <Squawk Code="3000" ModeC="true" />
       <Position Latitude="-38.088648053867374" Longitude="145.7481736634102" Speed="100" Altitude="1500" />
-      <FlightPlan Departure="YMES" Destination="YMMB" Alternative="YTDN" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="140" ETD="0" ATD="0" RFL="1500" EETHours="4" EETMins="0" FuelHours="0" FuelMins="240" Remarks="/v/">NRW GMH</FlightPlan>
+      <FlightPlan Departure="YMES" Destination="YMMB" Alternative="YTDN" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="140" ETD="0000" ATD="0000" RFL="1500" EETHours="4" EETMins="0" FuelHours="0" FuelMins="240" Remarks="/v/">NRW GMH YMMB/17L</FlightPlan>
       <Route>NRW GMH MB030002 MB020001 YMMB/17L</Route>
       <TimedMessages>
         <TimedMessage Time="443" Message="Moorabbin Tower G'day, DTF, Cheifton is overhead GMH 1500, inbound with information X" />
@@ -6022,7 +6022,7 @@
     <Aircraft Callsign="POL36" Type="A139" Delay="0" StartAuto="false">
       <Squawk Code="3000" ModeC="true" />
       <Position Latitude="-38.61015296054817" Longitude="145.5892722285593" Speed="100" Altitude="1500" />
-      <FlightPlan Departure="YWOG" Destination="YMEN" Alternative="YMES" Active="false" Equipment="SDFRY/LB1" Rules="V" CruiseSpeed="130" ETD="0" ATD="0" RFL="1500" EETHours="0" EETMins="45" FuelHours="3" FuelMins="05" Remarks="/v/">MB MCG  </FlightPlan>
+      <FlightPlan Departure="YWOG" Destination="YMEN" Alternative="YMES" Active="false" Equipment="SDFRY/LB1" Rules="V" CruiseSpeed="130" ETD="0000" ATD="0000" RFL="1500" EETHours="0" EETMins="45" FuelHours="3" FuelMins="05" Remarks="/v/">MB MCG  </FlightPlan>
       <Route>MB MCG ESDAN</Route>
       <TimedMessages>
         <TimedMessage Time="1000" Message="Moorabbin Tower Gday, Polair 36 is a helicopter, 6 miles to the south east of the control zone, 1500, request to transit class Delta airspace tracking North West for MCG," />
@@ -6032,7 +6032,7 @@
       <Squawk Code="7826" ModeC="true" />
       <Cleared Speed="180" Approach="false" />
       <Position Latitude="-37.48627413947353" Longitude="144.5913425342219" Speed="180" Altitude="3000" />
-      <FlightPlan Departure="YMIA" Destination="YMMB" Alternative="YMEN" Active="true" Equipment="SBDGHM1RWXY/LB1" CruiseSpeed="300" ETD="0" ATD="0" RFL="7000" EETHours="6" EETMins="0" FuelHours="0" FuelMins="300" Remarks="/v/">MIA V173 CANTY H119 ML MONTY MMBNI MMBNF MB</FlightPlan>
+      <FlightPlan Departure="YMIA" Destination="YMMB" Alternative="YMEN" Active="true" Equipment="SBDGHM1RWXY/LB1" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="7000" EETHours="6" EETMins="0" FuelHours="0" FuelMins="300" Remarks="/v/">MIA V173 CANTY H119 ML MONTY MMBNI MMBNF MB YMMB/17L</FlightPlan>
       <Route>ML MONTY MMBNI YMMB/17L</Route>
       <TimedMessages>
         <TimedMessage Time="300" Message="XPV Heads Up Call &quot;To the north, XPV via Monty for the RNP 17L Approach." />
@@ -6041,7 +6041,7 @@
     <Aircraft Callsign="EOK" Type="C172" Delay="0" StartAuto="false">
       <Squawk Code="3000" ModeC="false" />
       <Position Latitude="-37.977721417412596" Longitude="145.09532891605244" Speed="0" Altitude="0" />
-      <FlightPlan Departure="YMMB" Destination="YMMB" Alternative="YMEN" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="110" ETD="0" ATD="" RFL="3000" EETHours="4" EETMins="0" FuelHours="0" FuelMins="240" Remarks="/v/">YMMB TA YMMB</FlightPlan>
+      <FlightPlan Departure="YMMB" Destination="YMMB" Alternative="YMEN" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="110" ETD="0000" ATD="0000" RFL="3000" EETHours="4" EETMins="0" FuelHours="0" FuelMins="240" Remarks="/v/">YMMB TA YMMB</FlightPlan>
       <Route>WOOS EKKAS</Route>
     </Aircraft>
   </Targets>
