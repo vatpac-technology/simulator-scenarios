@@ -6050,7 +6050,6 @@
 <ScenarioFile>
   <Name>Tower Sydney 34L&R Milkrun Edition (S2)</Name>
   <Type>Tower</Type>
-  <UseGRIB xsi:nil="true" />
   <StudentBriefing>
           You are operating Sydney Tower. Ground and Delivery are online.    
 
