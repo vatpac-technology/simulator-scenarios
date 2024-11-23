@@ -3805,7 +3805,7 @@
       <Squawk Code="4644" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-32.812222" Longitude="151.241944" Speed="266" Altitude="15000" />
-      <FlightPlan Departure="YCFS" Destination="YSSY" Alternative="" Active="true" Equipment="SDFGHRZ/LB1" Rules="I" CruiseSpeed="266" ETD="0000" ATD="0000" RFL="240" EETHours="0" EETMins="55" FuelHours="1" FuelMins="45" Remarks="STS/HOSP PBN/O2S1 NAV/RNP2 DOF/240101 REG/VHFDS OPR/RFDS PER/C /V/">DCT CFS V668 OLTIN W786 MEPIL MEPIL3/16L</FlightPlan>
+      <FlightPlan Departure="YCFS" Destination="YSSY" Alternative="" Active="true" Equipment="SDFGHRZ/LB1" Rules="I" CruiseSpeed="266" ETD="0000" ATD="0000" RFL="240" EETHours="0" EETMins="55" FuelHours="1" FuelMins="45" Remarks="STS/HOSP PBN/O2S1 NAV/RNP2 DOF/240101 REG/VHFDS OPR/RFDS PER/C /V/">DCT CFS W656 OLTIN W786 MEPIL MEPIL3/16L</FlightPlan>
       <Route>MONDO LOWEP YAKKA MEPIL RWY16L</Route>
     </Aircraft>
 	<Aircraft Callsign="RXA6674" Type="SF34" Delay="0" StartAuto="false">
