@@ -527,14 +527,14 @@
             <Squawk Code="5234" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-34.04194444" Longitude="151.34583333" Speed="200" Altitude="2000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
             <Route>JAKLN ENDEV RWY34R YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="VOZ982" Type="B738" Delay="0">
             <Squawk Code="1235" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-33.51472222" Longitude="151.09805556" Speed="200" Altitude="2000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
             <Route>BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34R YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="QFA553" Type="B738" Delay="0">
@@ -548,35 +548,35 @@
             <Squawk Code="5373" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-33.33000000" Longitude="151.06222222" Speed="200" Altitude="2000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
             <Route>VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34 YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="VOZ954" Type="B738" Delay="0">
             <Squawk Code="5623" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-32.98055556" Longitude="150.99833333" Speed="200" Altitude="2000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
             <Route>BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34R YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="VOZ958" Type="B738" Delay="0">
             <Squawk Code="1442" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-33.16611111" Longitude="151.03138889" Speed="200" Altitude="2000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
             <Route>BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34R YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="QFA505" Type="B738" Delay="0">
             <Squawk Code="5423" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-33.76611111" Longitude="151.21361111" Speed="200" Altitude="2000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
             <Route>MAJAR DIPPA JAKLN ENDEV RWY34R YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="JTE7404" Type="B463" Delay="0">
             <Squawk Code="4244" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-33.91333333" Longitude="151.31250000" Speed="200" Altitude="2000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
             <Route>DIPPA JAKLN ENDEV RWY34R YSSY</Route>
           </Aircraft>
         </Targets>
@@ -766,14 +766,14 @@
             <Squawk Code="5234" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-34.04194444" Longitude="151.34583333" Speed="200" Altitude="2000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
             <Route>JAKLN ENDEV RWY34R YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="VOZ982" Type="B738" Delay="0">
             <Squawk Code="1235" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-33.51472222" Longitude="151.09805556" Speed="200" Altitude="2000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
             <Route>BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34R YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="QFA553" Type="B738" Delay="0">
@@ -787,35 +787,35 @@
             <Squawk Code="5373" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-33.33000000" Longitude="151.06222222" Speed="200" Altitude="2000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
             <Route>VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34 YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="VOZ954" Type="B738" Delay="0">
             <Squawk Code="5623" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-32.98055556" Longitude="150.99833333" Speed="200" Altitude="2000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
             <Route>BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34R YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="VOZ958" Type="B738" Delay="0">
             <Squawk Code="1442" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-33.16611111" Longitude="151.03138889" Speed="200" Altitude="2000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
             <Route>BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34R YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="QFA505" Type="B738" Delay="0">
             <Squawk Code="5423" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-33.76611111" Longitude="151.21361111" Speed="200" Altitude="2000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
             <Route>MAJAR DIPPA JAKLN ENDEV RWY34R YSSY</Route>
           </Aircraft>
           <Aircraft Callsign="JTE7404" Type="B463" Delay="0">
             <Squawk Code="4244" ModeC="true" />
             <Cleared Approach="true" />
             <Position Latitude="-33.91333333" Longitude="151.31250000" Speed="200" Altitude="2000" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
             <Route>DIPPA JAKLN ENDEV RWY34R YSSY</Route>
           </Aircraft>
       </Targets>
@@ -904,7 +904,7 @@
         <Aircraft Callsign="JST813" Type="A320" Delay="0">
           <Squawk Code="2000" ModeC="false" />
           <Position Latitude="-27.388081" Longitude="153.120088" Speed="0" Altitude="20" />
-          <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG H91 IGDAM H12 BOREE</FlightPlan>
+          <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG H91 IGDAM H652 BOREE</FlightPlan>
           <Route>SANEG IGDAM BOREE TESAT</Route>
         </Aircraft>
         <Aircraft Callsign="QJE1792" Type="B712" Delay="0">
@@ -940,7 +940,7 @@
         <Aircraft Callsign="QFA511" Type="B738" Delay="0">
           <Squawk Code="2000" ModeC="false" />
           <Position Latitude="-27.384301" Longitude="153.121490" Speed="0" Altitude="20" />
-          <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SANEG H91 IGDAM H12 BOREE DCT</FlightPlan>
+          <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SANEG H91 IGDAM H652 BOREE DCT</FlightPlan>
           <Route>SANEG IGDAM BOREE TESAT</Route>
         </Aircraft>
         <Aircraft Callsign="VOZ1115" Type="B738" Delay="0">
@@ -1169,7 +1169,7 @@
         <Aircraft Callsign="QFA509" Type="B738" Delay="0">
           <Squawk Code="2000" ModeC="false" />
           <Position Latitude="-27.384301" Longitude="153.121490" Speed="0" Altitude="20" />
-          <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SANEG H91 IGDAM H12 BOREE DCT</FlightPlan>
+          <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SANEG H91 IGDAM H652 BOREE DCT</FlightPlan>
           <Route>SANEG IGDAM BOREE TESAT</Route>
         </Aircraft>
         <Aircraft Callsign="VOZ1113" Type="B738" Delay="0">
@@ -2099,7 +2099,7 @@
               <Squawk Code="2201" ModeC="true" />
               <Position Latitude="-27.374982" Longitude="153.134136" Speed="1" Altitude="20" />
               <Cleared Level="6000" />
-              <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="1" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="40000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG2/19L SANEG H91 IGDAM H12 BOREE DCT</FlightPlan>
+              <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="1" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="40000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG2/19L SANEG H91 IGDAM H652 BOREE DCT</FlightPlan>
               <Route>SANEG HUUGO APAGI</Route>
               <TimedMessages>
                 <TimedMessage Time="1910" Message="Takeoff" />
@@ -2131,7 +2131,7 @@
               <Squawk Code="2206" ModeC="true" />
               <Position Latitude="-27.374982" Longitude="153.134136" Speed="1" Altitude="20" />
               <Cleared Level="6000" />
-              <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG2/19L SANEG H91 IGDAM H12 SADLO/N0380F230 H12 BOREE DCT</FlightPlan>
+              <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG2/19L SANEG H91 IGDAM H652 BOREE DCT</FlightPlan>
               <Route>SANEG HUUGO APAGI</Route>
               <TimedMessages>
                 <TimedMessage Time="1670" Message="Takeoff" />
@@ -2161,7 +2161,7 @@
               <Squawk Code="2211" ModeC="true" />
               <Position Latitude="-27.374982" Longitude="153.134136" Speed="1" Altitude="20" />
               <Cleared Level="6000" />
-              <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="1" CruiseSpeed="457" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG2/19L SANEG H91 IGDAM H12 BOREE DCT</FlightPlan>
+              <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="1" CruiseSpeed="457" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG2/19L SANEG H91 IGDAM H652 BOREE DCT</FlightPlan>
               <Route>SANEG HUUGO APAGI</Route>
               <TimedMessages>
                 <TimedMessage Time="590" Message="Takeoff" />
@@ -3070,14 +3070,14 @@
           <Squawk Code="3265" ModeC="true" />
           <Cleared Level="10000" />
           <Position Latitude="-32.536238" Longitude="150.9128" Speed="435" Altitude="20000" />
-          <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="10000" EETHours="01" EETMins="15" FuelHours="0" FuelMins="0" Remarks="REG/VHQFA PER/B     /v/">DCT SANEG H91 IGDAM H12 BOREE BORE4A/34R</FlightPlan>
+          <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="10000" EETHours="01" EETMins="15" FuelHours="0" FuelMins="0" Remarks="REG/VHQFA PER/B     /v/">DCT SANEG H91 IGDAM H652 BOREE BORE4A/34R</FlightPlan>
           <Route>BOREE RWY34R</Route>
         </Aircraft>
         <Aircraft Callsign="GR516" Type="B738" Delay="0">
           <Squawk Code="3177" ModeC="true" />
           <Cleared Level="10000" />
           <Position Latitude="-32.969718" Longitude="150.99906099999998" Speed="435" Altitude="18000" />
-          <FlightPlan Active="true" Departure="YCFS" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="10000" EETHours="01" EETMins="18" FuelHours="0" FuelMins="0" Remarks="REG/VHCFS PER/C     /v/">CFS J70 IGDAM H12 BOREE BORE4A/34R</FlightPlan>
+          <FlightPlan Active="true" Departure="YCFS" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="10000" EETHours="01" EETMins="18" FuelHours="0" FuelMins="0" Remarks="REG/VHCFS PER/C     /v/">CFS J70 IGDAM H652 BOREE BORE4A/34R</FlightPlan>
           <Route>BOREE BEROW OVILS MAJAR DIPPA JAKLN</Route>
         </Aircraft>
         <Aircraft Callsign="EVY701" Type="B737" Delay="0">
@@ -3251,14 +3251,14 @@
           <Squawk Code="3265" ModeC="true" />
           <Cleared Level="10000" />
           <Position Latitude="-32.64138889" Longitude="150.93694444" Speed="435" Altitude="20000" />
-          <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="10000" EETHours="01" EETMins="15" FuelHours="0" FuelMins="0" Remarks="REG/VHQFA PER/B     /v/">DCT SANEG H91 IGDAM H12 BOREE BORE4A/34R</FlightPlan>
+          <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="10000" EETHours="01" EETMins="15" FuelHours="0" FuelMins="0" Remarks="REG/VHQFA PER/B     /v/">DCT SANEG H91 IGDAM H652 BOREE BORE4A/34R</FlightPlan>
           <Route>BOREE RWY34R</Route>
         </Aircraft>
         <Aircraft Callsign="VOZ1549" Type="B738" Delay="0">
           <Squawk Code="3177" ModeC="true" />
           <Cleared Level="10000" />
           <Position Latitude="-32.969718" Longitude="150.99906099999998" Speed="435" Altitude="18000" />
-          <FlightPlan Active="true" Departure="YCFS" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="10000" EETHours="01" EETMins="18" FuelHours="0" FuelMins="0" Remarks="REG/VHCFS PER/C     /v/">CFS J70 IGDAM H12 BOREE BORE4A/34R</FlightPlan>
+          <FlightPlan Active="true" Departure="YCFS" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="10000" EETHours="01" EETMins="18" FuelHours="0" FuelMins="0" Remarks="REG/VHCFS PER/C     /v/">CFS J70 IGDAM H652 BOREE BORE4A/34R</FlightPlan>
           <Route>BOREE RWY34R</Route>
         </Aircraft>
         <Aircraft Callsign="EVY701" Type="B737" Delay="0">
@@ -5495,21 +5495,21 @@
             <Squawk Code="1066" ModeC="true" />
             <Cleared Level="18000" />
             <Position Latitude="-27.374708" Longitude="153.134358" Speed="1" Altitude="15" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="YWLM" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="36000" EETHours="0" EETMins="55" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/REX   /v/">SANEG2/19L SANEG H91 IGDAM H12 BOREE DCT</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="YWLM" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="36000" EETHours="0" EETMins="55" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/REX   /v/">SANEG2/19L SANEG H91 IGDAM H652 BOREE DCT</FlightPlan>
             <Route>SANEG HUUGO APAGI TESSI ADMAR SANAD MESIM IGDAM BOREE TESAT</Route>
           </Aircraft>
           <Aircraft Callsign="VOZ958" Type="B38M" Delay="1000" StartAuto="true">
             <Squawk Code="1067" ModeC="true" />
             <Cleared Level="18000" />
             <Position Latitude="-27.374708" Longitude="153.134358" Speed="1" Altitude="15" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="YWLM" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="34000" EETHours="0" EETMins="55" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/VELOCITY   /v/">SANEG2/19L SANEG H91 IGDAM H12 BOREE DCT</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="YWLM" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="34000" EETHours="0" EETMins="55" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/VELOCITY   /v/">SANEG2/19L SANEG H91 IGDAM H652 BOREE DCT</FlightPlan>
             <Route>SANEG HUUGO APAGI TESSI ADMAR SANAD MESIM IGDAM BOREE TESAT</Route>
           </Aircraft>
             <Aircraft Callsign="VOZ962" Type="B737" Delay="1200" StartAuto="true">
             <Squawk Code="1070" ModeC="true" />
             <Cleared Level="18000" />
             <Position Latitude="-27.374708" Longitude="153.134358" Speed="1" Altitude="15" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="YWLM" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="36000" EETHours="0" EETMins="55" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/VELOCITY   /v/">SANEG2/19L SANEG H91 IGDAM H12 BOREE DCT</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="YWLM" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="36000" EETHours="0" EETMins="55" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/VELOCITY   /v/">SANEG2/19L SANEG H91 IGDAM H652 BOREE DCT</FlightPlan>
             <Route>SANEG HUUGO APAGI TESSI ADMAR SANAD MESIM IGDAM BOREE TESAT</Route>
           </Aircraft>
           <Aircraft Callsign="JST930" Type="A320" Delay="1400" StartAuto="true">
@@ -5523,7 +5523,7 @@
             <Squawk Code="1071" ModeC="true" />
             <Cleared Level="18000" />
             <Position Latitude="-27.374708" Longitude="153.134358" Speed="1" Altitude="15" />
-            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="YWLM" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="34000" EETHours="0" EETMins="55" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/QANTAS   /v/">SANEG2/19L SANEG H91 IGDAM H12 BOREE DCT</FlightPlan>
+            <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="YWLM" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="34000" EETHours="0" EETMins="55" FuelHours="0" FuelMins="0" Remarks="CALLSIGN/QANTAS   /v/">SANEG2/19L SANEG H91 IGDAM H652 BOREE DCT</FlightPlan>
             <Route>SANEG HUUGO APAGI TESSI ADMAR SANAD MESIM IGDAM BOREE TESAT</Route>
           </Aircraft>
         </Targets>
@@ -6247,14 +6247,14 @@ Have fun :)</InstructorNotes>
       <Squawk Code="5234" ModeC="true" />
       <Cleared Approach="true" />
       <Position Latitude="-34.04194444" Longitude="151.34583333" Speed="200" Altitude="2000" />
-      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
       <Route>JAKLN ENDEV RWY34R YSSY</Route>
     </Aircraft>
     <Aircraft Callsign="VOZ982" Type="B738" Delay="0" StartAuto="false">
       <Squawk Code="1235" ModeC="true" />
       <Cleared Approach="true" />
       <Position Latitude="-33.51472222" Longitude="151.09805556" Speed="200" Altitude="2000" />
-      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
       <Route>BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34R YSSY</Route>
     </Aircraft>
     <Aircraft Callsign="QFA550" Type="B738" Delay="0" StartAuto="false">
@@ -6268,35 +6268,35 @@ Have fun :)</InstructorNotes>
       <Squawk Code="5373" ModeC="true" />
       <Cleared Approach="true" />
       <Position Latitude="-33.33" Longitude="151.06222222" Speed="200" Altitude="2000" />
-      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
       <Route>VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34 YSSY</Route>
     </Aircraft>
     <Aircraft Callsign="VOZ954" Type="B738" Delay="0" StartAuto="false">
       <Squawk Code="5623" ModeC="true" />
       <Cleared Approach="true" />
       <Position Latitude="-32.98055556" Longitude="150.99833333" Speed="200" Altitude="2000" />
-      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
       <Route>BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34R YSSY</Route>
     </Aircraft>
     <Aircraft Callsign="VOZ958" Type="B738" Delay="0" StartAuto="false">
       <Squawk Code="1442" ModeC="true" />
       <Cleared Approach="true" />
       <Position Latitude="-33.16611111" Longitude="151.03138889" Speed="200" Altitude="2000" />
-      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
       <Route>BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34R YSSY</Route>
     </Aircraft>
     <Aircraft Callsign="QFA510" Type="B738" Delay="0" StartAuto="false">
       <Squawk Code="5423" ModeC="true" />
       <Cleared Approach="true" />
       <Position Latitude="-33.76611111" Longitude="151.21361111" Speed="200" Altitude="2000" />
-      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
       <Route>MAJAR DIPPA JAKLN ENDEV RWY34R YSSY</Route>
     </Aircraft>
     <Aircraft Callsign="JTE7404" Type="B463" Delay="0" StartAuto="false">
       <Squawk Code="4244" ModeC="true" />
       <Cleared Approach="true" />
       <Position Latitude="-33.91333333" Longitude="151.3125" Speed="200" Altitude="2000" />
-      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H12 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
       <Route>DIPPA JAKLN ENDEV RWY34R YSSY</Route>
     </Aircraft>
     <Aircraft Callsign="JIO" Type="P28A" Delay="0" StartAuto="false">
