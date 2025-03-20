@@ -890,14 +890,14 @@
           <Squawk Code="1015" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-28.56027778" Longitude="153.43694444" Speed="250" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YCFS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CFS W192 GOMOL GOMO3A/19L</FlightPlan>
+          <FlightPlan Active="true" Departure="YCFS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CFS W192 GOMOL GOMO4A/19L</FlightPlan>
           <Route>GOMOL RWY19L</Route>
         </Aircraft>
         <Aircraft Callsign="QTR900" Type="B77W" Delay="0" StartAuto="true">
           <Squawk Code="1017" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-28.76388889" Longitude="153.29750000" Speed="250" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL GOMO3A/19L</FlightPlan>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL GOMO4A/19L</FlightPlan>
           <Route>GOMOL RWY19L</Route>
         </Aircraft>
 
@@ -1105,14 +1105,14 @@
           <Squawk Code="1013" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-28.34055556" Longitude="153.44361111" Speed="250" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL GOMO3A/19L</FlightPlan>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL GOMO4A/19L</FlightPlan>
           <Route>GOMOL RWY19L</Route>
         </Aircraft>
         <Aircraft Callsign="FD427" Type="B350" Delay="0" StartAuto="true">
           <Squawk Code="1015" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-28.56027778" Longitude="153.43694444" Speed="250" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YCFS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CFS W192 GOMOL GOMO3A/19L</FlightPlan>
+          <FlightPlan Active="true" Departure="YCFS" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CFS W192 GOMOL GOMO4A/19L</FlightPlan>
           <Route>GOMOL RWY19L</Route>
         </Aircraft>
         <Aircraft Callsign="TFX902" Type="B733" Delay="0" StartAuto="true">
@@ -1126,14 +1126,14 @@
           <Squawk Code="1017" ModeC="true" />
           <Cleared Approach="true" />
           <Position Latitude="-28.76388889" Longitude="153.29750000" Speed="250" Altitude="3000" />
-          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL GOMO3A/19L</FlightPlan>
+          <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="I" CruiseSpeed="428" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL GOMO4A/19L</FlightPlan>
           <Route>GOMOL RWY19L</Route>
         </Aircraft>
 
         <Aircraft Callsign="JST811" Type="A320" Delay="0">
           <Squawk Code="2000" ModeC="false" />
           <Position Latitude="-27.388081" Longitude="153.120088" Speed="0" Altitude="20" />
-          <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN H91 SANAD W786 TESAT DCT</FlightPlan>
+          <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="false" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN H91 IGDAM H652 TESAT DCT</FlightPlan>
           <Route>SANEG IGDAM BOREE TESAT</Route>
         </Aircraft>
         <Aircraft Callsign="QJE1790" Type="B712" Delay="0">
@@ -2234,14 +2234,14 @@
               <Squawk Code="4116" ModeC="true" />
               <Position Latitude="-29.3" Longitude="152.62" Speed="450" Altitude="41000" />
               <Cleared Level="3000" />
-              <FlightPlan Active="true" Departure="YSCB" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="41000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AVBEG W184 MUDGI H66 BLAKA BLAK5A/19L</FlightPlan>
+              <FlightPlan Active="true" Departure="YSCB" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="41000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AVBEG W184 MUDGI H66 BLAKA BLAK6A/19L</FlightPlan>
               <Route>WHITI IDNER BLAKA RWY19L</Route>
             </Aircraft>
             <Aircraft Callsign="RXA258" Type="B738" Delay="480" StartAuto="true">
               <Squawk Code="4117" ModeC="true" />
               <Position Latitude="-29.8" Longitude="152.12" Speed="450" Altitude="37000" />
               <Cleared Level="3000" />
-              <FlightPlan Active="true" Departure="YMML" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT NONIX H66 BLAKA BLAK5A/19L</FlightPlan>
+              <FlightPlan Active="true" Departure="YMML" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT NONIX H66 BLAKA BLAK6A/19L</FlightPlan>
               <Route>WHITI IDNER BLAKA RWY19L</Route>          
             </Aircraft>
             <Aircraft Callsign="QLK2405" Type="DH8C" Delay="0">
@@ -2297,14 +2297,14 @@
               <Squawk Code="4101" ModeC="true" />
               <Position Latitude="-28.16" Longitude="153.5" Speed="400" Altitude="21000" />
               <Cleared Level="3000" />
-              <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL GOMO3A/19L</FlightPlan>
+              <FlightPlan Active="true" Departure="YSSY" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA H252 GOMOL GOMO4A/19L</FlightPlan>
               <Route>MEKUG SALEL SALGA ISPON OMGUV BETSO RWY19L</Route>          
             </Aircraft>
             <Aircraft Callsign="VOZ705" Type="B738" Delay="180" StartAuto="true">
               <Squawk Code="4103" ModeC="true" />
               <Position Latitude="-28.2" Longitude="153.22" Speed="400" Altitude="21000" />
               <Cleared Level="3000" />
-              <FlightPlan Active="true" Departure="YMHB" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT LATUM H111 LT W218 VIMAP/N0454F370 Y327 MAKRL/N0454F380 J163 CB W137 AVBEG W184 MUDGI/N0455F390 H66 BLAKA BLAK5A/19L</FlightPlan>
+              <FlightPlan Active="true" Departure="YMHB" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT LATUM H111 LT W218 VIMAP/N0454F370 Y327 MAKRL/N0454F380 J163 CB W137 AVBEG W184 MUDGI/N0455F390 H66 BLAKA BLAK6A/19L</FlightPlan>
               <Route>DOGMU LAGEV PUBIV ISPON OMGUV BETSO RWY19L</Route>
             </Aircraft>
             <Aircraft Callsign="QFA1930" Type="E190" Delay="300" StartAuto="true">
@@ -2318,7 +2318,7 @@
               <Squawk Code="4107" ModeC="true" />
               <Position Latitude="-29.06" Longitude="153.06" Speed="340" Altitude="24000" />
               <Cleared Level="3000" />
-              <FlightPlan Active="true" Departure="YCFS" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="340" ETD="0000" ATD="0000" RFL="24000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CFS W214 GOMOL GOMO3A/19L</FlightPlan>
+              <FlightPlan Active="true" Departure="YCFS" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="340" ETD="0000" ATD="0000" RFL="24000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CFS W214 GOMOL GOMO4A/19L</FlightPlan>
               <Route>GOMOL RWY19L</Route>
             </Aircraft>
             <Aircraft Callsign="JST7803" Type="A321" Delay="540" StartAuto="true">
@@ -2332,7 +2332,7 @@
               <Squawk Code="4114" ModeC="true" />
               <Position Latitude="-29.18" Longitude="152.75" Speed="540" Altitude="39000" />
               <Cleared Level="3000" />
-              <FlightPlan Active="true" Departure="YMML" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT NONIX H66 BLAKA BLAK5A/19L</FlightPlan>
+              <FlightPlan Active="true" Departure="YMML" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT NONIX H66 BLAKA BLAK6A/19L</FlightPlan>
               <Route>IDNER BLAKA RWY19L</Route>
             </Aircraft>
         </Targets>
@@ -4216,8 +4216,8 @@
 	  <Squawk Code="4426" ModeC="true" />
 	  <Cleared Level="36000" Approach="false" />
 	  <Position Latitude="-37.155278" Longitude="144.326111" Speed="350" Altitude="16000" />
-	  <FlightPlan Active="true" Departure="YMML" Destination="WSSS" Alternative="" Equipment="SDE1E2E3FGHIJ3J5M1RWXYZ/LB1D1" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="36000" EETHours="08" EETMins="20" FuelHours="9" FuelMins="50" Remarks="PBN/A1B1C1D1L1O1S2 NAV/RNP2 DAT/CPDLCX 1FANS DOF/240101 REG/9VSFO EET/YBBB0246 WAAF0448 WIIF0613 WSJC0651 RALT/YPAD YPPH WADD SEL/AJBE CODE/76CCCF OPR/SIA PER/D RMK/CARGO FLIGHT ACASII EQUIPPED TCAS /V/">DCT KEPPA Q168 KABEK DCT QUORN DCT VIRUV DCT ARENI DCT AYE DCT SCHEE DCT LIBTU T29 CIN A576 ATMAP M635 BLI M635 SURGA T23 UGEBO</FlightPlan>
-	  <Route>KEPPA OPORI BOLAM KABEK QUORN VIRUV ARENI AYE</Route>
+	  <FlightPlan Active="true" Departure="YMML" Destination="WSSS" Alternative="" Equipment="SDE1E2E3FGHIJ3J5M1RWXYZ/LB1D1" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="36000" EETHours="08" EETMins="20" FuelHours="9" FuelMins="50" Remarks="PBN/A1B1C1D1L1O1S2 NAV/RNP2 DAT/CPDLCX 1FANS DOF/240101 REG/9VSFO EET/YBBB0246 WAAF0448 WIIF0613 WSJC0651 RALT/YPAD YPPH WADD SEL/AJBE CODE/76CCCF OPR/SIA PER/D RMK/CARGO FLIGHT ACASII EQUIPPED TCAS /V/">DCT KEPPA Q168 KABEK DCT LIBNI DCT VIRUV DCT ARENI DCT AYE DCT SCHEE DCT LIBTU T29 CIN A576 ATMAP M635 BLI M635 SURGA T23 UGEBO</FlightPlan>
+	  <Route>KEPPA OPORI BOLAM KABEK LIBNI VIRUV ARENI AYE</Route>
 	  <TimedMessages>
       <TimedMessage Time="1" Message="Climb now to F360 (Level Change mode)" />
       <TimedMessage Time="1120" Message="Handoff" />
