@@ -2685,7 +2685,7 @@
         **HANDOVER**
         - **Runway**: 16A27D. Expect Instrument Approach.
         - **Airspace**:
-          - ML ADC, ELW, YWE Online.
+          - ML ADC, BLA, MUN Online.
           - MB, EN, AV ADCs Offline.
           - No top-down service.  
         - **Weather**: Information N. Cloud BKN040. QNH 1013.
@@ -3430,8 +3430,8 @@
 	- 16 PROPS
 	- Expect Independent Visual Approach.
 - **Airspace**:
-	- ARL and BIK online
-	- We've Coordinated to BIK to allow 16L arrivals to be assigned the ODALE STAR strategically
+	- ARL, GUN and WOL online
+	- We've Coordinated to GUN to allow 16L arrivals to be assigned the ODALE STAR strategically
 	- Other SY TCU controller online, controlling airspace as discussed
 	- SY ADC online
 	- BK, CN, RIC ADC all offline
@@ -4024,7 +4024,7 @@
 	- 05 at YPAD
 	- Expect Visual Approach.
 - **Airspace**:
-	- AD APP, ASP, YWE Online
+	- AD APP, ASP, MUN Online
 - **Weather**:
 	- Benign
 	- QNH 1013
@@ -5077,7 +5077,7 @@
 
         **SIA221** naturally estimates RIVET at similar time to **QFA501**.  If track shortening is given to SIA221, vertical separation assurance may be required with YMA03. Student should assume SIA221 at scenario start (even though they are slightly outside jurisdiction).  
 
-        **AM231** (departure from YSDU) should be departed early for best effect.  Student is expected to issue STAR clearance (but no runway assignment) with airways clearance after departure report (see YWE SOPs page).  Once aircraft is established in the sequence, runway assignment should be given (see BIK SOPs page).  
+        **AM231** (departure from YSDU) should be departed early for best effect.  Student is expected to issue STAR clearance (but no runway assignment) with airways clearance after departure report (see MUN SOPs page).  Once aircraft is established in the sequence, runway assignment should be given (see gun SOPs page).  
 
         **QFA501** and **JST795** have built-in conflict, requiring speed control, track shortening to QFA501, or vectors. Can also be used to demonstrate a hold.  
 
@@ -5355,7 +5355,7 @@
             <FlightPlan Active="true" Departure="YAMB" Destination="YMES" Alternative="" Rules="I" CruiseSpeed="300" ETD="0000" ATD="0000" RFL="19000" EETHours="11" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/"> BORLI BULLA YMES</FlightPlan>
             <Route>BORLI BULLA YMES</Route> 
             <TimedMessages>
-              <TimedMessage Time="60" Message="Coord YWE to ELW: 'Two for you. To the north, ASY10. And via ML, QFA64'" />
+              <TimedMessage Time="60" Message="Coord MUN to BLA: 'Two for you. To the north, ASY10. And via ML, QFA64'" />
             </TimedMessages>
           </Aircraft>
         </Targets>
