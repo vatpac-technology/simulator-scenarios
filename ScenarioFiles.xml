@@ -4476,13 +4476,13 @@
     <ScenarioFile>
       <Name>Enroute ARL</Name>
       <Type>Enroute</Type>
-      <StudentBriefing>You are operating Armidale.  
+      <StudentBriefing>You are operating ARL.  
 
-      Sydney is running 34L and R.
+      YSSY is running 34 PROPS.
 
-      Sydney Approach, Bindook, Yarrowee, Burke, Isa, Tasman and Inverell are all online.
+      All neighbouring Enroute sectors, as well as SY APP, are online.
 
-      Tamworth Tower and Coffs Tower are offline.
+      TW ADC, CFS ADC, and WLM APP are offline.
 
       There is no significant weather within your airspace.</StudentBriefing>
       <InstructorNotes> There are some inbuilt conflict/sequencing issues for the student to resolve. 
@@ -4503,8 +4503,7 @@
       **VOZ928**, FL360, No STAR Assigned.
       **QFA840**, yet to make contact 
       **EWI**, A100, control services are terminated, no reported IFR traffic.
-      
-      Updated: 10/12/23 (Fixed 2312 Changes)</InstructorNotes>
+      </InstructorNotes>
       <Targets>
           <Aircraft Callsign="ASY1091" Type="C17" Delay="0">
               <Squawk Code="2000" ModeC="true" />
@@ -4834,11 +4833,11 @@
     </ScenarioFile>
 
     <ScenarioFile>
-        <Name>Enroute PIY</Name>
+        <Name>Enroute HYD</Name>
         <Type>Enroute</Type>
-        <StudentBriefing>You are operating PIY. Perth is running 03 and 06 for Arrivals and Departures. Instrument Approaches are in use at all locations.
+        <StudentBriefing>You are operating HYD. YPPH is running 03 and 06 for Arrivals and Departures. Instrument Approaches are in use at all locations.
         
-        Onslow, Indian, Alice Springs and Perth Approach are all online.</StudentBriefing>
+        OLW, IND, ASP and PH APP are all online.</StudentBriefing>
         <InstructorNotes>Coordinate with the student for all aircraft in their airspace.
         
         All departures from Perth are Automatic.
@@ -5061,16 +5060,20 @@
       </ScenarioFile>
 
     <ScenarioFile>
-        <Name>Enroute BIK</Name>
+        <Name>Enroute GUN</Name>
         <Type>Enroute</Type>
-        <StudentBriefing>You are operating Bindook, extending Yarrowee.  Eildon Weir has released the Canberra TMA to you.    
+        <StudentBriefing>You are operating GUN. WOL has released the CB TCU to you.    
 
-        Sydney is running Runways 34 Left and Right.  Canberra is running Runway 35.  Instrument approaches are in use at all locations.  
+        YSSY is running 34 PROPS. YSCB is using Runway 35 only. Instrument approaches are in use at all locations.  
 
-        Sydney Approach, Canberra Tower, Eildon Weir, and Armidale are online.    
+        SY APP and CB ADC are online
+        
+        All surrounding Enroute sectors are online.    
 
         There is no significant weather within your airspace.</StudentBriefing>
-        <InstructorNotes>Due to their positions, **YMA03** and **RXA32** should be handed off to student when session begins.  
+        <InstructorNotes>This is an Entry level Enroute sequencing scenario.
+        
+        Due to their positions, **YMA03** and **RXA32** should be handed off to student when session begins.  
 
         **SIA221** naturally estimates RIVET at similar time to **QFA501**.  If track shortening is given to SIA221, vertical separation assurance may be required with YMA03. Student should assume SIA221 at scenario start (even though they are slightly outside jurisdiction).  
 
@@ -5085,7 +5088,7 @@
             <Position Latitude="-35.438611" Longitude="148.286111" Speed="390" Altitude="37000" />
             <Cleared Level="37000" />
             <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="470" ETD="0000" ATD="0000" RFL="37000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 TESAT DCT</FlightPlan>
-            <Route>TARAL RIVET TESAT</Route>
+            <Route>CULIN TARAL RIVET TESAT</Route>
           </Aircraft>
           <Aircraft Callsign="SIA221" Type="A332" Delay="0">
             <Squawk Code="4157" ModeC="true" />
@@ -5104,7 +5107,7 @@
             <Squawk Code="4121" ModeC="true" />
             <Position Latitude="-34.28694" Longitude="151.096398" Speed="340" Altitude="20000" />
             <Cleared Level="20000" />
-            <FlightPlan Active="true" Departure="YSSY" Destination="YSCB" Alternative="" Rules="I" CruiseSpeed="0" ETD="0000" ATD="0000" RFL="20000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHVHF PER/C OPR/VOZ VIRTUAL NAV/RNP10 GPSRNAV RMK/TCAS EQUIPPED /v/">DCT TESAT H65 CB DCT</FlightPlan>
+            <FlightPlan Active="true" Departure="YSSY" Destination="YSCB" Alternative="" Rules="I" CruiseSpeed="0" ETD="0000" ATD="0000" RFL="13000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="REG/VHVHF PER/C OPR/VOZ VIRTUAL NAV/RNP10 GPSRNAV RMK/TCAS EQUIPPED /v/">DCT TESAT H65 LEECE LECE1A/35</FlightPlan>
             <Route>WOL LEECE</Route>
           </Aircraft>
           <Aircraft Callsign="YMA03" Type="B738" Delay="0">
@@ -5124,7 +5127,7 @@
           <Aircraft Callsign="RXA32" Type="B738" Delay="0">
             <Squawk Code="3177" ModeC="true" />
             <Position Latitude="-34.391667" Longitude="150.959722" Speed="370" Altitude="24500" />
-            <Cleared Level="28000" />
+            <Cleared Level="38000" />
             <FlightPlan Active="true" Departure="YSSY" Destination="YMML" Alternative="" Rules="I" CruiseSpeed="440" ETD="0000" ATD="0000" RFL="38000" EETHours="01" EETMins="18" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H65 LEECE Q29 ML DCT</FlightPlan>
             <Route>LEECE TANTA RUMIE NABBA BULLA LIZZI</Route>
           </Aircraft>
@@ -5165,7 +5168,7 @@
     </ScenarioFile>
 
     <ScenarioFile>
-        <Name>Enroute ELW</Name>
+        <Name>Enroute BLA</Name>
         <Type>Enroute</Type>
         <UseGRIB xsi:nil="true" />
         <StudentBriefing>
@@ -5181,7 +5184,7 @@
               - Information N at YMML. QNH 1013
               - Information A at YSCB. QNH 1013
             - **Frequencies**:
-              - 123.75 only
+              - 132.2 only
             - **Traffic**:
               - No one in our airspace at the moment
               - Multiple aircraft for YMML shortly calling from YSSY. No separation issues, however sequencing will be required
@@ -5539,6 +5542,7 @@
     - **Airspace**:
       - All Surrounding Enroute sectors online
       - AS ADC Offline
+      - WR ADC Offline
     - **Weather**:
       - Benign
       - Area QNH 1013
