@@ -6050,8 +6050,9 @@
 </ScenarioFile>
 
 <ScenarioFile>
-  <Name>Tower Sydney 34L and R Milkrun Edition (S2)</Name>
+  <Name>Tower Sydney 34L and R (S2)</Name>
   <Type>Tower</Type>
+  <UseGRIB xsi:nil="true" />
   <StudentBriefing>
           You are operating Sydney Tower. Ground and Delivery are online.    
 
@@ -6060,6 +6061,8 @@
           Sydney Approach is online.
         </StudentBriefing>
   <InstructorNotes>All arrivals are cleared the approach and will land automatically.
+
+HSZ is a Helicopter Departure via Harbour Bridge 5. Tower should give the clearance and take-off. Both prompts are auto timed.
 
 All departures 34L are ready on Alpha.
 
@@ -6072,8 +6075,6 @@ QLK227D is an intersection departure from B10 for 34L
 QFA464 is too close to TGG264 and conflicts. Student will need to identify this and either slow down QFA464 or issue a go around.
 
 To add to the fun, JIO is for circuits RWY 34R. Student will need to coordinate release of airspace for circuits, and subsequently separate JIO from arriving traffic (visual sep.) Heads up call must be given, as well as a 'clearance' and taxi, as the aircraft will spawn at the bays.
-
-For even more fun, VCY is currently conducting and cleared circuits for 34R. If you do not want this, then delete at the start of the scenario.
 
 Have fun :)</InstructorNotes>
   <Targets>
@@ -6302,22 +6303,22 @@ Have fun :)</InstructorNotes>
       <Route>DIPPA JAKLN ENDEV RWY34R YSSY</Route>
     </Aircraft>
     <Aircraft Callsign="JIO" Type="P28A" Delay="0" StartAuto="false">
-      <Squawk Code="2365" ModeC="false" />
+      <Squawk Code="2365" ModeC="true" />
       <Cleared Level="1500" Approach="false" />
       <Position Latitude="-33.93404853073135" Longitude="151.18805941754712" Speed="0" Altitude="0" />
-      <FlightPlan Departure="YSSY" Destination="YSSY" Alternative="YSBK" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="90" RFL="1500" EETHours="3" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">YSSY/34R YSSY CCT YSSY</FlightPlan>
+      <FlightPlan Departure="YSSY" Destination="YSSY" Alternative="YSBK" Active="true" Equipment="SFG/LB1" Rules="V" CruiseSpeed="90" RFL="1500" EETHours="3" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">YSSY/34R YSSY CCT YSSY</FlightPlan>
       <Route>CIRCUIT-RIGHT</Route>
-      <TimedMessages>
-        <TimedMessage Time="540" Message="JIO for Circuits" />
-      </TimedMessages>
+      <TimedMessages />
     </Aircraft>
-    <Aircraft Callsign="VCY" Type="C152" Delay="0" StartAuto="false">
-      <Squawk Code="7413" ModeC="true" />
-      <Position Latitude="-33.97057906835206" Longitude="151.19373168846656" Speed="0" Altitude="0" />
-      <FlightPlan Departure="YSSY" Destination="YSSY" Active="true" Equipment="SFGY/LB1" Rules="V" CruiseSpeed="90" RFL="010" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">YSSY CCT YSSY</FlightPlan>
-      <Route>CIRCUIT-RIGHT</Route>
+    <Aircraft Callsign="HSZ" Type="R44" Delay="0" StartAuto="false">
+      <Squawk Code="0536" ModeC="false" />
+      <Position Latitude="-33.93899251382057" Longitude="151.19090243553345" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YSSY" Destination="YTRE" Active="false" Rules="V" CruiseSpeed="100" RFL="010" EETHours="3" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">YSSY/07 APST ERSK REDF DHH SYHD LRF</FlightPlan>
+      <Route>APST ERSK REDF DHH SYHD LRF</Route>
+      <TimedMessages>
+        <TimedMessage Time="10" Message="Sydney Tower, HSZ, Received information ___, request clearance via Harbour Bridge 5 Outbound." />
+        <TimedMessage Time="60" Message="HSZ Ready Helipad One." />
+      </TimedMessages>
     </Aircraft>
   </Targets>
 </ScenarioFile>
-
-</ScenarioFiles>
