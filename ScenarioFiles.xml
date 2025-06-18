@@ -6050,7 +6050,7 @@
 </ScenarioFile>
 
 <ScenarioFile>
-  <Name>Tower Sydney 34L and R (S2)</Name>
+   <Name>Tower Sydney 34L and R (S2)</Name>
   <Type>Tower</Type>
   <UseGRIB xsi:nil="true" />
   <StudentBriefing>
@@ -6074,7 +6074,7 @@ QLK227D is an intersection departure from B10 for 34L
 
 QFA464 is too close to TGG264 and conflicts. Student will need to identify this and either slow down QFA464 or issue a go around.
 
-To add to the fun, JIO is for circuits RWY 34R. Student will need to coordinate release of airspace for circuits, and subsequently separate JIO from arriving traffic (visual sep.) Heads up call must be given, as well as a 'clearance' and taxi, as the aircraft will spawn at the bays.
+To add to the fun, JIO is for circuits RWY 34R. Student will need to coordinate release of airspace for circuits, and subsequently separate JIO from arriving traffic (visual sep.) He has been placed Holding point T5, and can call up ready whenever the instructor feels like it.
 
 Have fun :)</InstructorNotes>
   <Targets>
@@ -6304,8 +6304,8 @@ Have fun :)</InstructorNotes>
     </Aircraft>
     <Aircraft Callsign="JIO" Type="P28A" Delay="0" StartAuto="false">
       <Squawk Code="2365" ModeC="true" />
-      <Cleared Level="1500" Approach="false" />
-      <Position Latitude="-33.93404853073135" Longitude="151.18805941754712" Speed="0" Altitude="0" />
+      <Cleared Level="1000" Approach="false" />
+      <Position Latitude="-33.9705771304752" Longitude="151.19233438426568" Speed="0" Altitude="0" />
       <FlightPlan Departure="YSSY" Destination="YSSY" Alternative="YSBK" Active="true" Equipment="SFG/LB1" Rules="V" CruiseSpeed="90" RFL="1500" EETHours="3" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">YSSY/34R YSSY CCT YSSY</FlightPlan>
       <Route>CIRCUIT-RIGHT</Route>
       <TimedMessages />
