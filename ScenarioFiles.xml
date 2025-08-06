@@ -1343,7 +1343,7 @@
       <Aircraft Callsign="VOZ1407" Type="B738" Delay="1980" StartAuto="true">
         <Squawk Code="2000" ModeC="false" />
         <Position Latitude="-34.938591" Longitude="138.5396" Speed="0" Altitude="33" />
-        <FlightPlan Departure="YPAD" Destination="YBBN" Alternative="" Active="false" Rules="I" CruiseSpeed="432" ETD="0000" ATD="0000" RFL="39000" EETHours="2" EETMins="10" FuelHours="3" FuelMins="37" Remarks="NAV/RNP2 RTF/VELOCITY /v/">DCT UPROT Y465 ENLIP DCT </FlightPlan>
+        <FlightPlan Departure="YPAD" Destination="YBBN" Alternative="" Active="false" Rules="I" CruiseSpeed="432" ETD="0000" ATD="0000" RFL="39000" EETHours="2" EETMins="10" FuelHours="3" FuelMins="37" Remarks="NAV/RNP2 RTF/VELOCITY /v/">DCT UPROT Y27 ENLIP DCT </FlightPlan>
         <Route>COLPY</Route>
         <TimedMessages>
           <TimedMessage Time="2580" Message="Request Clearance to Brisbane (Bay 16)" />
@@ -1422,7 +1422,7 @@
         <Squawk Code="4503" ModeC="true" />
         <Cleared Approach="true" />
         <Position Latitude="-33.17666667" Longitude="138.51250000" Speed="200" Altitude="3000" />
-        <FlightPlan Departure="YBCS" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="34000" EETHours="2" EETMins="53" FuelHours="4" FuelMins="01" Remarks="NAV/RNP2 RTF/JETSTAR /v/">DCT NONUM DCT RUSSO DCT NONET DCT OOM J37 ATLIB H630 NIMEK H135 KLAVA RAYN3A/23</FlightPlan>
+        <FlightPlan Departure="YBCS" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="34000" EETHours="2" EETMins="53" FuelHours="4" FuelMins="01" Remarks="NAV/RNP2 RTF/JETSTAR /v/">DCT NONUM J64 ONARA SARIK NONET DCT OOM J37 ATLIB H630 NIMEK H135 KLAVA RAYN3A/23</FlightPlan>
         <Route>KLAVA RWY23</Route>
       </Aircraft>
     </Targets>
@@ -2276,14 +2276,14 @@
               <Squawk Code="4111" ModeC="true" />
               <Position Latitude="-28.37" Longitude="152.075" Speed="300" Altitude="25000" />
               <Cleared Level="3000" />
-              <FlightPlan Active="true" Departure="YPPH" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT MUBID J21 OLRUX DCT CDU DCT TILLI DCT SAPED DCT VAGPO DCT PASTA DCT AGETA DCT RACHL Y465 ENLIP ENLI2A/19R</FlightPlan>
+              <FlightPlan Active="true" Departure="YPPH" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AMANA Y31 LAKIR Y69 BOSLI Y67 KG J141 LEC T33 ANROM Y62 IGDIT Y27 ENLIP ENLI2A/19R</FlightPlan>
               <Route>ENLIP RWY19R</Route>
             </Aircraft>
             <Aircraft Callsign="VOZ448" Type="B738" Delay="1140" StartAuto="true">
               <Squawk Code="4134" ModeC="true" />
               <Position Latitude="-25.916" Longitude="151.666" Speed="450" Altitude="33000" />
               <Cleared Level="3000" />
-              <FlightPlan Active="true" Departure="YPDN" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PALGA DCT NERTI J138 SURVO/N0458F370 J138 NTN T13 DOLIB/N0453F390 T13 EML Y409 BESBO Y177 SMOKA SMOK1A/19R</FlightPlan>
+              <FlightPlan Active="true" Departure="YPDN" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT RUPEG Y25 OPEKO A464 UNVAT V327 IGUPI Y340 LAMUG Y177 SMOKA SMOK1A/19R</FlightPlan>
               <Route>LAMUG SMOKA RWY19R</Route>
             </Aircraft>
             <Aircraft Callsign="ANG3" Type="B763" Delay="90" StartAuto="true">
@@ -2311,7 +2311,7 @@
               <Squawk Code="4105" ModeC="true" />
               <Position Latitude="-28.22" Longitude="152.275" Speed="400" Altitude="25000" />
               <Cleared Level="3000" />
-              <FlightPlan Active="true" Departure="YPAD" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT UPROT Y465 RACHL/M078F370 Y465 ENLIP ENLI2A/19L</FlightPlan>
+              <FlightPlan Active="true" Departure="YPAD" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT UPROT Y27 GOPVO/M078F370 Y27 ENLIP ENLI2A/19L</FlightPlan>
               <Route>ENLIP RWY19L</Route>
             </Aircraft>
             <Aircraft Callsign="QLK2522" Type="DH8C" Delay="840" StartAuto="true">
@@ -2325,7 +2325,7 @@
               <Squawk Code="4112" ModeC="true" />
               <Position Latitude="-28.725" Longitude="151.71" Speed="450" Altitude="39000" />
               <Cleared Level="3000" />
-              <FlightPlan Active="true" Departure="YPAD" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT UPROT Y465 ENLIP ENLI2A/19L</FlightPlan>
+              <FlightPlan Active="true" Departure="YPAD" Destination="YBBN" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="01" EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT UPROT Y27 ENLIP ENLI2A/19L</FlightPlan>
               <Route>ENLIP RWY19L</Route>
             </Aircraft>
             <Aircraft Callsign="QFA616" Type="B738" Delay="720" StartAuto="true">
@@ -2906,7 +2906,7 @@
         <Aircraft Callsign="JST630" Type="A320" Delay="0">
           <Squawk Code="2000" ModeC="false" />
           <Position Latitude="-38.054299" Longitude="144.464859" Speed="0" Altitude="36" />
-          <FlightPlan Active="false" Departure="YMAV" Destination="YBCG" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT ML H66 TW Y23 BERNI DCT</FlightPlan>
+          <FlightPlan Active="false" Departure="YMAV" Destination="YBCG" Alternative="" Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT ML H66 URKER Y54 BERNI DCT</FlightPlan>
           <Route>JUSTY ML NONIX KACEY</Route>
         </Aircraft>
       </Targets>
@@ -4745,7 +4745,7 @@
               <Squawk Code="2000" ModeC="true" />
               <Cleared Level="36000" />
               <Position Latitude="-29.232222" Longitude="157.960833" Speed="450" Altitude="36000" />
-              <FlightPlan Departure="YAMB" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">MEPEM PADDY LENRI MISLY ABARB RIKNI N774 MARLN</FlightPlan>
+              <FlightPlan Departure="YAMB" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="36000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">LENRI MISLY ABARB RIKNI N774 MARLN</FlightPlan>
               <Route>MISLY ABARB RIKNI MARLN</Route> 
           </Aircraft>
           <Aircraft Callsign="UAL842" Type="B773" Delay="0">
@@ -4902,7 +4902,7 @@
               <Squawk Code="4010" ModeC="true" />
               <Cleared Level="41000" />
               <Position Latitude="-28.495554999999996" Longitude="149.769444" Speed="450" Altitude="41000" />
-              <FlightPlan Destination="RJAA" Alternative="" Active="true" Rules="I" CruiseSpeed="490" ETD="0000" ATD="0000" RFL="41000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT VAMOS DCT XAC B586 UKATA DCT 25N141E/N0483F400 DCT 20N141E/M084F400 DCT 15N141E/M084F410 DCT 10N142E DCT 05N143E DCT FACED/N0482F410 A216 CS Y177 AKROM Y153 ROKUU H652 BOREE/M082F410 DCT</FlightPlan>
+              <FlightPlan Departure="RJAA" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="490" ETD="0000" ATD="0000" RFL="41000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 /v/">DCT VAMOS DCT XAC B586 UKATA DCT 25N141E/N0483F400 DCT 20N141E/M084F400 DCT 15N141E/M084F410 DCT 10N142E DCT 05N143E DCT FACED/N0482F410 A216 CS Y177 AKROM Y153 ROKUU H652 BOREE/M082F410 DCT</FlightPlan>
               <Route>UBLUK AVBOS OVNOM IDOGI LALIB IGDAM SADLO BOREE</Route>
           </Aircraft>
           <Aircraft Callsign="QFA840" Type="B738" Delay="0">
@@ -5020,14 +5020,14 @@
           <Squawk Code="4045" ModeC="true" />
           <Cleared Level="41000" />
           <Position Latitude="-29.95" Longitude="136.33" Speed="450" Altitude="41000" />
-          <FlightPlan Departure="YPDN" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="41000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 PER/C/v/">DCT PALGA Y25 BEBUX Y83 GREGA J251 WHA H84 AD DCT</FlightPlan>
+          <FlightPlan Departure="YPDN" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="41000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 PER/C/v/">DCT RUPEG Y25 BEBUX Y83 GREGA J251 WHA H84 AD DCT</FlightPlan>
           <Route>WR OJJAY WHA SEDRA ASILI MARGO AD</Route>
         </Aircraft>
         <Aircraft Callsign="JST694" Type="A320" Delay="0">
           <Squawk Code="4046" ModeC="true" />
           <Cleared Level="37000" />
           <Position Latitude="-29.68" Longitude="136.235" Speed="450" Altitude="37000" />
-          <FlightPlan Departure="YPDN" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 PER/C/v/">DCT PALGA Y25 BEBUX Y83 GREGA J251 WHA H84 AD DCT</FlightPlan>
+          <FlightPlan Departure="YPDN" Destination="YPAD" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="02" EETMins="30" FuelHours="0" FuelMins="0" Remarks="PBN/A1B1C1D1O2S2T1 NAV/RNP2 PER/C/v/">DCT RUPEG Y25 BEBUX Y83 GREGA J251 WHA H84 AD DCT</FlightPlan>
           <Route>WR OJJAY WHA SEDRA ASILI MARGO AD</Route>
         </Aircraft>
         <Aircraft Callsign="QFA661" Type="B738" Delay="0">
@@ -5350,7 +5350,7 @@
             <Squawk Code="4122" ModeC="true" />
             <Position Latitude="-33.881894" Longitude="150.947916" Speed="370" Altitude="14000" />
             <Cleared Level="28000" />
-            <FlightPlan Active="true" Departure="YSSY" Destination="YPAD" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KADOM H44 MAXEM Q60 KAKLU V454 AD DCT</FlightPlan>
+            <FlightPlan Active="true" Departure="YSSY" Destination="YPAD" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KADOM H44 MAXEM Q60 KAKLU H309 AD DCT</FlightPlan>
             <Route>KADOM CWR BORLI</Route>
           </Aircraft>
           <Aircraft Callsign="QFA418" Type="A333" Delay="0">
@@ -5943,7 +5943,7 @@
           <Squawk Code="4765" ModeC="true" />
           <Cleared Level="38000" Approach="false" />
           <Position Latitude="-27.570556" Longitude="138.551944" Speed="450" Altitude="38000" />
-          <FlightPlan Departure="YMML" Destination="YPDN" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="3" EETMins="25" FuelHours="3" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">DCT KEPPA UH336 NATYA J19 BHI T25 TNK J30 TN Q23 VEGPU DCT</FlightPlan>
+          <FlightPlan Departure="YMML" Destination="YPDN" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="380" EETHours="3" EETMins="25" FuelHours="3" FuelMins="20" Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">DCT KEPPA H336 NATYA J19 BHI T25 TNK J30 TN Q23 VEGPU DCT</FlightPlan>
           <Route>POLEV PULOL ANZAC YUSEF TNK DOSAM TN NOLEK STOES ALLEE VEGPU</Route>
           <TimedMessages>
             <TimedMessage Time="1500" Message="'Request Track Shortening'" />
