@@ -290,84 +290,84 @@
         <Aircraft Callsign="EVY01" Type="B38M" Delay="0">
             <Squawk Code="2000" ModeC="true" />
             <Position Latitude="-35.30666667" Longitude="149.19472222" Speed="0" Altitude="1887" />
-            <FlightPlan Active="false" Departure="YSCB" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="22000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="">DCT CULIN Y59 RIVET DCT</FlightPlan>
+            <FlightPlan Active="false" Departure="YSCB" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="22000" EETHours="00" EETMins="30" FuelHours="0" FuelMins="0" Remarks="">DCT CULIN Y59 RIVET DCT</FlightPlan>
             <Route>CULIN RIVET TESAT</Route>
         </Aircraft>
 
         <Aircraft Callsign="EVY02" Type="B38M" Delay="0">
             <Squawk Code="2000" ModeC="true" />
             <Position Latitude="-35.30666667" Longitude="149.19472222" Speed="0" Altitude="1887" />
-            <FlightPlan Active="false" Departure="YSCB" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="22000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="">DCT CULIN Y59 RIVET DCT</FlightPlan>
+            <FlightPlan Active="false" Departure="YSCB" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="22000" EETHours="00" EETMins="30" FuelHours="0" FuelMins="0" Remarks="">DCT CULIN Y59 RIVET DCT</FlightPlan>
             <Route>CULIN RIVET TESAT</Route>
         </Aircraft>
 
         <Aircraft Callsign="EVY03" Type="B38M" Delay="0">
             <Squawk Code="2000" ModeC="true" />
             <Position Latitude="-35.30666667" Longitude="149.19472222" Speed="0" Altitude="1887" />
-            <FlightPlan Active="false" Departure="YSCB" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="22000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="">DCT CULIN Y59 RIVET DCT</FlightPlan>
+            <FlightPlan Active="false" Departure="YSCB" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="22000" EETHours="00" EETMins="30" FuelHours="0" FuelMins="0" Remarks="">DCT CULIN Y59 RIVET DCT</FlightPlan>
             <Route>CULIN RIVET TESAT</Route>
         </Aircraft>
 
         <Aircraft Callsign="EVY04" Type="B38M" Delay="0">
             <Squawk Code="2000" ModeC="true" />
             <Position Latitude="-35.30666667" Longitude="149.19472222" Speed="0" Altitude="1887" />
-            <FlightPlan Active="false" Departure="YSCB" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="22000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="">DCT CULIN Y59 RIVET DCT</FlightPlan>
+            <FlightPlan Active="false" Departure="YSCB" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="22000" EETHours="00" EETMins="30" FuelHours="0" FuelMins="0" Remarks="">DCT CULIN Y59 RIVET DCT</FlightPlan>
             <Route>CULIN RIVET TESAT</Route>
         </Aircraft>
 
         <Aircraft Callsign="RXA001" Type="SF34" Delay="0">
             <Squawk Code="2000" ModeC="true" />
             <Position Latitude="-33.40972222" Longitude="149.65166667" Speed="0" Altitude="2398" />
-            <FlightPlan Active="false" Departure="YBTH" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="13000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="">DCT BTH W575 AKMIR W113 TESAT DCT</FlightPlan>
+            <FlightPlan Active="false" Departure="YBTH" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="13000" EETHours="00" EETMins="25" FuelHours="0" FuelMins="0" Remarks="">DCT BTH W575 AKMIR W113 TESAT DCT</FlightPlan>
             <Route>AKMIR WELSH ODALE TESAT</Route>
         </Aircraft>
 
         <Aircraft Callsign="RXA002" Type="SF34" Delay="0">
             <Squawk Code="2000" ModeC="true" />
             <Position Latitude="-33.13138889" Longitude="148.23944444" Speed="0" Altitude="1069" />
-            <FlightPlan Active="false" Departure="YPKS" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="17000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="">DCT PKS W440 AKMIR W113 TESAT DCT</FlightPlan>
+            <FlightPlan Active="false" Departure="YPKS" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="17000" EETHours="00" EETMins="40" FuelHours="0" FuelMins="0" Remarks="">DCT PKS W440 AKMIR W113 TESAT DCT</FlightPlan>
             <Route>AKMIR WELSH ODALE TESAT</Route>
         </Aircraft>
 
         <Aircraft Callsign="RXA003" Type="SF34" Delay="0">
             <Squawk Code="2000" ModeC="true" />
             <Position Latitude="-34.25083333" Longitude="146.06694444" Speed="0" Altitude="439" />
-            <FlightPlan Active="false" Departure="YGTH" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="19000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="">DCT GTH V300 AKMIR W113 TESAT DCT</FlightPlan>
+            <FlightPlan Active="false" Departure="YGTH" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="19000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="">DCT GTH V300 AKMIR W113 TESAT DCT</FlightPlan>
             <Route>AKMIR WELSH ODALE TESAT</Route>
         </Aircraft>
 
         <Aircraft Callsign="RXA004" Type="SF34" Delay="0">
             <Squawk Code="2000" ModeC="true" />
             <Position Latitude="-34.70222222" Longitude="146.51194444" Speed="0" Altitude="474" />
-            <FlightPlan Active="false" Departure="YNAR" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="19000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="">DCT VINOP W762 AKMIR W113 TESAT DCT</FlightPlan>
+            <FlightPlan Active="false" Departure="YNAR" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="19000" EETHours="01" EETMins="00" FuelHours="0" FuelMins="0" Remarks="">DCT VINOP W762 AKMIR W113 TESAT DCT</FlightPlan>
             <Route>AKMIR WELSH ODALE TESAT</Route>
         </Aircraft>
 
         <Aircraft Callsign="RXA005" Type="SF34" Delay="0">
             <Squawk Code="2000" ModeC="true" />
             <Position Latitude="-33.37805556" Longitude="149.12583333" Speed="0" Altitude="3112" />
-            <FlightPlan Active="false" Departure="YORG" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="13000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="">DCT VIRUR W801 AKMIR W113 TESAT DCT</FlightPlan>
+            <FlightPlan Active="false" Departure="YORG" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="13000" EETHours="00" EETMins="30" FuelHours="0" FuelMins="0" Remarks="">DCT VIRUR W801 AKMIR W113 TESAT DCT</FlightPlan>
             <Route>AKMIR WELSH ODALE TESAT</Route>
         </Aircraft>
 
         <Aircraft Callsign="RXA006" Type="SF34" Delay="0">
             <Squawk Code="2000" ModeC="true" />
             <Position Latitude="-31.43611111" Longitude="152.86361111" Speed="0" Altitude="15" />
-            <FlightPlan Active="false" Departure="YPMQ" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="18000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="">DCT PMQ W768 SORTI W656 OLTIN H201 TESAT DCT</FlightPlan>
+            <FlightPlan Active="false" Departure="YPMQ" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="18000" EETHours="00" EETMins="50" FuelHours="0" FuelMins="0" Remarks="">DCT PMQ W768 SORTI W656 OLTIN H201 TESAT DCT</FlightPlan>
             <Route>SORTI OLTIN YAKKA MEPIL TESAT</Route>
         </Aircraft>
 
         <Aircraft Callsign="AM001" Type="BE20" Delay="0">
             <Squawk Code="2000" ModeC="true" />
             <Position Latitude="-32.213889" Longitude="148.576944" Speed="0" Altitude="899" />
-            <FlightPlan Active="false" Departure="YSDU" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="19000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="">DCT DU V138 AKMIR W113 TESAT DCT</FlightPlan>
+            <FlightPlan Active="false" Departure="YSDU" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="19000" EETHours="00" EETMins="50" FuelHours="0" FuelMins="0" Remarks="">DCT DU V138 AKMIR W113 TESAT DCT</FlightPlan>
             <Route>AKMIR WELSH ODALE TESAT</Route>
         </Aircraft>
 
         <Aircraft Callsign="AM002" Type="BE20" Delay="0">
             <Squawk Code="2000" ModeC="true" />
             <Position Latitude="-33.84500000" Longitude="148.64888889" Speed="0" Altitude="973" />
-            <FlightPlan Active="false" Departure="YCWR" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="17000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="">DCT CWR W168 AKMIR W113 TESAT DCT</FlightPlan>
+            <FlightPlan Active="false" Departure="YCWR" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="17000" EETHours="00" EETMins="40" FuelHours="0" FuelMins="0" Remarks="">DCT CWR W168 AKMIR W113 TESAT DCT</FlightPlan>
             <Route>AKMIR WELSH ODALE TESAT</Route>
         </Aircraft>
 
