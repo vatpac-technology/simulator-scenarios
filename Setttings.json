@@ -1,6 +1,6 @@
 {
   "Name": "Australia",
-  "CIDs": "1658308,1487719",
+  "CIDs": "1658308,1487719,1686135",
   "CIDUrl": "https://tms-server.vatpac.org/users/staff?dept=training",
   "Icon": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/logo.png",
   "Scenarios": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/ScenarioFiles.xml",
