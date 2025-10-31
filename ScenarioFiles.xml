@@ -28,8 +28,6 @@
       </Aircraft>
     </Targets>
   </ScenarioFile>
-
-<?xml version="1.0" encoding="utf-16"?>
 <ScenarioFile>
   <Name>Circuits Melbourne (no arrivals)</Name>
   <Type>Tower</Type>
