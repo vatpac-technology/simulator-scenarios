@@ -73,7 +73,7 @@
   </Targets>
 </ScenarioFile>
 <ScenarioFile>
-  <Name>Circuits Sydney (Arrivals)</Name>
+  <Name>Circuits Sydney (vs jet arrivals)</Name>
   <Type>Tower</Type>
   <UseGRIB xsi:nil="true" />
   <StudentBriefing>You are on Sydney Tower.  Enroute and Approach are offline.  Ground is online.</StudentBriefing>
