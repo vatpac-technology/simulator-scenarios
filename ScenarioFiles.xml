@@ -72,6 +72,85 @@
     </Aircraft>
   </Targets>
 </ScenarioFile>
+<ScenarioFile>
+  <Name>Circuits Sydney (Arrivals)</Name>
+  <Type>Tower</Type>
+  <UseGRIB xsi:nil="true" />
+  <StudentBriefing>You are on Sydney Tower.  Enroute and Approach are offline.  Ground is online.</StudentBriefing>
+  <InstructorNotes>Scenario for teaching circuits between arriving jets.</InstructorNotes>
+  <Targets>
+    <Aircraft Callsign="JIO" Type="P28A" Delay="0" StartAuto="false">
+      <Squawk Code="2365" ModeC="true" />
+      <Cleared Level="1000" Approach="false" />
+      <Position Latitude="-33.9705771304752" Longitude="151.19233438426568" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YSSY" Destination="YSSY" Alternative="YSBK" Active="true" Equipment="SFG/LB1" Rules="V" CruiseSpeed="90" RFL="1500" EETHours="3" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">YSSY/34R YSSY CCT YSSY</FlightPlan>
+      <Route>CIRCUIT-RIGHT</Route>
+    </Aircraft>
+    <Aircraft Callsign="ABC" Type="C172" Delay="0" StartAuto="false">
+      <Squawk Code="0123" ModeC="true" />
+      <Cleared Level="1000" Approach="false" />
+      <Position Latitude="-33.97067531627872" Longitude="151.19180159341758" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YSSY" Destination="YSSY" Alternative="YSBK" Active="true" Equipment="SFG/LB1" Rules="V" CruiseSpeed="90" RFL="1500" EETHours="3" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">YSSY/34R YSSY CCT YSSY</FlightPlan>
+      <Route>CIRCUIT-RIGHT</Route>
+    </Aircraft>
+    <Aircraft Callsign="FID" Type="C172" Delay="0" StartAuto="false">
+      <Squawk Code="0123" ModeC="true" />
+      <Cleared Level="1000" Approach="false" />
+      <Position Latitude="-33.970588430582715" Longitude="151.19128998322884" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YSSY" Destination="YSSY" Alternative="YSBK" Active="true" Equipment="SFG/LB1" Rules="V" CruiseSpeed="90" RFL="1500" EETHours="3" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">YSSY/34R YSSY CCT YSSY</FlightPlan>
+      <Route>CIRCUIT-RIGHT</Route>
+    </Aircraft>
+    <Aircraft Callsign="QFA543" Type="B738" Delay="0" StartAuto="false">
+      <Squawk Code="5234" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-34.04194444" Longitude="151.34583333" Speed="200" Altitude="2000" />
+      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+      <Route>JAKLN ENDEV RWY34R YSSY</Route>
+    </Aircraft>
+    <Aircraft Callsign="VOZ982" Type="B738" Delay="0" StartAuto="false">
+      <Squawk Code="1235" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-33.51472222" Longitude="151.09805556" Speed="200" Altitude="2000" />
+      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+      <Route>BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34R YSSY</Route>
+    </Aircraft>
+    <Aircraft Callsign="JST824" Type="B738" Delay="0" StartAuto="false">
+      <Squawk Code="5373" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-33.33" Longitude="151.06222222" Speed="200" Altitude="2000" />
+      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+      <Route>VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34 YSSY</Route>
+    </Aircraft>
+    <Aircraft Callsign="VOZ954" Type="B738" Delay="0" StartAuto="false">
+      <Squawk Code="5623" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-32.98055556" Longitude="150.99833333" Speed="200" Altitude="2000" />
+      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+      <Route>BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34R YSSY</Route>
+    </Aircraft>
+    <Aircraft Callsign="VOZ958" Type="B738" Delay="0" StartAuto="false">
+      <Squawk Code="1442" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-33.16611111" Longitude="151.03138889" Speed="200" Altitude="2000" />
+      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+      <Route>BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV RWY34R YSSY</Route>
+    </Aircraft>
+    <Aircraft Callsign="QFA510" Type="B738" Delay="0" StartAuto="false">
+      <Squawk Code="5423" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-33.76611111" Longitude="151.21361111" Speed="200" Altitude="2000" />
+      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+      <Route>MAJAR DIPPA JAKLN ENDEV RWY34R YSSY</Route>
+    </Aircraft>
+    <Aircraft Callsign="JTE7404" Type="B463" Delay="0" StartAuto="false">
+      <Squawk Code="4244" ModeC="true" />
+      <Cleared Approach="true" />
+      <Position Latitude="-33.91333333" Longitude="151.3125" Speed="200" Altitude="2000" />
+      <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="true" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
+      <Route>DIPPA JAKLN ENDEV RWY34R YSSY</Route>
+    </Aircraft>
+  </Targets>
+</ScenarioFile>
 	
     <ScenarioFile>
         <Name>MAESTRO Madness</Name>
