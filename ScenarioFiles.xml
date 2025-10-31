@@ -29,6 +29,52 @@
     </Targets>
   </ScenarioFile>
 
+<?xml version="1.0" encoding="utf-16"?>
+<ScenarioFile>
+  <Name>Circuits Melbourne (no arrivals)</Name>
+  <Type>Tower</Type>
+  <UseGRIB xsi:nil="true" />
+  <StudentBriefing>You are on Melbourne tower.  Approach and Enroute are offline.  Ground is online.  All aircraft are for circuits and on your frequency ready.</StudentBriefing>
+  <InstructorNotes>Scenario for teaching basics of circuit management.  RTE is a faster aircraft to put in when appropriate to show how to manage between faster aircraft.</InstructorNotes>
+  <Targets>
+    <Aircraft Callsign="WAF" Type="C152" Delay="0" StartAuto="false">
+      <Squawk Code="0121" ModeC="true" />
+      <Cleared Level="1500" Approach="false" />
+      <Position Latitude="-37.66317604775682" Longitude="144.8478494531704" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YMML" Destination="YMML" Alternative="" Active="true" Rules="V" CruiseSpeed="0" RFL="1500" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">YMML/27</FlightPlan>
+      <Route>CIRCUIT-RIGHT</Route>
+    </Aircraft>
+    <Aircraft Callsign="CSX" Type="C182" Delay="0" StartAuto="false">
+      <Squawk Code="0123" ModeC="true" />
+      <Cleared Level="1500" Approach="false" />
+      <Position Latitude="-37.66375129083289" Longitude="144.84423963848784" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YMML" Destination="YMML" Alternative="" Active="true" Rules="V" CruiseSpeed="0" RFL="1500" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">YMML/27</FlightPlan>
+      <Route>CIRCUIT-RIGHT</Route>
+    </Aircraft>
+    <Aircraft Callsign="ART" Type="C172" Delay="0" StartAuto="false">
+      <Squawk Code="0124" ModeC="true" />
+      <Cleared Level="1500" Approach="false" />
+      <Position Latitude="-37.66384912466739" Longitude="144.84608992405663" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YMML" Destination="YMML" Alternative="" Active="true" Rules="V" CruiseSpeed="0" RFL="1500" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">YMML/27</FlightPlan>
+      <Route>CIRCUIT-RIGHT</Route>
+    </Aircraft>
+    <Aircraft Callsign="PIE" Type="C182" Delay="0" StartAuto="false">
+      <Squawk Code="0125" ModeC="true" />
+      <Cleared Level="1500" Approach="false" />
+      <Position Latitude="-37.66388843137215" Longitude="144.8470547198916" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YMML" Destination="YMML" Alternative="" Active="true" Rules="V" CruiseSpeed="0" RFL="1500" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">YMML/27</FlightPlan>
+      <Route>CIRCUIT-RIGHT</Route>
+    </Aircraft>
+    <Aircraft Callsign="RTE" Type="B350" Delay="0" StartAuto="false">
+      <Squawk Code="0125" ModeC="true" />
+      <Cleared Level="2000" Approach="false" />
+      <Position Latitude="-37.66313051321258" Longitude="144.84880781937156" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YMML" Destination="YMML" Alternative="" Active="true" Rules="V" CruiseSpeed="0" RFL="2000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">YMML/27</FlightPlan>
+      <Route>CIRCUIT-RIGHT</Route>
+    </Aircraft>
+  </Targets>
+</ScenarioFile>
+	
     <ScenarioFile>
         <Name>MAESTRO Madness</Name>
         <Type>Testing</Type>
