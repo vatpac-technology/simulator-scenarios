@@ -1,6 +1,305 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ScenarioFiles xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ScenarioFile>
+  <Name>Bankstown Tower (Advanced Metro D Scenario)</Name>
+  <Type>Tower</Type>
+  <UseGRIB xsi:nil="true" />
+  <StudentBriefing>You are operating Bankstown Tower. Runway 29R is nominated for arrivals and departures, runway 29L for circuit training, runway 29C is in use. Sydney Approach (128.300), Sydney Departures (129.700), and Sydney Centre (124.550) are online.
+  </StudentBriefing>
+  <InstructorNotes># Instructor Notes
+This scenario is auto-timed with pilot phraseology prompts. The student (and instructor) should have familiarised themself with the YSBK SOPs. Bankstown procedures are listed below; please read these before operating this scenario. Notable phraseology is included below, however auto-timed prompts include the relevant phraseology for pilot calls.
+
+There is scope for the workload in this scenario to be altered according to the student's performance. This is best done by introducing or removing aircraft from the circuit area as required. There are four aircraft available for circuits (NRM, TTR, INB, and DFR). It is recommended that at least one aircraft remains in the circuit area for the entire scenario, to facilitate 'teaching moments' involving conflicts and provision of traffic information.
+
+IMPORTANT: ensure arrivals are maintaining A003 at S70L on the base leg; otherwise, the arrival will be unable to join the approach and will pass through the CL. 
+
+There is an **optional** conflict between **JRC** and **JKE** near TWRN. The instructor will be prompted to spawn JRC at the start of the scenario; this may be accepted or denied, depending on anticipated student capability. The student should pass TRAFFIC INFORMATION or a SAFETY ALERT to both aircraft, and then the instructor may simulate pilot response to the conflict by adjusting speeds, heading, or altitude.
+
+Other conflicts will emerge throughout the scenario, however they will not require SAFETY ALERTS or pilot avoiding action as long as altitudes are assigned in accordance with the YSBK SOPs. E.g., if arrivals remain at A015 until downwind, they will not conflict with circuit traffic at A010. Traffic information should still be provided where appropriate, particularly when RSCU209 overflies the field at A005 for the main pad, and when aircraft depart/arrive from the centre runway. 
+
+**Runway Nomination**
+- RWY 29R FOR ARRS AND DEPS. RWY 29L FOR CCT TRAINING. RWY 29C IN USE
+
+## Procedure
+- Circuit aircraft must request start approval.
+- All other aircraft call when taxiing.
+- Arrivals are unable to join a circuit in the sweatbox, so will track via bearing/distance points to simulate a circuit. The instructor should **ensure that arrivals are maintaining A003 at S70L on the base leg.** Otherwise, the arrival will be unable to join the approach and will pass through the CL. Ensure the student clears arrivals for a visual approach when on downwind and clear of traffic conflicts.
+- Helicopters **must depart from the runway** and advise this when requesting taxi.
+- Departing aircraft must **advise intentions in ready call**, "UPWIND DEPARTURE", "DEPARTURE VIA CHOPPERS WEST", etc.
+- When a multi-engine or jet aircraft occupies the CENTRE runway, the LEFT and RIGHT runways are considered dependent for departures. Therefore, aircraft cannot be cleared for takeoff/touch-and-go on runway L/R when C is in use.
+- Circuit altitude is A010.
+- SUA arrives via CHOPPERS SOUTH (CSTH) for the main pad. The main pad is located ~100m north of taxiway A4. Helicopters cannot be cleared to land on pads in the sweatbox, so the instructor should slow the speed to 0 overhead the pad, then set the altitude to 0 to simulate a landing. This helicopter must be instructed to overfly the field at A005 using the phraseology: "OVERFLY FIELD AT 500 FEET, JOIN DOWNWIND MAIN PAD". Traffic information should also be passed between SUA and aircraft on final/in the circuit area. This is an excellent opportunity for the student to practice the provision of traffic information and the unique overfly at 500ft instruction.
+- All other helicopters operate at A007 in the CTR.
+- Ensure seperation standard is applied between two IFR aircraft operating in the CTR.
+
+## Notable Phraseology
+**1. Taxi Call**
+  - Taxi call: "Bankstown Tower, [type] [C/S], on [taxiway], received [ATIS], request taxi (for departure)."
+
+**2. Fixed-wing Arrivals via TWRN**
+  - Pilot: "Bankstown Tower, [type] [C/S], TWRN at [altitude], inbound, received [ATIS]."
+  - Controller: "[C/S], Bankstown Tower, join __crosswind__ runway 29R, maintain 1500"
+
+**3. Fixed-wing Arrivals via PSP**
+  - Pilot: "Bankstown Tower, [type] [C/S], PSP at [altitude], inbound, received [ATIS]."
+  - Controller: "[C/S], Bankstown Tower, join __downwind__ runway 29R, maintain 1500"
+
+**4. Helicopter Arrivals**
+  - Pilot: "Bankstown Tower, Helicopter [C/S] at [TWRN/PSP] [altitude] inbound via [CSTH/CNTH], received [ATIS]"
+  - Controller: "[C/S], Bankstown Tower, report [CSTH/CNTH] at 500/700 feet"
+
+**5. __SUA__ Arrival via CSTH for the main pad**
+  - Pilot: "Bankstown Tower, Helicopter SUA at TWRN, 700 feet inbound via CHOPPERS SOUTH, received [ATIS]"
+  - Controller: "SUA, Bankstown Tower, report CHOPPERS SOUTH at 500 feet"
+  - Pilot: "Wilco, SUA"
+
+...
+
+ - Pilot: "SUA, CHOPPERS SOUTH"
+ - Controller: "SUA overfly field at 500 feet, join downwind main pad"
+ - Pilot: "Overfly field at 500 feet, join downwind main pad, SUA"
+
+...
+
+ - Controller: "SUA cleared visual approach main pad, cleared to land"
+ - Pilot: "Cleared visual approach main pad, cleared to land, SUA"
+ 
+ **6. IFR Departures into CTA**
+ - Pilot: "[C/S], holding point [XX], ready"
+ - Controller: "[C/S] **report passing 1500**, runway centre, cleared for takeoff"
+ 
+ *When the aircraft reports passing A015, the controller instructs them to contact Sydney Departures 129.7*
+
+## Traffic Index
+Format: **CALLSIGN [INTENTIONS] (TIME)**
+- NRM [CIRCUITS] (00:00)
+- XAP [DEPARTURE on UPWIND] (00:30)
+- IPD [ARRIVAL via TWRN] (01:15)
+- POL2 [DEPARTURE via CWST] (05:10)
+- SUA [ARRIVAL via CSTH] (05:30)
+- FKN [ARRIVAL via PSP] (06:12)
+- 83B [ARRIVAL via TWRN] (08:10)
+- TTR [CIRCUITS] {optional} (11:00)
+- CAD [IFR DEPARTURE into CTA via KADOM] (11:28)
+- AE234 [IFR ARRIVAL VIA RNP] (13:00) – "AIR MED"
+- PIE [ARRIVAL via PSP] (13:20)
+- KKB [ARRIVAL via PSP] (14:35)
+- INB [CIRCUITS] {optional} (17:00)
+- JDC [DEPARTURE on UPWIND] (17:20)
+- PKAR22 [DEPARTURE via CWST] (18:30) – "PARK AIR"
+- DFR [CIRCUITS] {optional} (20:00)
+- JRC [TRANSIT CTR] (22:50)
+- JKE [ARRIVAL via TWRN] (23:07)
+- 83C [DEPARTURE on CROSSWIND] (24:30)
+- CFH23 [IFR DEPARTURE into CTA via KAMBA] (30:00) – "CARE FLIGHT"
+- POL2 [ARRIVAL via CNTH] (30:10) – "POL AIR"
+ </InstructorNotes>
+  <Targets>
+    <Aircraft Callsign="NRM" Type="P28A" Delay="0" StartAuto="false">
+      <Squawk Code="3000" ModeC="false" />
+      <Cleared Level="1000" Approach="false" />
+      <Position Latitude="-33.91599640279604" Longitude="150.98813684050768" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="YSSY" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="90" RFL="010" EETHours="0" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">YSBK CCT YSBK</FlightPlan>
+      <Route>CIRCUIT-LEFT</Route>
+      <TimedMessages>
+        <TimedMessage Time="0" Message="&quot;Bankstown Tower, Cherokee NRM, request start for circuits, received [ATIS]&quot;" />
+        <TimedMessage Time="105" Message="Start taxiing NRM via CHARLIE, on CHARLIE say: &quot;NRM on Charlie, request taxi&quot;" />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="TTR" Type="P28A" Delay="0" StartAuto="false">
+      <Squawk Code="3000" ModeC="false" />
+      <Cleared Level="1000" Approach="false" />
+      <Position Latitude="-33.91623259510324" Longitude="150.9882503697252" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="YSSY" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="90" RFL="010" EETHours="0" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">YSBK CCT YSBK</FlightPlan>
+      <Route>CIRCUIT-LEFT</Route>
+      <TimedMessages>
+        <TimedMessage Time="660" Message="Recommended (optional): &quot;Bankstown Tower, Cherokee TTR, request start for circuits, received [ATIS]&quot;" />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="INB" Type="P28A" Delay="0" StartAuto="false">
+      <Squawk Code="3000" ModeC="false" />
+      <Cleared Level="1000" Approach="false" />
+      <Position Latitude="-33.91905280298455" Longitude="150.9969515340442" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="YSSY" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="90" RFL="010" EETHours="0" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">YSBK CCT YSBK</FlightPlan>
+      <Route>CIRCUIT-LEFT</Route>
+      <TimedMessages>
+        <TimedMessage Time="1020" Message="Recommended (optional): &quot;Bankstown Tower, Cherokee INB, request start for circuits, received [ATIS]&quot;" />
+]      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="DFR" Type="P28A" Delay="0" StartAuto="false">
+      <Squawk Code="3000" ModeC="false" />
+      <Cleared Level="1000" Approach="false" />
+      <Position Latitude="-33.92055556" Longitude="150.98138889" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="YSSY" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="90" RFL="010" EETHours="0" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">YSBK CCT YSBK</FlightPlan>
+      <Route>CIRCUIT-LEFT</Route>
+      <TimedMessages>
+        <TimedMessage Time="1200" Message="Recommended (optional): &quot;Bankstown Tower, Cherokee DFR, request start for circuits, received [ATIS]&quot;" />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="IPD" Type="C152" Delay="0" StartAuto="false">
+      <Squawk Code="3000" ModeC="true" />
+      <Cleared Level="1500" Speed="80" Approach="true" />
+      <Position Latitude="-33.9674813902369" Longitude="150.87503974498324" Speed="90" Altitude="1500" />
+      <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="YSSY" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">YSBK/29R</FlightPlan>
+      <Route>TWRN BK268002 BK332002 WFM082004 RYB194007 PNP352003 RWY29R</Route>
+      <TimedMessages>
+        <TimedMessage Time="75" Message="&quot;Bankstown Tower, Cessna IPD, TWO RN, 1500 feet, inbound, received [ATIS]&quot;" />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="XAP" Type="SR22" Delay="0" StartAuto="false">
+      <Squawk Code="3000" ModeC="false" />
+      <Cleared Level="1000" Approach="false" />
+      <Position Latitude="-33.916028048905005" Longitude="150.99486987153423" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="YSSY" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">N/A</FlightPlan>
+      <Route>YSBK BK302002 BK296004 BRY360003</Route>
+      <TimedMessages>
+        <TimedMessage Time="30" Message="Start taxiing XAP via LIMA, on LIMA say: &quot;Bankstown Tower, Cirrus XAP, on Lima request taxi for upwind departure, received [ATIS]&quot;" />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="PIE" Type="PA44" Delay="0" StartAuto="false">
+      <Squawk Code="3000" ModeC="true" />
+      <Cleared Level="1500" Speed="80" Approach="true" />
+      <Position Latitude="-33.64625027963748" Longitude="150.60619722183404" Speed="90" Altitude="1500" />
+      <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="YSSY" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">YSBK/29R</FlightPlan>
+      <Route>PSP BK332002 WFM082004 RYB194007 PNP352003 RWY29R</Route>
+      <TimedMessages>
+        <TimedMessage Time="800" Message="&quot;Bankstown Tower, Seminole PIE, PROSPECT RESERVOIR, 1500 feet, inbound, received [ATIS]&quot;" />
+        <TimedMessage Time="960" Message="Instructor note: PIE is a multi-engine aircraft and therefore, when it arrives, the adjacent runway/s should be considered dependent for departures." />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="CAD" Type="F900" Delay="0" StartAuto="false">
+      <Squawk Code="3000" ModeC="false" />
+      <Position Latitude="-33.91848284520421" Longitude="150.99083807797888" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YSBK" Destination="YSDU" Alternative="YSSY" Active="false" Equipment="SFG/LB1" Rules="I" CruiseSpeed="294" RFL="260" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">N0476F260 BK KADOM EMVOM W731 DU DCT</FlightPlan>
+      <Route>BK302002 KADOM EMVOM W731 DU</Route>
+      <TimedMessages>
+        <TimedMessage Time="688" Message="Start taxiing CAD via KILO, on KILO say: &quot;Bankstown Tower, Falcon CAD, on KILO, request taxi and airways clearance for departure to Dubbo&quot;" />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="PKAR22" Type="AS50" Delay="0" StartAuto="false">
+      <Squawk Code="3000" ModeC="false" />
+      <Cleared Level="700" Approach="false" />
+      <Position Latitude="-33.92444957065026" Longitude="150.9823573235597" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="YSSY" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="0" RFL="007" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/ CS/'PARK AIR'">CWST</FlightPlan>
+      <Route>CWST BEE</Route>
+      <TimedMessages>
+        <TimedMessage Time="1110" Message="&quot;Bankstown Tower, Helicopter PKAR22, on ECHO, request air taxi to runway centre for departure via CHOPPERS WEST, received [ATIS]&quot;" />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="JKE" Type="C182" Delay="0" StartAuto="false">
+      <Squawk Code="3000" ModeC="true" />
+      <Cleared Level="1500" Speed="80" Approach="true" />
+      <Position Latitude="-34.163407663650986" Longitude="150.32267891591087" Speed="80" Altitude="1500" />
+      <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="YSSY" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">YSBK/29R</FlightPlan>
+      <Route>TWRN BK268002 BK332002 WFM082004 RYB194007 PNP352003 RWY29R</Route>
+      <TimedMessages>
+        <TimedMessage Time="1387" Message="&quot;Bankstown Tower, Cessna JKE, TWO RN, 1500 feet, inbound, received [ATIS]&quot;" />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="SUA" Type="R22" Delay="0" StartAuto="false">
+      <Squawk Code="3000" ModeC="true" />
+      <Position Latitude="-34.05916667" Longitude="150.77916667" Speed="100" Altitude="700" />
+      <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="YSSY" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="0" RFL="007" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/ CS/'RESCUE'">YSBK</FlightPlan>
+      <Route>TWRN BK204002 BK207001 RKWC215004 RYB208007 GVB222008 WFM095003 RKWC215004 CNTH201003</Route>
+      <TimedMessages>
+        <TimedMessage Time="430" Message="&quot;Bankstown Tower, helicopter SUA, TWO RN, 700 feet, received [ATIS]&quot;" />
+        <TimedMessage Time="625" Message="Slow SUA to 20 knots, then say: &quot;SUA, CHOPPERS SOUTH, 500 feet&quot;" />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="POL2" Type="B412" Delay="0" StartAuto="false">
+      <Squawk Code="3000" ModeC="false" />
+      <Cleared Level="700" Approach="true" />
+      <Position Latitude="-33.91777491847929" Longitude="150.98533281632078" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="YSSY" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="0" RFL="007" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/ CS/'POL-AIR'">CWST YSBK/29R</FlightPlan>
+      <Route>BK311001 RSH184003 PSP308001 PENT PSP275013 PSP269013 PSP271011 PSP279010 PSP280012 PSP275013 PSP269013 PSP271011 PSP279010 PSP280012 PSP275013 PSP269013 PSP271011 PSP CNTH BK020002 WFM082004 RYB194007 PNP352003 RWY29R</Route>
+      <TimedMessages>
+        <TimedMessage Time="310" Message="&quot;Bankstown Tower, helicopter POL2, on A1, request air taxi to runway right for departure via CHOPPERS WEST, received [ATIS]&quot;" />
+        <TimedMessage Time="1810" Message="POL2 shortly approaching PSP. When at PSP, say: &quot;Bankstown Tower, helicopter POL2, PROSPECT RESERVOIR, 700 feet, inbound for runway right, received [ATIS]&quot;" />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="KKB" Type="C172" Delay="0" StartAuto="false">
+      <Squawk Code="3000" ModeC="true" />
+      <Cleared Level="1500" Speed="70" Approach="true" />
+      <Position Latitude="-33.54416581382732" Longitude="151.02463696672893" Speed="90" Altitude="1500" />
+      <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="YSSY" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">YSBK/29R</FlightPlan>
+      <Route>PSP360004 PSP BK332002 WFM082004 RYB194007 PNP352003 RWY29R</Route>
+      <TimedMessages>
+        <TimedMessage Time="875" Message="&quot;Bankstown Tower, Cessna KKB, PROSPECT RESERVOIR, 1500 feet, inbound, received [ATIS]&quot;" />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="JDC" Type="P28A" Delay="0" StartAuto="false">
+      <Squawk Code="3000" ModeC="false" />
+      <Cleared Level="1000" Approach="false" />
+      <Position Latitude="-33.91918208758521" Longitude="150.99008983255587" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="YSSY" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">N/A</FlightPlan>
+      <Route>YSBK BK302002 BK296004 BRY360003</Route>
+      <TimedMessages>
+        <TimedMessage Time="1040" Message="Start taxiing JDC via KILO, on KILO say: &quot;Bankstown Tower, Cherokee JDC, on KILO, request taxi for upwind departure, received [ATIS]&quot;" />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="AE234" Type="PA31" Delay="0" StartAuto="false">
+      <Squawk Code="4331" ModeC="true" />
+      <Cleared Level="2500" Speed="150" Approach="true" />
+      <Position Latitude="-33.68361111" Longitude="149.94416667" Speed="150" Altitude="8750" />
+      <FlightPlan Departure="YORG" Destination="YSBK" Alternative="YSSY" Active="true" Equipment="SFG/LB1" Rules="I" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/ CS/'AIR MED'">N0170A070 DCT DARGI Y20 BK YSBK/29C</FlightPlan>
+      <Route>DARGI RAKSO SB2WI SB2WF BK332002 WFM082004 RYB194007 PNP352003 RWY29C</Route>
+      <TimedMessages>
+        <TimedMessage Time="780" Message="COORD SDS -&gt; BK ADC: &quot;To the west, AE234 via the RNP 11C Approach, estimating the boundary at time XX&quot;" />
+        <TimedMessage Time="1170" Message="&quot;Bankstown Tower, AE234, RNP Runway 11C, require runway 29C&quot;" />
+        <TimedMessage Time="1210" Message="Instructor note: start descending AE234 to A015 and reduce its speed. The student must instruct AE234 to join downwind 29C. AE234 will automatically join downwind at SB2WF." />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="83C" Type="P28A" Delay="0" StartAuto="false">
+      <Squawk Code="3000" ModeC="false" />
+      <Position Latitude="-33.92083333" Longitude="150.99444444" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="YSSY" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">YSBK PRT PENH HSY LRF YSBK</FlightPlan>
+      <Route>YSBK BK302002 PRT PENH HSY LRF</Route>
+      <TimedMessages>
+        <TimedMessage Time="1470" Message="Start taxiing 83C via MIKE, on MIKE say: &quot;Bankstown Tower, Cherokee 83C, on Mike request taxi for crosswind departure, received [ATIS]&quot;" />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="CFH23" Type="BE20" Delay="0" StartAuto="false">
+      <Squawk Code="3000" ModeC="false" />
+      <Position Latitude="-33.91694444" Longitude="150.99444444" Speed="0" Altitude="0" />
+      <FlightPlan Departure="YSBK" Destination="YSTW" Alternative="YSSY" Active="false" Equipment="SFG/LB1" Rules="I" CruiseSpeed="248" RFL="180" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/ CS/'CARE FLIGHT'">N0248F180 DCT BK KAMBA GUNTA PUDUT MATLA KEXAR EKIBI TW</FlightPlan>
+      <Route>YSBK BK302002 KAMBA GUNTA PUDUT MATLA KEXAR EKIBI TW</Route>
+      <TimedMessages>
+        <TimedMessage Time="1800" Message="Start taxiing CFH23 via LIMA, on LIMA say: &quot;Bankstown Tower, King Air CFH23, on Lima request taxi and airways clearance for departure to Tamworth, received [ATIS]&quot;" />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="83B" Type="P28A" Delay="0" StartAuto="false">
+      <Squawk Code="3000" ModeC="true" />
+      <Cleared Level="1500" Speed="80" Approach="true" />
+      <Position Latitude="-33.90000003" Longitude="150.66361111" Speed="90" Altitude="3000" />
+      <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="YSSY" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">YSBK/29R</FlightPlan>
+      <Route>TWRN BK268002 BK332002 WFM082004 RYB194007 PNP352003 RWY29R</Route>
+      <TimedMessages>
+        <TimedMessage Time="490" Message="&quot;Bankstown Tower, Cherokee 83B, TWO RN, 2000 feet, inbound, received [ATIS]&quot;" />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="FKN" Type="P28A" Delay="0" StartAuto="false">
+      <Squawk Code="3000" ModeC="true" />
+      <Cleared Level="1500" Speed="70" Approach="true" />
+      <Position Latitude="-33.69555556" Longitude="150.95861111" Speed="90" Altitude="2000" />
+      <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="YSSY" Active="false" Equipment="SFG/LB1" Rules="V" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">YSBK/29R</FlightPlan>
+      <Route>PSP BK332002 WFM082004 RYB194007 PNP352003 RWY29R</Route>
+      <TimedMessages>
+        <TimedMessage Time="372" Message="&quot;Bankstown Tower, Cherokee FKN, PROSPECT RESERVOIR, 2000 feet, inbound, received [ATIS]&quot;" />
+      </TimedMessages>
+    </Aircraft>
+    <Aircraft Callsign="JRC" Type="C152" Delay="1" StartAuto="false">
+      <Squawk Code="1200" ModeC="true" />
+      <Cleared Level="1500" Speed="60" Approach="false" />
+      <Position Latitude="-34.29722222" Longitude="150.71777778" Speed="95" Altitude="1500" />
+      <FlightPlan Departure="YSCN" Destination="YCNK" Alternative="YSBK" Active="true" Equipment="SFG/LB1" Rules="V" CruiseSpeed="95" RFL="080" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/ Transit BK CTR">YSCN PIC MEG CAMB INGL PRT PENH HSY PAA YCNK</FlightPlan>
+      <Route>MEG CAMB INGL PRT PENH HSY PAA YCNK</Route>
+      <TimedMessages>
+        <TimedMessage Time="1405" Message="Instructor note: student should pass TRAFFIC INFORMATION or a SAFETY ALERT to JKE for JRC. Once traffic information/safety alert has been given, the instructor may simulate pilot response to the conflict." />
+      </TimedMessages>
+    </Aircraft>
+  </Targets>
+</ScenarioFile>
+  <ScenarioFile>
     <Name>Circuits</Name>
     <Type>Testing</Type>
     <UseGRIB xsi:nil="true" />
