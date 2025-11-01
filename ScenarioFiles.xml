@@ -1287,6 +1287,15 @@
             <FlightPlan Active="true" Departure="YBBN" Destination="YSSY" Alternative="" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HUUGO H91 IGDAM H652 BOREE VASRA BEROW OVILS MAJAR DIPPA MANFA JAKLN ENDEV YSSY/34R</FlightPlan>
             <Route>DIPPA JAKLN ENDEV RWY34R YSSY</Route>
           </Aircraft>
+		<Aircraft Callsign="RSCU230" Type="A139" Delay="0" StartAuto="false">
+	      <Squawk Code="2000" ModeC="false" />
+	      <Position Latitude="-33.939958227491914" Longitude="151.1918694851774" Speed="0" Altitude="0" />
+	      <FlightPlan Departure="YSSY" Destination="YXMV" Alternative="YPLB" Rules="V" Active="false" Equipment="L" CruiseSpeed="100" RFL="1500" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">ERSK REDF DHH HBB</FlightPlan>
+	      <Route>ERSK REDF DHH HBB</Route>
+		<TimedMessages>
+          <TimedMessage Time="660" Message="Request Harbour Bridge 5 outbound." />
+        </TimedMessages>
+	    </Aircraft>
       </Targets>
     </ScenarioFile>
 
