@@ -2,6 +2,3484 @@
 <GroundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Airports>
     <Airport>
+      <ICAO>YPPH</ICAO>
+      <Bays>
+        <Bay Name="143">-315630.66+1155817.96</Bay>
+        <Bay Name="144">-315629.88+1155815.90</Bay>
+        <Bay Name="145">-315629.50+1155814.11</Bay>
+        <Bay Name="146">-315629.16+1155812.50</Bay>
+        <Bay Name="147">-315627.97+1155810.27</Bay>
+        <Bay Name="147A">-315628.13+1155810.60</Bay>
+        <Bay Name="147B">-315628.43+1155809.15</Bay>
+        <Bay Name="148">-315625.37+1155810.47</Bay>
+        <Bay Name="148A">-315625.63+1155810.21</Bay>
+        <Bay Name="148B">-315624.55+1155811.11</Bay>
+        <Bay Name="149">-315625.97+1155813.10</Bay>
+        <Bay Name="149A">-315625.90+1155812.78</Bay>
+        <Bay Name="149B">-315625.00+1155814.15</Bay>
+        <Bay Name="150">-315626.64+1155816.10</Bay>
+        <Bay Name="150A">-315626.79+1155815.95</Bay>
+        <Bay Name="150B">-315625.89+1155817.16</Bay>
+        <Bay Name="151">-315627.17+1155820.15</Bay>
+        <Bay Name="151A">-315627.37+1155819.92</Bay>
+        <Bay Name="151B">-315625.94+1155820.60</Bay>
+        <Bay Name="152">-315626.22+1155823.68</Bay>
+        <Bay Name="153">-31.940331+115.973842</Bay>
+        <Bay Name="154">-315624.90+1155828.19</Bay>
+        <Bay Name="155">-315624.77+1155830.58</Bay>
+        <Bay Name="156">-315624.90+1155833.04</Bay>
+        <Bay Name="156A">-315624.26+1155833.08</Bay>
+        <Bay Name="156B">-315624.58+1155834.17</Bay>
+        <Bay Name="160">-315619.04+1155830.28</Bay>
+        <Bay Name="160A">-315619.33+1155829.59</Bay>
+        <Bay Name="160B">-315619.38+1155831.13</Bay>
+        <Bay Name="160C">-315617.50+1155830.26</Bay>
+        <Bay Name="160D">-315617.44+1155828.28</Bay>
+        <Bay Name="160R">-315617.13+1155830.37</Bay>
+        <Bay Name="161">-315619.12+1155827.47</Bay>
+        <Bay Name="161A">-315617.87+1155827.98</Bay>
+        <Bay Name="161R">-315618.55+1155827.50</Bay>
+        <Bay Name="162">-315617.35+1155820.13</Bay>
+        <Bay Name="162A">-315617.76+1155821.15</Bay>
+        <Bay Name="162B">-315618.23+1155819.65</Bay>
+        <Bay Name="163">-315620.42+1155818.12</Bay>
+        <Bay Name="163A">-315619.76+1155818.61</Bay>
+        <Bay Name="163B">-315620.26+1155816.99</Bay>
+        <Bay Name="201">-315633.70+1155816.14</Bay>
+        <Bay Name="202">-315635.02+1155815.75</Bay>
+        <Bay Name="203">-315636.39+1155815.35</Bay>
+        <Bay Name="204">-315637.77+1155814.96</Bay>
+        <Bay Name="205">-315639.28+1155814.49</Bay>
+        <Bay Name="206">-315640.05+1155810.94</Bay>
+        <Bay Name="207">-315639.71+1155809.34</Bay>
+        <Bay Name="208">-315639.37+1155807.73</Bay>
+        <Bay Name="209">-315639.03+1155806.12</Bay>
+        <Bay Name="210">-315641.01+1155805.55</Bay>
+        <Bay Name="211">-315641.35+1155807.16</Bay>
+        <Bay Name="212">-315641.69+1155808.76</Bay>
+        <Bay Name="213">-315642.03+1155810.37</Bay>
+        <Bay Name="214">-315644.09+1155813.11</Bay>
+        <Bay Name="215">-315645.62+1155812.66</Bay>
+        <Bay Name="216">-315646.99+1155812.27</Bay>
+        <Bay Name="217">-315648.36+1155811.87</Bay>
+        <Bay Name="218">-315649.73+1155811.47</Bay>
+        <Bay Name="219">-315651.10+1155811.07</Bay>
+        <Bay Name="220">-315652.47+1155810.67</Bay>
+        <Bay Name="250">-315633.76+1155807.83</Bay>
+        <Bay Name="251">-315634.10+1155809.44</Bay>
+        <Bay Name="252">-315634.44+1155811.04</Bay>
+        <Bay Name="253">-315635.34+1155810.79</Bay>
+        <Bay Name="254">-315635.00+1155809.18</Bay>
+        <Bay Name="255">-315634.66+1155807.57</Bay>
+        <Bay Name="260">-315645.75+1155804.20</Bay>
+        <Bay Name="261">-315646.09+1155805.78</Bay>
+        <Bay Name="262">-315646.43+1155807.37</Bay>
+        <Bay Name="263">-315647.32+1155806.27</Bay>
+        <Bay Name="264">-315646.82+1155803.89</Bay>
+        <Bay Name="265">-315648.69+1155805.87</Bay>
+        <Bay Name="266">-315648.19+1155803.49</Bay>
+        <Bay Name="267">-315649.93+1155806.36</Bay>
+        <Bay Name="268">-315649.60+1155804.77</Bay>
+        <Bay Name="269">-315649.26+1155803.18</Bay>
+        <Bay Name="270">-315654.10+1155801.85</Bay>
+        <Bay Name="271">-315654.41+1155803.43</Bay>
+        <Bay Name="277">-315656.50+1155804.49</Bay>
+        <Bay Name="278">-315655.69+1155803.05</Bay>
+        <Bay Name="279">-315655.36+1155801.48</Bay>
+        <Bay Name="280">-315700.23+1155800.06</Bay>
+        <Bay Name="281">-315700.56+1155801.64</Bay>
+        <Bay Name="282">-315700.89+1155803.21</Bay>
+        <Bay Name="VA1">-315707.88+1155802.92</Bay>
+        <Bay Name="VA2">-315707.54+1155801.32</Bay>
+        <Bay Name="7">-315553.68+1155736.59</Bay>
+        <Bay Name="8">-315554.72+1155738.15</Bay>
+        <Bay Name="9">-315555.49+1155739.35</Bay>
+        <Bay Name="10">-315555.86+1155741.02</Bay>
+        <Bay Name="12">-315557.23+1155742.03</Bay>
+        <Bay Name="13">-315558.61+1155742.87</Bay>
+        <Bay Name="14">-315600.10+1155742.77</Bay>
+        <Bay Name="15">-315601.62+1155742.23</Bay>
+        <Bay Name="15A">-315601.97+1155742.14</Bay>
+        <Bay Name="16">-315603.57+1155741.96</Bay>
+        <Bay Name="17">-315604.57+1155740.85</Bay>
+        <Bay Name="17A">-315604.36+1155740.88</Bay>
+        <Bay Name="18">-315606.01+1155740.29</Bay>
+        <Bay Name="18A">-315605.89+1155739.75</Bay>
+        <Bay Name="19">-315607.08+1155739.18</Bay>
+        <Bay Name="20">-315608.71+1155739.21</Bay>
+        <Bay Name="20A">-315608.49+1155739.16</Bay>
+        <Bay Name="21">-315610.01+1155738.46</Bay>
+        <Bay Name="22">-315610.72+1155737.52</Bay>
+        <Bay Name="23">-315611.45+1155736.11</Bay>
+        <Bay Name="24">-315612.11+1155735.06</Bay>
+        <Bay Name="901">-315622.15+1155724.58</Bay>
+        <Bay Name="902">-315621.38+1155726.07</Bay>
+        <Bay Name="903">-315620.62+1155727.56</Bay>
+        <Bay Name="903A">-315619.93+1155728.10</Bay>
+        <Bay Name="904">-315619.79+1155729.02</Bay>
+        <Bay Name="905">-315618.91+1155730.32</Bay>
+        <Bay Name="906">-315618.19+1155731.74</Bay>
+        <Bay Name="907">-315617.31+1155733.16</Bay>
+        <Bay Name="908">-315616.65+1155734.73</Bay>
+        <Bay Name="909">-315615.87+1155736.23</Bay>
+        <Bay Name="910">-315615.10+1155737.73</Bay>
+        <Bay Name="911">-315614.33+1155739.23</Bay>
+        <Bay Name="915">-315611.19+1155746.58</Bay>
+        <Bay Name="916">-315609.06+1155747.19</Bay>
+        <Bay Name="917">-315607.75+1155747.62</Bay>
+        <Bay Name="918">-315606.43+1155748.07</Bay>
+        <Bay Name="NJ1">-315533.02+1155745.60</Bay>
+        <Bay Name="NJ2">-315532.73+1155744.20</Bay>
+        <Bay Name="NJ3">-315532.43+1155742.81</Bay>
+        <Bay Name="NJ4">-315531.92+1155741.48</Bay>
+        <Bay Name="NJ4R">-315532.82+1155741.22</Bay>
+        <Bay Name="NJ5">-315534.33+1155743.10</Bay>
+        <Bay Name="NJ6">-315534.64+1155744.56</Bay>
+        <Bay Name="SA6">-315532.89+1155737.01</Bay>
+        <Bay Name="SA7">-315532.64+1155735.83</Bay>
+        <Bay Name="SA7A">-315532.85+1155735.80</Bay>
+        <Bay Name="SA8">-315532.36+1155734.59</Bay>
+        <Bay Name="SA8A">-315532.60+1155734.62</Bay>
+        <Bay Name="SA9">-315531.95+1155733.77</Bay>
+        <Bay Name="SA9A">-315532.35+1155733.45</Bay>
+        <Bay Name="SA10">-315530.86+1155732.22</Bay>
+        <Bay Name="SA11">-315530.22+1155733.30</Bay>
+        <Bay Name="SA12">-315530.38+1155734.07</Bay>
+        <Bay Name="SA13">-315530.50+1155734.85</Bay>
+        <Bay Name="SA14">-315530.66+1155735.62</Bay>
+        <Bay Name="SA15">-315530.88+1155736.63</Bay>
+        <Bay Name="SA15A">-315530.88+1155736.34</Bay>
+        <Bay Name="SA16">-315531.11+1155737.94</Bay>
+        <Bay Name="SA16A">-315531.14+1155737.37</Bay>
+        <Bay Name="SA17">-315531.37+1155738.97</Bay>
+        <Bay Name="SA18">-315531.57+1155740.08</Bay>
+        <Bay Name="NA1">-315531.13+1155751.34</Bay>
+        <Bay Name="NA2">-315530.07+1155751.83</Bay>
+        <Bay Name="NA6">-315528.71+1155752.20</Bay>
+        <Bay Name="NA7">-315527.58+1155752.03</Bay>
+        <Bay Name="NA8">-315526.60+1155752.59</Bay>
+        <Bay Name="NA9">-315526.95+1155752.05</Bay>
+        <Bay Name="SO3">-315534.11+1155755.46</Bay>
+        <Bay Name="SO4">-315533.06+1155755.77</Bay>
+        <Bay Name="SO5">-315532.00+1155756.08</Bay>
+        <Bay Name="SO6">-315530.94+1155756.38</Bay>
+        <Bay Name="SO7">-315529.89+1155756.69</Bay>
+        <Bay Name="SO8">-315528.83+1155757.00</Bay>
+        <Bay Name="SO9">-315527.78+1155757.30</Bay>
+        <Bay Name="SO10">-315526.72+1155757.61</Bay>
+        <Bay Name="SO11">-315525.67+1155757.92</Bay>
+        <Bay Name="SO12">-315524.61+1155758.22</Bay>
+        <Bay Name="SO13">-315523.55+1155758.53</Bay>
+        <Bay Name="SO14">-315522.50+1155758.84</Bay>
+        <Bay Name="PJ1">-315519.95+1155755.91</Bay>
+        <Bay Name="PJ2">-315519.81+1155755.25</Bay>
+        <Bay Name="PJ3">-315519.64+1155754.14</Bay>
+        <Bay Name="AF1">-315520.54+1155755.83</Bay>
+        <Bay Name="AF2">-315521.35+1155753.69</Bay>
+        <Bay Name="AF3">-315519.94+1155754.08</Bay>
+        <Bay Name="AF4">-315522.41+1155754.72</Bay>
+        <Bay Name="AF5">-315522.76+1155753.72</Bay>
+        <Bay Name="MAR1">-315540.77+1155721.46</Bay>
+        <Bay Name="MAR1A">-315541.10+1155721.53</Bay>
+        <Bay Name="MAR2">-315540.20+1155722.07</Bay>
+        <Bay Name="MAR3A">-315539.54+1155720.20</Bay>
+        <Bay Name="MAR4">-315539.23+1155721.47</Bay>
+        <Bay Name="MAR5">-315538.10+1155721.89</Bay>
+        <Bay Name="MAR5A">-315538.52+1155722.25</Bay>
+        <Bay Name="MAR6">-315539.41+1155723.78</Bay>
+        <Bay Name="MAR7">-315538.96+1155723.26</Bay>
+        <Bay Name="MAR8">-315538.50+1155722.74</Bay>
+        <Bay Name="501">-315537.97+1155727.87</Bay>
+        <Bay Name="502">-315538.90+1155728.95</Bay>
+        <Bay Name="503">-315539.83+1155730.03</Bay>
+        <Bay Name="504">-315540.76+1155731.11</Bay>
+        <Bay Name="505">-315541.68+1155732.20</Bay>
+        <Bay Name="506">-315542.61+1155733.28</Bay>
+        <Bay Name="507">-315543.54+1155734.36</Bay>
+        <Bay Name="508">-315544.55+1155735.35</Bay>
+        <Bay Name="509">-315546.66+1155736.97</Bay>
+        <Bay Name="510">-315545.30+1155737.37</Bay>
+        <Bay Name="511">-315544.05+1155737.73</Bay>
+        <Bay Name="512">-315542.91+1155738.07</Bay>
+        <Bay Name="601">-315542.02+1155747.87</Bay>
+        <Bay Name="601A">-315541.67+1155746.95</Bay>
+        <Bay Name="601B">-315542.62+1155747.71</Bay>
+        <Bay Name="602">-315544.27+1155747.02</Bay>
+        <Bay Name="602A">-315543.58+1155746.92</Bay>
+        <Bay Name="603">-315545.88+1155746.32</Bay>
+        <Bay Name="603A">-315545.37+1155746.68</Bay>
+        <Bay Name="603B">-315546.59+1155746.53</Bay>
+        <Bay Name="604">-315547.24+1155746.09</Bay>
+        <Bay Name="604A">-315547.17+1155746.43</Bay>
+        <Bay Name="701">-315542.52+1155749.32</Bay>
+        <Bay Name="701A">-315542.23+1155750.04</Bay>
+        <Bay Name="701B">-315543.42+1155749.27</Bay>
+        <Bay Name="702">-315544.65+1155748.70</Bay>
+        <Bay Name="703">-315546.76+1155747.88</Bay>
+        <Bay Name="703A">-315545.97+1155748.53</Bay>
+        <Bay Name="703B">-315547.34+1155748.56</Bay>
+        <Bay Name="RE1">-315541.38+1155722.18</Bay>
+        <Bay Name="RE2">-315542.31+1155723.36</Bay>
+        <Bay Name="RE3">-315541.89+1155722.71</Bay>
+        <Bay Name="REV1">-315544.43+1155726.12</Bay>
+        <Bay Name="REV2">-315543.88+1155725.55</Bay>
+        <Bay Name="MX1">-315545.51+1155726.87</Bay>
+      </Bays>
+      <Taxiways />
+      <Runways>
+        <Runway>
+			<Name>03</Name>
+			<Exits>
+			  <Exit>
+				<Name>A9</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.951871+115.961678</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.951521+115.961786</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.951346+115.961808</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.951184+115.961788</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.951020+115.961739</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.950823+115.961635</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.950651+115.961453</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.950534+115.961243</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.950477+115.961091</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.950462+115.961022</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.950442+115.960940</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>A7</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.947460+115.962978</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.947051+115.963084</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.946885+115.963084</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.946677+115.963028</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.946514+115.962936</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.946410+115.962857</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.946300+115.962729</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.946210+115.962603</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.946136+115.962463</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.946100+115.962357</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.946068+115.962210</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>C6</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.945283+115.963601</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.945394+115.963577</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.945283+115.963601</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.945165+115.963683</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.945049+115.963771</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.944931+115.963887</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.944854+115.963993</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.944774+115.964143</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.944715+115.964304</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.944684+115.964479</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.944677+115.964632</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.944678+115.964770</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>12</SortOrder>
+					<Position>-31.944678+115.964780</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>13</SortOrder>
+					<Position>-31.944715+115.964948</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>A6</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.945394+115.963577</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.945283+115.963601</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.945142+115.963604</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.945029+115.963601</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.944935+115.963579</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.944767+115.963515</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.944687+115.963453</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.944520+115.963329</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.944444+115.963219</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.944341+115.963051</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.944294+115.962937</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.944284+115.962913</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>12</SortOrder>
+					<Position>-31.944250+115.962726</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>P</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.942211+115.964496</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.941938+115.964585</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.941761+115.964657</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.941657+115.964724</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.941536+115.964822</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.941431+115.964948</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.941344+115.965098</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.941280+115.965232</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.940797+115.966170</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>D</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.936087+115.966288</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.935800+115.966373</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.935678+115.966364</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.935546+115.966336</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.935454+115.966285</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.935366+115.966213</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.935266+115.966095</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.935227+115.966033</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.935140+115.965797</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.935116+115.965733</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.934991+115.965416</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+				<Exit>
+				<Name>N</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.936087+115.966288</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.935800+115.966373</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.935513+115.966455</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.935331+115.966527</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.935216+115.966590</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.935096+115.966680</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.934926+115.966891</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.934321+115.968058</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>W</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.929466+115.968210</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.929217+115.968282</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.929118+115.968343</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.929033+115.968421</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.928969+115.968504</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.928919+115.968618</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.928898+115.968706</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.928888+115.968851</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.929254+115.970586</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>W</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.929466+115.968210</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.929217+115.968282</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.929109+115.968301</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.928990+115.968290</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.928892+115.968246</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.928832+115.968194</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.928764+115.968117</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.928714+115.968021</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.928561+115.967305</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			</Exits>
+			<Entries>
+			  <Entry>
+				<Name>A11</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.958399+115.958620</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.958436+115.958797</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.958438+115.958952</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.958420+115.959145</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.958379+115.959322</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.958325+115.959456</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.958261+115.959574</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.958196+115.959670</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.958139+115.959725</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.958076+115.959787</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.957999+115.959842</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.957929+115.959888</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>12</SortOrder>
+					<Position>-31.957810+115.959946</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>13</SortOrder>
+					<Position>-31.957681+115.959988</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>14</SortOrder>
+					<Position>-31.957550+115.960032</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  <Entry>
+				<Name>C11</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.959008+115.961484</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.958830+115.960660</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.958761+115.960494</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.958659+115.960309</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.958529+115.960169</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.958398+115.960068</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.958266+115.960006</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.958114+115.959967</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.958035+115.959956</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.957885+115.959956</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.957810+115.959968</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.957682+115.959997</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>12</SortOrder>
+					<Position>-31.957550+115.960032</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>13</SortOrder>
+					<Position>-31.957550+115.960032</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  <Entry>
+				<Name>C9</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.951871+115.961678</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.951521+115.961786</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.951365+115.961875</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.951231+115.961970</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.951111+115.962099</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.951027+115.962229</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.950940+115.962414</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.950892+115.962627</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.950876+115.962777</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.950876+115.962933</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.950908+115.963136</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  <Entry>
+				<Name>C9</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.950908+115.963136</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.950861+115.962926</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.950807+115.962801</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.950722+115.962666</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.950625+115.962537</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.950508+115.962433</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.950415+115.962374</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.950301+115.962319</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.950189+115.962287</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.950067+115.962273</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.949930+115.962274</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.949781+115.962298</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>12</SortOrder>
+					<Position>-31.949636+115.962338</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  <Entry>
+				<Name>A9</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.950442+115.960940</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.950462+115.961022</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.950477+115.961091</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.950477+115.961103</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.950487+115.961251</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.950485+115.961356</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.950456+115.961542</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.950413+115.961681</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.950351+115.961813</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.950288+115.961917</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.950182+115.962050</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.950072+115.962141</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>12</SortOrder>
+					<Position>-31.949961+115.962217</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>13</SortOrder>
+					<Position>-31.949832+115.962282</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>14</SortOrder>
+					<Position>-31.949781+115.962298</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>15</SortOrder>
+					<Position>-31.949636+115.962338</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  <Entry>
+				<Name>A7</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.946068+115.962210</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.946100+115.962357</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.946106+115.962465</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.946103+115.962613</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.946089+115.962741</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.946060+115.962854</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.946026+115.962977</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.945986+115.963054</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.945923+115.963169</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.945839+115.963284</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.945743+115.963372</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.945635+115.963462</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>12</SortOrder>
+					<Position>-31.945495+115.963550</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>13</SortOrder>
+					<Position>-31.945394+115.963577</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  <Entry>
+				<Name>A6</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.944250+115.962726</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.944284+115.962913</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.944291+115.963071</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.944281+115.963238</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.944254+115.963372</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.944191+115.963562</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.944126+115.963687</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.944046+115.963798</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.943919+115.963919</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.943805+115.964013</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.943671+115.964080</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  <Entry>
+				<Name>C6</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.944715+115.964948</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.944678+115.964780</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.944621+115.964607</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.944525+115.964454</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.944420+115.964317</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.944321+115.964237</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.944180+115.964153</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.944100+115.964119</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.943943+115.964079</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.943828+115.964069</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.943671+115.964080</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  <Entry>
+				<Name>P</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.940797+115.966170</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.941280+115.965232</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.941292+115.965133</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.941277+115.965042</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.941244+115.964956</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.941196+115.964908</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.941132+115.964864</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.941072+115.964847</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.941022+115.964854</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.940962+115.964871</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.940889+115.964898</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  </Entries>
+			</Runway>
+        <Runway>
+			<Name>06</Name>
+			<Exits>
+			  <Exit>
+				<Name>C</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.936149+115.968601</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.935929+115.969051</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.935910+115.969127</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.935899+115.969207</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.935901+115.969306</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.935918+115.969393</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.935954+115.969479</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.936002+115.969553</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.936045+115.969604</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.936100+115.969648</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.936161+115.969683</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.936258+115.969716</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>12</SortOrder>
+					<Position>-31.936373+115.969715</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>13</SortOrder>
+					<Position>-31.936905+115.969565</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>C</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.936149+115.968601</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.935604+115.969645</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.935535+115.969749</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.935442+115.969870</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.935329+115.969958</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.935224+115.970026</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.935073+115.970090</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.935024+115.970112</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.934002+115.970407</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.933530+115.970543</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>S</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.935328+115.970217</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.935124+115.970613</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.935084+115.970734</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.935069+115.970840</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.935075+115.970940</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.935094+115.971047</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.935132+115.971147</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.935194+115.971242</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.935283+115.971320</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.935722+115.971635</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>W</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.931830+115.976994</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.931497+115.977636</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.931438+115.977700</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.931368+115.977766</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.931274+115.977805</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.931184+115.977831</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.931109+115.977830</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.931013+115.977806</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.930916+115.977758</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.930861+115.977713</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.930808+115.977655</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.930755+115.977577</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>12</SortOrder>
+					<Position>-31.930717+115.977496</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>13</SortOrder>
+					<Position>-31.930677+115.977328</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>14</SortOrder>
+					<Position>-31.930601+115.976985</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  </Exits>
+			<Entries>
+			  <Entry>
+				<Name>V</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.941763+115.959913</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.941285+115.959573</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.941277+115.959570</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.941174+115.959540</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.941064+115.959530</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.940992+115.959539</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.940905+115.959565</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.940842+115.959610</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.940790+115.959653</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.940728+115.959740</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.940677+115.959827</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.940620+115.959923</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>12</SortOrder>
+					<Position>-31.940533+115.960094</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  <Entry>
+				<Name>V</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.940095+115.958737</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.940586+115.959084</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.940651+115.959159</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.940706+115.959264</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.940741+115.959377</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.940748+115.959472</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.940748+115.959557</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.940732+115.959647</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.940713+115.959723</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.940620+115.959923</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.940533+115.960094</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  <Entry>
+				<Name>A</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.940762+115.962546</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.940453+115.962638</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.939149+115.963014</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.939148+115.963014</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.939033+115.963094</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.938903+115.963256</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.938804+115.963458</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  <Entry>
+				<Name>J1</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.938290+115.962073</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.938813+115.962227</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.938956+115.962312</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.939048+115.962469</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.939091+115.962618</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.939093+115.962759</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.939080+115.962887</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.939014+115.963031</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.939001+115.963057</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.938903+115.963256</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.938804+115.963458</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  <Entry>
+				<Name>A</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.937526+115.963491</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.937899+115.963407</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.938006+115.963440</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.938130+115.963511</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.938205+115.963574</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.938280+115.963657</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.938350+115.963780</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.938383+115.963886</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.938395+115.964005</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.938393+115.964131</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.938370+115.964242</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.938344+115.964348</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>12</SortOrder>
+					<Position>-31.938248+115.964527</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  </Entries>
+			</Runway>
+        <Runway>
+			<Name>21</Name>
+			<Exits>
+			  <Exit>
+				<Name>W</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.928561+115.967305</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.928714+115.968021</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.928764+115.968117</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.928832+115.968194</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.928892+115.968246</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.928990+115.968290</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.929109+115.968301</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.929217+115.968282</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.929466+115.968210</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>D</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.934499+115.966745</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.934826+115.966651</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.934896+115.966608</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.934966+115.966549</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.935060+115.966442</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.935108+115.966346</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.935155+115.966217</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.935170+115.966088</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.935169+115.965910</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.935140+115.965797</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.935116+115.965733</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.934991+115.965416</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>N</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.934321+115.968058</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.934926+115.966891</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.934926+115.966891</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.935096+115.966680</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.935216+115.966590</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.935331+115.966527</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.935513+115.966455</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.935800+115.966373</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.936087+115.966288</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>P</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.940889+115.964898</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.940962+115.964871</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.941022+115.964854</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.941072+115.964847</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.941132+115.964864</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.941196+115.964908</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.941244+115.964956</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.941277+115.965042</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.941292+115.965133</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.941280+115.965232</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.940797+115.966170</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>C6</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.943671+115.964080</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.943828+115.964069</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.943943+115.964079</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.944100+115.964119</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.944180+115.964153</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.944321+115.964237</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.944420+115.964317</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.944525+115.964454</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.944621+115.964607</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.944678+115.964780</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.944715+115.964948</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>A6</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.943671+115.964080</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.943805+115.964013</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.943919+115.963919</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.944046+115.963798</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.944126+115.963687</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.944191+115.963562</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.944254+115.963372</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.944281+115.963238</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.944291+115.963071</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.944284+115.962913</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.944250+115.962726</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>A7</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.945283+115.963601</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.945394+115.963577</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.945495+115.963550</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.945635+115.963462</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.945743+115.963372</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.945839+115.963284</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.945923+115.963169</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.945986+115.963054</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.946026+115.962977</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.946060+115.962854</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.946089+115.962741</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.946103+115.962613</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>12</SortOrder>
+					<Position>-31.946106+115.962465</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>13</SortOrder>
+					<Position>-31.946100+115.962357</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>14</SortOrder>
+					<Position>-31.946068+115.962210</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>C9</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.949636+115.962338</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.949781+115.962298</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.949930+115.962274</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.950067+115.962273</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.950189+115.962287</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.950301+115.962319</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.950415+115.962374</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.950508+115.962433</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.950625+115.962537</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.950722+115.962666</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.950807+115.962801</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.950861+115.962926</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>12</SortOrder>
+					<Position>-31.950908+115.963136</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>A9</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.949636+115.962338</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.949781+115.962298</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.949832+115.962282</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.949961+115.962217</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.950072+115.962141</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.950182+115.962050</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.950288+115.961917</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.950351+115.961813</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.950413+115.961681</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.950456+115.961542</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.950485+115.961356</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.950487+115.961251</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>12</SortOrder>
+					<Position>-31.950477+115.961103</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>13</SortOrder>
+					<Position>-31.950442+115.960940</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>14</SortOrder>
+					<Position>-31.950442+115.960940</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>C11</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.957550+115.960032</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.957682+115.959997</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.957810+115.959968</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.957885+115.959956</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.958035+115.959956</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.958114+115.959967</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.958266+115.960006</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.958398+115.960068</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.958529+115.960169</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.958659+115.960309</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.958761+115.960494</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.958830+115.960660</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>12</SortOrder>
+					<Position>-31.959008+115.961484</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  <Exit>
+				<Name>A11</Name>
+				<ExitPoints>
+				  <ExitPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.957550+115.960032</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.957681+115.959988</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.957810+115.959946</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.957929+115.959888</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.957999+115.959842</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.958076+115.959787</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.958139+115.959725</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.958196+115.959670</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.958261+115.959574</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.958325+115.959456</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.958379+115.959322</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.958420+115.959145</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>12</SortOrder>
+					<Position>-31.958438+115.958952</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>13</SortOrder>
+					<Position>-31.958436+115.958797</Position>
+					</ExitPoint>
+				  <ExitPoint>
+					<SortOrder>14</SortOrder>
+					<Position>-31.958399+115.958620</Position>
+					</ExitPoint>
+				  </ExitPoints>
+				</Exit>
+			  </Exits>
+			<Entries>
+			  <Entry>
+				<Name>W</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.929254+115.970586</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.928888+115.968851</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.928898+115.968706</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.928919+115.968618</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.928969+115.968504</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.929033+115.968421</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.929118+115.968343</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.929217+115.968282</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.929466+115.968210</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  <Entry>
+				<Name>D</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.934991+115.965416</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.935116+115.965733</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.935140+115.965797</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.935227+115.966033</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.935266+115.966095</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.935366+115.966213</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.935454+115.966285</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.935546+115.966336</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.935678+115.966364</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.935800+115.966373</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.936087+115.966288</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  <Entry>
+				<Name>P</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.940797+115.966170</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.941280+115.965232</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.941344+115.965098</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.941431+115.964948</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.941536+115.964822</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.941657+115.964724</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.941761+115.964657</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.941938+115.964585</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.942211+115.964496</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  <Entry>
+				<Name>C6</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.944715+115.964948</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.944678+115.964770</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.944677+115.964632</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.944684+115.964479</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.944715+115.964304</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.944774+115.964143</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.944854+115.963993</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.944931+115.963887</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.945049+115.963771</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.945165+115.963683</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.945283+115.963601</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.945394+115.963577</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>12</SortOrder>
+					<Position>-31.945495+115.963550</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  <Entry>
+				<Name>A6</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.944250+115.962726</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.944294+115.962937</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.944341+115.963051</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.944444+115.963219</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.944520+115.963329</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.944687+115.963453</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.944767+115.963515</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.944935+115.963579</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.945029+115.963601</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.945142+115.963604</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.945283+115.963601</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>11</SortOrder>
+					<Position>-31.945394+115.963577</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>12</SortOrder>
+					<Position>-31.945495+115.963550</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  <Entry>
+				<Name>A7</Name>
+				<EntryPoints>
+				  <EntryPoint>
+					<SortOrder>0</SortOrder>
+					<Position>-31.946068+115.962210</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>1</SortOrder>
+					<Position>-31.946100+115.962357</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>2</SortOrder>
+					<Position>-31.946136+115.962463</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>3</SortOrder>
+					<Position>-31.946210+115.962603</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>4</SortOrder>
+					<Position>-31.946300+115.962729</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>5</SortOrder>
+					<Position>-31.946410+115.962857</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>6</SortOrder>
+					<Position>-31.946514+115.962936</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>7</SortOrder>
+					<Position>-31.946677+115.963028</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>8</SortOrder>
+					<Position>-31.946885+115.963084</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>9</SortOrder>
+					<Position>-31.947051+115.963084</Position>
+					</EntryPoint>
+				  <EntryPoint>
+					<SortOrder>10</SortOrder>
+					<Position>-31.947460+115.962978</Position>
+					</EntryPoint>
+				  </EntryPoints>
+				</Entry>
+			  </Entries>
+			</Runway>
+        <Runway>
+		<Name>24</Name>
+		<Exits>
+		  <Exit>
+			<Name>S</Name>
+			<ExitPoints>
+			  <ExitPoint>
+				<SortOrder>0</SortOrder>
+				<Position>-31.934383+115.972038</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>1</SortOrder>
+				<Position>-31.934643+115.971530</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>2</SortOrder>
+				<Position>-31.934691+115.971393</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>3</SortOrder>
+				<Position>-31.934715+115.971261</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>4</SortOrder>
+				<Position>-31.934709+115.971150</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>5</SortOrder>
+				<Position>-31.934677+115.970996</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>6</SortOrder>
+				<Position>-31.934618+115.970890</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>7</SortOrder>
+				<Position>-31.934533+115.970789</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>8</SortOrder>
+				<Position>-31.934002+115.970407</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>9</SortOrder>
+				<Position>-31.933999+115.970405</Position>
+				</ExitPoint>
+			  </ExitPoints>
+			</Exit>
+		  <Exit>
+			<Name>S</Name>
+			<ExitPoints>
+			  <ExitPoint>
+				<SortOrder>0</SortOrder>
+				<Position>-31.934383+115.972038</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>1</SortOrder>
+				<Position>-31.934643+115.971530</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>2</SortOrder>
+				<Position>-31.934721+115.971420</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>3</SortOrder>
+				<Position>-31.934791+115.971348</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>4</SortOrder>
+				<Position>-31.934854+115.971300</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>5</SortOrder>
+				<Position>-31.934947+115.971265</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>6</SortOrder>
+				<Position>-31.935013+115.971250</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>7</SortOrder>
+				<Position>-31.935129+115.971252</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>8</SortOrder>
+				<Position>-31.935203+115.971279</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>9</SortOrder>
+				<Position>-31.935283+115.971320</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>10</SortOrder>
+				<Position>-31.935722+115.971635</Position>
+				</ExitPoint>
+			  </ExitPoints>
+			</Exit>
+		  <Exit>
+			<Name>C</Name>
+			<ExitPoints>
+			  <ExitPoint>
+				<SortOrder>0</SortOrder>
+				<Position>-31.935124+115.970613</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>1</SortOrder>
+				<Position>-31.935328+115.970217</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>2</SortOrder>
+				<Position>-31.935402+115.970085</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>3</SortOrder>
+				<Position>-31.935452+115.970029</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>4</SortOrder>
+				<Position>-31.935524+115.969976</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>5</SortOrder>
+				<Position>-31.935602+115.969940</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>6</SortOrder>
+				<Position>-31.936373+115.969715</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>7</SortOrder>
+				<Position>-31.936905+115.969565</Position>
+				</ExitPoint>
+			  </ExitPoints>
+			</Exit>
+		  <Exit>
+			<Name>A</Name>
+			<ExitPoints>
+			  <ExitPoint>
+				<SortOrder>0</SortOrder>
+				<Position>-31.938804+115.963458</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>1</SortOrder>
+				<Position>-31.938903+115.963256</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>2</SortOrder>
+				<Position>-31.939033+115.963094</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>3</SortOrder>
+				<Position>-31.939148+115.963014</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>4</SortOrder>
+				<Position>-31.939149+115.963014</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>5</SortOrder>
+				<Position>-31.940453+115.962638</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>6</SortOrder>
+				<Position>-31.940762+115.962546</Position>
+				</ExitPoint>
+			  </ExitPoints>
+			</Exit>
+		  <Exit>
+			<Name>J1</Name>
+			<ExitPoints>
+			  <ExitPoint>
+				<SortOrder>0</SortOrder>
+				<Position>-31.938804+115.963458</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>1</SortOrder>
+				<Position>-31.938903+115.963256</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>2</SortOrder>
+				<Position>-31.939001+115.963057</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>3</SortOrder>
+				<Position>-31.939014+115.963031</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>4</SortOrder>
+				<Position>-31.939080+115.962887</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>5</SortOrder>
+				<Position>-31.939093+115.962759</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>6</SortOrder>
+				<Position>-31.939091+115.962618</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>7</SortOrder>
+				<Position>-31.939048+115.962469</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>8</SortOrder>
+				<Position>-31.938956+115.962312</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>9</SortOrder>
+				<Position>-31.938813+115.962227</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>10</SortOrder>
+				<Position>-31.938290+115.962073</Position>
+				</ExitPoint>
+			  </ExitPoints>
+			</Exit>
+		  <Exit>
+			<Name>V</Name>
+			<ExitPoints>
+			  <ExitPoint>
+				<SortOrder>0</SortOrder>
+				<Position>-31.940533+115.960094</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>1</SortOrder>
+				<Position>-31.940620+115.959923</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>2</SortOrder>
+				<Position>-31.940677+115.959827</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>3</SortOrder>
+				<Position>-31.940728+115.959740</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>4</SortOrder>
+				<Position>-31.940790+115.959653</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>5</SortOrder>
+				<Position>-31.940842+115.959610</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>6</SortOrder>
+				<Position>-31.940905+115.959565</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>7</SortOrder>
+				<Position>-31.940992+115.959539</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>8</SortOrder>
+				<Position>-31.941064+115.959530</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>9</SortOrder>
+				<Position>-31.941174+115.959540</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>10</SortOrder>
+				<Position>-31.941277+115.959570</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>11</SortOrder>
+				<Position>-31.941285+115.959573</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>12</SortOrder>
+				<Position>-31.941763+115.959913</Position>
+				</ExitPoint>
+			  </ExitPoints>
+			</Exit>
+		  <Exit>
+			<Name>V</Name>
+			<ExitPoints>
+			  <ExitPoint>
+				<SortOrder>0</SortOrder>
+				<Position>-31.940533+115.960094</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>1</SortOrder>
+				<Position>-31.940620+115.959923</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>2</SortOrder>
+				<Position>-31.940713+115.959723</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>3</SortOrder>
+				<Position>-31.940732+115.959647</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>4</SortOrder>
+				<Position>-31.940748+115.959557</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>5</SortOrder>
+				<Position>-31.940748+115.959472</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>6</SortOrder>
+				<Position>-31.940741+115.959377</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>7</SortOrder>
+				<Position>-31.940706+115.959264</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>8</SortOrder>
+				<Position>-31.940651+115.959159</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>9</SortOrder>
+				<Position>-31.940586+115.959084</Position>
+				</ExitPoint>
+			  <ExitPoint>
+				<SortOrder>10</SortOrder>
+				<Position>-31.940095+115.958737</Position>
+				</ExitPoint>
+			  </ExitPoints>
+			</Exit>
+		  </Exits>
+		<Entries>
+		  <Entry>
+			<Name>C</Name>
+			<EntryPoints>
+			  <EntryPoint>
+				<SortOrder>0</SortOrder>
+				<Position>-31.933999+115.970405</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>1</SortOrder>
+				<Position>-31.934002+115.970407</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>2</SortOrder>
+				<Position>-31.935024+115.970112</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>3</SortOrder>
+				<Position>-31.935073+115.970090</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>4</SortOrder>
+				<Position>-31.935224+115.970026</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>5</SortOrder>
+				<Position>-31.935329+115.969958</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>6</SortOrder>
+				<Position>-31.935442+115.969870</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>7</SortOrder>
+				<Position>-31.935535+115.969749</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>8</SortOrder>
+				<Position>-31.935604+115.969645</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>9</SortOrder>
+				<Position>-31.935683+115.969492</Position>
+				</EntryPoint>
+			  </EntryPoints>
+			</Entry>
+		  <Entry>
+			<Name>C</Name>
+			<EntryPoints>
+			  <EntryPoint>
+				<SortOrder>0</SortOrder>
+				<Position>-31.936905+115.969565</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>1</SortOrder>
+				<Position>-31.936373+115.969715</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>2</SortOrder>
+				<Position>-31.936258+115.969716</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>3</SortOrder>
+				<Position>-31.936161+115.969683</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>4</SortOrder>
+				<Position>-31.936100+115.969648</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>5</SortOrder>
+				<Position>-31.936045+115.969604</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>6</SortOrder>
+				<Position>-31.936002+115.969553</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>7</SortOrder>
+				<Position>-31.935954+115.969479</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>8</SortOrder>
+				<Position>-31.935918+115.969393</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>9</SortOrder>
+				<Position>-31.935901+115.969306</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>10</SortOrder>
+				<Position>-31.935899+115.969207</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>11</SortOrder>
+				<Position>-31.935910+115.969127</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>12</SortOrder>
+				<Position>-31.935929+115.969051</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>13</SortOrder>
+				<Position>-31.936149+115.968601</Position>
+				</EntryPoint>
+			  </EntryPoints>
+			</Entry>
+		  <Entry>
+			<Name>A</Name>
+			<EntryPoints>
+			  <EntryPoint>
+				<SortOrder>0</SortOrder>
+				<Position>-31.938248+115.964527</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>1</SortOrder>
+				<Position>-31.938344+115.964348</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>2</SortOrder>
+				<Position>-31.938370+115.964242</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>3</SortOrder>
+				<Position>-31.938393+115.964131</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>4</SortOrder>
+				<Position>-31.938395+115.964005</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>5</SortOrder>
+				<Position>-31.938383+115.963886</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>6</SortOrder>
+				<Position>-31.938350+115.963780</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>7</SortOrder>
+				<Position>-31.938280+115.963657</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>8</SortOrder>
+				<Position>-31.938205+115.963574</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>9</SortOrder>
+				<Position>-31.938130+115.963511</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>10</SortOrder>
+				<Position>-31.938006+115.963440</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>11</SortOrder>
+				<Position>-31.937899+115.963407</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>12</SortOrder>
+				<Position>-31.937526+115.963491</Position>
+				</EntryPoint>
+			  </EntryPoints>
+			</Entry>
+		  <Entry>
+			<Name>W</Name>
+			<EntryPoints>
+			  <EntryPoint>
+				<SortOrder>0</SortOrder>
+				<Position>-31.930601+115.976985</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>1</SortOrder>
+				<Position>-31.930677+115.977328</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>2</SortOrder>
+				<Position>-31.930717+115.977496</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>3</SortOrder>
+				<Position>-31.930888+115.978313</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>4</SortOrder>
+				<Position>-31.930908+115.978373</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>5</SortOrder>
+				<Position>-31.930938+115.978423</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>6</SortOrder>
+				<Position>-31.930966+115.978450</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>7</SortOrder>
+				<Position>-31.930998+115.978469</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>8</SortOrder>
+				<Position>-31.931022+115.978480</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>9</SortOrder>
+				<Position>-31.931041+115.978481</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>10</SortOrder>
+				<Position>-31.931062+115.978467</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>11</SortOrder>
+				<Position>-31.931091+115.978429</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>12</SortOrder>
+				<Position>-31.931140+115.978336</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>13</SortOrder>
+				<Position>-31.931194+115.978232</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>14</SortOrder>
+				<Position>-31.931276+115.978073</Position>
+				</EntryPoint>
+			  <EntryPoint>
+				<SortOrder>15</SortOrder>
+				<Position>-31.931497+115.977636</Position>
+				</EntryPoint>
+			  </EntryPoints>
+			</Entry>
+		  </Entries>
+		</Runway>
+	  </Runways>
+    </Airport>
+    <Airport>
+      <ICAO>YSSY</ICAO>
+      <Bays>
+        <Bay Name="I1">-335543.16+1511005.74</Bay>
+        <Bay Name="I2">-335547.53+1511002.09</Bay>
+        <Bay Name="I2A">-335546.96+1511003.52</Bay>
+        <Bay Name="I3">-335549.83+1511002.69</Bay>
+        <Bay Name="I3A">-335549.63+1511003.02</Bay>
+        <Bay Name="I3B">-335549.26+1511004.10</Bay>
+        <Bay Name="I4">-335552.13+1511003.28</Bay>
+        <Bay Name="I4A">-335551.56+1511004.69</Bay>
+        <Bay Name="I5">-335554.43+1511003.89</Bay>
+        <Bay Name="I5A">-335554.65+1511004.02</Bay>
+        <Bay Name="I6">-335556.87+1511004.27</Bay>
+        <Bay Name="I6A">-335556.82+1511004.53</Bay>
+        <Bay Name="I6B">-335558.77+1511004.54</Bay>
+        <Bay Name="I8">-335602.67+1511002.80</Bay>
+        <Bay Name="I9">-335605.47+1511003.38</Bay>
+        <Bay Name="I10">-335608.74+1511004.54</Bay>
+        <Bay Name="I11">-335603.01+1511011.67</Bay>
+        <Bay Name="I12">-335602.06+1511011.27</Bay>
+        <Bay Name="I24">-335611.39+1511009.11</Bay>
+        <Bay Name="I25">-335610.99+1511012.59</Bay>
+        <Bay Name="I30">-335615.33+1511006.36</Bay>
+        <Bay Name="I31">-335614.58+1511008.91</Bay>
+        <Bay Name="I32">-335617.60+1511007.13</Bay>
+        <Bay Name="I33">-335616.89+1511009.45</Bay>
+        <Bay Name="I34">-335619.86+1511007.90</Bay>
+        <Bay Name="I35">-335619.25+1511009.81</Bay>
+        <Bay Name="I36">-335622.11+1511008.86</Bay>
+        <Bay Name="I37">-335621.51+1511010.59</Bay>
+        <Bay Name="I50">-335618.85+1510955.22</Bay>
+        <Bay Name="I51">-335617.97+1510957.48</Bay>
+        <Bay Name="I53">-335620.24+1510958.25</Bay>
+        <Bay Name="I54">-335622.31+1510953.12</Bay>
+        <Bay Name="I55">-335621.66+1511000.11</Bay>
+        <Bay Name="I56">-335622.77+1510951.20</Bay>
+        <Bay Name="I57">-335622.60+1510959.32</Bay>
+        <Bay Name="I58">-335623.64+1510957.78</Bay>
+        <Bay Name="I59">-335624.12+1510955.01</Bay>
+        <Bay Name="I60">-335624.82+1510952.28</Bay>
+        <Bay Name="I61">-335625.50+1510950.61</Bay>
+        <Bay Name="I63">-335623.84+1510950.42</Bay>
+        <Bay Name="I71">-335639.20+1511020.25</Bay>
+        <Bay Name="I72">-335639.80+1511017.16</Bay>
+        <Bay Name="I73">-335643.36+1511014.90</Bay>
+        <Bay Name="I73A">-335641.27+1511014.13</Bay>
+        <Bay Name="I74">-335644.19+1511011.56</Bay>
+        <Bay Name="I74A">-335642.11+1511010.56</Bay>
+        <Bay Name="I75">-335644.83+1511008.85</Bay>
+        <Bay Name="I75A">-335642.88+1511007.29</Bay>
+        <Bay Name="I76">-335645.46+1511006.13</Bay>
+        <Bay Name="I77">-335646.07+1511003.41</Bay>
+        <Bay Name="I77A">-335644.03+1511002.41</Bay>
+        <Bay Name="I83B">-335538.29+1511028.90</Bay>
+        <Bay Name="I84">-335539.43+1511030.13</Bay>
+        <Bay Name="I85">-335541.74+1511030.70</Bay>
+        <Bay Name="I85A">-335540.98+1511029.56</Bay>
+        <Bay Name="I85B">-335542.26+1511030.53</Bay>
+        <Bay Name="20">-335542.47+1511030.54</Bay>
+        <Bay Name="21">-335542.43+1511028.99</Bay>
+        <Bay Name="22">-335539.21+1511028.99</Bay>
+        <Bay Name="1">-335555.04+1511050.57</Bay>
+        <Bay Name="2">-335554.76+1511048.81</Bay>
+        <Bay Name="3">-335554.49+1511046.85</Bay>
+        <Bay Name="4">-335554.37+1511044.77</Bay>
+        <Bay Name="5">-335553.97+1511042.76</Bay>
+        <Bay Name="6">-335553.79+1511040.78</Bay>
+        <Bay Name="7">-335552.98+1511039.12</Bay>
+        <Bay Name="7A">-335553.60+1511038.91</Bay>
+        <Bay Name="8">-335552.50+1511037.62</Bay>
+        <Bay Name="9">-335551.95+1511036.17</Bay>
+        <Bay Name="10">-335552.08+1511034.68</Bay>
+        <Bay Name="11">-335554.03+1511035.58</Bay>
+        <Bay Name="64">-335545.74+1511057.73</Bay>
+        <Bay Name="65">-335547.12+1511057.71</Bay>
+        <Bay Name="66">-335548.57+1511057.39</Bay>
+        <Bay Name="67">-335549.88+1511057.11</Bay>
+        <Bay Name="68">-335551.18+1511056.83</Bay>
+        <Bay Name="69">-335552.49+1511056.55</Bay>
+        <Bay Name="70">-335552.21+1511057.97</Bay>
+        <Bay Name="12">-335555.12+1511035.41</Bay>
+        <Bay Name="13">-335555.72+1511036.33</Bay>
+        <Bay Name="14">-335555.93+1511036.70</Bay>
+        <Bay Name="16">-335557.49+1511037.00</Bay>
+        <Bay Name="17">-335558.99+1511037.52</Bay>
+        <Bay Name="17A">-335559.17+1511037.28</Bay>
+        <Bay Name="17B">-335558.98+1511036.12</Bay>
+        <Bay Name="18">-335559.62+1511039.61</Bay>
+        <Bay Name="18A">-335559.59+1511038.76</Bay>
+        <Bay Name="19">-335601.64+1511038.88</Bay>
+        <Bay Name="19A">-335600.68+1511036.77</Bay>
+        <Bay Name="19B">-335600.67+1511035.95</Bay>
+        <Bay Name="49">-335602.89+1511038.10</Bay>
+        <Bay Name="48B">-335602.62+1511036.25</Bay>
+        <Bay Name="53">-335604.73+1511037.72</Bay>
+        <Bay Name="53B">-335604.46+1511035.86</Bay>
+        <Bay Name="55">-335606.58+1511037.41</Bay>
+        <Bay Name="55B">-335606.32+1511035.58</Bay>
+        <Bay Name="57">-335608.21+1511037.15</Bay>
+        <Bay Name="57A">-335608.13+1511036.50</Bay>
+        <Bay Name="57B">-335607.71+1511035.85</Bay>
+        <Bay Name="59">-335609.36+1511037.69</Bay>
+        <Bay Name="120">-335635.21+1511048.72</Bay>
+        <Bay Name="120A">-335637.00+1511047.88</Bay>
+        <Bay Name="120B">-335636.64+1511049.39</Bay>
+        <Bay Name="121">-335634.68+1511051.11</Bay>
+        <Bay Name="121A">-335636.09+1511051.71</Bay>
+        <Bay Name="121B">-335635.56+1511053.17</Bay>
+        <Bay Name="31">-335605.15+1511045.65</Bay>
+        <Bay Name="31A">-335605.33+1511044.69</Bay>
+        <Bay Name="31B">-335604.93+1511044.15</Bay>
+        <Bay Name="33">-335606.94+1511045.61</Bay>
+        <Bay Name="33A">-335607.03+1511044.33</Bay>
+        <Bay Name="33B">-335606.68+1511043.86</Bay>
+        <Bay Name="35">-335608.82+1511044.97</Bay>
+        <Bay Name="35A">-335608.61+1511043.46</Bay>
+        <Bay Name="39">-335610.61+1511044.76</Bay>
+        <Bay Name="39A">-335610.32+1511043.72</Bay>
+        <Bay Name="39B">-335610.39+1511042.98</Bay>
+        <Bay Name="41">-335611.82+1511044.23</Bay>
+        <Bay Name="43">-335613.21+1511043.86</Bay>
+        <Bay Name="45">-335613.73+1511045.29</Bay>
+        <Bay Name="52">-335605.43+1511039.38</Bay>
+        <Bay Name="54">-335606.83+1511039.09</Bay>
+        <Bay Name="54A">-335606.91+1511039.99</Bay>
+        <Bay Name="56">-335608.22+1511038.81</Bay>
+        <Bay Name="58">-335609.39+1511038.66</Bay>
+        <Bay Name="45A">-335613.84+1511045.33</Bay>
+        <Bay Name="44">-335612.43+1511046.94</Bay>
+        <Bay Name="44A">-335613.02+1511046.72</Bay>
+        <Bay Name="32">-335605.18+1511048.54</Bay>
+        <Bay Name="32A">-335605.05+1511049.30</Bay>
+        <Bay Name="34">-335606.27+1511047.71</Bay>
+        <Bay Name="34A">-335606.33+1511048.46</Bay>
+        <Bay Name="36">-335607.95+1511047.29</Bay>
+        <Bay Name="38">-335609.44+1511046.85</Bay>
+        <Bay Name="40">-335610.87+1511046.86</Bay>
+        <Bay Name="42">-335612.29+1511046.92</Bay>
+        <Bay Name="F1">-335605.87+1511052.53</Bay>
+        <Bay Name="F2">-335607.11+1511052.27</Bay>
+        <Bay Name="F3">-335607.86+1511052.34</Bay>
+        <Bay Name="F3A">-335608.30+1511052.52</Bay>
+        <Bay Name="F4">-335609.19+1511053.04</Bay>
+        <Bay Name="F4A">-335609.41+1511052.52</Bay>
+        <Bay Name="F4B">-335609.55+1511051.76</Bay>
+        <Bay Name="F5">-335610.48+1511052.95</Bay>
+        <Bay Name="F5A">-335610.77+1511052.35</Bay>
+        <Bay Name="F5B">-335610.92+1511051.82</Bay>
+        <Bay Name="F6">-335611.61+1511052.83</Bay>
+        <Bay Name="F6A">-335612.22+1511052.36</Bay>
+        <Bay Name="F6B">-335612.52+1511051.93</Bay>
+        <Bay Name="F7">-335612.43+1511053.81</Bay>
+        <Bay Name="F7A">-335612.08+1511054.02</Bay>
+        <Bay Name="F8">-335610.89+1511054.08</Bay>
+        <Bay Name="F9">-335609.31+1511054.62</Bay>
+        <Bay Name="F10">-335609.57+1511057.18</Bay>
+        <Bay Name="F11">-335610.77+1511056.94</Bay>
+        <Bay Name="F12">-335611.86+1511056.84</Bay>
+        <Bay Name="F13">-335610.20+1511100.94</Bay>
+        <Bay Name="F13A">-335610.85+1511100.81</Bay>
+        <Bay Name="F13B">-335609.55+1511100.61</Bay>
+        <Bay Name="F14">-335609.51+1511101.84</Bay>
+        <Bay Name="F15">-335609.72+1511102.68</Bay>
+        <Bay Name="F15A">-335610.30+1511102.39</Bay>
+        <Bay Name="F15B">-335609.76+1511103.27</Bay>
+        <Bay Name="F15C">-335609.47+1511103.72</Bay>
+        <Bay Name="F16">-335609.51+1511104.66</Bay>
+        <Bay Name="F16A">-335610.03+1511104.18</Bay>
+        <Bay Name="90">-335606.77+1511105.85</Bay>
+        <Bay Name="90A">-335606.34+1511105.99</Bay>
+        <Bay Name="90B">-335607.22+1511105.29</Bay>
+        <Bay Name="90C">-335606.94+1511105.78</Bay>
+        <Bay Name="91">-335606.97+1511107.25</Bay>
+        <Bay Name="91A">-335606.56+1511107.54</Bay>
+        <Bay Name="91B">-335607.60+1511107.42</Bay>
+        <Bay Name="92">-335607.87+1511108.98</Bay>
+        <Bay Name="92A">-335607.15+1511108.83</Bay>
+        <Bay Name="92B">-335608.48+1511108.89</Bay>
+        <Bay Name="93">-335606.90+1511110.08</Bay>
+        <Bay Name="93A">-335606.49+1511111.78</Bay>
+        <Bay Name="93B">-335607.49+1511110.15</Bay>
+        <Bay Name="93C">-335607.95+1511110.27</Bay>
+        <Bay Name="94">-335607.28+1511111.81</Bay>
+        <Bay Name="94B">-335607.89+1511111.89</Bay>
+        <Bay Name="96">-335606.58+1511116.20</Bay>
+        <Bay Name="96A">-335606.72+1511116.28</Bay>
+        <Bay Name="96B">-335606.91+1511116.50</Bay>
+        <Bay Name="96C">-335605.57+1511117.14</Bay>
+        <Bay Name="102">-335604.56+1511117.97</Bay>
+        <Bay Name="103">-335604.44+1511117.16</Bay>
+        <Bay Name="104">-335604.32+1511116.36</Bay>
+        <Bay Name="105">-335603.00+1511118.60</Bay>
+        <Bay Name="106">-335602.89+1511117.79</Bay>
+        <Bay Name="107">-335602.77+1511116.99</Bay>
+        <Bay Name="112">-335601.47+1511121.95</Bay>
+        <Bay Name="112A">-335601.69+1511123.46</Bay>
+        <Bay Name="97">-335607.73+1511122.58</Bay>
+        <Bay Name="97A">-335606.38+1511122.53</Bay>
+        <Bay Name="97B">-335606.44+1511120.79</Bay>
+        <Bay Name="97C">-335606.65+1511123.30</Bay>
+        <Bay Name="98">-335607.04+1511125.28</Bay>
+        <Bay Name="98A">-335605.72+1511125.33</Bay>
+        <Bay Name="98B">-335606.26+1511124.42</Bay>
+        <Bay Name="99">-335606.32+1511127.97</Bay>
+        <Bay Name="99A">-335605.13+1511127.82</Bay>
+      </Bays>
+      <Runways>
+        <Runway>
+          <Name>07</Name>
+          <Exits />
+          <Entries />
+        </Runway>
+        <Runway>
+          <Name>16L</Name>
+          <Exits />
+          <Entries />
+        </Runway>
+        <Runway>
+          <Name>16R</Name>
+          <Exits />
+          <Entries />
+        </Runway>
+        <Runway>
+          <Name>25</Name>
+          <Exits />
+          <Entries />
+        </Runway>
+        <Runway>
+          <Name>34L</Name>
+          <Exits>
+            <Exit>
+              <Name>B8</Name>
+              <ExitPoints>
+                <ExitPoint>
+                  <SortOrder>0</SortOrder>
+                  <Position>-33.947556+151.176273</Position>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>1</SortOrder>
+                  <Position>-33.946618+151.176473</Position>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>2</SortOrder>
+                  <Position>-33.945603+151.176685</Position>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>3</SortOrder>
+                  <Position>-33.944389+151.177101</Position>
+                </ExitPoint>
+              </ExitPoints>
+            </Exit>
+          </Exits>
+          <Entries>
+            <Entry>
+              <Name>A5</Name>
+              <EntryPoints>
+                <EntryPoint>
+                  <SortOrder>0</SortOrder>
+                  <Position>-33.958945+151.178347</Position>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>1</SortOrder>
+                  <Position>-33.958673+151.178869</Position>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>2</SortOrder>
+                  <Position>-33.958336+151.179098</Position>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>3</SortOrder>
+                  <Position>-33.958179+151.179049</Position>
+                </EntryPoint>
+              </EntryPoints>
+            </Entry>
+            <Entry>
+              <Name>A6</Name>
+              <EntryPoints>
+                <EntryPoint>
+                  <SortOrder>0</SortOrder>
+                  <Position>-33.964301+151.179840</Position>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>1</SortOrder>
+                  <Position>-33.964153+151.180354</Position>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>2</SortOrder>
+                  <Position>-33.963988+151.180541</Position>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>3</SortOrder>
+                  <Position>-33.963823+151.180507</Position>
+                </EntryPoint>
+              </EntryPoints>
+            </Entry>
+          </Entries>
+        </Runway>
+        <Runway>
+          <Name>34R</Name>
+          <Exits>
+            <Exit>
+              <Name>T2</Name>
+              <ExitPoints>
+                <ExitPoint>
+                  <SortOrder>0</SortOrder>
+                  <Position>-33.959621+151.190893</Position>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>1</SortOrder>
+                  <Position>-33.958623+151.190208</Position>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>2</SortOrder>
+                  <Position>-33.957709+151.189205</Position>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>3</SortOrder>
+                  <Position>-33.957368+151.188848</Position>
+                </ExitPoint>
+              </ExitPoints>
+            </Exit>
+            <Exit>
+              <Name>U1</Name>
+              <ExitPoints>
+                <ExitPoint>
+                  <SortOrder>0</SortOrder>
+                  <Position>-33.954506+151.189573</Position>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>1</SortOrder>
+                  <Position>-33.953254+151.188729</Position>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>2</SortOrder>
+                  <Position>-33.952199+151.187727</Position>
+                </ExitPoint>
+                <ExitPoint>
+                  <SortOrder>3</SortOrder>
+                  <Position>-33.951529+151.187030</Position>
+                </ExitPoint>
+              </ExitPoints>
+            </Exit>
+          </Exits>
+          <Entries>
+            <Entry>
+              <Name>B6</Name>
+              <EntryPoints>
+                <EntryPoint>
+                  <SortOrder>0</SortOrder>
+                  <Position>-33.971201+151.192826</Position>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>1</SortOrder>
+                  <Position>-33.970937+151.193574</Position>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>2</SortOrder>
+                  <Position>-33.970657+151.193731</Position>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>3</SortOrder>
+                  <Position>-33.970393+151.193684</Position>
+                </EntryPoint>
+              </EntryPoints>
+            </Entry>
+            <Entry>
+              <Name>B5</Name>
+              <EntryPoints>
+                <EntryPoint>
+                  <SortOrder>0</SortOrder>
+                  <Position>-33.970474+151.192946</Position>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>1</SortOrder>
+                  <Position>-33.970370+151.193408</Position>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>2</SortOrder>
+                  <Position>-33.970194+151.193612</Position>
+                </EntryPoint>
+                <EntryPoint>
+                  <SortOrder>3</SortOrder>
+                  <Position>-33.970066+151.193594</Position>
+                </EntryPoint>
+              </EntryPoints>
+            </Entry>
+          </Entries>
+        </Runway>
+      </Runways>
+    </Airport>
+    <Airport>
       <ICAO>YBBN</ICAO>
       <Bays>
         <Bay Name="1A">-272252.73+1530721.17</Bay>
