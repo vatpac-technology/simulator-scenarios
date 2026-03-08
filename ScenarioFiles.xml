@@ -7530,4 +7530,282 @@ Have fun :)</InstructorNotes>
     </Aircraft>
   </Targets>
 </ScenarioFile>
+<ScenarioFile>
+<Name>Ground/Tower Perth 21AD24A (Auto-Timed)</Name>
+<Type>Tower</Type>
+<UseGRIB xsi:nil="true" />
+<StudentBriefing>This scenario can be used for both S1 and S2 sessions.
+
+S1 BRIEFING
+You are operating Perth Ground. The Southwest Runway Plan is active.
+
+Perth Approach and Perth Tower are both online.
+
+S2 BRIEFING
+You are operating Perth Tower. Perth Approach, [Perth Ground, and Perth Ground West (optional)] are online.
+
+</StudentBriefing>
+<InstructorNotes>This scenario can be used for both S1 and S2 sessions
+
+The first arrival lands around 5 minutes in and the last arrival is about 40 mins in.
+
+S1 BRIEFING
+This scenario gives students practice with runway crossings and general operations at Perth.
+
+XYZ presents an opportunity to discuss ACD to TCU coordination.
+
+S2
+This scenario gives students an opportunity to practice crossing runway operations. 
+
+VOZ22 presents an opportunity to discuss wake turbulence separation, both with other arrivals and with departures behind.
+
+JST96 and VOZ462 will be very close on approach, with less than a minute separating their touchdown times. Without intervention, VOZ462 will clear the intersection _just_ prior to JST96's arrival. It's a good opportunity for students to identify the potential conflict and to discuss separation.
+
+QFA887 and VOZ9364 will be in conflict. student will need to identify and resolve.
+
+XYZ presents an opportunity to discuss a 'Next' call.
+</InstructorNotes>
+<Targets>
+<Aircraft Callsign="NWK1616" Type="F100" Delay="0" StartAuto="true">
+  <Squawk Code="2000" ModeC="false" />
+  <Position Latitude="-31.937313368055563" Longitude="115.96089409722221" Speed="0" Altitude="0" />
+  <FlightPlan Departure="YPPH" Destination="YPBO" Alternative="YPLM" Active="false" CruiseSpeed="350" RFL="29000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AVNEX Y15 ESDEG Y44 PEXOR V653 PBO DCT</FlightPlan>
+  <Route>AVNEX ESDEG KAYOK IGASO PEXOR PBO</Route>
+  <TimedMessages>
+	<TimedMessage Time="10" Message="Request clearance to Paraburdoo" />
+	<TimedMessage Time="220" Message="Request push" />
+	<TimedMessage Time="370" Message="Request taxi (D int.)" />
+  </TimedMessages>
+</Aircraft>
+<Aircraft Callsign="SND808" Type="A320" Delay="0" StartAuto="true">
+  <Squawk Code="2000" ModeC="false" />
+  <Position Latitude="-31.92876085069445" Longitude="115.95954861111112" Speed="0" Altitude="0" />
+  <FlightPlan Departure="YPPH" Destination="YKBA" Alternative="YPLM" Active="false" CruiseSpeed="350" RFL="33000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AVNEX Y15 ESDEG Q587 PADRY DCT</FlightPlan>
+  <Route>AVNEX ESDEG WOLGO PADRY</Route>
+  <TimedMessages>
+	<TimedMessage Time="60" Message="Request clearance to Kens Bore" />
+	<TimedMessage Time="280" Message="Request push" />
+	<TimedMessage Time="430" Message="Request taxi" />
+  </TimedMessages>
+</Aircraft>
+<Aircraft Callsign="VOZ9245" Type="A320" Delay="0" StartAuto="true">
+  <Squawk Code="2000" ModeC="false" />
+  <Position Latitude="-31.944175347222227" Longitude="115.96836805555557" Speed="0" Altitude="0" />
+  <FlightPlan Departure="YPPH" Destination="YANG" Alternative="YPLM" Active="false" CruiseSpeed="350" RFL="37000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AVNEX Y15 ESDEG Y60 TUSVA DCT GOKUP DCT</FlightPlan>
+  <Route>AVNEX ESDEG PALTI ISDOR TUSVA GOKUP</Route>
+  <TimedMessages>
+	<TimedMessage Time="110" Message="Request clearance to West Angelas" />
+	<TimedMessage Time="320" Message="Request push" />
+	<TimedMessage Time="470" Message="Request taxi" />
+  </TimedMessages>
+</Aircraft>
+<Aircraft Callsign="XYZ" Type="C172" Delay="200" StartAuto="true">
+  <Squawk Code="2000" ModeC="false" />
+  <Position Latitude="-31.925260416666664" Longitude="115.96565972222224" Speed="0" Altitude="0" />
+  <FlightPlan Departure="YPPH" Destination="YRTI" Alternative="YPJT" Active="false" Rules="V" CruiseSpeed="120" RFL="2500" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PCTY CTE DCT</FlightPlan>
+  <Route>PCTY CTE YRTI</Route>
+  <TimedMessages>
+	<TimedMessage Time="230" Message="VFR Cessna 172, request clearance to Rottnest Island" />
+	<TimedMessage Time="400" Message="Request taxi" />
+  </TimedMessages>
+</Aircraft>
+<Aircraft Callsign="VOZ9369" Type="B737" Delay="600" StartAuto="true">
+  <Squawk Code="2000" ModeC="false" />
+  <Position Latitude="-31.943062065972217" Longitude="115.97104166666668" Speed="0" Altitude="0" />
+  <FlightPlan Departure="YPPH" Destination="YKDD" Alternative="YPLM" Active="false" CruiseSpeed="350" RFL="31000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AVNEX Y15 ESDEG Y60 GUVNA DCT</FlightPlan>
+  <Route>AVNEX ESDEG PALTI ISDOR TUSVA GUVNA</Route>
+  <TimedMessages>
+	<TimedMessage Time="700" Message="Request clearance to Gudai-Darri Mine" />
+	<TimedMessage Time="810" Message="Request push" />
+	<TimedMessage Time="960" Message="Request taxi" />
+  </TimedMessages>
+</Aircraft>
+<Aircraft Callsign="UTY6302" Type="F100" Delay="1000" StartAuto="true">
+  <Squawk Code="2000" ModeC="false" />
+  <Position Latitude="-31.945008680555556" Longitude="115.9695486111111" Speed="0" Altitude="0" />
+  <FlightPlan Departure="YPPH" Destination="YPKG" Alternative="YPLM" Active="false" CruiseSpeed="350" RFL="27000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AMANA Y31 LAKIR Y69 BOSLI Y67 KG DCT</FlightPlan>
+  <Route>AMANA LAKIR BOSLI YAHMO DOGBU KG</Route>
+  <TimedMessages>
+	<TimedMessage Time="1110" Message="Request clearance to Kalgoorlie" />
+	<TimedMessage Time="1220" Message="Request push" />
+	<TimedMessage Time="1370" Message="Request taxi (N intersection)" />
+  </TimedMessages>
+</Aircraft>
+<Aircraft Callsign="RXA2353" Type="SF34" Delay="1200" StartAuto="true">
+  <Squawk Code="2000" ModeC="false" />
+  <Position Latitude="-31.945581597222223" Longitude="115.97031250000002" Speed="0" Altitude="0" />
+  <FlightPlan Departure="YPPH" Destination="YESP" Alternative="YPLM" Active="false" CruiseSpeed="350" RFL="17000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PH Z44 ESP DCT</FlightPlan>
+  <Route>PUMRY ESP</Route>
+  <TimedMessages>
+	<TimedMessage Time="1300" Message="Request clearance to Esperance" />
+	<TimedMessage Time="1420" Message="Request push" />
+	<TimedMessage Time="1570" Message="Request taxi (P intersection)" />
+  </TimedMessages>
+</Aircraft>
+<Aircraft Callsign="QFA642" Type="B738" Delay="1400" StartAuto="true">
+  <Squawk Code="2000" ModeC="false" />
+  <Position Latitude="-31.93336154513889" Longitude="115.96188368055554" Speed="0" Altitude="0" />
+  <FlightPlan Departure="YPPH" Destination="YSSY" Alternative="YPLM" Active="false" CruiseSpeed="350" RFL="33000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT MUBID J21 BORLI H205 CULIN Y59 RIVET DCT</FlightPlan>
+  <Route>MUBID OLRUX IVPEM ISLAV ABTOD AKDAV WHA KABEK IBABI IGIPA UVUPU BORLI CULIN TARAL RIVET</Route>
+<TimedMessages>
+	<TimedMessage Time="1510" Message="Request clearance to Sydney" />
+	<TimedMessage Time="1620" Message="Request push" />
+	<TimedMessage Time="1770" Message="Request taxi" />
+  </TimedMessages>
+</Aircraft>
+<Aircraft Callsign="QFA770" Type="B738" Delay="1600" StartAuto="true">
+  <Squawk Code="2000" ModeC="false" />
+  <Position Latitude="-31.934602864583336" Longitude="115.96134548611111" Speed="0" Altitude="0" />
+  <FlightPlan Departure="YPPH" Destination="YMML" Alternative="YPLM" Active="false" CruiseSpeed="350" RFL="33000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT MEMUP Y53 ALAXO DCT</FlightPlan>
+  <Route>MEMUP VIMUS RIDLE ROMPA RUFLE BUNGY MTG TYNDI ALAXO</Route>
+  <TimedMessages>
+	<TimedMessage Time="1710" Message="Request clearance to Melbourne" />
+	<TimedMessage Time="1820" Message="Request push" />
+	<TimedMessage Time="1970" Message="Request taxi" />
+  </TimedMessages>
+</Aircraft>
+<Aircraft Callsign="VOZ463" Type="B737" Delay="1800" StartAuto="true">
+  <Squawk Code="2000" ModeC="false" />
+  <Position Latitude="-31.941848958333335" Longitude="115.97165798611111" Speed="0" Altitude="0" />
+  <FlightPlan Departure="YPPH" Destination="YBBN" Alternative="YPLM" Active="false" CruiseSpeed="350" RFL="36000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AMANA Y31 LAKIR Y69 BOSLI Y67 KG J141 LEC T33 ANROM Y62 IGDIT Y27 BN DCT</FlightPlan>
+  <Route>LAKIR BOSLI YAHMO DOBGU KG SEVSI SEEMO FRT BEZZA RUSAD LEC EVIEC MACLA IPRAM ANROM IGDIT GOPVO AVBOS EMTID SUKTU EDPEG ENLIP</Route>
+  <TimedMessages>
+	<TimedMessage Time="1910" Message="Request clearance to Brisbane" />
+	<TimedMessage Time="2020" Message="Request push" />
+	<TimedMessage Time="2170" Message="Request taxi" />
+  </TimedMessages>
+</Aircraft>
+<Aircraft Callsign="QFA9" Type="B789" Delay="2000" StartAuto="true">
+  <Squawk Code="2000" ModeC="false" />
+  <Position Latitude="-31.935753038194445" Longitude="115.96089409722221" Speed="0" Altitude="0" />
+  <FlightPlan Departure="YPPH" Destination="EGLL" Alternative="YPLM" Active="false" CruiseSpeed="350" RFL="36000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OPEGA DCT 3021S11209E 2629S10758E 2541S10701E 2216S10254E 2013S10030E 1620S09641E 1237S09336E 0925S09046E 0535S08718E DCT KADAP DCT 0215N08022E DCT PADLA DCT SEBLO DCT 0856N07410E 1045N07200E 1242N06937E DCT METIP P570 TEGOR/N0492F380 P570 EMURU N563 SODEX DCT BOSEV Q565 UKUVO G462 PURLI G462 TUMAK L602 BOPOV L602 EGNIM L602 DAVUS L602 GADSI M860 SEPTU DCT VUSEB M860 NINVA UM860 ODALI UL852 NEGEM DCT ARGES DCT DEGET DCT ABETI DCT RENKA DCT INBED DCT BOMBI DCT ADKUV DCT SOGRI DCT DENUT L608 LOGAN DCT</FlightPlan>
+  <Route>OPEGA UNDER KADAP</Route>
+  <TimedMessages>
+	<TimedMessage Time="2110" Message="Request clearance to London Heathrow" />
+	<TimedMessage Time="2222" Message="Request push" />
+	<TimedMessage Time="2370" Message="Request taxi" />
+  </TimedMessages>
+</Aircraft>
+<Aircraft Callsign="VOZ9429" Type="B737" Delay="2200" StartAuto="true">
+  <Squawk Code="2000" ModeC="false" />
+  <Position Latitude="-31.944819878472224" Longitude="115.9686545138889" Speed="0" Altitude="0" />
+  <FlightPlan Departure="YPPH" Destination="YBLN" Alternative="YPLM" Active="false" CruiseSpeed="350" RFL="36000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLMAM W20 BLN DCT</FlightPlan>
+  <Route>OLMAM BLN</Route>
+  <TimedMessages>
+	<TimedMessage Time="2310" Message="Request clearance to Paraburdoo" />
+	<TimedMessage Time="2420" Message="Request push" />
+	<TimedMessage Time="2570" Message="Request taxi" />
+  </TimedMessages>
+</Aircraft>
+<Aircraft Callsign="JTE103" Type="E190" Delay="0" StartAuto="true">
+  <Squawk Code="4002" ModeC="true" />
+  <Cleared Approach="true" />
+  <Position Latitude="-31.42860985" Longitude="116.28499603" Speed="180" Altitude="2400" />
+  <FlightPlan Departure="YTRA" Destination="YPPH" Alternative="YGEL" Active="true" CruiseSpeed="350" RFL="36000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT YIREE WOORA HAIGH YPPH/21</FlightPlan>
+  <Route>YIREE WOORA HAIGH RWY21 YPPH</Route>
+</Aircraft>
+<Aircraft Callsign="QLK1639" Type="A320" Delay="0" StartAuto="true">
+  <Squawk Code="4003" ModeC="true" />
+  <Cleared Approach="true" />
+  <Position Latitude="-29.53750038" Longitude="116.96055603" Speed="180" Altitude="2400" />
+  <FlightPlan Departure="YPPD" Destination="YPPH" Alternative="YGEL" Active="true" CruiseSpeed="350" RFL="36000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT AVPAL HINDS CALIG JULIM YIREE WOORA HAIGH YPPH/21</FlightPlan>
+  <Route>AVPAL HINDS CALIG JULIM YIREE WOORA HAIGH RWY21 YPPH</Route>
+</Aircraft>
+<Aircraft Callsign="VOZ22" Type="B77W" Delay="0" StartAuto="true">
+  <Squawk Code="1077" ModeC="true" />
+  <Cleared Approach="true" />
+  <Position Latitude="-31.05027771" Longitude="116.44000244" Speed="180" Altitude="2400" />
+  <FlightPlan Departure="OTHH" Destination="YPPH" Alternative="YGEL" Active="true" CruiseSpeed="350" RFL="35000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT JULIM YIREE WOORA HAIGH YPPH/21</FlightPlan>
+  <Route>JULIM YIREE WOORA HAIGH RWY21 YPPH</Route>
+</Aircraft>
+<Aircraft Callsign="JST96" Type="A21N" Delay="0" StartAuto="true">
+  <Squawk Code="1012" ModeC="true" />
+  <Cleared Approach="true" />
+  <Position Latitude="-30.84527779" Longitude="116.51917267" Speed="180" Altitude="2400" />
+  <FlightPlan Departure="WSSS" Destination="YPPH" Alternative="YGEL" Active="true" CruiseSpeed="350" RFL="35000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CALIG JULIM YIREE WOORA HAIGH YPPH/21</FlightPlan>
+  <Route>CALIG JULIM YIREE WOORA HAIGH RWY21 YPPH</Route>
+</Aircraft>
+<Aircraft Callsign="VOZ1482" Type="B738" Delay="0" StartAuto="true">
+  <Squawk Code="4004" ModeC="true" />
+  <Cleared Approach="true" />
+  <Position Latitude="-29.33250046" Longitude="117.04694366" Speed="180" Altitude="2400" />
+  <FlightPlan Departure="YBRM" Destination="YPPH" Alternative="YGEL" Active="true" CruiseSpeed="350" RFL="36000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HINDS CALIG JULIM YIREE WOORA HAIGH YPPH/21</FlightPlan>
+  <Route>HINDS CALIG JULIM YIREE WOORA HAIGH RWY21 YPPH</Route>
+</Aircraft>
+<Aircraft Callsign="JST76" Type="A21N" Delay="0" StartAuto="true">
+  <Squawk Code="1010" ModeC="true" />
+  <Cleared Approach="true" />
+  <Position Latitude="-30.40444374" Longitude="116.69166565" Speed="180" Altitude="2400" />
+  <FlightPlan Departure="VTBS" Destination="YPPH" Alternative="YGEL" Active="true" CruiseSpeed="350" RFL="36000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HINDS CALIG JULIM YIREE WOORA HAIGH YPPH/21</FlightPlan>
+  <Route>HINDS CALIG JULIM YIREE WOORA HAIGH RWY21 YPPH</Route>
+</Aircraft>
+<Aircraft Callsign="NWK1661" Type="A21N" Delay="0" StartAuto="true">
+  <Squawk Code="4001" ModeC="true" />
+  <Cleared Approach="true" />
+  <Position Latitude="-30.17611122" Longitude="116.77528381" Speed="180" Altitude="2400" />
+  <FlightPlan Departure="YOLW" Destination="YPPH" Alternative="YGEL" Active="true" CruiseSpeed="350" RFL="36000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HINDS CALIG JULIM YIREE WOORA HAIGH YPPH/21</FlightPlan>
+  <Route>HINDS CALIG JULIM YIREE WOORA HAIGH RWY21 YPPH</Route>
+</Aircraft>
+<Aircraft Callsign="VOZ9364" Type="B738" Delay="0" StartAuto="true">
+  <Squawk Code="4071" ModeC="true" />
+  <Cleared Approach="true" />
+  <Position Latitude="-29.97361183" Longitude="116.82555389" Speed="180" Altitude="2400" />
+  <FlightPlan Departure="YKDD" Destination="YPPH" Alternative="YGEL" Active="true" CruiseSpeed="350" RFL="36000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT HINDS CALIG JULIM YIREE WOORA HAIGH YPPH/21</FlightPlan>
+  <Route>HINDS CALIG JULIM YIREE WOORA HAIGH RWY21 YPPH</Route>
+</Aircraft>
+<Aircraft Callsign="QFA1673" Type="A319" Delay="0" StartAuto="true">
+  <Squawk Code="4005" ModeC="true" />
+  <Cleared Approach="true" />
+  <Position Latitude="-31.88861084" Longitude="116.43638611" Speed="180" Altitude="3000" />
+  <FlightPlan Departure="YMHB" Destination="YPPH" Alternative="YGEL" Active="true" CruiseSpeed="350" RFL="36000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT VEPAN MUMOS ROLOB SPUDO KOORI YPPH/24</FlightPlan>
+  <Route>VEPAN MUMOS ROLOB SPUDO KOORI RWY24 YPPH</Route>
+</Aircraft>
+<Aircraft Callsign="VOZ679" Type="B38M" Delay="0" StartAuto="true">
+  <Squawk Code="4007" ModeC="true" />
+  <Cleared Approach="true" />
+  <Position Latitude="-32.09999847" Longitude="116.77777863" Speed="180" Altitude="3000" />
+  <FlightPlan Departure="YMML" Destination="YPPH" Alternative="YGEL" Active="true" CruiseSpeed="350" RFL="36000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BOOKA DUDIN VEPAN MUMOS ROLOB SPUDO KOORI YPPH/24</FlightPlan>
+  <Route>BOOKA DUDIN VEPAN MUMOS ROLOB SPUDO KOORI RWY24 YPPH</Route>
+</Aircraft>
+<Aircraft Callsign="VOZ462" Type="B38M" Delay="0" StartAuto="true">
+  <Squawk Code="4008" ModeC="true" />
+  <Cleared Approach="true" />
+  <Position Latitude="-32.22750092" Longitude="117.09056091" Speed="180" Altitude="3000" />
+  <FlightPlan Departure="YBBN" Destination="YPPH" Alternative="YGEL" Active="true" CruiseSpeed="350" RFL="36000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KABLI BOOKA DUDIN VEPAN MUMOS ROLOB SPUDO KOORI YPPH/24</FlightPlan>
+  <Route>KABLI BOOKA DUDIN VEPAN MUMOS ROLOB SPUDO KOORI RWY24 YPPH</Route>
+</Aircraft>
+<Aircraft Callsign="ANZ175" Type="B789" Delay="0" StartAuto="true">
+  <Squawk Code="1013" ModeC="true" />
+  <Cleared Approach="true" />
+  <Position Latitude="-32.29083252" Longitude="117.35694122" Speed="180" Altitude="3000" />
+  <FlightPlan Departure="NZAA" Destination="YPPH" Alternative="YGEL" Active="true" CruiseSpeed="350" RFL="36000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KABLI BOOKA DUDIN VEPAN MUMOS ROLOB SPUDO KOORI YPPH/24</FlightPlan>
+  <Route>KABLI BOOKA DUDIN VEPAN MUMOS ROLOB SPUDO KOORI RWY24 YPPH</Route>
+</Aircraft>
+<Aircraft Callsign="JST972" Type="A21N" Delay="0" StartAuto="true">
+  <Squawk Code="4006" ModeC="true" />
+  <Cleared Approach="true" />
+  <Position Latitude="-32.35583115" Longitude="117.6297226" Speed="180" Altitude="3000" />
+  <FlightPlan Departure="YMML" Destination="YPPH" Alternative="YGEL" Active="true" CruiseSpeed="350" RFL="36000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KABLI BOOKA DUDIN VEPAN MUMOS ROLOB SPUDO KOORI YPPH/24</FlightPlan>
+  <Route>KABLI BOOKA DUDIN VEPAN MUMOS ROLOB SPUDO KOORI RWY24 YPPH</Route>
+</Aircraft>
+<Aircraft Callsign="QFA887" Type="B738" Delay="0" StartAuto="true">
+  <Squawk Code="4076" ModeC="true" />
+  <Cleared Approach="true" />
+  <Position Latitude="-32.54861069" Longitude="118.24971771" Speed="180" Altitude="3000" />
+  <FlightPlan Departure="YPAD" Destination="YPPH" Alternative="YGEL" Active="true" CruiseSpeed="350" RFL="36000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KABLI BOOKA DUDIN VEPAN MUMOS ROLOB SPUDO KOORI YPPH/24</FlightPlan>
+  <Route>KABLI BOOKA DUDIN VEPAN MUMOS ROLOB SPUDO KOORI RWY24 YPPH</Route>
+</Aircraft>
+<Aircraft Callsign="FD645" Type="EC45" Delay="2100" StartAuto="true">
+  <Squawk Code="6666" ModeC="true" />
+  <Cleared Level="2500" Speed="126" Approach="false" />
+  <Position Latitude="-31.95370178129631" Longitude="115.8665318779949" Speed="126" Altitude="500" />
+  <FlightPlan Departure="YXRP" Destination="YGOM" Alternative="YPPH" Active="true" CruiseSpeed="126" RFL="2500" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT</FlightPlan>
+  <Route>VPH ISRUP YGOM</Route>
+  <TimedMessages>
+	<TimedMessage Time="2100" Message="Hotline with TWR: **Due overflying traffic, cancel auto-release**" />
+	<TimedMessage Time="2310" Message="Hotline with TWR: **Resume auto-release**" />
+  </TimedMessages>
+</Aircraft>
+</Targets>
+</ScenarioFile>
 </ScenarioFiles>
