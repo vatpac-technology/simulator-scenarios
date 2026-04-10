@@ -599,6 +599,172 @@
     </ScenarioFile>
 
     <ScenarioFile>
+            <Name>Melbourne Tower LAHSO</Name>
+        <Type>Tower</Type>
+        <UseGRIB xsi:nil="true" />
+        <StudentBriefing>Runway Mode 34A/27AD
+
+        This is a LAHSO Scenario.</StudentBriefing>
+        <InstructorNotes>**AAL28** - Negative LAHSO, should have no conflict with other aircraft</InstructorNotes>
+        <Targets>
+            <Aircraft Callsign="JST528" Type="A320" Delay="0" StartAuto="false">
+             <Squawk Code="7513" ModeC="true" />
+             <Cleared Level="5000" Approach="false" />
+             <Position Latitude="-37.66371044616597" Longitude="144.84781649135545" Speed="0" Altitude="0" />
+             <FlightPlan Departure="YMML" Destination="YSSY" Alternative="YSCB" Active="true" Equipment="" CruiseSpeed="0" RFL="33000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DOSEL2/27 DOSEL Y59 RIVET</FlightPlan>
+                <Route>DOSEL Y59 RIVET</Route>
+            </Aircraft>
+            <Aircraft Callsign="JST530" Type="A320" Delay="0" StartAuto="false">
+                <Squawk Code="7513" ModeC="true" />
+                <Cleared Level="5000" Approach="false" />
+             <Position Latitude="-37.66417417781725" Longitude="144.84776429253813" Speed="0" Altitude="0" />
+             <FlightPlan Departure="YMML" Destination="YSSY" Alternative="YSCB" Active="true" Equipment="" CruiseSpeed="0" RFL="35000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DOSEL2/27 DOSEL Y59 RIVET</FlightPlan>
+                <Route>DOSEL Y59 RIVET</Route>
+            </Aircraft>
+            <Aircraft Callsign="JST532" Type="A320" Delay="0" StartAuto="false">
+                <Squawk Code="7513" ModeC="true" />
+                <Cleared Level="5000" Approach="false" />
+                <Position Latitude="-37.66447518959418" Longitude="144.84750877327696" Speed="0" Altitude="0" />
+             <FlightPlan Departure="YMML" Destination="YSSY" Alternative="YSCB" Active="true" Equipment="" CruiseSpeed="0" RFL="35000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DOSEL2/27 DOSEL Y59 RIVET</FlightPlan>
+             <Route>DOSEL Y59 RIVET</Route>
+            </Aircraft>
+                <Aircraft Callsign="JST534" Type="A320" Delay="0" StartAuto="false">
+             <Squawk Code="7513" ModeC="true" />
+             <Cleared Level="5000" Approach="false" />
+             <Position Latitude="-37.664794982573646" Longitude="144.84694528342172" Speed="0" Altitude="0" />
+             <FlightPlan Departure="YMML" Destination="YSSY" Alternative="YSCB" Active="true" Equipment="" CruiseSpeed="0" RFL="35000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DOSEL2/27 DOSEL Y59 RIVET</FlightPlan>
+              <Route>DOSEL Y59 RIVET</Route>
+            </Aircraft>
+                <Aircraft Callsign="JST536" Type="A320" Delay="0" StartAuto="false">
+             <Squawk Code="7513" ModeC="true" />
+              <Cleared Level="5000" Approach="false" />
+             <Position Latitude="-37.664856420384965" Longitude="144.84634496602825" Speed="0" Altitude="0" />
+             <FlightPlan Departure="YMML" Destination="YSSY" Alternative="YSCB" Active="true" Equipment="" CruiseSpeed="0" RFL="35000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DOSEL2/27 DOSEL Y59 RIVET</FlightPlan>
+             <Route>DOSEL Y59 RIVET</Route>
+            </Aircraft>
+             <Aircraft Callsign="QJE1282" Type="BCS3" Delay="0" StartAuto="false">
+             <Squawk Code="7513" ModeC="true" />
+             <Cleared Level="5000" Approach="false" />
+              <Position Latitude="-37.66495831832315" Longitude="144.84574036216267" Speed="0" Altitude="0" />
+              <FlightPlan Departure="YMML" Destination="YSSY" Alternative="YSCB" Active="true" Equipment="" CruiseSpeed="0" RFL="35000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DOSEL2/27 DOSEL Y59 RIVET</FlightPlan>
+              <Route>DOSEL Y59 RIVET</Route>
+            </Aircraft>
+            <Aircraft Callsign="JST526" Type="A320" Delay="0" StartAuto="false">
+              <Squawk Code="7513" ModeC="true" />
+              <Cleared Level="5000" Approach="false" />
+              <Position Latitude="-37.66352136839688" Longitude="144.84782393449103" Speed="0" Altitude="0" />
+              <FlightPlan Departure="YMML" Destination="YSSY" Alternative="YSCB" Active="true" Equipment="" CruiseSpeed="0" RFL="35000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DOSEL2/27 DOSEL Y59 RIVET</FlightPlan>
+              <Route>DOSEL Y59 RIVET</Route>
+            </Aircraft>
+              <Aircraft Callsign="ANO926" Type="E190" Delay="0" StartAuto="false">
+             <Squawk Code="6721" ModeC="true" />
+             <Cleared Level="" Approach="true" />
+             <Position Latitude="-37.67330943760933" Longitude="145.04093474112386" Speed="180" Altitude="2500" />
+             <FlightPlan Departure="YSCB" Destination="YMML" Alternative="YMAY" Active="true" CruiseSpeed="0" RFL="26000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">CB Q215 TANTA Q29 BOOIN VISAS YMML/27</FlightPlan>
+             <Route>VISAS ML</Route>
+            </Aircraft>
+             <Aircraft Callsign="JST764" Type="A320" Delay="0" StartAuto="false">
+             <Squawk Code="2642" ModeC="true" />
+             <Cleared Level="" Speed="180" Approach="true" />
+             <Position Latitude="-37.65527778" Longitude="145.19972222" Speed="180" Altitude="2500" />
+             <FlightPlan Departure="YSSY" Destination="YMML" Alternative="YSCB" Active="true" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">TESAT H65 LEECE Q29 BOOIN VISAS YMML/27</FlightPlan>
+              <Route>VISAS ML</Route>
+            </Aircraft>
+              <Aircraft Callsign="QJE1864" Type="BCS3" Delay="0" StartAuto="false">
+             <Squawk Code="1354" ModeC="true" />
+              <Cleared Approach="true" />
+              <Position Latitude="-37.54694444" Longitude="145.45527778" Speed="210" Altitude="2500" />
+               <FlightPlan Departure="YBCG" Destination="YMML" Alternative="YSSY" Active="true" CruiseSpeed="" RFL="36000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">GOMOL Q16 ISKIM Q35 DORSU H119 BOOIN MAITE VISAS  YMML/27</FlightPlan>
+              <Route>MAITE VISAS ML</Route>
+            </Aircraft>
+            <Aircraft Callsign="QFA1289" Type="B77W" Delay="0" StartAuto="false">
+              <Squawk Code="6767" ModeC="true" />
+             <Cleared Level="2500" Speed="" Approach="true" />
+             <Position Latitude="-37.44444444" Longitude="145.64305556" Speed="180" Altitude="9000" />
+             <FlightPlan Departure="YSSY" Destination="YMML" Alternative="YSCB" Active="true" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">TESAT H65 LEECE Q29 BOOIN ATPER MAITE ENDUM VISAS YMML/27</FlightPlan>
+              <Route>ATPER MAITE ENDUM VISAS</Route>
+            </Aircraft>
+            <Aircraft Callsign="RXA3866" Type="SF34" Delay="0" StartAuto="false">
+             <Squawk Code="4233" ModeC="true" />
+             <Cleared Approach="true" />
+             <Position Latitude="-37.82663142310522" Longitude="144.86888005584035" Speed="180" Altitude="2500" />
+             <FlightPlan Departure="YKII" Destination="YMML" Alternative="YSCB" Active="true" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">GULNU W577 JACKA W495 RAZZI AKDEL YMML/34</FlightPlan>
+             <Route>ML</Route>
+            </Aircraft>
+            <Aircraft Callsign="VOZ356" Type="B38M" Delay="0" StartAuto="false">
+             <Squawk Code="7632" ModeC="true" />
+             <Cleared Level="" Speed="195" Approach="true" />
+             <Position Latitude="-37.73111111" Longitude="144.72916667" Speed="180" Altitude="2500" />
+              <FlightPlan Departure="YBBN" Destination="YMML" Alternative="YSSY" Active="true" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG Q35 DORSU H119 ARBEY DUDAB OBGAL AKDEL ML YMML/34</FlightPlan>
+              <Route>DUDAB OBGAL AKDEL ML</Route>
+            </Aircraft>
+            <Aircraft Callsign="QFA7445" Type="B738" Delay="0" StartAuto="false">
+              <Squawk Code="6632" ModeC="true" />
+              <Cleared Speed="180" Approach="true" />
+              <Position Latitude="-37.6975" Longitude="145.21277778" Speed="200" Altitude="2500" />
+              <FlightPlan Departure="YSSY" Destination="YMML" Alternative="YSCB" Active="true" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 LEECE Q29 BOOIN AKSID GOOLA BOLTY AKDEL ML YMML/34</FlightPlan>
+            <Route>AKSID GOOLA BOLTY AKDEL ML</Route>
+            </Aircraft>
+              <Aircraft Callsign="QFA864" Type="B738" Delay="0" StartAuto="false">
+              <Squawk Code="1352" ModeC="true" />
+              <Cleared Speed="190" Approach="true" />
+              <Position Latitude="-37.59944444" Longitude="145.38111111" Speed="180" Altitude="2500" />
+              <FlightPlan Departure="YSSY" Destination="YMML" Alternative="YSCB" Active="true" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 LEECE Q29 BOOIN VEPUD AKSID GOOLA BOLTY AKDEL YMML/34</FlightPlan>
+            <Route>VEPUD AKSID GOOLA BOLTY AKDEL</Route>
+            </Aircraft>
+              <Aircraft Callsign="ANZ1984" Type="B77W" Delay="0" StartAuto="false">
+              <Squawk Code="1733" ModeC="true" />
+              <Cleared Level="" Speed="195" Approach="true" />
+              <Position Latitude="-38.30611111" Longitude="145.35638889" Speed="0" Altitude="2500" />
+             <FlightPlan Departure="YSSY" Destination="YMML" Alternative="YSCB" Active="true" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">LATTA PORTS ESLOK  AKDEL ML YMML/34</FlightPlan>
+              <Route>LATTA PORTS ESLOK  AKDEL ML</Route>
+            </Aircraft>
+            <Aircraft Callsign="QFA435" Type="B738" Delay="0" StartAuto="false">
+              <Squawk Code="4442" ModeC="true" />
+              <Cleared Level="2500" Speed="195" Approach="true" />
+              <Position Latitude="-37.40583333" Longitude="145.72361111" Speed="195" Altitude="9000" />
+              <FlightPlan Departure="YSSY" Destination="YMML" Alternative="YSCB" Active="true" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">BOOIN ATPER VEPUD AKSID GOOLA BOLTY AKDEL BOIN1A/34</FlightPlan>
+            <Route>BOOIN ML</Route>
+            </Aircraft>
+            <Aircraft Callsign="JST768" Type="A320" Delay="0" StartAuto="false">
+              <Squawk Code="2323" ModeC="true" />
+             <Cleared Level="2500" Speed="195" Approach="true" />
+             <Position Latitude="-37.355" Longitude="145.81944444" Speed="180" Altitude="9000" />
+             <FlightPlan Departure="YSSY" Destination="YMML" Alternative="YSCB" Active="true" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 LEECE Q29 BOOIN BOIN1A/27</FlightPlan>
+              <Route>BOOIN</Route>
+            </Aircraft>
+            <Aircraft Callsign="AAL28" Type="B789" Delay="0" StartAuto="false">
+             <Squawk Code="6652" ModeC="true" />
+              <Cleared Level="2500" Speed="195" Approach="true" />
+              <Position Latitude="-37.31444444" Longitude="145.89805556" Speed="180" Altitude="9000" />
+             <FlightPlan Scratchpad="XX" Global="NEG LAHSO" Departure="KLAX" Destination="YMML" Alternative="" Active="true" CruiseSpeed="0" RFL="400" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">SUMMR2 DINTY 3243N12635W 3158N13000W 3045N13349W 2910N13727W 2711N14143W 2423N14730W 2246N15036W 2207N15146W 2003N15519W 1818N15735W 1718N15826W 1426N16046W 1030N16333W 0749N16541W 0318N16921W 0048N17112W 0206S17333W 0500S17604W 0614S17708W 1028S17851E 1423S17501E 1557S17331E 1938S17004E 2209S16716E 2427S16450E 2617S16300E 2633S16243E 3025S15850E 3314S15513E 3449S15217E URBOB NABBA Q29 BOOIN BOIN1A/34</FlightPlan>
+             <Route>BOOIN</Route>
+            </Aircraft>
+            <Aircraft Callsign="QFA437" Type="B738" Delay="0" StartAuto="false">
+              <Squawk Code="7662" ModeC="true" />
+              <Cleared Level="2500" Speed="195" Approach="true" />
+              <Position Latitude="-37.22666667" Longitude="146.06527778" Speed="180" Altitude="9000" />
+              <FlightPlan Departure="YSSY" Destination="YMML" Alternative="YSCB" Active="true" CruiseSpeed="0" RFL="360" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 LEECE Q29  BOOIN BOIN1A/27</FlightPlan>
+            <Route>LUVAS BOOIN</Route>
+            </Aircraft>
+              <Aircraft Callsign="SH926" Type="SW4" Delay="0" StartAuto="false">
+              <Squawk Code="4523" ModeC="true" />
+              <Cleared Level="2500" Speed="195" Approach="true" />
+              <Position Latitude="-37.1525" Longitude="146.20416667" Speed="180" Altitude="9000" />
+              <FlightPlan Departure="YMAY" Destination="YMML" Alternative="YMEN" Active="true" CruiseSpeed="0" RFL="140" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">AY V147 TEMIS LUVAS BOOIN BOIN1A/34</FlightPlan>
+              <Route>LUVAS BOOIN</Route>
+            </Aircraft>
+              <Aircraft Callsign="QFA439" Type="B738" Delay="0" StartAuto="false">
+              <Squawk Code="6637" ModeC="true" />
+              <Cleared Level="2500" Speed="180" Approach="true" />
+              <Position Latitude="-37.07944444" Longitude="146.34388889" Speed="180" Altitude="9000" />
+             <FlightPlan Departure="YSSY" Destination="YMML" Alternative="YSCB" Active="true" CruiseSpeed="0" RFL="35000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">WOL H65 LEECE Q29  BOOIN BOIN1A/27</FlightPlan>
+             <Route>LUVAS BOOIN</Route>
+            </Aircraft>
+        </Targets>
+    </ScenarioFile>
+
+    <ScenarioFile>
         <Name>MAESTRO Madness</Name>
         <Type>Testing</Type>
         <StudentBriefing>It's a trap.</StudentBriefing>
