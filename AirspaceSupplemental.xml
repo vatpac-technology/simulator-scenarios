@@ -9,7 +9,6 @@
             <Runway Name="18" Position="-343653.300+1385442.500" />
             <Runway Name="36" Position="-343715.100+1385439.600" />
         </Airport>
-        </Airport>
         <Airport ICAO="YBRS" FullName="Barwon Heads" Position="-382591.000+1444255.000">
             <Runway Name="18" Position="-382588.888+1444275.000" />
             <Runway Name="36" Position="-382525.300+1444283.333" />
