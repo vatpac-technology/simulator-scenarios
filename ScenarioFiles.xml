@@ -11230,7 +11230,7 @@
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Id>15f8cabb-4675-40d0-827a-13efbeee84c7</Id>
         <Name>TMA Perth - Fifo Friday</Name>
-        <Type>Approach</Type>
+        <Type>TMA</Type>
         <UseGRIB xsi:nil="true" />
         <StudentBriefing>PH TMA "Fifo Arrival" Scenario
 
@@ -11358,7 +11358,7 @@
                 <Position Latitude="-30.94888889" Longitude="116.475" Speed="280" Altitude="16000" />
                 <FlightPlan Departure="YKBA" Destination="YPPH" Alternative="YPKG" Active="true"
                     CruiseSpeed="280" RFL="38000" EETHours="0" EETMins="0" FuelHours="0"
-                    FuelMins="0" Remarks="/v/">WYLOO DCT GUTLI L514 AVPAL Q38 JULIM JULI6A/21</FlightPlan>
+                    FuelMins="0" Remarks="/v/">WYLOO DCT GUTLI L514 AVPAL Q38 JULIM JULI8A/21</FlightPlan>
                 <Route>JULIM YIREE WOORA HAIGH</Route>
             </Aircraft>
             <Aircraft Callsign="UTY6501" Type="F100" Delay="0" StartAuto="false">
@@ -11368,7 +11368,7 @@
                     Altitude="13000" />
                 <FlightPlan Departure="YLST" Destination="YPPH" Alternative="YGEL" Active="true"
                     CruiseSpeed="280" RFL="34000" EETHours="0" EETMins="0" FuelHours="0"
-                    FuelMins="0" Remarks="/v/">SUGAB Q11 NOMAV Q25 DALWU Q38 JULIM JULI6A/21</FlightPlan>
+                    FuelMins="0" Remarks="/v/">SUGAB Q11 NOMAV Q25 DALWU Q38 JULIM JULI8A/21</FlightPlan>
                 <Route>JULIM YIREE WOORA HAIGH</Route>
             </Aircraft>
             <Aircraft Callsign="JTE123" Type="E190" Delay="0" StartAuto="false">
@@ -11378,7 +11378,7 @@
                     Altitude="19000" />
                 <FlightPlan Departure="YWWI" Destination="YPPH" Alternative="YPKG" Active="true"
                     CruiseSpeed="280" RFL="36000" EETHours="0" EETMins="0" FuelHours="0"
-                    FuelMins="0" Remarks="/v/">NWN Q38 JULIM JULI6A/21</FlightPlan>
+                    FuelMins="0" Remarks="/v/">NWN Q38 JULIM JULI8A/21</FlightPlan>
                 <Route>CALIG JULIM YIREE WOORA HAIGH</Route>
             </Aircraft>
             <Aircraft Callsign="NWK1613" Type="F100" Delay="0" StartAuto="false">
@@ -11387,7 +11387,7 @@
                 <Position Latitude="-30.53888889" Longitude="116.64" Speed="280" Altitude="19000" />
                 <FlightPlan Departure="YGEL" Destination="YPPH" Alternative="YGEL" Active="true"
                     CruiseSpeed="280" RFL="25000" EETHours="0" EETMins="0" FuelHours="0"
-                    FuelMins="0" Remarks="/v/">GEL Z41 HINDS Q38 JULIM JULI6A/24</FlightPlan>
+                    FuelMins="0" Remarks="/v/">GEL Z41 HINDS Q38 JULIM JULI8A/24</FlightPlan>
                 <Route>CALIG JULIM ISRUP SPUDO KOORI</Route>
             </Aircraft>
             <Aircraft Callsign="QFA643" Type="A332" Delay="0" StartAuto="false">
@@ -11397,7 +11397,7 @@
                     Altitude="25000" />
                 <FlightPlan Departure="YSSY" Destination="YPPH" Alternative="YBLN" Active="true"
                     CruiseSpeed="280" RFL="40000" EETHours="0" EETMins="0" FuelHours="0"
-                    FuelMins="0" Remarks="/v/">KADOM H44 AD Q33 ESP Q158 KABLI KABL1A/24</FlightPlan>
+                    FuelMins="0" Remarks="/v/">KADOM H44 AD Q33 ESP Q158 KABLI KABL3A/24</FlightPlan>
                 <Route>MALUP KABLI BOOKA DUDIN VEPAN MUMOS ROLOB SPUDO KOORI</Route>
             </Aircraft>
             <Aircraft Callsign="ZHA" Type="C172" Delay="0" StartAuto="false">
@@ -11424,7 +11424,7 @@
                     Altitude="21000" />
                 <FlightPlan Departure="YPBO" Destination="YPPH" Alternative="YPKG" Active="true"
                     CruiseSpeed="280" RFL="31000" EETHours="0" EETMins="0" FuelHours="0"
-                    FuelMins="0" Remarks="/v/">PBO Q7 ISDOR Q9 AVPAL Q38 JULIM JULI6A/24</FlightPlan>
+                    FuelMins="0" Remarks="/v/">PBO Q7 ISDOR Q9 AVPAL Q38 JULIM JULI8A/24</FlightPlan>
                 <Route>AVPAL HINDS CALIG JULIM ISRUP SPUDO KOORI</Route>
             </Aircraft>
             <Aircraft Callsign="VOZ462" Type="B738" Delay="0" StartAuto="false">
@@ -11434,7 +11434,7 @@
                 <FlightPlan Departure="YBBN" Destination="YPPH" Alternative="YBLN" Active="true"
                     CruiseSpeed="280" RFL="38000" EETHours="0" EETMins="0" FuelHours="0"
                     FuelMins="0" Remarks="/v/">SANEG Q4 PAVBI Q16 MIA/N0456F340 Q4 WOONA Q60 KAKLU
-                    H309 AD Q33 LESON/N0456F360 Q33 ESP Q158 KABLI KABL1A/21</FlightPlan>
+                    H309 AD Q33 LESON/N0456F360 Q33 ESP Q158 KABLI KABL3A/21</FlightPlan>
                 <Route>MALUP KABLI BOOKA DUDIN VEPAN MUMOS ROLOB WOORA HAIGH</Route>
             </Aircraft>
             <Aircraft Callsign="UAE420" Type="A388" Delay="0" StartAuto="false">
@@ -11457,7 +11457,7 @@
                     Altitude="24000" />
                 <FlightPlan Departure="WADD" Destination="YPPH" Alternative="YGEL" Active="true"
                     CruiseSpeed="280" RFL="35000" EETHours="0" EETMins="0" FuelHours="0"
-                    FuelMins="0" Remarks="/v/">MUNNI L514 AVPAL Q38 JULIM JULI6A/21</FlightPlan>
+                    FuelMins="0" Remarks="/v/">MUNNI L514 AVPAL Q38 JULIM JULI8A/21</FlightPlan>
                 <Route>AVPAL HINDS CALIG JULIM YIREE WOORA HAIGH</Route>
             </Aircraft>
             <Aircraft Callsign="PY5055" Type="SW4" Delay="0" StartAuto="false">
@@ -11559,7 +11559,7 @@
                 <FlightPlan Departure="VHHH" Destination="YPPH" Alternative="YBLN" Active="true"
                     CruiseSpeed="280" RFL="41000" EETHours="0" EETMins="0" FuelHours="0"
                     FuelMins="0" Remarks="/v/">BLI G578 LIPRA G578 EGATU L514 MUNNI L514 AVPAL Q38
-                    JULIM JULI6A/21</FlightPlan>
+                    JULIM JULI8A/21</FlightPlan>
                 <Route>AVPAL HINDS CALIG JULIM YIREE WOORA HAIGH</Route>
             </Aircraft>
             <Aircraft Callsign="NWK1643" Type="F100" Delay="0" StartAuto="false">
@@ -11569,7 +11569,7 @@
                     Altitude="25000" />
                 <FlightPlan Departure="YPPD" Destination="YPPH" Alternative="YGEL" Active="true"
                     CruiseSpeed="280" RFL="34000" EETHours="0" EETMins="0" FuelHours="0"
-                    FuelMins="0" Remarks="/v/">PD Q9 AVPAL Q38 JULIM JULI6A/24</FlightPlan>
+                    FuelMins="0" Remarks="/v/">PD Q9 AVPAL Q38 JULIM JULI8A/24</FlightPlan>
                 <Route>AVPAL HINDS CALIG JULIM ISRUP SPUDO KOORI</Route>
             </Aircraft>
             <Aircraft Callsign="JST109" Type="A21N" Delay="0" StartAuto="false">
@@ -11579,7 +11579,7 @@
                     Altitude="25000" />
                 <FlightPlan Departure="WADD" Destination="YPPH" Alternative="YBLN" Active="true"
                     CruiseSpeed="280" RFL="36000" EETHours="0" EETMins="0" FuelHours="0"
-                    FuelMins="0" Remarks="/v/">LIPRA G578 EGATU L514 AVPAL Q38 JULIM JULI6A/21</FlightPlan>
+                    FuelMins="0" Remarks="/v/">LIPRA G578 EGATU L514 AVPAL Q38 JULIM JULI8A/21</FlightPlan>
                 <Route>TOPIR AVPAL HINDS CALIG JULIM YIREE WOORA HAIGH</Route>
             </Aircraft>
             <Aircraft Callsign="VOZ9278" Type="F100" Delay="0" StartAuto="false">
@@ -11590,7 +11590,7 @@
                 <FlightPlan Departure="YANG" Destination="YPPH" Alternative="YGEL" Active="true"
                     CruiseSpeed="280" RFL="34000" EETHours="0" EETMins="0" FuelHours="0"
                     FuelMins="0" Remarks="/v/">ATPAR DCT ALDEL DCT AVMAS Q31 AVPAL Q38 JULIM
-                    JULI6A/21</FlightPlan>
+                    JULI8A/21</FlightPlan>
                 <Route>AVPAL HINDS CALIG JULIM YIREE WOORA HAIGH</Route>
             </Aircraft>
             <Aircraft Callsign="AL863" Type="AT75" Delay="0" StartAuto="false">
@@ -11610,7 +11610,7 @@
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Id>15f8cabb-4675-40d0-827a-13efbeee84c7</Id>
         <Name>TMA Perth - Introduction</Name>
-        <Type>Approach</Type>
+        <Type>TMA</Type>
         <UseGRIB xsi:nil="true" />
         <StudentBriefing>This is an introduction to crossing runway operations and local Perth
             procedures.
@@ -11712,7 +11712,7 @@
                     Altitude="13000" />
                 <FlightPlan Departure="YLST" Destination="YPPH" Alternative="YGEL" Active="true"
                     CruiseSpeed="280" RFL="34000" EETHours="0" EETMins="0" FuelHours="0"
-                    FuelMins="0" Remarks="/v/">SUGAB Q11 NOMAV Q25 DALWU Q38 JULIM JULI6A/21</FlightPlan>
+                    FuelMins="0" Remarks="/v/">SUGAB Q11 NOMAV Q25 DALWU Q38 JULIM JULI8A/21</FlightPlan>
                 <Route>JULIM YIREE WOORA HAIGH</Route>
             </Aircraft>
             <Aircraft Callsign="JTE123" Type="E190" Delay="0" StartAuto="false">
@@ -11722,7 +11722,7 @@
                     Altitude="19000" />
                 <FlightPlan Departure="YWWI" Destination="YPPH" Alternative="YPKG" Active="true"
                     CruiseSpeed="280" RFL="36000" EETHours="0" EETMins="0" FuelHours="0"
-                    FuelMins="0" Remarks="/v/">NWN Q38 JULIM JULI6A/21</FlightPlan>
+                    FuelMins="0" Remarks="/v/">NWN Q38 JULIM JULI8A/21</FlightPlan>
                 <Route>CALIG JULIM YIREE WOORA HAIGH</Route>
             </Aircraft>
             <Aircraft Callsign="NWK1613" Type="F100" Delay="0" StartAuto="false">
@@ -11731,7 +11731,7 @@
                 <Position Latitude="-30.53888889" Longitude="116.64" Speed="280" Altitude="19000" />
                 <FlightPlan Departure="YGEL" Destination="YPPH" Alternative="YGEL" Active="true"
                     CruiseSpeed="280" RFL="25000" EETHours="0" EETMins="0" FuelHours="0"
-                    FuelMins="0" Remarks="/v/">GEL Z41 HINDS Q38 JULIM JULI6A/24</FlightPlan>
+                    FuelMins="0" Remarks="/v/">GEL Z41 HINDS Q38 JULIM JULI8A/24</FlightPlan>
                 <Route>CALIG JULIM ISRUP SPUDO KOORI</Route>
             </Aircraft>
             <Aircraft Callsign="QFA643" Type="A332" Delay="0" StartAuto="false">
@@ -11741,7 +11741,7 @@
                     Altitude="25000" />
                 <FlightPlan Departure="YSSY" Destination="YPPH" Alternative="YBLN" Active="true"
                     CruiseSpeed="280" RFL="40000" EETHours="0" EETMins="0" FuelHours="0"
-                    FuelMins="0" Remarks="/v/">KADOM H44 AD Q33 ESP Q158 KABLI KABL1A/24</FlightPlan>
+                    FuelMins="0" Remarks="/v/">KADOM H44 AD Q33 ESP Q158 KABLI KABL3A/24</FlightPlan>
                 <Route>MALUP KABLI BOOKA DUDIN VEPAN MUMOS ROLOB SPUDO KOORI</Route>
             </Aircraft>
             <Aircraft Callsign="ZHA" Type="C172" Delay="0" StartAuto="false">
@@ -11768,7 +11768,7 @@
                     Altitude="21000" />
                 <FlightPlan Departure="YPBO" Destination="YPPH" Alternative="YPKG" Active="true"
                     CruiseSpeed="280" RFL="31000" EETHours="0" EETMins="0" FuelHours="0"
-                    FuelMins="0" Remarks="/v/">PBO Q7 ISDOR Q9 AVPAL Q38 JULIM JULI6A/24</FlightPlan>
+                    FuelMins="0" Remarks="/v/">PBO Q7 ISDOR Q9 AVPAL Q38 JULIM JULI8A/24</FlightPlan>
                 <Route>AVPAL HINDS CALIG JULIM ISRUP SPUDO KOORI</Route>
             </Aircraft>
             <Aircraft Callsign="VOZ462" Type="B738" Delay="0" StartAuto="false">
@@ -11778,7 +11778,7 @@
                 <FlightPlan Departure="YBBN" Destination="YPPH" Alternative="YBLN" Active="true"
                     CruiseSpeed="280" RFL="38000" EETHours="0" EETMins="0" FuelHours="0"
                     FuelMins="0" Remarks="/v/">SANEG Q4 PAVBI Q16 MIA/N0456F340 Q4 WOONA Q60 KAKLU
-                    H309 AD Q33 LESON/N0456F360 Q33 ESP Q158 KABLI KABL1A/21</FlightPlan>
+                    H309 AD Q33 LESON/N0456F360 Q33 ESP Q158 KABLI KABL3A/21</FlightPlan>
                 <Route>MALUP KABLI BOOKA DUDIN VEPAN MUMOS ROLOB WOORA HAIGH</Route>
             </Aircraft>
             <Aircraft Callsign="AWQ544" Type="A320" Delay="0" StartAuto="false">
@@ -11788,7 +11788,7 @@
                     Altitude="24000" />
                 <FlightPlan Departure="WADD" Destination="YPPH" Alternative="YGEL" Active="true"
                     CruiseSpeed="280" RFL="35000" EETHours="0" EETMins="0" FuelHours="0"
-                    FuelMins="0" Remarks="/v/">MUNNI L514 AVPAL Q38 JULIM JULI6A/21</FlightPlan>
+                    FuelMins="0" Remarks="/v/">MUNNI L514 AVPAL Q38 JULIM JULI8A/21</FlightPlan>
                 <Route>AVPAL HINDS CALIG JULIM YIREE WOORA HAIGH</Route>
             </Aircraft>
             <Aircraft Callsign="NWK1602" Type="A319" Delay="0" StartAuto="false">
@@ -11851,7 +11851,7 @@
                 <FlightPlan Departure="VHHH" Destination="YPPH" Alternative="YBLN" Active="true"
                     CruiseSpeed="280" RFL="41000" EETHours="0" EETMins="0" FuelHours="0"
                     FuelMins="0" Remarks="/v/">BLI G578 LIPRA G578 EGATU L514 MUNNI L514 AVPAL Q38
-                    JULIM JULI6A/21</FlightPlan>
+                    JULIM JULI8A/21</FlightPlan>
                 <Route>AVPAL HINDS CALIG JULIM YIREE WOORA HAIGH</Route>
             </Aircraft>
             <Aircraft Callsign="AL863" Type="AT75" Delay="0" StartAuto="false">
