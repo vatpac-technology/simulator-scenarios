@@ -11617,7 +11617,7 @@
                 <FlightPlan Departure="YPKG" Destination="YPJT" Alternative="YPPH" Active="true"
                     CruiseSpeed="250" RFL="22000" EETHours="0" EETMins="0" FuelHours="0"
                     FuelMins="0" Remarks="/v/">LAVEX BUVOT RONAN UNDOW ROLOB JT3R/24R</FlightPlan>
-                <Route>LAVEX</Route>
+                <Route>LAVEX LAVEX BUVOT RONAN UNDOW ROLOB</Route>
                 <TimedMessages>
                     <TimedMessage Time="30"
                         Message="HYD &gt; PHA 'Via Jandakot 3R arrival, FD607, with concurrence DCT PH, FL130'" />
