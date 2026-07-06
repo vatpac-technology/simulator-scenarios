@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ScenarioFiles xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <ScenarioFile>
+
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Bankstown Tower (Advanced Metro D Scenario)</Name>
         <Type>Tower</Type>
         <UseGRIB xsi:nil="true" />
@@ -424,7 +426,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Circuits Melbourne (no arrivals)</Name>
         <Type>Tower</Type>
         <UseGRIB xsi:nil="true" />
@@ -486,7 +489,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Circuits Sydney (vs jet arrivals)</Name>
         <Type>Tower</Type>
         <UseGRIB xsi:nil="true" />
@@ -595,7 +599,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
             <Name>Melbourne Tower LAHSO</Name>
         <Type>Tower</Type>
         <UseGRIB xsi:nil="true" />
@@ -761,7 +766,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>MAESTRO Madness</Name>
         <Type>Testing</Type>
         <StudentBriefing>It's a trap.</StudentBriefing>
@@ -1224,7 +1230,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <<ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Tower Melbourne Runway 16 - Intro</Name>
         <Type>Tower</Type>
         <StudentBriefing>
@@ -1385,7 +1392,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Tower Melbourne Runway 16A27D - Advanced</Name>
         <Type>Tower</Type>
         <StudentBriefing>
@@ -1627,7 +1635,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Tower Sydney Runway 34L/R</Name>
         <Type>Tower</Type>
         <StudentBriefing>
@@ -1967,7 +1976,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Tower Sydney Runway 34L/R - Auto timed</Name>
         <Type>Tower</Type>
         <StudentBriefing>
@@ -2289,7 +2299,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Tower Brisbane Runway 19L/R - Intro</Name>
         <Type>Tower</Type>
         <StudentBriefing>
@@ -2492,7 +2503,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Tower Brisbane Runway 19L/R - Advanced</Name>
         <Type>Tower</Type>
         <StudentBriefing>
@@ -2801,7 +2813,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Tower Adelaide Runway 23 - Auto Timed</Name>
         <Type>Tower</Type>
         <StudentBriefing>
@@ -3083,7 +3096,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Tower Launceston Runway 32L</Name>
         <Type>Tower</Type>
         <UseGRIB xsi:nil="true" />
@@ -3357,7 +3371,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Procedural Tower Broome Runway 28</Name>
         <Type>Procedural Tower</Type>
         <InstructorNotes>
@@ -3463,7 +3478,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>TMA Adelaide - Intro</Name>
         <Type>TMA</Type>
         <UseGRIB xsi:nil="true" />
@@ -3686,7 +3702,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>TMA Adelaide - Advanced</Name>
         <Type>TMA</Type>
         <InstructorNotes>Ensure the student disables GRIB winds.
@@ -3959,7 +3976,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>TMA Brisbane Runway 19 - Under Construction</Name>
         <Type>TMA</Type>
         <InstructorNotes>This is a scenario primarily for practicing sequencing arrivals and
@@ -4272,7 +4290,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>TMA Brisbane Runway 01 PROPs - Advanced</Name>
         <Type>TMA</Type>
         <UseGRIB xsi:nil="true" />
@@ -4578,7 +4597,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>TMA Melbourne Runway 16</Name>
         <Type>TMA</Type>
         <StudentBriefing>You are operating Melbourne Approach.
@@ -4842,7 +4862,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>TMA Melbourne Runway 34 Visual</Name>
         <Type>TMA</Type>
         <InstructorNotes>TBI</InstructorNotes>
@@ -5030,7 +5051,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>TMA Melbourne - Milk Run</Name>
         <Type>TMA</Type>
         <UseGRIB xsi:nil="true" />
@@ -5511,10 +5533,11 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>TMA Sydney Runway 34L/R</Name>
         <Type>TMA</Type>
-        <StudentBriefing>You are operating Sydney Approach.
+        <StudentBriefing>You are operating Sydney Approach with no other TCU controllers online.
 
             Sydney is running Runway 34 Left and Right for arrivals and departures. Bankstown is
             favouring Runway 11C. Instrument approaches (or Independent Visual Approaches -
@@ -5533,6 +5556,9 @@
 
             There are significant sequencing issues between aircraft on the RIVET STAR (student will
             need to issue speed reduction quickly to certain aircraft).
+
+            Two departures from YSWS (**JST993** via LEECE and **QFA153** via EVONN) can demonstrate the relationship
+            between YSWS procedures and YSSY procedures.
 
             **RXA6852** and **PE121** should be departed on the standard assignable heading (H230)
             without coordination as per autorelease procedures.
@@ -5571,7 +5597,7 @@
                 <FlightPlan Active="false" Departure="YSBK" Destination="YGLB" Alternative=""
                     Rules="I" CruiseSpeed="0" ETD="0000" ATD="0000" RFL="8000" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0"
-                    Remarks="REG/WFE NAV/GPSRNAV PER/B RMK/2POB     /v/">DCT BK TONTO W345 GLB DCT</FlightPlan>
+                    Remarks="REG/WFE NAV/GPSRNAV PER/B RMK/2POB     /v/">DCT TONTO W345 GLB DCT</FlightPlan>
                 <Route>TONTO GLB</Route>
             </Aircraft>
             <Aircraft Callsign="VOZ877" Type="B738" Delay="0">
@@ -5650,7 +5676,7 @@
                     Rules="V" CruiseSpeed="130" ETD="0000" ATD="0000" RFL="2500" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0"
                     Remarks="PBN/A1B1 REG/VHREW PER/B RMK/ST HELENS INBOUND     /v/">SSKP CRST CRSC</FlightPlan>
-                <Route>SSKP CRST CRSC BK</Route>
+                <Route>SSKP CRST CRSC PILAK</Route>
             </Aircraft>
             <Aircraft Callsign="AM253" Type="B350" Delay="0">
                 <Squawk Code="3075" ModeC="true" />
@@ -5755,14 +5781,33 @@
                 <Cleared Level="5000" />
                 <Position Latitude="-33.963778" Longitude="151.180626" Speed="0" Altitude="7" />
                 <FlightPlan Active="true" Departure="YSSY" Destination="YPAD" Alternative=""
-                    Rules="I" CruiseSpeed="240" ETD="0000" ATD="0000" RFL="38000" EETHours="01"
+                    Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="01"
                     EETMins="10" FuelHours="0" FuelMins="0" Remarks="/v/">KADOM2/34L KADOM H44 MAXEM Q60 KAKLU</FlightPlan>
                 <Route>KADOM MAXEM KAKLU YPAD</Route>
+            </Aircraft>
+            <Aircraft Callsign="JST993" Type="A320" Delay="0">
+                <Squawk Code="7077" ModeC="true" />
+                <Cleared Level="4000" />
+                <Position Latitude="-33.8916666667" Longitude="150.6958333333" Speed="0" Altitude="308" />
+                <FlightPlan Active="true" Departure="YSWS" Destination="YMML" Alternative=""
+                    Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="34000" EETHours="01"
+                    EETMins="10" FuelHours="0" FuelMins="0" Remarks="/v/">TONT1D/05 LEECE Q29 BOOIN</FlightPlan>
+                <Route>LEECE BOOIN ML</Route>
+            </Aircraft>
+            <Aircraft Callsign="QFA153" Type="B738" Delay="0">
+                <Squawk Code="7075" ModeC="true" />
+                <Cleared Level="4000" />
+                <Position Latitude="-33.8916666667" Longitude="150.6958333333" Speed="0" Altitude="308" />
+                <FlightPlan Active="true" Departure="YSWS" Destination="NZAA" Alternative=""
+                    Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01"
+                    EETMins="10" FuelHours="0" FuelMins="0" Remarks="/v/">TESA1D/05 EVONN L521 LUNBI </FlightPlan>
+                <Route>EVONN GEROS REPUD LEGAN</Route>
             </Aircraft>
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>TMA Sydney Runway 34L/R - Advanced</Name>
         <Type>TMA</Type>
         <StudentBriefing>You are operating Sydney Approach.
@@ -5778,15 +5823,18 @@
             Sydney have made enroute sequencing difficult for Bindook. As a result, you may need to
             conduct last minute sequencing within your airspace.</StudentBriefing>
         <InstructorNotes>
-            This is a busy scenario with arrivals on all STARs. Students should be instructed to
-            review Sydney Terminal SOPs to determine descent level assignment techniques to ensure
-            vertical separation is maintained between aircraft on the RIVET/ODALE and BOREE/MEPIL
-            STARs. The runway 34R arrivals are perfectly sequenced if kept at profile speed.
+            This is a busy scenario designed to introduce the complexities of the TMA.
+            Students should be instructed to review Sydney Terminal SOPs to determine descent level 
+            assignment techniques to ensure vertical separation is maintained between aircraft on the 
+            RIVET/AKMIR and BOREE/MEPIL STARs. 
+            
+            Arrivals to YSSY are perfectly sequenced if kept at profile speed.
 
             **HSZ** should be departed ASAP. This aircraft gives the student exposure to YSSY
-            Helicopter operations. If they are departed early, there will be very little other
+            Helicopter operations. If they are departed early, there will be few other
             aircraft in the TMA. All that is required is that the student identifies the aircraft
-            and cancels their control/identification service as they pass DHH (Darling Harbour).
+            (their control services are cancelled by the coded clearance).
+
             **YOE** should request clearance ASAP. They will request the Bondi 5 Southbound (coded
             clearance) and should request the Maroubra 5 Inbound (coded clearance) as they pass
             abeam about Bondi (first bay south of SYHD). The Tower controller will issue a VSA
@@ -5800,30 +5848,21 @@
             for the RNP-Z approach from ESGID or encouraged to downgrade to VFR and tracked via a coded 
             clearance.
 
-            There are significant sequencing issues between aircraft on the RIVET STAR (student will
-            need to issue speed reduction quickly to certain aircraft).
-
             **RXA6852** and **PE121** should be departed on the standard assignable heading (H230)
             without coordination as per autorelease procedures.
 
-            **WFE** (IFR departure from YSBK) can conflict with **AM213** and/or **REW** depending
+            **WFE** (IFR departure from YSBK) should be assigned the MECKO SID and can conflict with **AM213** depending
             on when they are departed. *Important: student to ensure lateral separation exists
-            between the BK8 SID and the arrival track prior to issuing clearance, or get arrival to
+            between the SID and the arrival track prior to issuing clearance, or get arrival to
             downgrade to VFR, or withhold clearance to departure*.
 
-            **REW** is a VFR aircraft tracking via TWRN for YSBK. They will need descent to remain
-            below the CTA steps. They can request flight following to increase student workload.
+            **REW** is a VFR aircraft tracking via SSKP for the St Helens Inbound to YSBK. Instructor must descend 
+            them to A015 after passing SSKP to reach A015 by CRSC.
+
+            **LOI** is a VFR aircraft tracking outbound from YSBK via the Hornsby Outbound. They should contact SBA approaching 
+            the BK CTR boundary. Instructor must climb them to A018 after passing CFCR.
         </InstructorNotes>
         <Targets>
-            <Aircraft Callsign="SIA221" Type="A332" Delay="0">
-                <Squawk Code="4157" ModeC="true" />
-                <Cleared Level="10000" />
-                <Position Latitude="-33.866524" Longitude="148.85513" Speed="460" Altitude="25000" />
-                <FlightPlan Active="true" Departure="WSSS" Destination="YSSY" Alternative=""
-                    Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="10000" EETHours="00"
-                    EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TI A576 SIPUT W13 BLI A576 PKS MAKKA TARAL Y59 RIVET RIVET5/34L</FlightPlan>
-                <Route>MAKKA TARAL ENLAD RIVET RWY34L</Route>
-            </Aircraft>
             <Aircraft Callsign="WFE" Type="BE58" Delay="0">
                 <Squawk Code="1200" ModeC="false" />
                 <Position Latitude="-33.927889" Longitude="150.991239" Speed="0" Altitude="13" />
@@ -5883,16 +5922,6 @@
                     EETMins="50" FuelHours="0" FuelMins="0" Remarks="REG/VHCNT     /v/">DCT CB W423 CULIN Y59 RIVET RIVET5/34L</FlightPlan>
                 <Route>CULIN TARAL ENLAD RIVET RWY34L</Route>
             </Aircraft>
-            <Aircraft Callsign="JST795" Type="A321" Delay="0">
-                <Squawk Code="3254" ModeC="true" />
-                <Cleared Level="10000" />
-                <Position Latitude="-35.275169000000005" Longitude="148.559008" Speed="451"
-                    Altitude="30000" />
-                <FlightPlan Active="true" Departure="YMML" Destination="YSSY" Alternative=""
-                    Rules="I" CruiseSpeed="445" ETD="0000" ATD="0000" RFL="10000" EETHours="01"
-                    EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H129 DOSEL Y59 RIVET RIVET5/34L</FlightPlan>
-                <Route>CULIN TARAL ENLAD RIVET RWY34L</Route>
-            </Aircraft>
             <Aircraft Callsign="QFA501" Type="B744" Delay="0">
                 <Squawk Code="3361" ModeC="true" />
                 <Cleared Level="10000" />
@@ -5905,12 +5934,21 @@
             <Aircraft Callsign="REW" Type="C182" Delay="0">
                 <Squawk Code="1200" ModeC="true" />
                 <Position Latitude="-34.387487" Longitude="150.30066400000004" Speed="130"
-                    Altitude="5500" />
+                    Altitude="2500" />
                 <FlightPlan Active="false" Departure="YGLB" Destination="YSBK" Alternative=""
-                    Rules="V" CruiseSpeed="130" ETD="0000" ATD="0000" RFL="5500" EETHours="00"
+                    Rules="V" CruiseSpeed="130" ETD="0000" ATD="0000" RFL="2500" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0"
-                    Remarks="PBN/A1B1 REG/VHREW PER/B RMK/2POB     /v/">YGLB TWRN YSBK</FlightPlan>
-                <Route>TWRN PILAK</Route>
+                    Remarks="PBN/A1B1 REG/VHREW PER/B RMK/ST HELENS INBOUND     /v/">SSKP CRST CRSC</FlightPlan>
+                <Route>SSKP CRST CRSC PILAK</Route>
+            </Aircraft>
+            <Aircraft Callsign="LOI" Type="P28A" Delay="0">
+                <Squawk Code="0554" ModeC="true" />
+                <Position Latitude="-33.927889" Longitude="150.991239" Speed="0" Altitude="13" />
+                <FlightPlan Active="true" Departure="YSBK" Destination="YCNK" Alternative=""
+                    Rules="V" CruiseSpeed="110" ETD="0000" ATD="0000" RFL="1500" EETHours="00"
+                    EETMins="45" FuelHours="02" FuelMins="0"
+                    Remarks="PBN/A1B1 REG/VHREW PER/B RMK/HORNSBY OUTBOUND     /v/">PRT CFCR PENH HSY PAA</FlightPlan>
+                <Route>PRT CFCR PENH HSY PAA</Route>
             </Aircraft>
             <Aircraft Callsign="AM213" Type="B350" Delay="0">
                 <Squawk Code="3075" ModeC="true" />
@@ -6093,24 +6131,60 @@
                     Remarks="REG/VHVEF PER/C OPR/LINK    /v/">ENKOG W128 HUUGO H91 ADMAR Q78 OLTIN H201 TESAT H65 WOL</FlightPlan>
                 <Route>YAKKA MEPIL TESAT WOL</Route>
             </Aircraft>
+            <Aircraft Callsign="JST995" Type="A320" Delay="0">
+                <Squawk Code="7077" ModeC="true" />
+                <Cleared Level="4000" />
+                <Position Latitude="-33.8916666667" Longitude="150.6958333333" Speed="0" Altitude="308" />
+                <FlightPlan Active="true" Departure="YSWS" Destination="YMML" Alternative=""
+                    Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="01"
+                    EETMins="10" FuelHours="0" FuelMins="0" Remarks="/v/">TONT1D/05 LEECE Q29 BOOIN</FlightPlan>
+                <Route>LEECE BOOIN ML</Route>
+            </Aircraft>
+            <Aircraft Callsign="QFA157" Type="B738" Delay="0">
+                <Squawk Code="7075" ModeC="true" />
+                <Cleared Level="4000" />
+                <Position Latitude="-33.8916666667" Longitude="150.6958333333" Speed="0" Altitude="308" />
+                <FlightPlan Active="true" Departure="YSWS" Destination="NZAA" Alternative=""
+                    Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="01"
+                    EETMins="10" FuelHours="0" FuelMins="0" Remarks="/v/">TESA1D/05 EVONN L521 LUNBI </FlightPlan>
+                <Route>EVONN GEROS REPUD LEGAN</Route>
+            </Aircraft>
+            <Aircraft Callsign="QLK1535" Type="BCS3" Delay="0">
+                <Squawk Code="7065" ModeC="true" />
+                <Cleared Level="9000" />
+                <Position Latitude="-33.9191666667" Longitude="149.2191666667" Speed="450" Altitude="33000" />
+                <FlightPlan Active="true" Departure="YMML" Destination="YSWS" Alternative=""
+                    Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="30000" EETHours="01"
+                    EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">NONIX H66 KACEY Y35 ENVOL Y52 REVKI REVK1A/05</FlightPlan>
+                <Route>RUPEM TOROB REVKI RWY05</Route>
+            </Aircraft>
+            <Aircraft Callsign="QFA581" Type="B738" Delay="0">
+                <Squawk Code="7066" ModeC="true" />
+                <Cleared Level="9000" />
+                <Position Latitude="-32.5658333333" Longitude="150.5366666667" Speed="450" Altitude="29000" />
+                <FlightPlan Active="true" Departure="YBCG" Destination="YSWS" Alternative=""
+                    Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="29000" EETHours="01"
+                    EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">GOMOL Q16 APAGI Q58 UNTAV UNTA1A/05</FlightPlan>
+                <Route>UKDUL UNTAV RWY05</Route>
+            </Aircraft>
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>TMA Sydney - Milk Run</Name>
         <Type>TMA</Type>
         <UseGRIB xsi:nil="true" />
         <StudentBriefing>
             **HANDOVER**
             - **Runway**:
-            - 16 PROPS
-            - Expect Independent Visual Approach.
+            - 16 PROPS at YSSY,expect Independent Visual Approach
+            - 05 at YSWS, expect ILS approach
             - **Airspace**:
-            - ARL, GUN and WOL online
-            - We've Coordinated to GUN to allow 16L arrivals to be assigned the AKMIR STAR
-            strategically
+            - ARL, MNN, GUN and WOL online
+            - We've Coordinated to GUN to allow 16L arrivals to be assigned the AKMIR STAR strategically
             - Other SY TCU controller online, controlling airspace as discussed
-            - SY ADC online
+            - SY ADC and WS ADC online
             - BK, CN, RIC ADC all offline
             - **Weather**:
             - Information A
@@ -6146,6 +6220,9 @@
             - **SAN**
             - **SDS**
             - **SDN**
+            - **SWA**
+            - **SBA**
+            - **SRA**
             - **SYC**
             - Use the **Level Change** function rather than the **Cleared Level** function for
             arrivals, as the simulator has difficulty calculating descent paths when being vectored.
@@ -6168,13 +6245,7 @@
             natural gap in the sequence for them.
             - **QFA7335**, **QFA482**, and **VOZ891**, will all arrive via ODALE for Runway 16L.
             Will need to overfly the field to join mid-field downwind.
-            - **AE974** taxis at YSBK for the South via WOL. They depart underneath 16R arrivals,
-            and need to cross over the RIVET/ODALE arrival track.
-            - The student should allow the aircraft to depart and hold them at a suitable level
-            underneath 16R arrivals (Somewhere between A030-A050 is ideal).
-            - The absolutely **perfect** solution would be to Cancel the SID, Coordinate and clear
-            the aircraft on a Southerly heading up to A050, then climb them further once clear of
-            the arrivals path to the South.
+            - **AE974** taxis at YSBK for the South via WOL. They should be assigned the MECKO SID.
             - Witholding clearance to the aircraft is an option, however they do have **MEDEVAC**
             status, so it is not preferred.
             - If the student needs some breathing room, delete aircraft in the following priority:
@@ -6243,7 +6314,7 @@
                 <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true"
                     Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000"
                     ATD="0000" RFL="340" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20"
-                    Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHVFU OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">ABBEY3/16L WOL H65 LEECE Q29 BOOIN DCT</FlightPlan>
+                    Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHVFU OPR/JST PER/C RMK/TCAS EQUIPPED /V/ ">KEVIN7/16L WOL H65 LEECE Q29 BOOIN DCT</FlightPlan>
                 <Route>WOL LEECE TANTA ANLID RUMIE NABBA BULLA LUVAS BOOIN ML</Route>
                 <TimedMessages>
                     <TimedMessage Time="240"
@@ -6261,7 +6332,7 @@
                     Equipment="SADE2E3FGHIJ4J5M1P2RWYZ/LB1D1" Rules="I" CruiseSpeed="492" ETD="0000"
                     ATD="0000" RFL="310" EETHours="12" EETMins="55" FuelHours="15" FuelMins="10"
                     Remarks="PBN/A1B1C1D1L1O1S2 NAV/RNP2 RNVD1A1 DAT/1FANSPDC SUR/260B RSP180 DOF/240101 REG/VHOQK EET/YBBB0010 NFFF0116 NZZO0426 KZAK0508 KZLA1209 SEL/CLFR CODE/7C492A ORGN/YSSYQFAO PER/C /V/">GROOK2/16R NOBAR B450 ABARB DCT 2926S16203E 2855S16300E 2633S16712E 2314S17135E 1918S17650E 1306S17641W 1001S17333W/M084F370 0918S17252W 0715S17054W 0500S16851W 0358S16755W 0058N16306W 0714N15659W/M085F390 1029N15316W 1614N14520W 1839N14150W 2159N13725W 2455N13338W 2856N12836W DCT EDSEL R577 EDTOO/N0479F390 R577 ELKEY DCT </FlightPlan>
-                <Route>TESAT NOBAR ABARB KLAX</Route>
+                <Route>NOBAR ABARB KLAX</Route>
                 <TimedMessages>
                     <TimedMessage Time="0" Message="Add NOBAR to route between TESAT and ABARB" />
                     <TimedMessage Time="0" Message="Add Restriction at GROOK to Track 152°" />
@@ -6276,7 +6347,7 @@
                 <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true"
                     Equipment="SDFGHRYZ/LB1" Rules="I" CruiseSpeed="405" ETD="0000" ATD="0000"
                     RFL="260" EETHours="1" EETMins="25" FuelHours="2" FuelMins="30"
-                    Remarks="PBN/A1B2C2D2O2 NAV/RNP2 DOF/220501 REG/VHNJI EET/YBBB0002 CODE/7C431C OPR/NATIONAL JET SYSTEMS PER/C /V/">ABBEY3/16L WOL H65 LEECE Q29 BOOIN DCT</FlightPlan>
+                    Remarks="PBN/A1B2C2D2O2 NAV/RNP2 DOF/220501 REG/VHNJI EET/YBBB0002 CODE/7C431C OPR/NATIONAL JET SYSTEMS PER/C /V/">KEVIN7/16L WOL H65 LEECE Q29 BOOIN DCT</FlightPlan>
                 <Route>WOL LEECE TANTA ANLID RUMIE NABBA BULLA LUVAS BOOIN ML</Route>
                 <TimedMessages>
                     <TimedMessage Time="340"
@@ -6309,7 +6380,7 @@
                     Equipment="SDFGHRZ/LB1" Rules="I" CruiseSpeed="281" ETD="0000" ATD="0000"
                     RFL="160" EETHours="0" EETMins="35" FuelHours="1" FuelMins="10"
                     Remarks="PBN/O2S1 NAV/RNP2 DOF/240101 REG/VHLQF PER/C  /V/">SY4/16R TESAT V169 CB DCT</FlightPlan>
-                <Route>TESAT PEGSU EXETA BUNGO CB</Route>
+                <Route>PEGSU EXETA BUNGO CB</Route>
                 <TimedMessages>
                     <TimedMessage Time="700" Message="Set Heading to 210, and Takeoff" />
                 </TimedMessages>
@@ -6322,7 +6393,7 @@
                 <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false"
                     Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000"
                     ATD="0000" RFL="360" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20"
-                    Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/">ABBEY3/16L WOL H65 LEECE Q29 BOOIN DCT</FlightPlan>
+                    Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/">KEVIN7/16L WOL H65 LEECE Q29 BOOIN DCT</FlightPlan>
                 <Route>WOL LEECE TANTA ANLID RUMIE NABBA BULLA LUVAS BOOIN ML</Route>
                 <TimedMessages>
                     <TimedMessage Time="300" Message="Activate Plan" />
@@ -6371,7 +6442,7 @@
                 <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false"
                     Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000"
                     ATD="0000" RFL="380" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20"
-                    Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">ABBEY3/16L WOL H65 LEECE Q29 BOOIN DCT</FlightPlan>
+                    Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">KEVIN7/16L WOL H65 LEECE Q29 BOOIN DCT</FlightPlan>
                 <Route>WOL LEECE TANTA ANLID RUMIE NABBA BULLA LUVAS BOOIN ML</Route>
                 <TimedMessages>
                     <TimedMessage Time="500" Message="Activate Plan" />
@@ -6574,8 +6645,8 @@
                 <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true"
                     Equipment="SDE3FGHIRWZ/LB1" Rules="I" CruiseSpeed="435" ETD="0000" ATD="0000"
                     RFL="330" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20"
-                    Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHXML SEL/EMLS CODE/7C762B OPR/EXP FREIGHT AUST ORGN/YSSYQFAO PER/C /V/">DCT DOSEL Y59 NONUP MAKKA AKMIR WELSH ODALE ODALE7/16L</FlightPlan>
-                <Route>NONUP MAKKA AKMIR WELSH ODALE RWY16L</Route>
+                    Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHXML SEL/EMLS CODE/7C762B OPR/EXP FREIGHT AUST ORGN/YSSYQFAO PER/C /V/">DCT DOSEL Y59 NONUP MAKKA AKMIR AKMIR1/34R</FlightPlan>
+                <Route>NONUP MAKKA AKMIR RWY16L</Route>
             </Aircraft>
 	        <Aircraft
                 Callsign="QFA482" Type="B738" Delay="0" StartAuto="false">
@@ -6585,8 +6656,8 @@
                 <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true"
                     Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000"
                     ATD="0000" RFL="370" EETHours="1" EETMins="25" FuelHours="2" FuelMins="20"
-                    Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">DCT DOSEL Y59 NONUP MAKKA AKMIR WELSH ODALE ODALE7/16L</FlightPlan>
-                <Route>ARRAN NONUP MAKKA AKMIR WELSH ODALE RWY16L</Route>
+                    Remarks="PBN/A1B1C1D1O1S1S2T1 NAV/RNP2 DOF/240101 REG/VHVZG SEL/ESAM CODE/7C6DDA OPR/QANTAS ORGN/YSSYQFAO PER/C /V/">DCT DOSEL Y59 NONUP MAKKA AKMIR AKMIR1/34R</FlightPlan>
+                <Route>ARRAN NONUP MAKKA AKMIR RWY16L</Route>
             </Aircraft>
 	        <Aircraft
                 Callsign="VOZ891" Type="B38M" Delay="0" StartAuto="false">
@@ -6596,8 +6667,8 @@
                 <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="true"
                     Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000"
                     ATD="0000" RFL="410" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20"
-                    Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/">DCT DOSEL Y59 NONUP MAKKA AKMIR WELSH ODALE ODALE7/16L</FlightPlan>
-                <Route>ARRAN NONUP MAKKA AKMIR WELSH ODALE RWY16L</Route>
+                    Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 DOF/240101 REG/VHYUD OPR/VOZ PER/C RMK/TCAS /V/">DCT DOSEL Y59 NONUP MAKKA AKMIR AKMIR1/34R</FlightPlan>
+                <Route>ARRAN NONUP MAKKA AKMIR RWY16L</Route>
             </Aircraft> //
             Off Route Arrivals <Aircraft Callsign="ANZ107" Type="B789" Delay="0" StartAuto="false">
                 <Squawk Code="1130" ModeC="true" />
@@ -6654,8 +6725,8 @@
                 <FlightPlan Departure="YSWG" Destination="YSSY" Alternative="" Active="true"
                     Equipment="SDFGHRZ/LB1" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000"
                     RFL="190" EETHours="0" EETMins="55" FuelHours="1" FuelMins="45"
-                    Remarks="PBN/O2S1 NAV/RNP2 DOF/240101 REG/VHORX PER/C /V/">DCT WG W113 ODALE ODALE7/16R</FlightPlan>
-                <Route>AKMIR WELSH ODALE RWY16R</Route>
+                    Remarks="PBN/O2S1 NAV/RNP2 DOF/240101 REG/VHORX PER/C /V/">DCT WG W113 AKMIR AKMIR1/16R</FlightPlan>
+                <Route>ANNKY AKMIR RWY16R</Route>
             </Aircraft> // Other 
             <Aircraft
                 Callsign="AE974" Type="C510" Delay="0" StartAuto="false">
@@ -6674,16 +6745,38 @@
                         Message="(If Student is **not** controlling **SYC**): Activate Flight Plan" />
                     <TimedMessage Time="1380"
                         Message="(If Student is controlling **SYC**): AE974, Ready Runway 11C, Request Clearance" />
-                    <TimedMessage Time="1381"
-                        Message="(If Student is **not** controlling **SYC**): (Coordination) SDS: Request left turn out of Bankstown" />
                     <TimedMessage Time="1420" Message="Set Heading to 300, and Takeoff" />
                     <TimedMessage Time="1700" Message="Set Speed to 260/0.7" />
+                </TimedMessages>
+            </Aircraft>
+            <Aircraft Callsign="QLK1537" Type="BCS3" Delay="0">
+                <Squawk Code="7065" ModeC="true" />
+                <Cleared Level="9000" />
+                <Position Latitude="-33.9191666667" Longitude="149.2191666667" Speed="450" Altitude="33000" />
+                <FlightPlan Active="true" Departure="YMML" Destination="YSWS" Alternative=""
+                    Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="30000" EETHours="01"
+                    EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">NONIX H66 KACEY Y35 ENVOL Y52 REVKI REVK1A/23</FlightPlan>
+                <Route>RUPEM TOROB REVKI RWY23</Route>
+            </Aircraft>
+            <Aircraft Callsign="JST977" Type="A320" Delay="0">
+                <Squawk Code="7077" ModeC="true" />
+                <Cleared Level="4000" />
+                <Position Latitude="-33.8752777778" Longitude="150.73" Speed="0" Altitude="308" />
+                <FlightPlan Active="false" Departure="YSWS" Destination="YMML" Alternative=""
+                    Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="01"
+                    EETMins="10" FuelHours="0" FuelMins="0" Remarks="/v/">TONT1D/23 LEECE Q29 BOOIN</FlightPlan>
+                <Route>LEECE BOOIN ML</Route>
+                <TimedMessages>
+                    <TimedMessage Time="520" Message="Activate Plan" />
+                    <TimedMessage Time="1120"
+                        Message="Takeoff" />
                 </TimedMessages>
             </Aircraft>
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>TMA Tasmania</Name>
         <Type>TMA</Type>
         <StudentBriefing>
@@ -6915,8 +7008,8 @@
         </Targets>
     </ScenarioFile>
 
-
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Enroute TBD</Name>
         <Type>Enroute</Type>
         <UseGRIB xsi:nil="true" />
@@ -7226,7 +7319,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Enroute TRT</Name>
         <Type>Enroute</Type>
         <StudentBriefing>You are operating Territory.
@@ -7521,7 +7615,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Enroute ARL</Name>
         <Type>Enroute</Type>
         <StudentBriefing>You are operating ARL.
@@ -7840,7 +7935,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Enroute TBD - Intro</Name>
         <Type>Enroute</Type>
         <Targets>
@@ -8016,7 +8112,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Enroute HYD</Name>
         <Type>Enroute</Type>
         <StudentBriefing>You are operating HYD. YPPH is running 03 and 06 for Arrivals and
@@ -8320,7 +8417,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Enroute GUN</Name>
         <Type>Enroute</Type>
         <StudentBriefing>You are operating GUN. WOL has released the CB TCU to you.
@@ -8368,7 +8466,7 @@
                 <Cleared Level="39000" />
                 <FlightPlan Active="true" Departure="WSSS" Destination="YSSY" Alternative=""
                     Rules="I" CruiseSpeed="480" ETD="0000" ATD="0000" RFL="39000" EETHours="00"
-                    EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">TPG M635 ATMAP A576 APOMA Y52 VELGI Y105 TARAL Y59 TESAT</FlightPlan>
+                    EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT VELGI Y105 TARAL Y59 TESAT</FlightPlan>
                 <Route>VELGI MAKKA TARAL ENLAD RIVET TESAT</Route>
             </Aircraft>
             <Aircraft Callsign="WFE" Type="BE58" Delay="0">
@@ -8463,13 +8561,14 @@
                 <FlightPlan Active="false" Departure="YSDU" Destination="YSSY" Alternative="YSRI"
                     Rules="I" CruiseSpeed="180" ETD="0000" ATD="0000" RFL="19000" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0"
-                    Remarks="PBN/A1B1C1 REG/VHAMQ PER/B RMK/4POB   /v/">DU V138 ANNKY W113 ANKUB ANKUB1/34R</FlightPlan>
+                    Remarks="PBN/A1B1C1 REG/VHAMQ PER/B RMK/4POB   /v/">DU V138 ANNKY W113 AKMIR AKMIR1/34R</FlightPlan>
                 <Route>RUPEM ANNKY AKMIR TESAT</Route>
             </Aircraft>
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Enroute BLA</Name>
         <Type>Enroute</Type>
         <UseGRIB xsi:nil="true" />
@@ -8720,7 +8819,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Enroute INL</Name>
         <Type>Enroute</Type>
         <StudentBriefing>You are operating Inverell.
@@ -8935,7 +9035,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Enroute ASP</Name>
         <Type>Enroute</Type>
         <UseGRIB xsi:nil="true" />
@@ -9391,7 +9492,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Oceanic TSN</Name>
         <Type>Oceanic</Type>
         <UseGRIB xsi:nil="true" />
@@ -9527,7 +9629,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Tower Moorabbin</Name>
         <Type>Tower</Type>
         <StudentBriefing>You are operating Moorabbin Tower.
@@ -9673,7 +9776,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Tower Sydney 34L and R (S2)</Name>
         <Type>Tower</Type>
         <UseGRIB xsi:nil="true" />
@@ -10044,7 +10148,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Ground Melbourne 27AD/34D</Name>
         <Type>Tower</Type>
         <UseGRIB xsi:nil="true" />
@@ -10378,7 +10483,8 @@
         </Targets>
     </ScenarioFile>
 
-    <ScenarioFile>
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Ground/Tower Perth 21AD24A (Auto-Timed)</Name>
         <Type>Tower</Type>
         <UseGRIB xsi:nil="true" />
