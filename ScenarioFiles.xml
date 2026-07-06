@@ -8564,6 +8564,15 @@
                     Remarks="PBN/A1B1C1 REG/VHAMQ PER/B RMK/4POB   /v/">DU V138 ANNKY W113 AKMIR AKMIR1/34R</FlightPlan>
                 <Route>RUPEM ANNKY AKMIR TESAT</Route>
             </Aircraft>
+            <Aircraft Callsign="QLK1535" Type="BCS3" Delay="0">
+                <Squawk Code="7065" ModeC="true" />
+                <Cleared Level="33000" />
+                <Position Latitude="-34.9427777778" Longitude="147.4588888889" Speed="450" Altitude="33000" />
+                <FlightPlan Active="true" Departure="YMML" Destination="YSWS" Alternative=""
+                    Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="30000" EETHours="01"
+                    EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">NONIX H66 KACEY Y35 ENVOL Y52 UPDAK</FlightPlan>
+                <Route>METUV ENVOL RUPEM TOROB REVKI RWY05</Route>
+            </Aircraft>
         </Targets>
     </ScenarioFile>
 
