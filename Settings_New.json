@@ -1,0 +1,18 @@
+{
+  "Name": "Australia",
+  "CIDs": "1658308,1487719,1686135",
+  "CIDUrl": "https://tms-server.vatpac.org/users/staff?dept=training",
+  "Icon": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/logo.png",
+  "Scenarios": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/ScenarioFiles.xml",
+  "Airspace": "https://raw.githubusercontent.com/vatSys/australia-dataset/acea8a4468e2e897f32945aa1174e34e2c529a40/Airspace.xml",
+  "AirspaceSupplemental": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/AirspaceSupplemental.xml",
+  "Performance": "https://raw.githubusercontent.com/vatSys/australia-dataset/master/Performance.xml",
+  "PerformanceSupplemental": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/PerformanceSupplemental.xml",
+  "Positions": "https://raw.githubusercontent.com/vatSys/australia-dataset/master/Positions.xml",
+  "Sectors": "https://raw.githubusercontent.com/vatSys/australia-dataset/master/Sectors.xml",
+  "GroundInfomation": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/GroundInformation.xml",
+  "DEM": "https://raw.githubusercontent.com/vatSys/australia-dataset/master/DEM.xml",
+  "AirportStartingLetters": "Y",
+  "SweatBox1": "https://sweatbox01-training.vatpac.org",
+  "SweatBox2": "https://sweatbox02-training.vatpac.org"
+}
