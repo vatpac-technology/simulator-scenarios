@@ -192,8 +192,8 @@
                     Altitude="1500" />
                 <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="" Active="true"
                     Equipment="SFG/LB1" Rules="V" CruiseSpeed="100" RFL="025" EETHours="0" EETMins="0"
-                    FuelHours="0" FuelMins="0" Remarks="/v/ ST HELEN INBOUND">SSKP CRST CRSC</FlightPlan>
-                <Route>CRSC PILAK268002 PILAK332002 WFM082004 RYB194007 PNP352003 RWY29R</Route>
+                    FuelHours="0" FuelMins="0" Remarks="/v/ ST HELEN INBOUND">SSKP CRST CRSC YSBK/29R</FlightPlan>
+                <Route>CRSC PILAK268002 PILAK332002 WFM082004 RYB194007 PNP352003</Route>
                 <TimedMessages>
                     <TimedMessage Time="75"
                         Message="&quot;Bankstown Tower, Cessna IPD, Crossroads Shopping Centre, 1500 feet, inbound, received [ATIS]&quot;" />
@@ -206,7 +206,7 @@
                     Altitude="0" />
                 <FlightPlan Departure="YSBK" Destination="YORG" Alternative="" Active="false"
                     Equipment="SFG/LB1" Rules="V" CruiseSpeed="150" RFL="015" EETHours="0" EETMins="0"
-                    FuelHours="0" FuelMins="0" Remarks="/v/ PENRITH OUTBOUND">PRT SITS VCBR</FlightPlan>
+                    FuelHours="0" FuelMins="0" Remarks="/v/ PENRITH OUTBOUND">PRT SITS VCBR YSBK/29R</FlightPlan>
                 <Route>YSBK PILAK302002 PRT SITS VCBR</Route>
                 <TimedMessages>
                     <TimedMessage Time="1"
@@ -222,8 +222,8 @@
                     Altitude="1500" />
                 <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="" Active="true"
                     Equipment="SFG/LB1" Rules="V" CruiseSpeed="140" RFL="015" EETHours="0" EETMins="0"
-                    FuelHours="0" FuelMins="0" Remarks="/v/ LIGHTHORSE INBOUND">NPBR LIHR PSP</FlightPlan>
-                <Route>NPBR LIHR PSP PILAK332002 WFM082004 RYB194007 PNP352003 RWY29R</Route>
+                    FuelHours="0" FuelMins="0" Remarks="/v/ LIGHTHORSE INBOUND">NPBR LIHR PSP YSBK/29R</FlightPlan>
+                <Route>NPBR LIHR PSP PILAK332002 WFM082004 RYB194007 PNP352003</Route>
                 <TimedMessages>
                     <TimedMessage Time="900"
                         Message="&quot;Bankstown Tower, Seminole PIE, PROSPECT RESERVOIR, 1500 feet, inbound, received [ATIS]&quot;" />
@@ -269,8 +269,8 @@
                     Altitude="1500" />
                 <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="" Active="true"
                     Equipment="SFG/LB1" Rules="V" CruiseSpeed="130" RFL="015" EETHours="0" EETMins="0"
-                    FuelHours="0" FuelMins="0" Remarks="/v/ ST HELEN INBOUND">SSKP CRST CRSC</FlightPlan>
-                <Route> SSKP CRST CRSC PILAK268002 PILAK332002 WFM082004 RYB194007 PNP352003 RWY29R</Route>
+                    FuelHours="0" FuelMins="0" Remarks="/v/ ST HELEN INBOUND">SSKP CRST CRSC YSBK/29R</FlightPlan>
+                <Route> SSKP CRST CRSC PILAK268002 PILAK332002 WFM082004 RYB194007 PNP352003</Route>
                 <TimedMessages>
                     <TimedMessage Time="1507"
                         Message="&quot;Bankstown Tower, Cessna JKE, Crossroads Shopping Centre, 1500 feet, inbound, received [ATIS]&quot;" />
@@ -299,10 +299,10 @@
                     Altitude="0" />
                 <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="" Active="false"
                     Equipment="SFG/LB1" Rules="V" CruiseSpeed="120" RFL="007" EETHours="0" EETMins="0"
-                    FuelHours="0" FuelMins="0" Remarks="/v/ CS/'POL-AIR'">CWST PENT PSP CNTH</FlightPlan>
+                    FuelHours="0" FuelMins="0" Remarks="/v/ CS/'POL-AIR'">CWST PENT PSP CNTH YSBK/29R</FlightPlan>
                 <Route>PILAK311001 RSH184003 PSP308001 PENT PSP275013 PSP269013 PSP271011 PSP279010
                     PSP280012 PSP275013 PSP269013 PSP271011 PSP279010 PSP280012 PSP275013 PSP269013
-                    PSP271011 PSP CNTH PILAK020002 WFM082004 RYB194007 PNP352003 RWY29R</Route>
+                    PSP271011 PSP CNTH PILAK020002 WFM082004 RYB194007 PNP352003</Route>
                 <TimedMessages>
                     <TimedMessage Time="200"
                         Message="&quot;Bankstown Tower, helicopter POL2, for departure via CHOPPERS WEST, received [ATIS], request engine start&quot;" />
@@ -319,8 +319,8 @@
                     Altitude="1500" />
                 <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="" Active="true"
                     Equipment="SFG/LB1" Rules="V" CruiseSpeed="90" RFL="015" EETHours="0" EETMins="0"
-                    FuelHours="0" FuelMins="0" Remarks="/v/ BROOKLYN INBOUND">BBG BEE BKHR PSP</FlightPlan>
-                <Route>PSP PILAK332002 WFM082004 RYB194007 PNP352003 RWY29R</Route>
+                    FuelHours="0" FuelMins="0" Remarks="/v/ BROOKLYN INBOUND">BBG BEE BKHR PSP YSBK/29R</FlightPlan>
+                <Route>PSP PILAK332002 WFM082004 RYB194007 PNP352003</Route>
                 <TimedMessages>
                     <TimedMessage Time="795"
                         Message="&quot;Bankstown Tower, Cessna KKB, PROSPECT RESERVOIR, 1500 feet, inbound, received [ATIS]&quot;" />
@@ -395,8 +395,8 @@
                     Altitude="1500" />
                 <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="YSSY" Active="true"
                     Equipment="SFG/LB1" Rules="V" CruiseSpeed="110" RFL="015" EETHours="0" EETMins="0"
-                    FuelHours="0" FuelMins="0" Remarks="/v/ LIGHTHORSE INBOUND">NPBR LIHR PSP</FlightPlan>
-                <Route>LIHR PSP PILAK332002 WFM082004 RYB194007 PNP352003 RWY29R</Route>
+                    FuelHours="0" FuelMins="0" Remarks="/v/ LIGHTHORSE INBOUND">NPBR LIHR PSP YSBK/29R</FlightPlan>
+                <Route>LIHR PSP PILAK332002 WFM082004 RYB194007 PNP352003</Route>
                 <TimedMessages>
                     <TimedMessage Time="310"
                         Message="&quot;Bankstown Tower, Cherokee 83B, Prospect, 1500 feet, inbound, received [ATIS]&quot;" />
@@ -409,8 +409,8 @@
                     Altitude="1500" />
                 <FlightPlan Departure="YSBK" Destination="YSBK" Alternative="YSSY" Active="true"
                     Equipment="SFG/LB1" Rules="V" CruiseSpeed="0" RFL="0" EETHours="0" EETMins="0"
-                    FuelHours="0" FuelMins="0" Remarks="/v/ BROOKLYN INBOUND">BBG BEE BKHR PSP</FlightPlan>
-                <Route>PSP PILAK332002 WFM082004 RYB194007 PNP352003 RWY29R</Route>
+                    FuelHours="0" FuelMins="0" Remarks="/v/ BROOKLYN INBOUND">BBG BEE BKHR PSP YSBK/29R</FlightPlan>
+                <Route>PSP PILAK332002 WFM082004 RYB194007 PNP352003</Route>
                 <TimedMessages>
                     <TimedMessage Time="180"
                         Message="&quot;Bankstown Tower, Cherokee FKN, PROSPECT RESERVOIR, 1500 feet, inbound, received [ATIS]&quot;" />
@@ -5911,8 +5911,8 @@
 		</Aircraft>
 		<Aircraft Callsign="EJV" Type="BE10" Delay="0" StartAuto="false">
 			<Squawk Code="5342" ModeC="false" />
-			<Cleared Level="100" Speed="1" Approach="false" />
-			<Position Latitude="-38.25934697169862" Longitude="144.42735927073733" Speed="1" Altitude="100" />
+			<Cleared Approach="false" />
+			<Position Latitude="-38.25934697169862" Longitude="144.42735927073733" Speed="0" Altitude="0" />
 			<FlightPlan Departure="YBRS" Destination="YBDG" Alternative="YMEN" Active="false" CruiseSpeed="180" RFL="050" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">AV ISPEG DOTPA</FlightPlan>
 			<Route>AV ISPEG DOTPA</Route>
 		</Aircraft>
