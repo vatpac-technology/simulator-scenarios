@@ -640,7 +640,7 @@
              <Aircraft Callsign="QJE1282" Type="BCS3" Delay="0" StartAuto="false">
              <Squawk Code="7513" ModeC="true" />
              <Cleared Level="5000" Approach="false" />
-              <Position Latitude="-37.66495831832315" Longitude="144.84574036216267" Speed="0" Altitude="0" />
+              <Position Latitude="-37.6653175" Longitude="144.8457855" Speed="0" Altitude="0" Heading="350" />
               <FlightPlan Departure="YMML" Destination="YSSY" Alternative="YSCB" Active="true" Equipment="" CruiseSpeed="0" RFL="35000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DOSEL2/27 DOSEL Y59 RIVET</FlightPlan>
               <Route>DOSEL Y59 RIVET</Route>
             </Aircraft>
@@ -1278,7 +1278,7 @@
             </Aircraft>
             <Aircraft Callsign="VOZ843" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.671142" Longitude="144.846814" Speed="0" Altitude="384" Heading="175" />
+                <Position Latitude="-37.6710067" Longitude="144.847295" Speed="0" Altitude="384" Heading="32" />
                 <FlightPlan Departure="YMML" Destination="YMHB" Alternative="" Rules="I"
                     CruiseSpeed="455" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">SUNTI H169 IRSOM V33 TASUM</FlightPlan>
@@ -1286,7 +1286,7 @@
             </Aircraft>
             <Aircraft Callsign="VOZ791" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.670665" Longitude="144.846936" Speed="0" Altitude="384" Heading="182" />
+                <Position Latitude="-37.6708227" Longitude="144.846776" Speed="0" Altitude="384" Heading="172" />
                 <FlightPlan Departure="YMML" Destination="NZAA" Alternative="" Rules="I"
                     CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">CORRS Y81 GEMAC N759 PEBLU</FlightPlan>
@@ -1294,7 +1294,7 @@
             </Aircraft>
             <Aircraft Callsign="BAW15" Type="B77W" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.667898" Longitude="144.846939" Speed="0" Altitude="384" Heading="224" />
+                <Position Latitude="-37.6678178" Longitude="144.8468485" Speed="0" Altitude="384" Heading="253" />
                 <FlightPlan Departure="YMML" Destination="WSSS" Alternative="" Rules="I"
                     CruiseSpeed="490" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">KEPPA H164 LEC A461 AS TIMMI CIN</FlightPlan>
@@ -1302,7 +1302,7 @@
             </Aircraft>
             <Aircraft Callsign="QFA400" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.667258" Longitude="144.849928" Speed="0" Altitude="384" Heading="86" />
+                <Position Latitude="-37.666955" Longitude="144.8497176" Speed="0" Altitude="384" Heading="261" />
                 <FlightPlan Departure="YMML" Destination="YPAD" Alternative="" Rules="I"
                     CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">PEDNI H345 DRINA</FlightPlan>
@@ -1310,8 +1310,8 @@
             </Aircraft>
             <Aircraft Callsign="QFA600" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.668128" Longitude="144.85189400000002" Speed="0"
-                    Altitude="394" Heading="157" />
+                <Position Latitude="-37.6681511" Longitude="144.8519184" Speed="0"
+                    Altitude="394" Heading="81" />
                 <FlightPlan Departure="YMML" Destination="YBBN" Alternative="" Rules="I"
                     CruiseSpeed="460" ETD="0000" ATD="0000" RFL="33000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML H119 DORSU Q35 SANEG H91 BN DCT</FlightPlan>
@@ -1319,7 +1319,7 @@
             </Aircraft>
             <Aircraft Callsign="RXA3656" Type="SF34" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.67583333" Longitude="144.84472222" Speed="0" Altitude="381" Heading="90" />
+                <Position Latitude="-37.6758256" Longitude="144.8449055" Speed="0" Altitude="381" Heading="81" />
                 <FlightPlan Departure="YMML" Destination="YMIA" Alternative="" Rules="I"
                     CruiseSpeed="270" ETD="0000" ATD="0000" RFL="20000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">ML V376 MIA</FlightPlan>
@@ -1327,7 +1327,7 @@
             </Aircraft>
             <Aircraft Callsign="QLK148D" Type="DH8D" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.666607" Longitude="144.852269" Speed="0" Altitude="381" Heading="110" />
+                <Position Latitude="-37.666784" Longitude="144.8522694" Speed="0" Altitude="381" Heading="262" />
                 <FlightPlan Departure="YMML" Destination="YSTW" Alternative="" Rules="I"
                     CruiseSpeed="310" ETD="0000" ATD="0000" RFL="21000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">ML H129 DOSEL W569 BOGES W654 CWR W137 MUDGI H66 TW</FlightPlan>
@@ -1441,7 +1441,7 @@
             </Aircraft>
             <Aircraft Callsign="VOZ845" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.671142" Longitude="144.846814" Speed="0" Altitude="384" Heading="175" />
+                <Position Latitude="-37.6710067" Longitude="144.847295" Speed="0" Altitude="384" Heading="32" />
                 <FlightPlan Departure="YMML" Destination="YMHB" Alternative="" Rules="I"
                     CruiseSpeed="455" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">SUNTI H169 IRSOM V33 TASUM</FlightPlan>
@@ -1449,7 +1449,7 @@
             </Aircraft>
             <Aircraft Callsign="VOZ793" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.670665" Longitude="144.846936" Speed="0" Altitude="384" Heading="182" />
+                <Position Latitude="-37.6708227" Longitude="144.846776" Speed="0" Altitude="384" Heading="172" />
                 <FlightPlan Departure="YMML" Destination="NZAA" Alternative="" Rules="I"
                     CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">CORRS Y81 GEMAC N759 PEBLU</FlightPlan>
@@ -1457,7 +1457,7 @@
             </Aircraft>
             <Aircraft Callsign="BAW17" Type="B77W" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.667898" Longitude="144.846939" Speed="0" Altitude="384" Heading="224" />
+                <Position Latitude="-37.6678178" Longitude="144.8468485" Speed="0" Altitude="384" Heading="253" />
                 <FlightPlan Departure="YMML" Destination="WSSS" Alternative="" Rules="I"
                     CruiseSpeed="490" ETD="0000" ATD="0000" RFL="32000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">KEPPA H164 LEC A461 AS TIMMI CIN</FlightPlan>
@@ -1465,7 +1465,7 @@
             </Aircraft>
             <Aircraft Callsign="QFA402" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.667258" Longitude="144.849928" Speed="0" Altitude="384" Heading="86" />
+                <Position Latitude="-37.666955" Longitude="144.8497176" Speed="0" Altitude="384" Heading="261" />
                 <FlightPlan Departure="YMML" Destination="YPAD" Alternative="" Rules="I"
                     CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">PEDNI H345 DRINA</FlightPlan>
@@ -1473,8 +1473,8 @@
             </Aircraft>
             <Aircraft Callsign="QFA602" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.668128" Longitude="144.85189400000002" Speed="0"
-                    Altitude="394" Heading="157" />
+                <Position Latitude="-37.6681511" Longitude="144.8519184" Speed="0"
+                    Altitude="394" Heading="81" />
                 <FlightPlan Departure="YMML" Destination="YBBN" Alternative="" Rules="I"
                     CruiseSpeed="460" ETD="0000" ATD="0000" RFL="33000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">NONIX H66 BLAKA </FlightPlan>
@@ -1482,7 +1482,7 @@
             </Aircraft>
             <Aircraft Callsign="RXA3658" Type="SF34" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.67583333" Longitude="144.84472222" Speed="0" Altitude="381" Heading="90" />
+                <Position Latitude="-37.6758256" Longitude="144.8449055" Speed="0" Altitude="381" Heading="81" />
                 <FlightPlan Departure="YMML" Destination="YMIA" Alternative="" Rules="I"
                     CruiseSpeed="310" ETD="0000" ATD="0000" RFL="20000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">ML V376 MIA</FlightPlan>
@@ -1490,7 +1490,7 @@
             </Aircraft>
             <Aircraft Callsign="QLK150D" Type="DH8D" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.666607" Longitude="144.852269" Speed="0" Altitude="381" Heading="110" />
+                <Position Latitude="-37.666784" Longitude="144.8522694" Speed="0" Altitude="381" Heading="262" />
                 <FlightPlan Departure="YMML" Destination="YBBN" Alternative="" Rules="I"
                     CruiseSpeed="310" ETD="0000" ATD="0000" RFL="21000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">ML BOOIN Q29 LEECE H65 WOL BOREE IGDAM HUUGO</FlightPlan>
@@ -1676,15 +1676,15 @@
         <Targets>
             <Aircraft Callsign="QFA121" Type="B738" Delay="0" StartAuto="false">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.938964763159845" Longitude="151.16617074123596" Speed="0"
-                    Altitude="3" Heading="334" />
+                <Position Latitude="-33.9389598" Longitude="151.1661499" Speed="0"
+                    Altitude="3" Heading="254" />
                 <FlightPlan Departure="YSSY" Destination="NZQN" Active="false" CruiseSpeed="450"
                     RFL="37000" EETHours="04" EETMins="55" FuelHours="0" FuelMins="15" Remarks="/v/">DCT OPTIC Y84 TONIM P766 ADKOS DCT</FlightPlan>
                 <Route>OPTIC TONIM OMKIN ADKOS NZQN</Route>
             </Aircraft>
             <Aircraft Callsign="JST430" Type="A320" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.935203" Longitude="151.177031" Speed="0" Altitude="3" Heading="142" />
+                <Position Latitude="-33.9351822" Longitude="151.177158" Speed="0" Altitude="3" Heading="100" />
                 <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Rules="I"
                     CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H252 OLSEM Y193 BANDA H252 BN DCT</FlightPlan>
@@ -1692,7 +1692,7 @@
             </Aircraft>
             <Aircraft Callsign="RXA6418" Type="SF34" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.93638889" Longitude="151.18166667" Speed="0" Altitude="3" Heading="279" />
+                <Position Latitude="-33.936445" Longitude="151.1815779" Speed="0" Altitude="3" Heading="221" />
                 <FlightPlan Departure="YSSY" Destination="YCFS" Alternative="" Rules="I"
                     CruiseSpeed="270" ETD="0000" ATD="0000" RFL="19000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT KAMBA V140 WLM V535 NICLA V652 CFS DCT</FlightPlan>
@@ -1700,7 +1700,7 @@
             </Aircraft>
             <Aircraft Callsign="AAL72" Type="B77W" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.934048" Longitude="151.167567" Speed="0" Altitude="3" Heading="272" />
+                <Position Latitude="-33.9340931" Longitude="151.1673422" Speed="0" Altitude="3" Heading="258" />
                 <FlightPlan Departure="YSSY" Destination="KLAX" Alternative="" Rules="I"
                     CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT DIPSO G595 ATNAT G595 SARAP G595 NIMOD DCT SAMAD B200 PUMIS/N0492F370 B200 BISOX DCT UPNAR B454 COMIR/N0480F390 DCT BENTS DCT AHNDO B577 FICKY/N0473F410 GOATZ1</FlightPlan>
@@ -1708,8 +1708,8 @@
             </Aircraft>
             <Aircraft Callsign="VOZ821" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.935548" Longitude="151.17986300000004" Speed="0"
-                    Altitude="3" Heading="281" />
+                <Position Latitude="-33.9355395" Longitude="151.1797368" Speed="0"
+                    Altitude="3" Heading="280" />
                 <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Rules="I"
                     CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H252 OLSEM Y193 BANDA H252 BN DCT</FlightPlan>
@@ -1717,8 +1717,8 @@
             </Aircraft>
             <Aircraft Callsign="TGG721" Type="A320" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.936348" Longitude="151.17910899999998" Speed="0"
-                    Altitude="3" Heading="46" />
+                <Position Latitude="-33.936291" Longitude="151.1791624" Speed="0"
+                    Altitude="3" Heading="98" />
                 <FlightPlan Departure="YSSY" Destination="YBCG" Alternative="" Rules="I"
                     CruiseSpeed="450" ETD="0000" ATD="0000" RFL="41000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H252 OLSEM Y193 BANDA Y43 GREAV CG DCT</FlightPlan>
@@ -1726,8 +1726,8 @@
             </Aircraft>
             <Aircraft Callsign="QFA820" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.931913" Longitude="151.18020300000003" Speed="0"
-                    Altitude="13" Heading="189" />
+                <Position Latitude="-33.932" Longitude="151.1801825" Speed="0"
+                    Altitude="13" Heading="190" />
                 <FlightPlan Departure="YSSY" Destination="YBCG" Alternative="" Rules="I"
                     CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM DCT GREAV CG DCT</FlightPlan>
@@ -1735,7 +1735,7 @@
             </Aircraft>
             <Aircraft Callsign="QFA427" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.931849" Longitude="151.179663" Speed="0" Altitude="13" Heading="189" />
+                <Position Latitude="-33.931878" Longitude="151.1796496" Speed="0" Altitude="13" Heading="190" />
                 <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Rules="I"
                     CruiseSpeed="500" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H65 LEECE Q29 ML DCT</FlightPlan>
@@ -1743,8 +1743,8 @@
             </Aircraft>
             <Aircraft Callsign="JST527" Type="A320" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.93472200000001" Longitude="151.177124" Speed="0"
-                    Altitude="3" Heading="79" />
+                <Position Latitude="-33.9346694" Longitude="151.1772587" Speed="0"
+                    Altitude="3" Heading="100" />
                 <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Rules="I"
                     CruiseSpeed="500" ETD="0000" ATD="0000" RFL="40000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H65 LEECE Q29 ML DCT</FlightPlan>
@@ -1752,8 +1752,8 @@
             </Aircraft>
             <Aircraft Callsign="JST578" Type="A320" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.932655" Longitude="151.17702100000002" Speed="0"
-                    Altitude="13" Heading="69" />
+                <Position Latitude="-33.9326227" Longitude="151.1771713" Speed="0"
+                    Altitude="13" Heading="85" />
                 <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Rules="I"
                     CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H252 OLSEM Y193 BANDA H252 BN DCT</FlightPlan>
@@ -1761,7 +1761,7 @@
             </Aircraft>
             <Aircraft Callsign="QFA127" Type="B744" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.938971" Longitude="151.168822" Speed="0" Altitude="13" Heading="257" />
+                <Position Latitude="-33.9388461" Longitude="151.1688642" Speed="0" Altitude="13" Heading="74" />
                 <FlightPlan Departure="YSSY" Destination="VHHH" Alternative="" Rules="I"
                     CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT STUIE H530 SURVO R340 DUMAV/N0468F400 R340 AMN A461 BONDA/N0471F380 A461 ZAM A583 SABNO V541</FlightPlan>
@@ -1769,7 +1769,7 @@
             </Aircraft>
             <Aircraft Callsign="VOZ83" Type="B772" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.937415" Longitude="151.169052" Speed="0" Altitude="13" Heading="285" />
+                <Position Latitude="-33.9374103" Longitude="151.1690134" Speed="0" Altitude="13" Heading="254" />
                 <FlightPlan Departure="YSSY" Destination="VHHH" Alternative="" Rules="I"
                     CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT STUIE H530 SURVO R340 DUMAV/N0468F400 R340 AMN A461 BONDA/N0471F380 A461 ZAM A583 SABNO V541</FlightPlan>
@@ -1777,8 +1777,8 @@
             </Aircraft>
             <Aircraft Callsign="JST37" Type="B788" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.93904799999999" Longitude="151.169797" Speed="0"
-                    Altitude="13" Heading="257" />
+                <Position Latitude="-33.9391775" Longitude="151.1701652" Speed="0"
+                    Altitude="13" Heading="266" />
                 <FlightPlan Departure="YSSY" Destination="WADD" Alternative="" Rules="I"
                     CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT STUIE H530 LASUD DCT ENPAG T74 NONET/N0476F430 T74 VINAX G326 NYOMA DCT</FlightPlan>
@@ -1786,8 +1786,8 @@
             </Aircraft>
             <Aircraft Callsign="THA476" Type="B744" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.939237" Longitude="151.16663600000004" Speed="0"
-                    Altitude="13" Heading="283" />
+                <Position Latitude="-33.9393639" Longitude="151.1665891" Speed="0"
+                    Altitude="13" Heading="262" />
                 <FlightPlan Departure="YSSY" Destination="VTBS" Alternative="" Rules="I"
                     CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT STUIE H530 LASUD DCT ENPAG T74 KARAG/N0500F340 T74 VINAX/N0500F360 T74 TN J251 DN M768 PORAK/N0490F380 M768 TSN R468 PNH A340 RYN DCT</FlightPlan>
@@ -1795,7 +1795,7 @@
             </Aircraft>
             <Aircraft Callsign="QLK227D" Type="DH8D" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.931105" Longitude="151.182211" Speed="0" Altitude="13" Heading="307" />
+                <Position Latitude="-33.9312794" Longitude="151.182396" Speed="0" Altitude="13" Heading="135" />
                 <FlightPlan Departure="YSSY" Destination="YSCB" Alternative="" Rules="I"
                     CruiseSpeed="350" ETD="0000" ATD="0000" RFL="22000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT PEGSU V169 CB DCT</FlightPlan>
@@ -1803,7 +1803,7 @@
             </Aircraft>
             <Aircraft Callsign="QFA721" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.931605" Longitude="151.178025" Speed="0" Altitude="13" Heading="180" />
+                <Position Latitude="-33.9316755" Longitude="151.1779644" Speed="0" Altitude="13" Heading="190" />
                 <FlightPlan Departure="YSSY" Destination="YPAD" Alternative="" Rules="I"
                     CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT A576 KADOM H44 BORLI W451 MIA H309 AD DCT</FlightPlan>
@@ -1811,8 +1811,8 @@
             </Aircraft>
             <Aircraft Callsign="VOZ429" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.93509300000001" Longitude="151.179945" Speed="0"
-                    Altitude="3" Heading="346" />
+                <Position Latitude="-33.9350746" Longitude="151.179873" Speed="0"
+                    Altitude="3" Heading="285" />
                 <FlightPlan Departure="YSSY" Destination="YPAD" Alternative="" Rules="I"
                     CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT A576 KADOM H44 BORLI W451 MIA H309 AD DCT</FlightPlan>
@@ -1820,7 +1820,7 @@
             </Aircraft>
             <Aircraft Callsign="CXF" Type="B350" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.934085" Longitude="151.188217" Speed="0" Altitude="20" Heading="308" />
+                <Position Latitude="-33.9342391" Longitude="151.1882402" Speed="0" Altitude="20" Heading="190" />
                 <FlightPlan Departure="YSSY" Destination="YWLM" Alternative="" Rules="I"
                     CruiseSpeed="250" ETD="0000" ATD="0000" RFL="9000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT V140 WLM DCT</FlightPlan>
@@ -1994,8 +1994,8 @@
         <Targets>
             <Aircraft Callsign="QFA121" Type="B738" Delay="0" StartAuto="false">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.938964763159845" Longitude="151.16617074123596" Speed="0"
-                    Altitude="3" Heading="334" />
+                <Position Latitude="-33.9389598" Longitude="151.1661499" Speed="0"
+                    Altitude="3" Heading="254" />
                 <FlightPlan Departure="YSSY" Destination="NZQN" Active="false" CruiseSpeed="450"
                     RFL="37000" EETHours="04" EETMins="55" FuelHours="0" FuelMins="15" Remarks="/v/">DCT OPTIC Y84 TONIM P766 ADKOS DCT</FlightPlan>
                 <Route>OPTIC TONIM OMKIN ADKOS NZQN</Route>
@@ -2007,7 +2007,7 @@
             </Aircraft>
             <Aircraft Callsign="JST430" Type="A320" Delay="0" StartAuto="false">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.935203" Longitude="151.177031" Speed="0" Altitude="3" Heading="142" />
+                <Position Latitude="-33.9351822" Longitude="151.177158" Speed="0" Altitude="3" Heading="100" />
                 <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT H252 OLSEM Y193 BANDA H252 BN DCT</FlightPlan>
@@ -2020,7 +2020,7 @@
             </Aircraft>
             <Aircraft Callsign="RXA6416" Type="SF34" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.93638889" Longitude="151.18166667" Speed="0" Altitude="3" Heading="279" />
+                <Position Latitude="-33.936445" Longitude="151.1815779" Speed="0" Altitude="3" Heading="221" />
                 <FlightPlan Departure="YSSY" Destination="YCFS" Alternative="" Rules="I"
                     CruiseSpeed="270" ETD="0000" ATD="0000" RFL="19000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT TESAT V140 WLM V535 NICLA W446 KADSI W196 CFS DCT</FlightPlan>
@@ -2032,8 +2032,8 @@
             </Aircraft>
             <Aircraft Callsign="VOZ821" Type="B738" Delay="0" StartAuto="false">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.935548" Longitude="151.17986300000004" Speed="0"
-                    Altitude="3" Heading="281" />
+                <Position Latitude="-33.9355395" Longitude="151.1797368" Speed="0"
+                    Altitude="3" Heading="280" />
                 <FlightPlan Departure="YSSY" Destination="YBBN" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="39000" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0" Remarks="/   /v/">DCT OLSEM Y193 BANDA H252 BN DCT</FlightPlan>
@@ -2046,8 +2046,8 @@
             </Aircraft>
             <Aircraft Callsign="QFA820" Type="B738" Delay="1320" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.931913" Longitude="151.18020300000003" Speed="0"
-                    Altitude="13" Heading="189" />
+                <Position Latitude="-33.932" Longitude="151.1801825" Speed="0"
+                    Altitude="13" Heading="190" />
                 <FlightPlan Departure="YSSY" Destination="YBCG" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="35000" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT OLSEM Y193 BANDA Y43 GREAV CG DCT</FlightPlan>
@@ -2060,7 +2060,7 @@
             </Aircraft>
             <Aircraft Callsign="QFA127" Type="B744" Delay="540" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.938971" Longitude="151.168822" Speed="0" Altitude="13" Heading="257" />
+                <Position Latitude="-33.9388461" Longitude="151.1688642" Speed="0" Altitude="13" Heading="74" />
                 <FlightPlan Departure="YSSY" Destination="VHHH" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT STUIE H530 SURVO R340 DUMAV/N0468F400 R340 AMN A461 BONDA/N0471F380 A461 ZAM A583 SABNO V541</FlightPlan>
@@ -2073,8 +2073,8 @@
             </Aircraft>
             <Aircraft Callsign="UAE476" Type="B772" Delay="0" StartAuto="false">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.939237" Longitude="151.16663600000004" Speed="0"
-                    Altitude="13" Heading="283" />
+                <Position Latitude="-33.9393639" Longitude="151.1665891" Speed="0"
+                    Altitude="13" Heading="262" />
                 <FlightPlan Departure="YSSY" Destination="OMDB" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT STUIE H530 LASUD DCT ENPAG T74 KARAG/N0500F340 T74 VINAX/N0500F360 T74 TN J251 DN M768 PORAK/N0490F380 M768 TSN R468 PNH A340 RYN DCT</FlightPlan>
@@ -2087,7 +2087,7 @@
             </Aircraft>
             <Aircraft Callsign="QLK227D" Type="DH8D" Delay="750" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.931105" Longitude="151.182211" Speed="0" Altitude="13" Heading="307" />
+                <Position Latitude="-33.9312794" Longitude="151.182396" Speed="0" Altitude="13" Heading="135" />
                 <FlightPlan Departure="YSSY" Destination="YSCB" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="350" ETD="0000" ATD="0000" RFL="22000" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT PEGSU V169 CB DCT</FlightPlan>
@@ -2099,8 +2099,8 @@
             </Aircraft>
             <Aircraft Callsign="JST527" Type="A320" Delay="990" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.93472200000001" Longitude="151.177124" Speed="0"
-                    Altitude="3" Heading="79" />
+                <Position Latitude="-33.9346694" Longitude="151.1772587" Speed="0"
+                    Altitude="3" Heading="100" />
                 <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="500" ETD="0000" ATD="0000" RFL="40000" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KADOM H44 CWR DCT IGMIL Q35 DORSU H119 ARBEY DCT</FlightPlan>
@@ -2113,8 +2113,8 @@
             </Aircraft>
             <Aircraft Callsign="VOZ429" Type="B738" Delay="0" StartAuto="false">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.93509300000001" Longitude="151.179945" Speed="0"
-                    Altitude="3" Heading="346" />
+                <Position Latitude="-33.9350746" Longitude="151.179873" Speed="0"
+                    Altitude="3" Heading="285" />
                 <FlightPlan Departure="YSSY" Destination="YPAD" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT KADOM H44 BORLI W451 MIA H309 AD DCT</FlightPlan>
@@ -2127,7 +2127,7 @@
             </Aircraft>
             <Aircraft Callsign="CXF" Type="B350" Delay="180" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.934085" Longitude="151.188217" Speed="0" Altitude="20" Heading="308" />
+                <Position Latitude="-33.9342391" Longitude="151.1882402" Speed="0" Altitude="20" Heading="190" />
                 <FlightPlan Departure="YSSY" Destination="YWLM" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="250" ETD="0000" ATD="0000" RFL="9000" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">DCT WLM DCT</FlightPlan>
@@ -2399,7 +2399,7 @@
 
             <Aircraft Callsign="JST813" Type="A320" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.388081" Longitude="153.120088" Speed="0" Altitude="20" Heading="273" />
+                <Position Latitude="-27.388054" Longitude="153.1199353" Speed="0" Altitude="20" Heading="279" />
                 <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">SANEG H91 IGDAM BOREE</FlightPlan>
@@ -2407,7 +2407,7 @@
             </Aircraft>
             <Aircraft Callsign="QJE1792" Type="B712" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.382651" Longitude="153.122520" Speed="0" Altitude="20" Heading="208" />
+                <Position Latitude="-27.3826483" Longitude="153.1224975" Speed="0" Altitude="20" Heading="230" />
                 <FlightPlan Departure="YBBN" Destination="YBMA" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="32000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN V250 UNVAT J89 PUDUR/N0453F340 J89 MA DCT</FlightPlan>
@@ -2415,7 +2415,7 @@
             </Aircraft>
             <Aircraft Callsign="ACI153" Type="A20N" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.404012" Longitude="153.110797" Speed="0" Altitude="20" Heading="297" />
+                <Position Latitude="-27.4039714" Longitude="153.1107005" Speed="0" Altitude="20" Heading="297" />
                 <FlightPlan Departure="YBBN" Destination="NWWW" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="37000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">GUMKI B578 ISTEM/M078F390 B578 NISAS</FlightPlan>
@@ -2423,7 +2423,7 @@
             </Aircraft>
             <Aircraft Callsign="UAE433" Type="A388" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.400454" Longitude="153.113424" Speed="0" Altitude="20" Heading="288" />
+                <Position Latitude="-27.4004103" Longitude="153.113337" Speed="0" Altitude="20" Heading="297" />
                 <FlightPlan Departure="YBBN" Destination="OMDB" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="40000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT WACKO V250 LEBIT V412 ROM T11 BRM G222 SAPDA L896 DUGOS N564 AKMIL N563 REXOD A775 KUSRA P574 DAPOK T508 SOLUD P574 IMPED</FlightPlan>
@@ -2431,7 +2431,7 @@
             </Aircraft>
             <Aircraft Callsign="CAL56" Type="A359" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.402823" Longitude="153.111532" Speed="0" Altitude="20" Heading="297" />
+                <Position Latitude="-27.4027637" Longitude="153.1113867" Speed="0" Altitude="20" Heading="297" />
                 <FlightPlan Departure="YBBN" Destination="RCTP" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT WACKO V250 IBUNA Q473 IGUPI V129 EML T13 NTN B472 ANIMU R342 GSA W6 LUMVI B473 ROX TR16 SAGRA W11 MIA A461 CAB B462 LAO M646 POTIB Q14 TNN DCT</FlightPlan>
@@ -2439,7 +2439,7 @@
             </Aircraft>
             <Aircraft Callsign="QLK2374D" Type="DH8D" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.381784" Longitude="153.121278" Speed="0" Altitude="20" Heading="98" />
+                <Position Latitude="-27.381663" Longitude="153.1212415" Speed="0" Altitude="20" Heading="16" />
                 <FlightPlan Departure="YBBN" Destination="YSWG" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="24000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN DCT SANEG Q35 PKS W638 WG DCT</FlightPlan>
@@ -2447,7 +2447,7 @@
             </Aircraft>
             <Aircraft Callsign="QFA511" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.384301" Longitude="153.121490" Speed="0" Altitude="20" Heading="269" />
+                <Position Latitude="-27.3843067" Longitude="153.1213159" Speed="0" Altitude="20" Heading="271" />
                 <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SANEG H91 IGDAM BOREE DCT</FlightPlan>
@@ -2455,7 +2455,7 @@
             </Aircraft>
             <Aircraft Callsign="VOZ1115" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.386573" Longitude="153.120434" Speed="0" Altitude="20" Heading="314" />
+                <Position Latitude="-27.3864939" Longitude="153.1203282" Speed="0" Altitude="20" Heading="317" />
                 <FlightPlan Departure="YBBN" Destination="YBPN" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="34000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BIXAD Q67 RUNLA Q493 EMSUP V308 MK DCT PN DCT</FlightPlan>
@@ -2463,7 +2463,7 @@
             </Aircraft>
             <Aircraft Callsign="VOZ310" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.388361" Longitude="153.118489" Speed="0" Altitude="20" Heading="15" />
+                <Position Latitude="-27.3883223" Longitude="153.1186015" Speed="0" Altitude="20" Heading="69" />
                 <FlightPlan Departure="YBBN" Destination="YMML" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BLAKA DCT OLSEM DCT RIVET DCT DOSEL DCT</FlightPlan>
@@ -2471,7 +2471,7 @@
             </Aircraft>
             <Aircraft Callsign="VJA" Type="D228" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.37388889" Longitude="153.12361111" Speed="0" Altitude="20" Heading="204" />
+                <Position Latitude="-27.3738348" Longitude="153.1235986" Speed="0" Altitude="20" Heading="204" />
                 <FlightPlan Departure="YBBN" Destination="YTNG" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="225" ETD="0000" ATD="0000" RFL="8000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN V308 SAGLI W228 SUSGI DCT</FlightPlan>
@@ -2479,7 +2479,7 @@
             </Aircraft>
             <Aircraft Callsign="PSA" Type="B190" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.37277778" Longitude="153.12472222" Speed="0" Altitude="20" Heading="208" />
+                <Position Latitude="-27.3728384" Longitude="153.1247305" Speed="0" Altitude="20" Heading="12" />
                 <FlightPlan Departure="YBBN" Destination="YBTL" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="265" ETD="0000" ATD="0000" RFL="22000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN V308 RK DCT EMSUP DCT WELKE V308 POROB DCT</FlightPlan>
@@ -2487,7 +2487,7 @@
             </Aircraft>
             <Aircraft Callsign="YJA" Type="AC50" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.37444444" Longitude="153.12611111" Speed="0" Altitude="20" Heading="352" />
+                <Position Latitude="-27.3745035" Longitude="153.1261877" Speed="0" Altitude="20" Heading="116" />
                 <FlightPlan Departure="YBBN" Destination="YDAY" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="165" ETD="0000" ATD="0000" RFL="6000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN Q484 RUDEY W369 OK DCT</FlightPlan>
@@ -2709,7 +2709,7 @@
 
             <Aircraft Callsign="JST811" Type="A320" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.388081" Longitude="153.120088" Speed="0" Altitude="20" Heading="273" />
+                <Position Latitude="-27.388054" Longitude="153.1199353" Speed="0" Altitude="20" Heading="279" />
                 <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN H91 IGDAM H652 TESAT DCT</FlightPlan>
@@ -2717,7 +2717,7 @@
             </Aircraft>
             <Aircraft Callsign="QJE1790" Type="B712" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.382651" Longitude="153.122520" Speed="0" Altitude="20" Heading="208" />
+                <Position Latitude="-27.3826483" Longitude="153.1224975" Speed="0" Altitude="20" Heading="230" />
                 <FlightPlan Departure="YBBN" Destination="YBMA" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="32000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN V250 UNVAT J89 PUDUR/N0453F340 J89 MA DCT</FlightPlan>
@@ -2725,7 +2725,7 @@
             </Aircraft>
             <Aircraft Callsign="ACI151" Type="A20N" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.404012" Longitude="153.110797" Speed="0" Altitude="20" Heading="297" />
+                <Position Latitude="-27.4039714" Longitude="153.1107005" Speed="0" Altitude="20" Heading="297" />
                 <FlightPlan Departure="YBBN" Destination="NWWW" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="37000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">GUMKI B578 ISTEM/M078F390 B578 NISAS</FlightPlan>
@@ -2733,7 +2733,7 @@
             </Aircraft>
             <Aircraft Callsign="UAE431" Type="A388" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.400454" Longitude="153.113424" Speed="0" Altitude="20" Heading="288" />
+                <Position Latitude="-27.4004103" Longitude="153.113337" Speed="0" Altitude="20" Heading="297" />
                 <FlightPlan Departure="YBBN" Destination="OMDB" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="40000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT WACKO V250 LEBIT V412 ROM T11 BRM G222 SAPDA L896 DUGOS N564 AKMIL N563 REXOD A775 KUSRA P574 DAPOK T508 SOLUD P574 IMPED</FlightPlan>
@@ -2741,7 +2741,7 @@
             </Aircraft>
             <Aircraft Callsign="CAL54" Type="A359" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.402823" Longitude="153.111532" Speed="0" Altitude="20" Heading="297" />
+                <Position Latitude="-27.4027637" Longitude="153.1113867" Speed="0" Altitude="20" Heading="297" />
                 <FlightPlan Departure="YBBN" Destination="RCTP" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT WACKO V250 IBUNA Q473 IGUPI V129 EML T13 NTN B472 ANIMU R342 GSA W6 LUMVI B473 ROX TR16 SAGRA W11 MIA A461 CAB B462 LAO M646 POTIB Q14 TNN DCT</FlightPlan>
@@ -2749,7 +2749,7 @@
             </Aircraft>
             <Aircraft Callsign="QLK2372D" Type="DH8D" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.381784" Longitude="153.121278" Speed="0" Altitude="20" Heading="98" />
+                <Position Latitude="-27.381663" Longitude="153.1212415" Speed="0" Altitude="20" Heading="16" />
                 <FlightPlan Departure="YBBN" Destination="YSWG" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="24000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN DCT SANEG Q35 PKS W638 WG DCT</FlightPlan>
@@ -2757,7 +2757,7 @@
             </Aircraft>
             <Aircraft Callsign="QFA509" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.384301" Longitude="153.121490" Speed="0" Altitude="20" Heading="269" />
+                <Position Latitude="-27.3843067" Longitude="153.1213159" Speed="0" Altitude="20" Heading="271" />
                 <FlightPlan Departure="YBBN" Destination="YSSY" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SANEG H91 IGDAM BOREE DCT</FlightPlan>
@@ -2765,7 +2765,7 @@
             </Aircraft>
             <Aircraft Callsign="VOZ1113" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.386573" Longitude="153.120434" Speed="0" Altitude="20" Heading="314" />
+                <Position Latitude="-27.3864939" Longitude="153.1203282" Speed="0" Altitude="20" Heading="317" />
                 <FlightPlan Departure="YBBN" Destination="YBPN" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="34000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BIXAD Q67 RUNLA Q493 EMSUP V308 MK DCT PN DCT</FlightPlan>
@@ -2773,7 +2773,7 @@
             </Aircraft>
             <Aircraft Callsign="VOZ308" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.388361" Longitude="153.118489" Speed="0" Altitude="20" Heading="15" />
+                <Position Latitude="-27.3883223" Longitude="153.1186015" Speed="0" Altitude="20" Heading="69" />
                 <FlightPlan Departure="YBBN" Destination="YMML" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="460" ETD="0000" ATD="0000" RFL="38000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT SANEG Q35 DORSU H119 ARBEY DCT</FlightPlan>
@@ -2781,7 +2781,7 @@
             </Aircraft>
             <Aircraft Callsign="VJE" Type="D228" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.37388889" Longitude="153.12361111" Speed="0" Altitude="20" Heading="204" />
+                <Position Latitude="-27.3738348" Longitude="153.1235986" Speed="0" Altitude="20" Heading="204" />
                 <FlightPlan Departure="YBBN" Destination="YTNG" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="225" ETD="0000" ATD="0000" RFL="8000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN V308 SAGLI W228 SUSGI DCT</FlightPlan>
@@ -2789,7 +2789,7 @@
             </Aircraft>
             <Aircraft Callsign="PSK" Type="B190" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.37277778" Longitude="153.12472222" Speed="0" Altitude="20" Heading="208" />
+                <Position Latitude="-27.3728384" Longitude="153.1247305" Speed="0" Altitude="20" Heading="12" />
                 <FlightPlan Departure="YBBN" Destination="YBTL" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="265" ETD="0000" ATD="0000" RFL="22000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN V308 RK DCT EMSUP DCT WELKE V308 POROB DCT</FlightPlan>
@@ -2797,7 +2797,7 @@
             </Aircraft>
             <Aircraft Callsign="YJR" Type="AC50" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-27.37444444" Longitude="153.12611111" Speed="0" Altitude="20" Heading="352" />
+                <Position Latitude="-27.3745035" Longitude="153.1261877" Speed="0" Altitude="20" Heading="116" />
                 <FlightPlan Departure="YBBN" Destination="YDAY" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="165" ETD="0000" ATD="0000" RFL="6000" EETHours="01"
                     EETMins="21" FuelHours="0" FuelMins="0" Remarks="/v/">DCT BN Q484 RUDEY W369 OK DCT</FlightPlan>
@@ -2834,7 +2834,7 @@
         <Targets>
             <Aircraft Callsign="QFA889" Type="B738" Delay="0" StartAuto="false">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-34.939807" Longitude="138.537748" Speed="0" Altitude="33" Heading="327" />
+                <Position Latitude="-34.9401069" Longitude="138.5377411" Speed="0" Altitude="33" Heading="359" />
                 <FlightPlan Departure="YPAD" Destination="YPPH" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="447" ETD="0000" ATD="0000" RFL="36000" EETHours="3"
                     EETMins="15" FuelHours="4" FuelMins="50" Remarks="NAV/RNP2 RTF/QANTAS /v/">DCT GILES Q33 ESP Q158 KABLI DCT</FlightPlan>
@@ -2847,7 +2847,7 @@
             </Aircraft>
             <Aircraft Callsign="VOZ441" Type="B738" Delay="0" StartAuto="false">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-34.93780799999999" Longitude="138.54068300000003" Speed="0"
+                <Position Latitude="-34.9376706" Longitude="138.5405258" Speed="0"
                     Altitude="33" Heading="321" />
                 <FlightPlan Departure="YPAD" Destination="YSSY" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="452" ETD="0000" ATD="0000" RFL="39000" EETHours="1"
@@ -2861,7 +2861,7 @@
             </Aircraft>
             <Aircraft Callsign="JST779" Type="A320" Delay="0" StartAuto="false">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-34.940805" Longitude="138.536216" Speed="0" Altitude="33" Heading="330" />
+                <Position Latitude="-34.9407611" Longitude="138.5361562" Speed="0" Altitude="33" Heading="320" />
                 <FlightPlan Departure="YPAD" Destination="YMML" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="455" ETD="0000" ATD="0000" RFL="36000" EETHours="0"
                     EETMins="59" FuelHours="1" FuelMins="59" Remarks="NAV/RNP2 RTF/JETSTAR /v/">DCT AD V255 BENDO V211 PUBAP W291 ALAXO V279 ML DCT</FlightPlan>
@@ -2874,8 +2874,8 @@
             </Aircraft>
             <Aircraft Callsign="FJS" Type="C182" Delay="0" StartAuto="false">
                 <Squawk Code="1200" ModeC="false" />
-                <Position Latitude="-34.938908" Longitude="138.53142499999998" Speed="0"
-                    Altitude="23" />
+                <Position Latitude="-34.9389912" Longitude="138.5312191" Speed="0"
+                    Altitude="23" Heading="278" />
                 <FlightPlan Departure="YPAD" Destination="YADG" Alternative="" Active="false"
                     Rules="V" CruiseSpeed="110" ETD="0000" ATD="0000" RFL="2500" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0" Remarks="/v/">BTJ PNL</FlightPlan>
@@ -2899,7 +2899,7 @@
             </Aircraft>
             <Aircraft Callsign="QFA1950" Type="E190" Delay="240" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-34.941057" Longitude="138.535877" Speed="0" Altitude="33" Heading="300" />
+                <Position Latitude="-34.9409927" Longitude="138.5357801" Speed="0" Altitude="33" Heading="320" />
                 <FlightPlan Departure="YPAD" Destination="YPDN" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="447" ETD="0000" ATD="0000" RFL="34000" EETHours="4"
                     EETMins="02" FuelHours="6" FuelMins="02" Remarks="NAV/RNP2 RTF/QANTAS /v/">DCT AREPA J58 WHA J251 GREGA/M078F360 J251 TN Q23 VEGPU DCT </FlightPlan>
@@ -2925,7 +2925,7 @@
             </Aircraft>
             <Aircraft Callsign="QFA734" Type="B738" Delay="840" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-34.940313" Longitude="138.536973" Speed="0" Altitude="33" Heading="327" />
+                <Position Latitude="-34.9401959" Longitude="138.5368514" Speed="0" Altitude="33" Heading="320" />
                 <FlightPlan Departure="YPAD" Destination="YSSY" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="452" ETD="0000" ATD="0000" RFL="37000" EETHours="1"
                     EETMins="48" FuelHours="2" FuelMins="59" Remarks="NAV/RNP2 RTF/QANTAS /v/">DCT AVDEN H247 CULIN Y59 RIVET DCT</FlightPlan>
@@ -2938,7 +2938,7 @@
             </Aircraft>
             <Aircraft Callsign="QLK275" Type="DH8C" Delay="1080" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-34.940631" Longitude="138.534835" Speed="0" Altitude="33" Heading="122" />
+                <Position Latitude="-34.9406531" Longitude="138.5349449" Speed="0" Altitude="33" Heading="90" />
                 <FlightPlan Departure="YPAD" Destination="YPLC" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="284" ETD="0000" ATD="0000" RFL="16000" EETHours="00"
                     EETMins="36" FuelHours="3" FuelMins="02" Remarks="NAV/RNP2 RTF/QLINK /v/">DCT AD J15 TEDUS V538 PLC DCT</FlightPlan>
@@ -2951,7 +2951,7 @@
             </Aircraft>
             <Aircraft Callsign="QTR914" Type="B77W" Delay="1380" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-34.939256" Longitude="138.538447" Speed="0" Altitude="33" Heading="321" />
+                <Position Latitude="-34.9391539" Longitude="138.5383411" Speed="0" Altitude="33" Heading="320" />
                 <FlightPlan Departure="YPAD" Destination="NZAA" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="485" ETD="0000" ATD="0000" RFL="35000" EETHours="3"
                     EETMins="59" FuelHours="5" FuelMins="16" Remarks="NAV/RNP2 RTF/QATARI /v/">DCT BENDO Y12 METES Y108 GEMAC N759 SASRO/M083F370 N759 PEBLU DCT</FlightPlan>
@@ -2964,7 +2964,7 @@
             </Aircraft>
             <Aircraft Callsign="RXA4136" Type="SF34" Delay="1500" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-34.937141" Longitude="138.541821" Speed="0" Altitude="36" Heading="212" />
+                <Position Latitude="-34.9372276" Longitude="138.5418069" Speed="0" Altitude="36" Heading="193" />
                 <FlightPlan Departure="YPAD" Destination="YCDU" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="284" ETD="0000" ATD="0000" RFL="18000" EETHours="1"
                     EETMins="30" FuelHours="4" FuelMins="10" Remarks="NAV/RNP2 RTF/REX /v/">DCT AD 585 CDU DCT</FlightPlan>
@@ -2972,7 +2972,7 @@
             </Aircraft>
             <Aircraft Callsign="VOZ1407" Type="B738" Delay="1980" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-34.938591" Longitude="138.5396" Speed="0" Altitude="33" Heading="322" />
+                <Position Latitude="-34.9386271" Longitude="138.5398955" Speed="0" Altitude="33" Heading="342" />
                 <FlightPlan Departure="YPAD" Destination="YBBN" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="432" ETD="0000" ATD="0000" RFL="39000" EETHours="2"
                     EETMins="10" FuelHours="3" FuelMins="37" Remarks="NAV/RNP2 RTF/VELOCITY /v/">DCT UPROT Y27 ENLIP DCT </FlightPlan>
@@ -2985,7 +2985,7 @@
             </Aircraft>
             <Aircraft Callsign="VOZ238" Type="B738" Delay="2340" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-34.938321" Longitude="138.539942" Speed="0" Altitude="33" Heading="321" />
+                <Position Latitude="-34.9380642" Longitude="138.5396944" Speed="0" Altitude="33" Heading="320" />
                 <FlightPlan Departure="YPAD" Destination="YMML" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="455" ETD="0000" ATD="0000" RFL="37000" EETHours="01"
                     EETMins="02" FuelHours="2" FuelMins="43" Remarks="NAV/RNP2 RTF/VELOCITY /v/">DCT BENDO Y12 ARBEY DCT</FlightPlan>
@@ -10340,7 +10340,7 @@
             </Aircraft>
             <Aircraft Callsign="QFA127" Type="B744" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.938971" Longitude="151.168822" Speed="0" Altitude="13" Heading="257" />
+                <Position Latitude="-33.9388461" Longitude="151.1688642" Speed="0" Altitude="13" Heading="74" />
                 <FlightPlan Departure="YSSY" Destination="VHHH" Alternative="" Rules="I"
                     CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT STUIE H530 SURVO R340 DUMAV/N0468F400 R340 AMN A461 BONDA/N0471F380 A461 ZAM A583 SABNO</FlightPlan>
@@ -10348,7 +10348,7 @@
             </Aircraft>
             <Aircraft Callsign="VOZ81" Type="B738" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.937415" Longitude="151.169052" Speed="0" Altitude="13" Heading="285" />
+                <Position Latitude="-33.9374103" Longitude="151.1690134" Speed="0" Altitude="13" Heading="254" />
                 <FlightPlan Departure="YSSY" Destination="VHHH" Alternative="" Rules="I"
                     CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT STUIE H530 SURVO R340 DUMAV/N0468F400 R340 AMN A461 BONDA/N0471F380 A461 ZAM A583 SABNO</FlightPlan>
@@ -10356,8 +10356,8 @@
             </Aircraft>
             <Aircraft Callsign="JST37" Type="B788" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.93904799999999" Longitude="151.169797" Speed="0"
-                    Altitude="13" Heading="257" />
+                <Position Latitude="-33.9391775" Longitude="151.1701652" Speed="0"
+                    Altitude="13" Heading="266" />
                 <FlightPlan Departure="YSSY" Destination="WADD" Alternative="" Rules="I"
                     CruiseSpeed="450" ETD="0000" ATD="0000" RFL="36000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT STUIE H530 LASUD DCT ENPAG T74 NONET/N0476F430 T74 VINAX G326 NYOMA DCT</FlightPlan>
@@ -10365,8 +10365,8 @@
             </Aircraft>
             <Aircraft Callsign="THA476" Type="B744" Delay="0">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-33.939237" Longitude="151.16663600000004" Speed="0"
-                    Altitude="13" Heading="283" />
+                <Position Latitude="-33.9393639" Longitude="151.1665891" Speed="0"
+                    Altitude="13" Heading="262" />
                 <FlightPlan Departure="YSSY" Destination="VTBS" Alternative="" Rules="I"
                     CruiseSpeed="500" ETD="0000" ATD="0000" RFL="34000" EETHours="00" EETMins="00"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT STUIE H530 LASUD DCT ENPAG T74 KARAG/N0500F340 T74 VINAX/N0500F360 T74 TN J251 DN M768 PORAK/N0490F380 M768 TSN R468 PNH A340 RYN DCT</FlightPlan>
@@ -10605,8 +10605,8 @@
         <Targets>
             <Aircraft Callsign="QLK1293" Type="BCS3" Delay="0" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.6665861111111" Longitude="144.852327777778" Speed="0"
-                    Altitude="407" Heading="110" />
+                <Position Latitude="-37.666784" Longitude="144.8522694" Speed="0"
+                    Altitude="407" Heading="262" />
                 <FlightPlan Departure="YMML" Destination="YMHB" Alternative="" Active="false"
                     Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000"
                     ATD="0000" RFL="370" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20"
@@ -10615,8 +10615,8 @@
             </Aircraft>
             <Aircraft Callsign="QLK1258" Type="BCS3" Delay="120" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.66827690972222" Longitude="144.85006944444444" Speed="0"
-                    Altitude="407" Heading="185" />
+                <Position Latitude="-37.6682954" Longitude="144.8499702" Speed="0"
+                    Altitude="407" Heading="262" />
                 <FlightPlan Departure="YMML" Destination="YBBN" Alternative="" Active="false"
                     Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000"
                     ATD="0000" RFL="370" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20"
@@ -10625,8 +10625,8 @@
             </Aircraft>
             <Aircraft Callsign="VOZ875" Type="B738" Delay="240" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.67109375" Longitude="144.84722222222223" Speed="0"
-                    Altitude="407" Heading="175" />
+                <Position Latitude="-37.6711566" Longitude="144.8476992" Speed="0"
+                    Altitude="407" Heading="10" />
                 <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="false"
                     Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000"
                     ATD="0000" RFL="370" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20"
@@ -10635,8 +10635,8 @@
             </Aircraft>
             <Aircraft Callsign="JST900" Type="A320" Delay="360" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.67322916666666" Longitude="144.84719618055556" Speed="0"
-                    Altitude="407" Heading="354" />
+                <Position Latitude="-37.6732267" Longitude="144.8467301" Speed="0"
+                    Altitude="407" Heading="353" />
                 <FlightPlan Departure="YMML" Destination="YBLN" Alternative="" Active="false"
                     Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000"
                     ATD="0000" RFL="340" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20"
@@ -10645,8 +10645,8 @@
             </Aircraft>
             <Aircraft Callsign="QFA702" Type="B738" Delay="600" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.6667638888889" Longitude="144.849158333333" Speed="0"
-                    Altitude="407" Heading="86" />
+                <Position Latitude="-37.6667627" Longitude="144.8492178" Speed="0"
+                    Altitude="407" Heading="82" />
                 <FlightPlan Departure="YMML" Destination="YBCS" Alternative="" Active="false"
                     Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000"
                     ATD="0000" RFL="370" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20"
@@ -10655,8 +10655,8 @@
             </Aircraft>
             <Aircraft Callsign="VOZ879" Type="B738" Delay="0" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.67087673611111" Longitude="144.84526041666666" Speed="0"
-                    Altitude="407" Heading="169" />
+                <Position Latitude="-37.6709829" Longitude="144.8452659" Speed="0"
+                    Altitude="407" Heading="178" />
                 <FlightPlan Departure="YMML" Destination="YSSY" Alternative="" Active="false"
                     Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000"
                     ATD="0000" RFL="370" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20"
@@ -10665,8 +10665,8 @@
             </Aircraft>
             <Aircraft Callsign="UAL61" Type="B789" Delay="0" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.6675833333333" Longitude="144.843494444444" Speed="0"
-                    Altitude="407" Heading="87" />
+                <Position Latitude="-37.6675306" Longitude="144.8435122" Speed="0"
+                    Altitude="407" Heading="82" />
                 <FlightPlan Departure="YMML" Destination="KSFO" Alternative="" Active="false"
                     Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000"
                     ATD="0000" RFL="330" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20"
@@ -10675,8 +10675,8 @@
             </Aircraft>
             <Aircraft Callsign="ANZ126" Type="A21N" Delay="0" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.667934027777775" Longitude="144.84459201388887" Speed="0"
-                    Altitude="407" Heading="171" />
+                <Position Latitude="-37.6681337" Longitude="144.8446271" Speed="0"
+                    Altitude="407" Heading="172" />
                 <FlightPlan Departure="YMML" Destination="NZAA" Alternative="" Active="false"
                     Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="486" ETD="0000"
                     ATD="0000" RFL="390" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20"
@@ -10685,8 +10685,8 @@
             </Aircraft>
             <Aircraft Callsign="QFA2046" Type="DH8D" Delay="840" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.66795138888889" Longitude="144.85255208333334" Speed="0"
-                    Altitude="407" Heading="280" />
+                <Position Latitude="-37.6679745" Longitude="144.8524274" Speed="0"
+                    Altitude="407" Heading="262" />
                 <FlightPlan Departure="YMML" Destination="YMAY" Alternative="" Active="false"
                     Equipment="SDFGHRY/LB1" Rules="I" CruiseSpeed="398" ETD="0000" ATD="0000"
                     RFL="250" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20"
@@ -10695,8 +10695,8 @@
             </Aircraft>
             <Aircraft Callsign="QFA69" Type="A332" Delay="960" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.66894097222222" Longitude="144.84375" Speed="0"
-                    Altitude="407" Heading="74" />
+                <Position Latitude="-37.6689098" Longitude="144.8439119" Speed="0"
+                    Altitude="407" Heading="63" />
                 <FlightPlan Departure="YMML" Destination="VIDP" Alternative="" Active="false"
                     Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000"
                     ATD="0000" RFL="390" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20"
@@ -10705,8 +10705,8 @@
             </Aircraft>
             <Aircraft Callsign="QFA1999" Type="E190" Delay="1140" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.666927083333334" Longitude="144.85164062500002" Speed="0"
-                    Altitude="407" Heading="290" />
+                <Position Latitude="-37.6669223" Longitude="144.8517299" Speed="0"
+                    Altitude="407" Heading="82" />
                 <FlightPlan Departure="YMML" Destination="YWLM" Alternative="" Active="false"
                     Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000"
                     ATD="0000" RFL="310" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20"
@@ -10715,8 +10715,8 @@
             </Aircraft>
             <Aircraft Callsign="VOZ697" Type="B738" Delay="1260" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.673528645833336" Longitude="144.84505208333331" Speed="0"
-                    Altitude="407" Heading="352" />
+                <Position Latitude="-37.6735654" Longitude="144.8449185" Speed="0"
+                    Altitude="407" Heading="7" />
                 <FlightPlan Departure="YMML" Destination="YPPH" Alternative="" Active="false"
                     Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000"
                     ATD="0000" RFL="300" EETHours="1" EETMins="15" FuelHours="2" FuelMins="20"
@@ -10725,8 +10725,8 @@
             </Aircraft>
             <Aircraft Callsign="QJE1528" Type="B712" Delay="0" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.668155381944445" Longitude="144.85182291666663" Speed="0"
-                    Altitude="407" Heading="157" />
+                <Position Latitude="-37.6681511" Longitude="144.8519184" Speed="0"
+                    Altitude="407" Heading="81" />
                 <FlightPlan Departure="YMML" Destination="YSCB" Alternative="" Active="false"
                     Equipment="SDFGIRWZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000"
                     RFL="310" EETHours="0" EETMins="55" FuelHours="1" FuelMins="50"
@@ -10735,8 +10735,8 @@
             </Aircraft>
             <Aircraft Callsign="LR3394" Type="SF34" Delay="0" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.6774472222222" Longitude="144.844986111111" Speed="0"
-                    Altitude="407" Heading="76" />
+                <Position Latitude="-37.6774341" Longitude="144.8451568" Speed="0"
+                    Altitude="407" Heading="85" />
                 <FlightPlan Departure="YMML" Destination="YORG" Alternative="" Active="false"
                     Equipment="SDGHIRWYZ/LB1" Rules="I" CruiseSpeed="449" ETD="0000" ATD="0000"
                     RFL="190" EETHours="01" EETMins="30" FuelHours="2" FuelMins="20"
@@ -10745,8 +10745,8 @@
             </Aircraft>
             <Aircraft Callsign="RXA3468" Type="SF34" Delay="1620" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.676623263888885" Longitude="144.8448263888889" Speed="0"
-                    Altitude="0" Heading="75" />
+                <Position Latitude="-37.6765819" Longitude="144.8448366" Speed="0"
+                    Altitude="0" Heading="82" />
                 <FlightPlan Departure="YMML" Destination="YMER" Alternative="YWSL" Active="false"
                     Equipment="SDGHIRWYZ/LB1" CruiseSpeed="449" RFL="19000" EETHours="0" EETMins="0"
                     FuelHours="0" FuelMins="0" Remarks="/v/">DCT ML W687 RAZZI W449 BULKO W695 ESL W297 MER DCT</FlightPlan>
@@ -10754,8 +10754,8 @@
             </Aircraft>
             <Aircraft Callsign="VOZ1681" Type="B738" Delay="1860" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-37.67067708333334" Longitude="144.84725694444447" Speed="0"
-                    Altitude="0" Heading="139" />
+                <Position Latitude="-37.6707685" Longitude="144.8472738" Speed="0"
+                    Altitude="0" Heading="173" />
                 <FlightPlan Departure="YMML" Destination="YAYE" Active="false"
                     Equipment="SDE2E3FGHIRWXYZ/LB1" CruiseSpeed="477" RFL="34000" EETHours="0"
                     EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/"> DCT KEPPA H164 LEC A461 AGAGO G222 AYE DCT</FlightPlan>
@@ -10764,8 +10764,8 @@
             <Aircraft Callsign="A2K" Type="E190" Delay="2100" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
                 <Cleared Approach="false" />
-                <Position Latitude="-37.66558159722222" Longitude="144.84483506944446" Speed="0"
-                    Altitude="0" Heading="174" />
+                <Position Latitude="-37.6654086" Longitude="144.8447988" Speed="0"
+                    Altitude="0" Heading="351" />
                 <FlightPlan Departure="YMML" Destination="YMAV" Alternative="YMEN" Active="false"
                     Equipment="SDFZGR/LB2" CruiseSpeed="0" RFL="8000" EETHours="0" EETMins="0"
                     FuelHours="0" FuelMins="0" Remarks="/v/">ML IGNES MAKAT AV</FlightPlan>
@@ -10955,8 +10955,8 @@
         <Targets>
             <Aircraft Callsign="NWK1616" Type="F100" Delay="0" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-31.937313368055563" Longitude="115.96089409722221" Speed="0"
-                    Altitude="0" Heading="288" />
+                <Position Latitude="-31.9373057" Longitude="115.9609045" Speed="0"
+                    Altitude="0" Heading="149" />
                 <FlightPlan Departure="YPPH" Destination="YPBO" Alternative="YPLM" Active="false"
                     CruiseSpeed="350" RFL="29000" EETHours="0" EETMins="0" FuelHours="0"
                     FuelMins="0" Remarks="/v/">DCT AVNEX Y15 ESDEG Y44 PEXOR V653 PBO DCT</FlightPlan>
@@ -10983,8 +10983,8 @@
             </Aircraft>
             <Aircraft Callsign="VOZ9245" Type="A320" Delay="0" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-31.944175347222227" Longitude="115.96836805555557" Speed="0"
-                    Altitude="0" Heading="87" />
+                <Position Latitude="-31.9442638" Longitude="115.9683438" Speed="0"
+                    Altitude="0" Heading="194" />
                 <FlightPlan Departure="YPPH" Destination="YANG" Alternative="YPLM" Active="false"
                     CruiseSpeed="350" RFL="37000" EETHours="0" EETMins="0" FuelHours="0"
                     FuelMins="0" Remarks="/v/">DCT AVNEX Y15 ESDEG Y60 TUSVA DCT GOKUP DCT</FlightPlan>
@@ -11011,8 +11011,8 @@
             </Aircraft>
             <Aircraft Callsign="VOZ9369" Type="B737" Delay="600" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-31.943062065972217" Longitude="115.97104166666668" Speed="0"
-                    Altitude="0" Heading="115" />
+                <Position Latitude="-31.9430779" Longitude="115.9711551" Speed="0"
+                    Altitude="0" Heading="104" />
                 <FlightPlan Departure="YPPH" Destination="YKDD" Alternative="YPLM" Active="false"
                     CruiseSpeed="350" RFL="31000" EETHours="0" EETMins="0" FuelHours="0"
                     FuelMins="0" Remarks="/v/">DCT AVNEX Y15 ESDEG Y60 GUVNA DCT</FlightPlan>
@@ -11025,8 +11025,8 @@
             </Aircraft>
             <Aircraft Callsign="UTY6302" Type="F100" Delay="1000" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-31.945008680555556" Longitude="115.9695486111111" Speed="0"
-                    Altitude="0" Heading="32" />
+                <Position Latitude="-31.9448896" Longitude="115.969586" Speed="0"
+                    Altitude="0" Heading="14" />
                 <FlightPlan Departure="YPPH" Destination="YPKG" Alternative="YPLM" Active="false"
                     CruiseSpeed="350" RFL="27000" EETHours="0" EETMins="0" FuelHours="0"
                     FuelMins="0" Remarks="/v/">DCT AMANA Y31 LAKIR Y69 BOSLI Y67 KG DCT</FlightPlan>
@@ -11039,8 +11039,8 @@
             </Aircraft>
             <Aircraft Callsign="RXA2353" Type="SF34" Delay="1200" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-31.945581597222223" Longitude="115.97031250000002" Speed="0"
-                    Altitude="0" Heading="90" />
+                <Position Latitude="-31.9455752" Longitude="115.9703712" Speed="0"
+                    Altitude="0" Heading="92" />
                 <FlightPlan Departure="YPPH" Destination="YESP" Alternative="YPLM" Active="false"
                     CruiseSpeed="350" RFL="17000" EETHours="0" EETMins="0" FuelHours="0"
                     FuelMins="0" Remarks="/v/">DCT PH Z44 ESP DCT</FlightPlan>
@@ -11053,8 +11053,8 @@
             </Aircraft>
             <Aircraft Callsign="QFA642" Type="B738" Delay="1400" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-31.93336154513889" Longitude="115.96188368055554" Speed="0"
-                    Altitude="0" Heading="267" />
+                <Position Latitude="-31.9337795" Longitude="115.9617486" Speed="0"
+                    Altitude="0" Heading="291" />
                 <FlightPlan Departure="YPPH" Destination="YSSY" Alternative="YPLM" Active="false"
                     CruiseSpeed="350" RFL="33000" EETHours="0" EETMins="0" FuelHours="0"
                     FuelMins="0" Remarks="/v/">DCT MUBID J21 BORLI H205 CULIN Y59 RIVET DCT</FlightPlan>
@@ -11067,8 +11067,8 @@
             </Aircraft>
             <Aircraft Callsign="QFA770" Type="B738" Delay="1600" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-31.934602864583336" Longitude="115.96134548611111" Speed="0"
-                    Altitude="0" Heading="293" />
+                <Position Latitude="-31.9345969" Longitude="115.9613633" Speed="0"
+                    Altitude="0" Heading="299" />
                 <FlightPlan Departure="YPPH" Destination="YMML" Alternative="YPLM" Active="false"
                     CruiseSpeed="350" RFL="33000" EETHours="0" EETMins="0" FuelHours="0"
                     FuelMins="0" Remarks="/v/">DCT MEMUP Y53 ALAXO DCT</FlightPlan>
@@ -11081,8 +11081,8 @@
             </Aircraft>
             <Aircraft Callsign="VOZ463" Type="B737" Delay="1800" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-31.941848958333335" Longitude="115.97165798611111" Speed="0"
-                    Altitude="0" Heading="103" />
+                <Position Latitude="-31.9418392" Longitude="115.9716606" Speed="0"
+                    Altitude="0" Heading="49" />
                 <FlightPlan Departure="YPPH" Destination="YBBN" Alternative="YPLM" Active="false"
                     CruiseSpeed="350" RFL="36000" EETHours="0" EETMins="0" FuelHours="0"
                     FuelMins="0" Remarks="/v/">DCT AMANA Y31 LAKIR Y69 BOSLI Y67 KG J141 LEC T33 ANROM Y62 IGDIT Y27 BN DCT</FlightPlan>
@@ -11095,8 +11095,8 @@
             </Aircraft>
             <Aircraft Callsign="QFA9" Type="B789" Delay="2000" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-31.935753038194445" Longitude="115.96089409722221" Speed="0"
-                    Altitude="0" Heading="296" />
+                <Position Latitude="-31.9357443" Longitude="115.9608998" Speed="0"
+                    Altitude="0" Heading="283" />
                 <FlightPlan Departure="YPPH" Destination="EGLL" Alternative="YPLM" Active="false"
                     CruiseSpeed="350" RFL="36000" EETHours="0" EETMins="0" FuelHours="0"
                     FuelMins="0" Remarks="/v/">DCT OPEGA DCT 3021S11209E 2629S10758E 2541S10701E 2216S10254E 2013S10030E 1620S09641E 1237S09336E 0925S09046E 0535S08718E DCT KADAP DCT 0215N08022E DCT PADLA DCT SEBLO DCT 0856N07410E 1045N07200E 1242N06937E DCT METIP P570 TEGOR/N0492F380 P570 EMURU N563 SODEX DCT BOSEV Q565 UKUVO G462 PURLI G462 TUMAK L602 BOPOV L602 EGNIM L602 DAVUS L602 GADSI M860 SEPTU DCT VUSEB M860 NINVA UM860 ODALI UL852 NEGEM DCT ARGES DCT DEGET DCT ABETI DCT RENKA DCT INBED DCT BOMBI DCT ADKUV DCT SOGRI DCT DENUT L608 LOGAN DCT</FlightPlan>
@@ -11109,8 +11109,8 @@
             </Aircraft>
             <Aircraft Callsign="VOZ9429" Type="B737" Delay="2200" StartAuto="true">
                 <Squawk Code="2000" ModeC="false" />
-                <Position Latitude="-31.944819878472224" Longitude="115.9686545138889" Speed="0"
-                    Altitude="0" Heading="120" />
+                <Position Latitude="-31.9447184" Longitude="115.9686877" Speed="0"
+                    Altitude="0" Heading="14" />
                 <FlightPlan Departure="YPPH" Destination="YBLN" Alternative="YPLM" Active="false"
                     CruiseSpeed="350" RFL="36000" EETHours="0" EETMins="0" FuelHours="0"
                     FuelMins="0" Remarks="/v/">DCT OLMAM W20 BLN DCT</FlightPlan>
