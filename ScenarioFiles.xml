@@ -7354,7 +7354,7 @@
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>TMA Sydney - Western Surge (muted)</Name>
         <Type>TMA</Type>
-        <Difficulty>5</Difficulty>
+        <Difficulty>4</Difficulty>
         <AutoTimed>true</AutoTimed>
         <StudentBriefing>
             **HANDOVER**
