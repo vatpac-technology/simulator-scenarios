@@ -4,8 +4,10 @@
 
     <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Name>Bankstown Tower (Advanced Metro D Scenario)</Name>
+        <Name>Bankstown Tower (Metro D Scenario)</Name>
         <Type>Tower</Type>
+        <Difficulty>5</Difficulty>
+        <AutoTimed>true</AutoTimed>
         <UseGRIB xsi:nil="true" />
         <StudentBriefing>You are operating Bankstown Tower. Runway 29R is nominated for arrivals and
             departures, runway 29L for circuit training, runway 29C is in use. Sydney Approach
@@ -1225,8 +1227,9 @@
 
     <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Name>Tower Melbourne Runway 16 - Intro</Name>
+        <Name>Tower Melbourne Runway 16</Name>
         <Type>Tower</Type>
+        <Difficulty>1</Difficulty>
         <StudentBriefing>
             You are operating Melbourne Tower. Ground and Delivery are offline.
 
@@ -1387,8 +1390,9 @@
 
     <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Name>Tower Melbourne Runway 16A27D - Advanced</Name>
+        <Name>Tower Melbourne Runway 16A27D</Name>
         <Type>Tower</Type>
+        <Difficulty>5</Difficulty>
         <StudentBriefing>
             You are operating Melbourne Tower. Ground and Delivery are offline.
 
@@ -1971,8 +1975,9 @@
 
     <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Name>Tower Sydney Runway 34L/R - Auto timed</Name>
+        <Name>Tower Sydney Runway 34L/R</Name>
         <Type>Tower</Type>
+        <AutoTimed>true</AutoTimed>
         <StudentBriefing>
             You are operating Sydney Tower. Ground and Delivery are offline.
 
@@ -2294,8 +2299,9 @@
 
     <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Name>Tower Brisbane Runway 19L/R - Intro</Name>
+        <Name>Tower Brisbane Runway 19L/R</Name>
         <Type>Tower</Type>
+        <Difficulty>1</Difficulty>
         <StudentBriefing>
             You are operating Brisbane Tower. Ground and Delivery are offline.
 
@@ -2498,8 +2504,9 @@
 
     <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Name>Tower Brisbane Runway 19L/R - Advanced</Name>
+        <Name>Tower Brisbane Runway 19L/R</Name>
         <Type>Tower</Type>
+        <Difficulty>5</Difficulty>
         <StudentBriefing>
             You are operating Brisbane Tower. Ground and Delivery are offline.
 
@@ -2808,8 +2815,9 @@
 
     <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Name>Tower Adelaide Runway 23 - Auto Timed</Name>
+        <Name>Tower Adelaide Runway 23</Name>
         <Type>Tower</Type>
+        <AutoTimed>true</AutoTimed>
         <StudentBriefing>
             You are operating Adelaide Tower. Ground and Delivery are offline.
 
@@ -3473,8 +3481,9 @@
 
     <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Name>TMA Adelaide - Intro</Name>
+        <Name>TMA Adelaide</Name>
         <Type>TMA</Type>
+        <Difficulty>1</Difficulty>
         <UseGRIB xsi:nil="true" />
         <InstructorNotes>YPAD Information A. EXP INST APCH. RWY23. OVC038. QNH 1010.
 
@@ -3697,8 +3706,9 @@
 
     <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Name>TMA Adelaide - Advanced</Name>
+        <Name>TMA Adelaide</Name>
         <Type>TMA</Type>
+        <Difficulty>5</Difficulty>
         <InstructorNotes>Ensure the student disables GRIB winds.
 
             YPAD Information A. EXP INST APCH. RWY23. OVC038. QNH 1010.
@@ -4285,8 +4295,9 @@
 
     <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Name>TMA Brisbane Runway 01 PROPs - Advanced</Name>
+        <Name>TMA Brisbane Runway 01 PROPs</Name>
         <Type>TMA</Type>
+        <Difficulty>5</Difficulty>
         <UseGRIB xsi:nil="true" />
         <StudentBriefing>
             **HANDOVER**
@@ -5528,8 +5539,9 @@
 
 <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
     xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>TMA Melbourne - Milk Run Advanced</Name>
+  <Name>TMA Melbourne - Milk Run</Name>
   <Type>TMA</Type>
+  <Difficulty>5</Difficulty>
   <UseGRIB xsi:nil="true" />
   <StudentBriefing>
 		ML TMA "Milk Run" Scenario
@@ -6223,8 +6235,9 @@
 
     <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Name>TMA Sydney Runway 34L/R - Advanced</Name>
+        <Name>TMA Sydney Runway 34L/R</Name>
         <Type>TMA</Type>
+        <Difficulty>5</Difficulty>
         <StudentBriefing>You are operating Sydney Approach.
 
             Sydney is running Runway 34 Left and Right for arrivals and departures. Bankstown is
@@ -8352,8 +8365,9 @@
 
     <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Name>Enroute TBD - Intro</Name>
+        <Name>Enroute TBD</Name>
         <Type>Enroute</Type>
+        <Difficulty>1</Difficulty>
         <Targets>
             <Aircraft Callsign="FD252" Type="PC12" Delay="0">
                 <Squawk Code="2422" ModeC="true" />
@@ -10804,8 +10818,9 @@
 	
     <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Name>Ground/Tower Perth 21AD24A (Auto-Timed)</Name>
+        <Name>Ground/Tower Perth 21AD24A</Name>
         <Type>Tower</Type>
+        <AutoTimed>true</AutoTimed>
         <UseGRIB xsi:nil="true" />
         <StudentBriefing>This scenario can be used for both S1 and S2 sessions.
 
@@ -11768,8 +11783,9 @@
     <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Id>15f8cabb-4675-40d0-827a-13efbeee84c7</Id>
-        <Name>TMA Perth - Introduction</Name>
+        <Name>TMA Perth</Name>
         <Type>TMA</Type>
+        <Difficulty>1</Difficulty>
         <UseGRIB xsi:nil="true" />
         <StudentBriefing>This is an introduction to crossing runway operations and local Perth procedures.
 
