@@ -768,6 +768,7 @@
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>MAESTRO Madness</Name>
         <Type>Testing</Type>
+        <Difficulty>1</Difficulty>
         <StudentBriefing>It's a trap.</StudentBriefing>
         <InstructorNotes>You are a cruel, cruel instructor.
 
