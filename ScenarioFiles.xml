@@ -11676,7 +11676,7 @@
 <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>TMA Perth - Introduction</Name>
-  <Type>Approach</Type>
+  <Type>TMA</Type>
   <Difficulty>3</Difficulty>
   <UseGRIB xsi:nil="true" />
   <StudentBriefing>This is an introduction to crossing runway operations and local Perth procedures.
