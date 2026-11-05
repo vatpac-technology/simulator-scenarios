@@ -4850,7 +4850,11 @@
         <InstructorNotes>TBI
 
 **AUTO-TIMING**
-- This scenario is auto-timed. These departures spawn and roll by themselves, with no action from you: **QFA35** (T+2:00), **YUP** (T+4:00), **QFA610** (T+8:00), **QLK227** (T+11:00), **ANZ124** (T+19:00), **JST510** (T+22:00), **JST900** (T+27:00), **VOZ219** (T+30:00).</InstructorNotes>
+- This scenario is auto-timed. These departures spawn and roll by themselves, with no action from you: **QFA35** (T+2:00), **YUP** (T+4:00), **QFA610** (T+8:00), **QLK227** (T+11:00), **ANZ124** (T+19:00), **JST510** (T+22:00), **JST900** (T+27:00), **VOZ219** (T+30:00).
+- Still departed by you, because Avalon Tower is closed and the student issues the airways clearance (each has a timed prompt): **JST630** (taxi call T+13:00, ready T+16:00, runway 36, JUSTY3 SID).
+
+**34V ARRIVALS**
+- QFA405 and JST513 (BOIN1V), TFX15 (BOYS9V) and QLK205 (RAZI1V) file their visual STAR to runway 34V. vatSys has no runway 34V, so their runway field stays blank. Their sim routes still end at RWY34, so they fly the visual STAR to runway 34 as normal. If the student asks about the blank runway, that is why.</InstructorNotes>
         <Targets>
             <Aircraft Callsign="VOZ678" Type="B738" Delay="0">
                 <Squawk Code="2430" ModeC="true" />
@@ -4949,7 +4953,7 @@
                 <FlightPlan Active="true" Departure="YMML" Destination="WSSS" Alternative=""
                     Rules="1" CruiseSpeed="473" ETD="0000" ATD="0000" RFL="32000" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/D NAV/RNP2/v/">KEPPA3/34 KEPPA Q168 WR/M082F340 T29 AYE/M082F360 T29 CIN A576 ATMAP M635 UDONO/M081F380 M635 SURGA DCT</FlightPlan>
-                <Route>KEPPA BOLAM</Route>
+                <Route>AVMEL KEPPA BOLAM</Route>
             </Aircraft>
             <Aircraft Callsign="ANZ124" Type="B788" Delay="1140" StartAuto="true">
                 <Squawk Code="4213" ModeC="true" />
@@ -4989,7 +4993,7 @@
                 <FlightPlan Active="true" Departure="YMML" Destination="YPAD" Alternative=""
                     Rules="1" CruiseSpeed="449" ETD="0000" ATD="0000" RFL="40000" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2/v/">PEDNI1/34 PEDNI H345 DRINA DCT</FlightPlan>
-                <Route>PEDNI</Route>
+                <Route>AVMEL PEDNI BORTO</Route>
             </Aircraft>
             <Aircraft Callsign="QLK227" Type="DH8C" Delay="660" StartAuto="true">
                 <Squawk Code="4330" ModeC="true" />
@@ -5000,9 +5004,6 @@
                     Rules="1" CruiseSpeed="304" ETD="0000" ATD="0000" RFL="23000" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2/v/">ML6/34 SUNTI H169 IRSOM W105 LT DCT</FlightPlan>
                 <Route>SUNTI AVNAS</Route>
-                <TimedMessages>
-                    <TimedMessage Time="0" Message="Add SUNTI to route before AVNAS" />
-                </TimedMessages>
             </Aircraft>
             <Aircraft Callsign="JST900" Type="A320" Delay="1620" StartAuto="true">
                 <Squawk Code="3101" ModeC="true" />
@@ -5012,7 +5013,7 @@
                 <FlightPlan Active="true" Departure="YMML" Destination="YBLN" Alternative=""
                     Rules="1" CruiseSpeed="454" ETD="0000" ATD="0000" RFL="36000" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2/v/">CRENA3/34 CRENA Q158 COBEL DCT HOODY DCT BLN DCT</FlightPlan>
-                <Route>CRENA</Route>
+                <Route>ONUTO LILPU CRENA KROWS</Route>
             </Aircraft>
             <Aircraft Callsign="YUP" Type="C182" Delay="240" StartAuto="true">
                 <Squawk Code="3105" ModeC="true" />
@@ -5031,6 +5032,10 @@
                     Rules="1" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="38000" EETHours="00"
                     EETMins="00" FuelHours="0" FuelMins="0" Remarks="PER/C NAV/RNP2 /v/">DCT ML H66 URKER Y54 BERNI DCT</FlightPlan>
                 <Route>JUSTY ML NONIX KACEY</Route>
+                <TimedMessages>
+                    <TimedMessage Time="780" Message="JST630 (Avalon, AV TWR closed): taxi call to the student now: 'Melbourne Approach, JST630, A320, IFR, taxiing Avalon for Gold Coast, runway 36'" />
+                    <TimedMessage Time="960" Message="JST630: 'Ready runway 36, request clearance'. Once cleared, set the cleared level and depart on the JUSTY3 SID (route JUSTY ML)" />
+                </TimedMessages>
             </Aircraft>
         </Targets>
     </ScenarioFile>
