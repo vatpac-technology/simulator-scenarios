@@ -3707,7 +3707,7 @@
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>TMA Adelaide Advanced</Name>
         <Type>TMA</Type>
-        <Difficulty>4</Difficulty>
+        <Difficulty>3</Difficulty>
         <AutoTimed>true</AutoTimed>
         <InstructorNotes>Ensure the student disables GRIB winds.
 
@@ -4583,7 +4583,7 @@
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>TMA Melbourne Runway 16</Name>
         <Type>TMA</Type>
-        <Difficulty>3</Difficulty>
+        <Difficulty>2</Difficulty>
         <AutoTimed>true</AutoTimed>
         <StudentBriefing>You are operating Melbourne Approach.
 
@@ -4845,7 +4845,7 @@
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>TMA Melbourne Runway 34 Visual</Name>
         <Type>TMA</Type>
-        <Difficulty>3</Difficulty>
+        <Difficulty>2</Difficulty>
         <AutoTimed>true</AutoTimed>
         <InstructorNotes>TBI
 
@@ -7621,7 +7621,7 @@
 
     <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Name>Enroute TBD</Name>
+        <Name>Enroute TBD Advanced</Name>
         <Type>Enroute</Type>
         <Difficulty>3</Difficulty>
         <AutoTimed>true</AutoTimed>
@@ -7927,7 +7927,7 @@
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Enroute TRT</Name>
         <Type>Enroute</Type>
-        <Difficulty>5</Difficulty>
+        <Difficulty>4</Difficulty>
         <AutoTimed>true</AutoTimed>
         <StudentBriefing>You are operating Territory.
 
@@ -8737,6 +8737,7 @@
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Enroute HYD</Name>
         <Type>Enroute</Type>
+        <Difficulty>4</Difficulty>
         <AutoTimed>true</AutoTimed>
         <StudentBriefing>You are operating HYD. YPPH is running 03 and 06 for Arrivals and
             Departures. Instrument Approaches are in use at all locations.
@@ -11423,6 +11424,7 @@
         <Id>8e6cfd95-74fa-49c4-8d8c-d2a3347f7708</Id>
         <Name>TMA Coral Approach</Name>
         <Type>TMA</Type>
+        <Difficulty>3</Difficulty>
         <AutoTimed>true</AutoTimed>
         <UseGRIB xsi:nil="true" />
         <StudentBriefing>You are operating Coral Approach, Mackay and Rockhampton towers are online.
