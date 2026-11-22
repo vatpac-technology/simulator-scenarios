@@ -12329,7 +12329,7 @@ Delete in this order: ANZ125, VOZ1182, JST618. Note this on the checklist.
 - **MAESTRO**: Online and settled. Mode 34/27.
 - **Sequence**:
 - Already sequenced, no Flow action needed. 34: JST612, QFA1081. 27: QFA431, VOZ216.
-- Behind them: a busy Sydney stream via BOOIN, plus Adelaide, Brisbane and Mildura via ARBEY, Perth via ALAXO, Canberra via BOYSE, and Tasmania and New Zealand via RAZZI. None of it has been flowed yet.
+- Behind them: a busy Sydney stream via BOOIN, plus Adelaide and Brisbane via ARBEY, Perth via ALAXO, Canberra via BOYSE, and Tasmania and New Zealand via RAZZI. None of it has been flowed yet.
 - Departures expected from Launceston and Albury.
 
 Any questions?</StudentBriefing>
@@ -12386,45 +12386,32 @@ Approximate untouched FF and landing times from the SOP flow table (jets and DH8
 - JST612 (A320) via ARBEY: FF T+10, lands T+23 (on scope T+0, front, pre-sequenced)
 - QFA1081 (B738) via RAZZI: FF T+16, lands T+26 (on scope T+0, front, pre-sequenced)
 - AM262 (B350) via RAZZI: FF T+22, lands T+33 (on scope T+0, medical, slow)
-- QFA433 (B738) via ALAXO: FF T+24, lands T+36 (on scope T+0)
 - JST614 (A320) via ARBEY: FF T+24, lands T+37 (on scope T+0, wrong TAS filed)
-- VOZ1342 (B738) via ARBEY: FF T+25, lands T+38 (on scope T+0)
 - ANZ123 (A21N) via RAZZI: FF T+30, lands T+40 (on scope T+0)
-- RXA3655 (SF34) via ARBEY: FF T+27, lands T+42 (on scope T+0)
 - QFA1083 (B738) via RAZZI: FF T+34, lands T+44 (on scope T+0)
-- VOZ677 (B738) via ALAXO: FF T+34, lands T+46 (on scope T+0)
-- JST616 (A320) via ARBEY: FF T+36, lands T+49 (on scope T+0)
-- QFA439 (B738) via ALAXO: FF T+39, lands T+51 (on scope T+0)
+- JST616 (A320) via ARBEY: FF T+35, lands T+48 (on scope T+0)
 - JST622 (A320) via BOOIN: FF T+43, lands T+56 (spawns T+7)
 - QFA443 (B738) via ALAXO: FF T+45, lands T+57 (on scope T+0)
 - VOZ1344 (B738) via ARBEY: FF T+45, lands T+58 (on scope T+0)
 - QFA445 (B738) via BOOIN: FF T+47, lands T+60 (spawns T+11)
 - ANZ125 (A21N) via RAZZI: FF T+50, lands T+60 (on scope T+0)
 - JST624 (A320) via ARBEY: FF T+49, lands T+62 (spawns T+13)
-- VOZ222 (B738) via BOOIN: FF T+50, lands T+63 (spawns T+14)
+- QFA449 (B738) via ALAXO: FF T+51, lands T+63 (spawns T+5)
+- VOZ1186 (B738) via BOYSE: FF T+50, lands T+64 (spawns T+22)
 - AM318 (B350) via MOSVO: FF T+59, lands at YMEN T+64 (spawns T+33, Essendon arrival, insert)
-- QFA449 (B738) via ALAXO: FF T+52, lands T+64 (spawns T+6)
-- VOZ1186 (B738) via BOYSE: FF T+52, lands T+66 (spawns T+24)
-- QFA447 (B738) via BOOIN: FF T+54, lands T+67 (spawns T+18)
-- JST628 (A320) via ARBEY: FF T+55, lands T+68 (spawns T+19)
-- QFA1085 (B738) via RAZZI: FF T+60, lands T+70 (spawns T+23)
-- VOZ224 (B738) via BOOIN: FF T+58, lands T+71 (spawns T+22)
-- VOZ1346 (B738) via ARBEY: FF T+59, lands T+72 (spawns T+13)
+- QFA1085 (B738) via RAZZI: FF T+56, lands T+66 (spawns T+19)
+- VOZ224 (B738) via BOOIN: FF T+54, lands T+67 (spawns T+18)
+- ANZ127 (A21N) via RAZZI: FF T+58, lands T+68 (spawns T+2)
+- JST626 (A320) via BOOIN: FF T+57, lands T+70 (spawns T+21)
 - PCJ401 (C56X) via MOSVO: FF T+67, lands at YMEN T+72 (spawns T+41, Essendon arrival, insert)
-- ANZ127 (A21N) via RAZZI: FF T+64, lands T+74 (spawns T+8)
-- JST626 (A320) via BOOIN: FF T+63, lands T+76 (spawns T+27)
 - AM322 (B350) via MOSVO: FF T+73, lands at YMEN T+78 (spawns T+57, Essendon arrival, insert)
 **RWY 27**
 - QFA431 (B738) via BOOIN: FF T+14, lands T+24 (on scope T+0, front, pre-sequenced)
 - VOZ216 (B738) via BOOIN: FF T+17, lands T+27 (on scope T+0, front, pre-sequenced)
 - VOZ218 (B738) via BOOIN: FF T+25, lands T+35 (on scope T+0)
 - VOZ1184 (B738) via BOYSE: FF T+25, lands T+36 (on scope T+0, requests RWY 16)
-- QFA435 (B738) via BOOIN: FF T+28, lands T+38 (on scope T+0)
-- JST620 (A320) via BOOIN: FF T+30, lands T+40 (on scope T+0)
-- QFA437 (B738) via BOOIN: FF T+32, lands T+42 (on scope T+0)
-- VOZ1180 (B738) via BOYSE: FF T+34, lands T+45 (spawns T+6)
-- QFA441 (B738) via BOOIN: FF T+37, lands T+47 (spawns T+1)
-- VOZ220 (B738) via BOOIN: FF T+40, lands T+50 (spawns T+4)
+- QFA437 (B738) via BOOIN: FF T+31, lands T+41 (on scope T+0)
+- VOZ220 (B738) via BOOIN: FF T+37, lands T+47 (spawns T+1)
 
 # If the candidate is overloaded
 Delete in this order: JST626, QFA1085, VOZ1186. Note this on the checklist. Do not thin the traffic just because the delay is large after LAHSO ends: that is the point of the session.
@@ -12451,267 +12438,176 @@ Delete in this order: JST626, QFA1085, VOZ1186. Note this on the checklist. Do n
       <FlightPlan Departure="YMLT" Destination="YMML" Alternative="" Active="true" Equipment="SDFGHRYZ/LB1" Rules="I" CruiseSpeed="290" ETD="0000" ATD="0000" RFL="27000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="STS/HOSP OPR/AMBULANCE VICTORIA PER/B /V/">DCT LT H215 RAZZI RAZI1A/34</FlightPlan>
       <Route>EXROM ONAGI RAZZI RWY34</Route>
     </Aircraft>
-    <Aircraft Callsign="QFA433" Type="B738" Delay="0" StartAuto="false">
-      <Squawk Code="3004" ModeC="true" />
-      <Cleared Level="9000" Approach="false" />
-      <Position Latitude="-37.728063" Longitude="140.533154" Speed="450" Altitude="37000" />
-      <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT PH H18 BURGU Y53 ALAXO ALAX1A/34</FlightPlan>
-      <Route>MTG TYNDI ALAXO RWY34</Route>
-    </Aircraft>
     <Aircraft Callsign="JST614" Type="A320" Delay="0" StartAuto="false">
-      <Squawk Code="3005" ModeC="true" />
+      <Squawk Code="3004" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-36.024813" Longitude="141.675178" Speed="450" Altitude="37000" />
       <FlightPlan Departure="YPAD" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="320" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT AD V255 BENDO Y12 ARBEY ARBE8A/34</FlightPlan>
       <Route>RELEP LULTO METES ARBEY RWY34</Route>
     </Aircraft>
-    <Aircraft Callsign="VOZ1342" Type="B738" Delay="0" StartAuto="false">
-      <Squawk Code="3006" ModeC="true" />
-      <Cleared Level="9000" Approach="false" />
-      <Position Latitude="-34.834791" Longitude="146.637259" Speed="450" Altitude="37000" />
-      <FlightPlan Departure="YBBN" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT SU Q35 DORSU H119 ARBEY ARBE8A/34</FlightPlan>
-      <Route>DUBED ORINO DORSU ARBEY RWY34</Route>
-    </Aircraft>
     <Aircraft Callsign="ANZ123" Type="A21N" Delay="0" StartAuto="false">
-      <Squawk Code="3007" ModeC="true" />
+      <Squawk Code="3005" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-38.528426" Longitude="149.668457" Speed="450" Altitude="37000" />
       <FlightPlan Departure="NZAA" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT PEBLU N759 MIKEG DCT SNELY DCT TASIS P753 RAZZI RAZI1A/34</FlightPlan>
       <Route>TASIS RAZZI RWY34</Route>
     </Aircraft>
-    <Aircraft Callsign="RXA3655" Type="SF34" Delay="0" StartAuto="false">
-      <Squawk Code="3011" ModeC="true" />
-      <Cleared Level="9000" Approach="false" />
-      <Position Latitude="-35.620210" Longitude="143.441653" Speed="270" Altitude="19000" />
-      <FlightPlan Departure="YMIA" Destination="YMML" Alternative="" Active="true" Equipment="SDFGHRYZ/LB1" Rules="I" CruiseSpeed="270" ETD="0000" ATD="0000" RFL="19000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT MIA V173 DORSU H119 ARBEY ARBE8A/34</FlightPlan>
-      <Route>DORSU ARBEY RWY34</Route>
-    </Aircraft>
     <Aircraft Callsign="QFA1083" Type="B738" Delay="0" StartAuto="false">
-      <Squawk Code="3012" ModeC="true" />
+      <Squawk Code="3006" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-41.693263" Longitude="147.254679" Speed="450" Altitude="37000" />
       <FlightPlan Departure="YMHB" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT KANLI H111 LT H215 RAZZI RAZI1A/34</FlightPlan>
       <Route>LT FLIKI AKTAM EXROM ONAGI RAZZI RWY34</Route>
     </Aircraft>
-    <Aircraft Callsign="VOZ677" Type="B738" Delay="0" StartAuto="false">
-      <Squawk Code="3013" ModeC="true" />
-      <Cleared Level="9000" Approach="false" />
-      <Position Latitude="-37.551041" Longitude="138.891931" Speed="450" Altitude="37000" />
-      <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT PH H18 BURGU Y53 ALAXO ALAX1A/34</FlightPlan>
-      <Route>MTG TYNDI ALAXO RWY34</Route>
-    </Aircraft>
     <Aircraft Callsign="JST616" Type="A320" Delay="0" StartAuto="false">
-      <Squawk Code="3014" ModeC="true" />
+      <Squawk Code="3007" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
-      <Position Latitude="-35.444639" Longitude="140.053629" Speed="450" Altitude="37000" />
+      <Position Latitude="-35.471056" Longitude="140.125667" Speed="450" Altitude="37000" />
       <FlightPlan Departure="YPAD" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT AD V255 BENDO Y12 ARBEY ARBE8A/34</FlightPlan>
       <Route>RELEP LULTO METES ARBEY RWY34</Route>
     </Aircraft>
-    <Aircraft Callsign="QFA439" Type="B738" Delay="0" StartAuto="false">
-      <Squawk Code="3015" ModeC="true" />
-      <Cleared Level="9000" Approach="false" />
-      <Position Latitude="-37.458495" Longitude="138.113304" Speed="450" Altitude="37000" />
-      <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT PH H18 BURGU Y53 ALAXO ALAX1A/34</FlightPlan>
-      <Route>BUNGY MTG TYNDI ALAXO RWY34</Route>
-    </Aircraft>
     <Aircraft Callsign="QFA431" Type="B738" Delay="0" StartAuto="false">
-      <Squawk Code="3016" ModeC="true" />
+      <Squawk Code="3011" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-36.632010" Longitude="147.177175" Speed="400" Altitude="30000" />
       <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT WOL H65 LEECE Q29 BOOIN BOIN1A/27</FlightPlan>
       <Route>NABBA BULLA LUVAS BOOIN RWY27</Route>
     </Aircraft>
     <Aircraft Callsign="VOZ216" Type="B738" Delay="0" StartAuto="false">
-      <Squawk Code="3017" ModeC="true" />
+      <Squawk Code="3012" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-36.421180" Longitude="147.562721" Speed="450" Altitude="34000" />
       <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT WOL H65 LEECE Q29 BOOIN BOIN1A/27</FlightPlan>
       <Route>NABBA BULLA LUVAS BOOIN RWY27</Route>
     </Aircraft>
     <Aircraft Callsign="VOZ218" Type="B738" Delay="0" StartAuto="false">
-      <Squawk Code="3021" ModeC="true" />
+      <Squawk Code="3013" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-35.852952" Longitude="148.580620" Speed="450" Altitude="37000" />
       <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT WOL H65 LEECE Q29 BOOIN BOIN1A/27</FlightPlan>
       <Route>TANTA ANLID RUMIE NABBA BULLA LUVAS BOOIN RWY27</Route>
     </Aircraft>
     <Aircraft Callsign="VOZ1184" Type="B738" Delay="0" StartAuto="false">
-      <Squawk Code="3022" ModeC="true" />
+      <Squawk Code="3014" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-35.632857" Longitude="148.637748" Speed="450" Altitude="37000" />
       <FlightPlan Departure="YSCB" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT CB DCT BOYSE BOYS9A/27</FlightPlan>
       <Route>BOYSE RWY27</Route>
     </Aircraft>
-    <Aircraft Callsign="QFA435" Type="B738" Delay="0" StartAuto="false">
-      <Squawk Code="3023" ModeC="true" />
-      <Cleared Level="9000" Approach="false" />
-      <Position Latitude="-35.637418" Longitude="148.958336" Speed="450" Altitude="37000" />
-      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT WOL H65 LEECE Q29 BOOIN BOIN1A/27</FlightPlan>
-      <Route>TANTA ANLID RUMIE NABBA BULLA LUVAS BOOIN RWY27</Route>
-    </Aircraft>
-    <Aircraft Callsign="JST620" Type="A320" Delay="0" StartAuto="false">
-      <Squawk Code="3024" ModeC="true" />
-      <Cleared Level="9000" Approach="false" />
-      <Position Latitude="-35.493076" Longitude="149.209014" Speed="450" Altitude="37000" />
-      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT WOL H65 LEECE Q29 BOOIN BOIN1A/27</FlightPlan>
-      <Route>TANTA ANLID RUMIE NABBA BULLA LUVAS BOOIN RWY27</Route>
-    </Aircraft>
     <Aircraft Callsign="QFA437" Type="B738" Delay="0" StartAuto="false">
-      <Squawk Code="3025" ModeC="true" />
+      <Squawk Code="3015" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
-      <Position Latitude="-35.311922" Longitude="149.521095" Speed="450" Altitude="37000" />
+      <Position Latitude="-35.420711" Longitude="149.334014" Speed="450" Altitude="37000" />
       <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT WOL H65 LEECE Q29 BOOIN BOIN1A/27</FlightPlan>
       <Route>TANTA ANLID RUMIE NABBA BULLA LUVAS BOOIN RWY27</Route>
     </Aircraft>
-    <Aircraft Callsign="VOZ1180" Type="B738" Delay="360" StartAuto="true">
-      <Squawk Code="3026" ModeC="true" />
-      <Cleared Level="9000" Approach="false" />
-      <Position Latitude="-35.485180" Longitude="148.888333" Speed="450" Altitude="37000" />
-      <FlightPlan Departure="YSCB" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT CB DCT BOYSE BOYS9A/27</FlightPlan>
-      <Route>BOYSE RWY27</Route>
-    </Aircraft>
-    <Aircraft Callsign="QFA441" Type="B738" Delay="60" StartAuto="true">
-      <Squawk Code="3027" ModeC="true" />
-      <Cleared Level="9000" Approach="false" />
-      <Position Latitude="-35.092379" Longitude="149.895625" Speed="450" Altitude="37000" />
-      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT WOL H65 LEECE Q29 BOOIN BOIN1A/27</FlightPlan>
-      <Route>TANTA ANLID RUMIE NABBA BULLA LUVAS BOOIN RWY27</Route>
-    </Aircraft>
-    <Aircraft Callsign="VOZ220" Type="B738" Delay="240" StartAuto="true">
-      <Squawk Code="3031" ModeC="true" />
+    <Aircraft Callsign="VOZ220" Type="B738" Delay="60" StartAuto="true">
+      <Squawk Code="3016" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-35.092379" Longitude="149.895625" Speed="450" Altitude="37000" />
       <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT WOL H65 LEECE Q29 BOOIN BOIN1A/27</FlightPlan>
       <Route>TANTA ANLID RUMIE NABBA BULLA LUVAS BOOIN RWY27</Route>
     </Aircraft>
     <Aircraft Callsign="JST622" Type="A320" Delay="420" StartAuto="true">
-      <Squawk Code="3032" ModeC="true" />
+      <Squawk Code="3017" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-35.092379" Longitude="149.895625" Speed="450" Altitude="37000" />
       <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT WOL H65 LEECE Q29 BOOIN BOIN1A/34</FlightPlan>
       <Route>TANTA ANLID RUMIE NABBA BULLA LUVAS BOOIN RWY34</Route>
     </Aircraft>
     <Aircraft Callsign="QFA443" Type="B738" Delay="0" StartAuto="false">
-      <Squawk Code="3033" ModeC="true" />
+      <Squawk Code="3021" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-37.349993" Longitude="137.259272" Speed="450" Altitude="37000" />
       <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT PH H18 BURGU Y53 ALAXO ALAX1A/34</FlightPlan>
       <Route>BUNGY MTG TYNDI ALAXO RWY34</Route>
     </Aircraft>
     <Aircraft Callsign="VOZ1344" Type="B738" Delay="0" StartAuto="false">
-      <Squawk Code="3034" ModeC="true" />
+      <Squawk Code="3022" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
-      <Position Latitude="-32.904763" Longitude="148.543278" Speed="450" Altitude="37000" />
+      <Position Latitude="-32.948683" Longitude="148.490372" Speed="450" Altitude="37000" />
       <FlightPlan Departure="YBBN" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT SU Q35 DORSU H119 ARBEY ARBE8A/34</FlightPlan>
       <Route>PKS DUBED ORINO DORSU ARBEY RWY34</Route>
     </Aircraft>
     <Aircraft Callsign="QFA445" Type="B738" Delay="660" StartAuto="true">
-      <Squawk Code="3035" ModeC="true" />
+      <Squawk Code="3023" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-35.092379" Longitude="149.895625" Speed="450" Altitude="37000" />
       <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT WOL H65 LEECE Q29 BOOIN BOIN1A/34</FlightPlan>
       <Route>TANTA ANLID RUMIE NABBA BULLA LUVAS BOOIN RWY34</Route>
     </Aircraft>
     <Aircraft Callsign="ANZ125" Type="A21N" Delay="0" StartAuto="false">
-      <Squawk Code="3036" ModeC="true" />
+      <Squawk Code="3024" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-38.631479" Longitude="152.941395" Speed="450" Altitude="37000" />
       <FlightPlan Departure="NZAA" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT PEBLU N759 MIKEG DCT SNELY DCT TASIS P753 RAZZI RAZI1A/34</FlightPlan>
       <Route>SNELY TASIS RAZZI RWY34</Route>
     </Aircraft>
     <Aircraft Callsign="JST624" Type="A320" Delay="780" StartAuto="true">
-      <Squawk Code="3037" ModeC="true" />
+      <Squawk Code="3025" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-35.444639" Longitude="140.053629" Speed="450" Altitude="37000" />
       <FlightPlan Departure="YPAD" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT AD V255 BENDO Y12 ARBEY ARBE8A/34</FlightPlan>
       <Route>RELEP LULTO METES ARBEY RWY34</Route>
     </Aircraft>
-    <Aircraft Callsign="VOZ222" Type="B738" Delay="840" StartAuto="true">
-      <Squawk Code="3041" ModeC="true" />
-      <Cleared Level="9000" Approach="false" />
-      <Position Latitude="-35.092379" Longitude="149.895625" Speed="450" Altitude="37000" />
-      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT WOL H65 LEECE Q29 BOOIN BOIN1A/34</FlightPlan>
-      <Route>TANTA ANLID RUMIE NABBA BULLA LUVAS BOOIN RWY34</Route>
-    </Aircraft>
-    <Aircraft Callsign="QFA449" Type="B738" Delay="360" StartAuto="true">
-      <Squawk Code="3042" ModeC="true" />
+    <Aircraft Callsign="QFA449" Type="B738" Delay="300" StartAuto="true">
+      <Squawk Code="3026" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-37.325877" Longitude="137.076088" Speed="450" Altitude="37000" />
       <FlightPlan Departure="YPPH" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT PH H18 BURGU Y53 ALAXO ALAX1A/34</FlightPlan>
       <Route>BUNGY MTG TYNDI ALAXO RWY34</Route>
     </Aircraft>
-    <Aircraft Callsign="VOZ1186" Type="B738" Delay="1440" StartAuto="true">
-      <Squawk Code="3043" ModeC="true" />
+    <Aircraft Callsign="VOZ1186" Type="B738" Delay="1320" StartAuto="true">
+      <Squawk Code="3027" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-35.485180" Longitude="148.888333" Speed="450" Altitude="37000" />
       <FlightPlan Departure="YSCB" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT CB DCT BOYSE BOYS9A/34</FlightPlan>
       <Route>BOYSE RWY34</Route>
     </Aircraft>
-    <Aircraft Callsign="QFA447" Type="B738" Delay="1080" StartAuto="true">
-      <Squawk Code="3044" ModeC="true" />
-      <Cleared Level="9000" Approach="false" />
-      <Position Latitude="-35.092379" Longitude="149.895625" Speed="450" Altitude="37000" />
-      <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT WOL H65 LEECE Q29 BOOIN BOIN1A/34</FlightPlan>
-      <Route>TANTA ANLID RUMIE NABBA BULLA LUVAS BOOIN RWY34</Route>
-    </Aircraft>
-    <Aircraft Callsign="JST628" Type="A320" Delay="1140" StartAuto="true">
-      <Squawk Code="3045" ModeC="true" />
-      <Cleared Level="9000" Approach="false" />
-      <Position Latitude="-35.444639" Longitude="140.053629" Speed="450" Altitude="37000" />
-      <FlightPlan Departure="YPAD" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT AD V255 BENDO Y12 ARBEY ARBE8A/34</FlightPlan>
-      <Route>RELEP LULTO METES ARBEY RWY34</Route>
-    </Aircraft>
-    <Aircraft Callsign="QFA1085" Type="B738" Delay="1380" StartAuto="true">
-      <Squawk Code="3046" ModeC="true" />
+    <Aircraft Callsign="QFA1085" Type="B738" Delay="1140" StartAuto="true">
+      <Squawk Code="3031" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-42.044168" Longitude="147.333834" Speed="450" Altitude="37000" />
       <FlightPlan Departure="YMHB" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT KANLI H111 LT H215 RAZZI RAZI1A/34</FlightPlan>
       <Route>LT FLIKI AKTAM EXROM ONAGI RAZZI RWY34</Route>
     </Aircraft>
-    <Aircraft Callsign="VOZ224" Type="B738" Delay="1320" StartAuto="true">
-      <Squawk Code="3047" ModeC="true" />
+    <Aircraft Callsign="VOZ224" Type="B738" Delay="1080" StartAuto="true">
+      <Squawk Code="3032" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-35.092379" Longitude="149.895625" Speed="450" Altitude="37000" />
       <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT WOL H65 LEECE Q29 BOOIN BOIN1A/34</FlightPlan>
       <Route>TANTA ANLID RUMIE NABBA BULLA LUVAS BOOIN RWY34</Route>
     </Aircraft>
-    <Aircraft Callsign="VOZ1346" Type="B738" Delay="780" StartAuto="true">
-      <Squawk Code="3051" ModeC="true" />
-      <Cleared Level="9000" Approach="false" />
-      <Position Latitude="-32.844836" Longitude="148.615338" Speed="450" Altitude="37000" />
-      <FlightPlan Departure="YBBN" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT SU Q35 DORSU H119 ARBEY ARBE8A/34</FlightPlan>
-      <Route>PKS DUBED ORINO DORSU ARBEY RWY34</Route>
-    </Aircraft>
-    <Aircraft Callsign="ANZ127" Type="A21N" Delay="480" StartAuto="true">
-      <Squawk Code="3052" ModeC="true" />
+    <Aircraft Callsign="ANZ127" Type="A21N" Delay="120" StartAuto="true">
+      <Squawk Code="3033" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-38.638189" Longitude="153.743347" Speed="450" Altitude="37000" />
       <FlightPlan Departure="NZAA" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT PEBLU N759 MIKEG DCT SNELY DCT TASIS P753 RAZZI RAZI1A/34</FlightPlan>
       <Route>SNELY TASIS RAZZI RWY34</Route>
     </Aircraft>
-    <Aircraft Callsign="JST626" Type="A320" Delay="1620" StartAuto="true">
-      <Squawk Code="3053" ModeC="true" />
+    <Aircraft Callsign="JST626" Type="A320" Delay="1260" StartAuto="true">
+      <Squawk Code="3034" ModeC="true" />
       <Cleared Level="9000" Approach="false" />
       <Position Latitude="-35.092379" Longitude="149.895625" Speed="450" Altitude="37000" />
       <FlightPlan Departure="YSSY" Destination="YMML" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT WOL H65 LEECE Q29 BOOIN BOIN1A/34</FlightPlan>
       <Route>TANTA ANLID RUMIE NABBA BULLA LUVAS BOOIN RWY34</Route>
     </Aircraft>
     <Aircraft Callsign="AM318" Type="B350" Delay="1980" StartAuto="true">
-      <Squawk Code="3054" ModeC="true" />
+      <Squawk Code="3035" ModeC="true" />
       <Cleared Level="5000" Approach="false" />
       <Position Latitude="-36.237017" Longitude="146.782046" Speed="290" Altitude="27000" />
       <FlightPlan Departure="YMAY" Destination="YMEN" Alternative="" Active="true" Equipment="SDFGHRYZ/LB1" Rules="I" CruiseSpeed="290" ETD="0000" ATD="0000" RFL="27000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="STS/HOSP OPR/AMBULANCE VICTORIA PER/B /V/">DCT AY DCT MOSVO</FlightPlan>
       <Route>MOSVO RWY26</Route>
     </Aircraft>
     <Aircraft Callsign="PCJ401" Type="C56X" Delay="2460" StartAuto="true">
-      <Squawk Code="3055" ModeC="true" />
+      <Squawk Code="3036" ModeC="true" />
       <Cleared Level="5000" Approach="false" />
       <Position Latitude="-35.311556" Longitude="147.324939" Speed="450" Altitude="37000" />
       <FlightPlan Departure="YSWG" Destination="YMEN" Alternative="" Active="true" Equipment="SDE2E3FGHIRWXYZ/LB1" Rules="I" CruiseSpeed="450" ETD="0000" ATD="0000" RFL="37000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="PBN/A1B1C1D1O1S2 NAV/RNP2 PER/C /V/">DCT WG DCT MOSVO</FlightPlan>
       <Route>MOSVO RWY26</Route>
     </Aircraft>
     <Aircraft Callsign="AM322" Type="B350" Delay="3420" StartAuto="true">
-      <Squawk Code="3056" ModeC="true" />
+      <Squawk Code="3037" ModeC="true" />
       <Cleared Level="5000" Approach="false" />
       <Position Latitude="-36.576818" Longitude="145.363994" Speed="290" Altitude="21000" />
       <FlightPlan Departure="YSHT" Destination="YMEN" Alternative="" Active="true" Equipment="SDFGHRYZ/LB1" Rules="I" CruiseSpeed="290" ETD="0000" ATD="0000" RFL="27000" EETHours="1" EETMins="10" FuelHours="3" FuelMins="0" Remarks="STS/HOSP OPR/AMBULANCE VICTORIA PER/B /V/">DCT SHT DCT MOSVO</FlightPlan>
