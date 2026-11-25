@@ -2981,7 +2981,7 @@
                 <Position Latitude="-34.9372276" Longitude="138.5418069" Speed="0" Altitude="36" Heading="193" />
                 <FlightPlan Departure="YPAD" Destination="YCDU" Alternative="" Active="false"
                     Rules="I" CruiseSpeed="284" ETD="0000" ATD="0000" RFL="18000" EETHours="1"
-                    EETMins="30" FuelHours="4" FuelMins="10" Remarks="NAV/RNP2 RTF/REX /v/">DCT AD 585 CDU DCT</FlightPlan>
+                    EETMins="30" FuelHours="4" FuelMins="10" Remarks="NAV/RNP2 RTF/REX /v/">DCT AD A585 CDU DCT</FlightPlan>
                 <Route>COLPY</Route>
             </Aircraft>
             <Aircraft Callsign="VOZ1407" Type="B738" Delay="1980" StartAuto="true">
