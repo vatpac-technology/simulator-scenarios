@@ -10448,6 +10448,313 @@
 
     <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Name>Jandakot Tower Runway 24L/R (Metro D, Top Down)</Name>
+        <Type>Tower</Type>
+        <Difficulty>4</Difficulty>
+        <AutoTimed>true</AutoTimed>
+        <UseGRIB xsi:nil="true" />
+        <StudentBriefing>You are operating Jandakot Tower, Jandakot Ground and Jandakot Tower (Circuit) are not open.
+
+            Perth Approach and Perth Centre are online.
+
+            Remember: only one IFR aircraft may be airborne in the Jandakot CTR at any time.
+
+            Your instructor will give you a METAR. Use it to select the runway mode and prepare the ATIS (128.650) before the scenario starts.
+        </StudentBriefing>
+        <InstructorNotes># Instructor Notes
+            This scenario is auto-timed with pilot phraseology prompts and runs for about 32 minutes. The student is working Jandakot ADC top down (ADC and SMC combined, single ADC), so every departure calls for taxi before calling ready. Circuit aircraft request engine start first - approve it immediately. The student (and instructor) should be familiar with the YPJT SOPs before starting.
+
+            Taxi calls are addressed to "Jandakot Ground" and all other calls to "Jandakot Tower". Ready calls are not prompted - make them when each aircraft reaches the holding point.
+
+            ## METAR and ATIS
+            Before starting, give the student this METAR and have them build the ATIS:
+
+            **METAR YPJT 130300Z 23012KT CAVOK 24/11 Q1016**
+
+            The student should select the 24 PROPS mode. Expected runway nomination:
+            - RWY 24L FOR CCTS AND DEPS VIA ARMADALE SHOPS. RWY 24R FOR ARRS AND ALL OTHER DEPS
+
+            ## Sim Handling
+            - VFR arrivals track via their reporting points direct to the field. Use the sweatbox circuit join to put them into the circuit the student instructs (right downwind 24R).
+            - Aircraft on the ground are auto-timed to appear 1 minute before their first call.
+            - Runways are pre-assigned in every route: 24L for circuits and Armadale Shops departures, 24R for everything else.
+            - Helicopters **must depart from the runway** (sim limitation). POL61 cannot land on the Eastern Pad (east of the 24R threshold) by itself - join it to the 24R circuit, then slow to 0 over the pad and set the altitude to 0.
+            - EEP departs at A010. Climb it to A015 yourself once it passes Fiona Stanley Hospital.
+
+            ## Procedure
+            - 24R right circuits, 24L left circuits. Circuit altitude is A010 (helicopters A008).
+            - VFR arrivals report at POWR, BOAT, OAKF or RUSS at A015 and are told to maintain A015 and report at ADWD (from POWR and BOAT) or FDL (from OAKF and RUSS).
+            - From ADWD: join right downwind 24R at A015. Hold A015 until clear of 24R departures via Fiona Stanley Hospital and FREM, then clear for the visual approach.
+            - From FDL: overfly the field between the tower and the upwind end at A015 and join right downwind 24R, then clear for the visual approach.
+            - A circuit join without an assigned altitude is already a clearance for the visual approach.
+            - VFR departures leave on an extended leg of the circuit at A010. A takeoff clearance is the clearance to depart the zone. No frequency change is given to aircraft leaving into Class G.
+            - FREM departures track from the circuit to Fiona Stanley Hospital at A010, then climb to A015 and track to FREM. No coordination is required for EEP.
+            - Armadale Shops (SHOP) departures use 24L. All other departures use 24R.
+            - IFR departures already have their airways clearance from Perth Centre (PH-R_APP) and call for IFR taxi with their SID: ISPET to the north and west, SCARP to the east, TONEG to the south and west. Their flight plans are active with the SID and A015 cleared. In the sim they climb to the lower of their RFL and FL180 once airborne.
+            - In Class D, IFR aircraft are only separated from other IFR and SVFR aircraft. FD623 and FD624J cannot use the runway and CTR at the same time.
+
+            ## Coordination
+            **IFR departures (NEXT):**
+            - JT ADC -&gt; PH TCU: "Next, KZJ, runway 24R"
+            - PH TCU -&gt; JT ADC: "KZJ, unrestricted"
+
+            **IFR arrivals (heads-up from PH TCU):**
+            - PH TCU -&gt; JT ADC: "via RNP runway 24R, FD623"
+            - JT ADC -&gt; PH TCU: "FD623, RNP runway 24R"
+
+            ## Notable Phraseology
+            **1. Engine start and taxi (circuits)**
+            - Pilot: "Jandakot Ground, [type] [C/S], [apron], request engine start for circuits"
+            - Controller: "[C/S], Jandakot Ground, start approved"
+            - Pilot: "[C/S], received [ATIS], request taxi"
+
+            **2. Taxi call (VFR departures)**
+            - Pilot: "Jandakot Ground, [type] [C/S], [apron], received [ATIS], request taxi for departure via [...]"
+
+            **3. Taxi call (IFR)**
+            - Pilot: "Jandakot Ground, [C/S], [type], [apron], received [ATIS], POB [number], request IFR taxi for [SID] departure"
+
+            **4. Arrivals via POWR or BOAT**
+            - Pilot: "Jandakot Tower, [type] [C/S], Powerhouse, 1500, received [ATIS], inbound"
+            - Controller: "[C/S], Jandakot Tower, maintain 1500, report Adventure World"
+            - Pilot: "[C/S], Adventure World"
+            - Controller: "[C/S], join right downwind runway 24R, maintain 1500"
+            - Controller (when clear of FREM departures): "[C/S], cleared visual approach"
+
+            **5. Arrivals via OAKF or RUSS**
+            - Pilot: "Jandakot Tower, [type] [C/S], Oakford, 1500, received [ATIS], inbound"
+            - Controller: "[C/S], Jandakot Tower, maintain 1500, report Forrestdale Lake"
+            - Pilot: "[C/S], Forrestdale Lake"
+            - Controller: "[C/S], overfly the field, join right downwind runway 24R, maintain 1500"
+            - Controller (when established in the circuit): "[C/S], cleared visual approach"
+
+            ## Staged Conflicts
+            - **EEP v ZER (about 04:00 to 07:00).** EEP departs 24R via Fiona Stanley Hospital while ZER joins right downwind from ADWD. ZER must be held at A015 until clear of EEP, and traffic information passed to both.
+            - **FD623 v FD624J (about 14:00).** FD624J calls ready while FD623 is on final for the RNP 24R. Both are IFR, so FD624J must wait on the ground until FD623 has landed.
+            - MPY (Seminole) arrives close behind FD623 - expect some sequencing on downwind.
+            - POL61 and RSCU651 are good opportunities for traffic information between helicopters and the circuit.
+
+            ## Workload
+            ZDR should stay in the circuit for the whole scenario. OCK is an optional second circuit aircraft - introduce or withhold it to suit the student. Any departure can be delayed by simply holding its taxi call.
+
+            ## Traffic Index
+            Format: **CALLSIGN [INTENTIONS] (TIME)**
+            - ZDR [CIRCUITS 24L] (00:00)
+            - YGZ [DEPARTURE via YGB (24R)] (00:45)
+            - EEP [DEPARTURE via FREM for V65 (24R)] (01:30)
+            - ZER [ARRIVAL via POWR and ADWD] (02:15)
+            - EEN [ARRIVAL via OAKF and FDL] (03:30)
+            - RWS [DEPARTURE via SHOP (24L)] (05:30)
+            - KZJ [IFR DEPARTURE to YBUN, TONEG SID (24R)] (06:30)
+            - FD623 [IFR ARRIVAL via RNP RWY 24R - heads-up coordination, calls Tower at 12:30] (07:30)
+            - MPY [ARRIVAL via RUSS and FDL] (10:00)
+            - FD624J [IFR DEPARTURE to YGEL, ISPET SID (24R)] (11:30)
+            - POL61 [HELICOPTER ARRIVAL via POWR and ADWD] (13:00)
+            - PMC [ARRIVAL via BOAT and ADWD] (16:00)
+            - RSCU651 [HELICOPTER DEPARTURE via SHOP (24L) - "RESCUE"] (17:00)
+            - ZEF [ARRIVAL via RUSS and FDL] (18:00)
+            - OCK [CIRCUITS 24L {optional}] (20:00)
+            - FD601 [IFR DEPARTURE to YPKG, SCARP SID (24R)] (21:00)
+            - NSE [ARRIVAL via POWR and ADWD] (22:30)
+            - CHN [ARRIVAL via OAKF and FDL] (24:00)
+        </InstructorNotes>
+        <Targets>
+            <Aircraft Callsign="ZDR" Type="C172" Delay="0" StartAuto="false">
+                <Squawk Code="3000" ModeC="true" />
+                <Cleared Level="1000" Approach="false" />
+                <Position Latitude="-32.098616" Longitude="115.873264" Speed="0" Altitude="0" />
+                <FlightPlan Departure="YPJT" Destination="YPJT" Active="false" Rules="V" CruiseSpeed="90" RFL="1000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/ Circuits">YPJT/24L DCT</FlightPlan>
+                <Route>CIRCUIT-LEFT</Route>
+                <TimedMessages>
+                    <TimedMessage Time="0" Message="&quot;Jandakot Ground, Cessna 172 ZDR, southern apron, request engine start for circuits&quot;" />
+                    <TimedMessage Time="115" Message="&quot;ZDR, received [ATIS], request taxi&quot;" />
+                </TimedMessages>
+            </Aircraft>
+            <Aircraft Callsign="YGZ" Type="C172" Delay="0" StartAuto="false">
+                <Squawk Code="3000" ModeC="true" />
+                <Cleared Level="1000" Approach="false" />
+                <Position Latitude="-32.087007" Longitude="115.883209" Speed="0" Altitude="0" />
+                <FlightPlan Departure="YPJT" Destination="YPJT" Active="false" Rules="V" CruiseSpeed="110" RFL="1000" EETHours="1" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">YPJT/24R YGB TOML ROHM</FlightPlan>
+                <Route>YPJT/24R YGB TOML ROHM MDU HARV YBUN YBLN YABA</Route>
+                <TimedMessages>
+                    <TimedMessage Time="45" Message="&quot;Jandakot Ground, Cessna 172 YGZ, northern apron, received [ATIS], request taxi for departure via Yangebup&quot;" />
+                </TimedMessages>
+            </Aircraft>
+            <Aircraft Callsign="EEP" Type="C172" Delay="30" StartAuto="true">
+                <Squawk Code="3000" ModeC="true" />
+                <Cleared Level="1000" Approach="false" />
+                <Position Latitude="-32.098323" Longitude="115.872488" Speed="0" Altitude="0" />
+                <FlightPlan Departure="YPJT" Destination="YPJT" Active="false" Rules="V" CruiseSpeed="110" RFL="1500" EETHours="1" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">YPJT/24R FREM CTE PCTY HKE OBC YRTI</FlightPlan>
+                <Route>YPJT/24R JT313003 FREM CTE PCTY HKE OBC MUP BUB TOS YJUR YGEL</Route>
+                <TimedMessages>
+                    <TimedMessage Time="90" Message="&quot;Jandakot Ground, Cessna 172 EEP, southern apron, received [ATIS], request taxi for departure via Fremantle for Victor 65&quot;" />
+                </TimedMessages>
+            </Aircraft>
+            <Aircraft Callsign="ZER" Type="C182" Delay="0" StartAuto="false">
+                <Squawk Code="3000" ModeC="true" />
+                <Cleared Level="1500" Approach="false" />
+                <Position Latitude="-32.000521" Longitude="115.748901" Speed="120" Altitude="1500" />
+                <FlightPlan Departure="YJUR" Destination="YPJT" Active="true" Rules="V" CruiseSpeed="120" RFL="1500" EETHours="0" EETMins="0" FuelHours="0" FuelMins="120" Remarks="/v/">FRE POWR ADWD YPJT/24R</FlightPlan>
+                <Route>FRE POWR ADWD YPJT/24R</Route>
+                <TimedMessages>
+                    <TimedMessage Time="135" Message="&quot;Jandakot Tower, Cessna 182 ZER, Powerhouse, 1500, received [ATIS], inbound&quot;" />
+                    <TimedMessage Time="228" Message="&quot;ZER, Adventure World&quot; Instructor note: EEP is about to depart via Fiona Stanley Hospital - ZER should be held at A015 on right downwind until clear." />
+                </TimedMessages>
+            </Aircraft>
+            <Aircraft Callsign="EEN" Type="C172" Delay="0" StartAuto="false">
+                <Squawk Code="3000" ModeC="true" />
+                <Cleared Level="1500" Approach="false" />
+                <Position Latitude="-32.326277" Longitude="115.886058" Speed="110" Altitude="1500" />
+                <FlightPlan Departure="YBUN" Destination="YPJT" Active="true" Rules="V" CruiseSpeed="110" RFL="1500" EETHours="0" EETMins="0" FuelHours="0" FuelMins="120" Remarks="/v/">OAKF FDL YPJT/24R</FlightPlan>
+                <Route>OAKF FDL YPJT/24R</Route>
+                <TimedMessages>
+                    <TimedMessage Time="210" Message="&quot;Jandakot Tower, Cessna 172 EEN, Oakford, 1500, received [ATIS], inbound&quot;" />
+                    <TimedMessage Time="296" Message="&quot;EEN, Forrestdale Lake&quot;" />
+                </TimedMessages>
+            </Aircraft>
+            <Aircraft Callsign="RWS" Type="C172" Delay="270" StartAuto="true">
+                <Squawk Code="3000" ModeC="true" />
+                <Cleared Level="1000" Approach="false" />
+                <Position Latitude="-32.098200" Longitude="115.873600" Speed="0" Altitude="0" />
+                <FlightPlan Departure="YPJT" Destination="YPJT" Active="false" Rules="V" CruiseSpeed="110" RFL="1000" EETHours="1" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">YPJT/24L SHOP WUNG JADL</FlightPlan>
+                <Route>YPJT/24L SHOP WUNG JADL YNRG YABA YESP</Route>
+                <TimedMessages>
+                    <TimedMessage Time="330" Message="&quot;Jandakot Ground, Cessna 172 RWS, southern apron, received [ATIS], request taxi for departure via Armadale Shops&quot;" />
+                </TimedMessages>
+            </Aircraft>
+            <Aircraft Callsign="KZJ" Type="PA44" Delay="330" StartAuto="true">
+                <Squawk Code="4021" ModeC="true" />
+                <Cleared Level="8000" Approach="false" />
+                <Position Latitude="-32.097616" Longitude="115.874193" Speed="0" Altitude="0" />
+                <FlightPlan Departure="YPJT" Destination="YBUN" Alternative="YPJT" Active="true" Rules="I" CruiseSpeed="160" RFL="8000" CFL="1500" EETHours="0" EETMins="40" FuelHours="0" FuelMins="180" Remarks="/v/">TONEG7/24R TONEG MDU HARV</FlightPlan>
+                <Route>YPJT/24R TONEG MDU HARV YBUN YBLN YABA</Route>
+                <TimedMessages>
+                    <TimedMessage Time="390" Message="&quot;Jandakot Ground, Seminole KZJ, southern apron, received [ATIS], POB 2, request IFR taxi for TONEG departure&quot;" />
+                </TimedMessages>
+            </Aircraft>
+            <Aircraft Callsign="FD623" Type="PC12" Delay="0" StartAuto="false">
+                <Squawk Code="2104" ModeC="true" />
+                <Cleared Level="3100" Approach="true" />
+                <Position Latitude="-31.280081" Longitude="116.216796" Speed="225" Altitude="9000" />
+                <FlightPlan Departure="YCAR" Destination="YPJT" Alternative="YPPH" Active="true" Rules="I" CruiseSpeed="260" RFL="18000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">DCT CAR B469 BORVI IKEVA Q65 OVLUK V16 WOORA Q38 PH PJ2ED PJ2EI PJ2EF JT YPJT/24R</FlightPlan>
+                <Route>WOORA PJ2ED PJ2EI PJ2EF RWY24R</Route>
+                <TimedMessages>
+                    <TimedMessage Time="450" Message="COORD PH TCU -&gt; JT ADC: &quot;via RNP runway 24R, FD623&quot;. Expect the readback: &quot;FD623, RNP runway 24R&quot;" />
+                    <TimedMessage Time="750" Message="&quot;Jandakot Tower, FD623, PC12, RNP runway 24R, received [ATIS]&quot;" />
+                </TimedMessages>
+            </Aircraft>
+            <Aircraft Callsign="MPY" Type="PA44" Delay="0" StartAuto="false">
+                <Squawk Code="3000" ModeC="true" />
+                <Cleared Level="1500" Approach="false" />
+                <Position Latitude="-32.225136" Longitude="116.532051" Speed="150" Altitude="1500" />
+                <FlightPlan Departure="YCUN" Destination="YPJT" Active="true" Rules="V" CruiseSpeed="150" RFL="1500" EETHours="0" EETMins="0" FuelHours="0" FuelMins="120" Remarks="/v/">RUSS FDL YPJT/24R</FlightPlan>
+                <Route>RUSS FDL YPJT/24R</Route>
+                <TimedMessages>
+                    <TimedMessage Time="600" Message="&quot;Jandakot Tower, Seminole MPY, Russell, 1500, received [ATIS], inbound&quot;" />
+                    <TimedMessage Time="703" Message="&quot;MPY, Forrestdale Lake&quot;" />
+                </TimedMessages>
+            </Aircraft>
+            <Aircraft Callsign="FD624J" Type="PC24" Delay="630" StartAuto="true">
+                <Squawk Code="4022" ModeC="true" />
+                <Cleared Level="18000" Approach="false" />
+                <Position Latitude="-32.094289" Longitude="115.880160" Speed="0" Altitude="0" />
+                <FlightPlan Departure="YPJT" Destination="YGEL" Alternative="YPJT" Active="true" Rules="I" CruiseSpeed="400" RFL="30000" CFL="1500" EETHours="0" EETMins="40" FuelHours="0" FuelMins="150" Remarks="/v/">ISPET2/24R ISPET AVNEX ONGAR W14 GEL DCT</FlightPlan>
+                <Route>YPJT/24R ISPET AVNEX ONGAR GEL YCAR YPLM YPPD</Route>
+                <TimedMessages>
+                    <TimedMessage Time="690" Message="&quot;Jandakot Ground, FD624J, PC24, central apron, received [ATIS], POB 4, request IFR taxi for ISPET departure&quot;" />
+                </TimedMessages>
+            </Aircraft>
+            <Aircraft Callsign="POL61" Type="EC45" Delay="0" StartAuto="false">
+                <Squawk Code="3000" ModeC="true" />
+                <Cleared Level="1500" Approach="false" />
+                <Position Latitude="-31.606553" Longitude="115.648056" Speed="134" Altitude="1500" />
+                <FlightPlan Departure="YPJT" Destination="YPJT" Active="true" Rules="V" CruiseSpeed="134" RFL="1500" EETHours="0" EETMins="0" FuelHours="0" FuelMins="120" Remarks="/v/">BUB MUP OBC CYB CTE FRE POWR ADWD YPJT/24R</FlightPlan>
+                <Route>BUB MUP OBC CYB CTE FRE POWR ADWD YPJT/24R</Route>
+                <TimedMessages>
+                    <TimedMessage Time="780" Message="&quot;Jandakot Tower, helicopter POL61, Powerhouse, 1500, received [ATIS], inbound for the Eastern Pad&quot;" />
+                    <TimedMessage Time="863" Message="&quot;POL61, Adventure World&quot; Instructor note: helicopters follow fixed-wing procedures. Join POL61 to the 24R circuit; once cleared to the Eastern Pad, slow to 0 over the pad and set altitude 0 (sim limitation)." />
+                </TimedMessages>
+            </Aircraft>
+            <Aircraft Callsign="PMC" Type="C152" Delay="0" StartAuto="false">
+                <Squawk Code="3000" ModeC="true" />
+                <Cleared Level="1500" Approach="false" />
+                <Position Latitude="-32.585000" Longitude="115.684536" Speed="95" Altitude="1500" />
+                <FlightPlan Departure="YBUN" Destination="YPJT" Active="true" Rules="V" CruiseSpeed="95" RFL="1500" EETHours="0" EETMins="0" FuelHours="0" FuelMins="120" Remarks="/v/">BOAT ADWD YPJT/24R</FlightPlan>
+                <Route>BOAT ADWD YPJT/24R</Route>
+                <TimedMessages>
+                    <TimedMessage Time="960" Message="&quot;Jandakot Tower, Cessna 152 PMC, Boatyard, 1500, received [ATIS], inbound&quot;" />
+                    <TimedMessage Time="1121" Message="&quot;PMC, Adventure World&quot;" />
+                </TimedMessages>
+            </Aircraft>
+            <Aircraft Callsign="RSCU651" Type="A139" Delay="960" StartAuto="true">
+                <Squawk Code="3000" ModeC="true" />
+                <Cleared Level="1000" Approach="false" />
+                <Position Latitude="-32.094700" Longitude="115.879900" Speed="0" Altitude="0" />
+                <FlightPlan Departure="YPJT" Destination="YPJT" Active="false" Rules="V" CruiseSpeed="120" RFL="1000" EETHours="1" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/">YPJT/24L SHOP CDM MUE</FlightPlan>
+                <Route>YPJT/24L SHOP CDM MUE YCUN YPKG</Route>
+                <TimedMessages>
+                    <TimedMessage Time="1020" Message="&quot;Jandakot Ground, helicopter RSCU651, central apron, received [ATIS], request air taxi to runway 24L for departure via Armadale Shops&quot;" />
+                </TimedMessages>
+            </Aircraft>
+            <Aircraft Callsign="ZEF" Type="C172" Delay="0" StartAuto="false">
+                <Squawk Code="3000" ModeC="true" />
+                <Cleared Level="1500" Approach="false" />
+                <Position Latitude="-32.596690" Longitude="116.477059" Speed="110" Altitude="1500" />
+                <FlightPlan Departure="YNRG" Destination="YPJT" Active="true" Rules="V" CruiseSpeed="110" RFL="1500" EETHours="0" EETMins="0" FuelHours="0" FuelMins="120" Remarks="/v/">RUSS FDL YPJT/24R</FlightPlan>
+                <Route>RUSS FDL YPJT/24R</Route>
+                <TimedMessages>
+                    <TimedMessage Time="1080" Message="&quot;Jandakot Tower, Cessna 172 ZEF, Russell, 1500, received [ATIS], inbound&quot;" />
+                    <TimedMessage Time="1220" Message="&quot;ZEF, Forrestdale Lake&quot;" />
+                </TimedMessages>
+            </Aircraft>
+            <Aircraft Callsign="OCK" Type="C152" Delay="1140" StartAuto="true">
+                <Squawk Code="3000" ModeC="true" />
+                <Cleared Level="1000" Approach="false" />
+                <Position Latitude="-32.097500" Longitude="115.875200" Speed="0" Altitude="0" />
+                <FlightPlan Departure="YPJT" Destination="YPJT" Active="false" Rules="V" CruiseSpeed="90" RFL="1000" EETHours="0" EETMins="0" FuelHours="0" FuelMins="180" Remarks="/v/ Circuits">YPJT/24L DCT</FlightPlan>
+                <Route>CIRCUIT-LEFT</Route>
+                <TimedMessages>
+                    <TimedMessage Time="1200" Message="Recommended (optional): &quot;Jandakot Ground, Cessna 152 OCK, southern apron, request engine start for circuits&quot;" />
+                    <TimedMessage Time="1300" Message="If OCK was started: &quot;OCK, received [ATIS], request taxi&quot;" />
+                </TimedMessages>
+            </Aircraft>
+            <Aircraft Callsign="FD601" Type="PC12" Delay="1200" StartAuto="true">
+                <Squawk Code="4023" ModeC="true" />
+                <Cleared Level="18000" Approach="false" />
+                <Position Latitude="-32.093900" Longitude="115.880600" Speed="0" Altitude="0" />
+                <FlightPlan Departure="YPJT" Destination="YPKG" Alternative="YPJT" Active="true" Rules="I" CruiseSpeed="260" RFL="21000" CFL="1500" EETHours="1" EETMins="10" FuelHours="0" FuelMins="240" Remarks="/v/">SCARP6/24R SCARP KABLI DCT</FlightPlan>
+                <Route>YPJT/24R SCARP KABLI YPKG YFRT</Route>
+                <TimedMessages>
+                    <TimedMessage Time="1260" Message="&quot;Jandakot Ground, FD601, PC12, central apron, received [ATIS], POB 3, request IFR taxi for SCARP departure&quot;" />
+                </TimedMessages>
+            </Aircraft>
+            <Aircraft Callsign="NSE" Type="P28A" Delay="0" StartAuto="false">
+                <Squawk Code="3000" ModeC="true" />
+                <Cleared Level="1500" Approach="false" />
+                <Position Latitude="-31.485089" Longitude="115.579302" Speed="100" Altitude="1500" />
+                <FlightPlan Departure="YGEL" Destination="YPJT" Active="true" Rules="V" CruiseSpeed="100" RFL="1500" EETHours="0" EETMins="0" FuelHours="0" FuelMins="120" Remarks="/v/">TOS BUB MUP OBC CYB CTE FRE POWR ADWD YPJT/24R</FlightPlan>
+                <Route>TOS BUB MUP OBC CYB CTE FRE POWR ADWD YPJT/24R</Route>
+                <TimedMessages>
+                    <TimedMessage Time="1350" Message="&quot;Jandakot Tower, Cherokee NSE, Powerhouse, 1500, received [ATIS], inbound&quot;" />
+                    <TimedMessage Time="1462" Message="&quot;NSE, Adventure World&quot;" />
+                </TimedMessages>
+            </Aircraft>
+            <Aircraft Callsign="CHN" Type="C172" Delay="0" StartAuto="false">
+                <Squawk Code="3000" ModeC="true" />
+                <Cleared Level="1500" Approach="false" />
+                <Position Latitude="-32.954136" Longitude="116.002632" Speed="110" Altitude="1500" />
+                <FlightPlan Departure="YBLN" Destination="YPJT" Active="true" Rules="V" CruiseSpeed="110" RFL="1500" EETHours="0" EETMins="0" FuelHours="0" FuelMins="120" Remarks="/v/">OAKF FDL YPJT/24R</FlightPlan>
+                <Route>OAKF FDL YPJT/24R</Route>
+                <TimedMessages>
+                    <TimedMessage Time="1440" Message="&quot;Jandakot Tower, Cessna 172 CHN, Oakford, 1500, received [ATIS], inbound&quot;" />
+                    <TimedMessage Time="1526" Message="&quot;CHN, Forrestdale Lake&quot;" />
+                </TimedMessages>
+            </Aircraft>
+        </Targets>
+    </ScenarioFile>
+
+    <ScenarioFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Name>Tower Sydney 34L and R (S2)</Name>
         <Type>Tower</Type>
         <UseGRIB xsi:nil="true" />
